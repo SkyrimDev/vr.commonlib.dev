@@ -1,0 +1,28 @@
+var class_r_e_1_1_b_g_s_scene_action_dialogue =
+[
+    [ "~BGSSceneActionDialogue", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#ad067593defeafdc4f0f662430b1a0df5", null ],
+    [ "FacesTarget", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a1382d3ba82596601e3488ed050fc527e", null ],
+    [ "GetEmotionType", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a6f78c9e8396f64078b4d9f629b7051f7", null ],
+    [ "GetEmotionValue", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a3896a9ce52573859ae2c40f8443d74ad", null ],
+    [ "GetType", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#ad6ca834aa13d1c99ef8802df94df6707", null ],
+    [ "LoadBuffer", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a4756ce4be3e87c9ab419e2fe4cb83db1", null ],
+    [ "LoadSceneAction", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#ac2771433a9ccc0957daeb1ad009c3770", null ],
+    [ "Loops", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a4e8af535f43de43ed0f7a6680ed5f805", null ],
+    [ "Unk_02", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a039f4eda78755269ac4f5b7afa046d86", null ],
+    [ "Unk_03", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a4d6672e9ba36180ff2d5d272b66ea477", null ],
+    [ "Unk_0A", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a327d72c156279f934b0d915f5fd9a50d", null ],
+    [ "Unk_0B", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a4d851a2026cede0f34c81f270361bbf5", null ],
+    [ "Unk_0C", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a2e4c5de819921951c106ddfb84b7bde9", null ],
+    [ "Unk_10", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#acdd0b0baaa78296ab181cfd380dd0b93", null ],
+    [ "Unk_11", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a6dd11c013bed152d7e6dd5cb72bf00c2", null ],
+    [ "Unk_13", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#ae2105bd03b27448c089fafce8225ce30", null ],
+    [ "emotionType", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a46f0bca74573558c4ffd1bcd8e430c40", null ],
+    [ "emotionValue", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#afecf1906479ff60d530b6bc5cf9879a6", null ],
+    [ "headtrackActorID", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#ae137f1505f1bce662386bbb066c9bb25", null ],
+    [ "loopingMax", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a4f230f6dc01d7b3aa36a5c1ab2d4da03", null ],
+    [ "loopingMin", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a89c9d853eac69cf730eb052ceaceb542", null ],
+    [ "RTTI", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a47d17a0754474b9b80a901ca651a6ced", null ],
+    [ "topic", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a1585c7f48a07b12adba6520d50512fb6", null ],
+    [ "TYPE", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#aa65cea05b9e206f2abb402d1de4bdd41", null ],
+    [ "unk34", "class_r_e_1_1_b_g_s_scene_action_dialogue.html#a79858f9160172ad7943a4bd86a1efa52", null ]
+];

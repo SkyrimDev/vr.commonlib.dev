@@ -1,0 +1,27 @@
+var class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface =
+[
+    [ "~IVMSaveLoadInterface", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#ac3eaf93a76a3b1aa4797f40fdb56449e", null ],
+    [ "CleanupSave", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a94b6b4d72c16c851a124d7ecdcbc9002", null ],
+    [ "CreateEmptyTasklet", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a842da2e5cd416ef6e220928b69906d13", null ],
+    [ "DropAllRunningData", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a2335f02e5acc4e9c272d473e113a6d26", null ],
+    [ "GetReadableStringTable", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a1e81fb0cdd69f8193348f902fdbcfe29", null ],
+    [ "GetReadableTypeTable", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#af1484b30ed78aaaa4a47b60baff9ab01", null ],
+    [ "GetSaveGameVersion", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a6873a2e1a0a8d85b3a6695d5a98435c4", null ],
+    [ "GetStackByID", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#adcb754edea46169d0cb227a25756bb5d", null ],
+    [ "GetWritableStringTable", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#ac2106c80f59f8286c705b00f6ca915a2", null ],
+    [ "GetWritableStringTable2", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a8236627fa87c3ba57929d3972a875513", null ],
+    [ "GetWritableTypeTable", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a2812834a00cffc28fcd56efe9e856539", null ],
+    [ "GetWritableTypeTable2", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#afce5a1d357b12ead5c96c2d571c6da4a", null ],
+    [ "LoadGame", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a72c5c5825970e61ebe076597118db060", null ],
+    [ "MarkSaveInvalid", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#ac6f85ba070d1ba593d7c525bf01c4d9f", null ],
+    [ "SaveGame", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a6d124fc10c96999db5da84a34b118084", null ],
+    [ "Unk_06", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a45fe1798f155e34fa1fa9595f68f3ecc", null ],
+    [ "Unk_08", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#ada270527cf5aeacb273f1f4b3420ff35", null ],
+    [ "Unk_09", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a22009b653e8355e153f380b35209a5f0", null ],
+    [ "Unk_0A", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#aecf48e5830ca156e8a60cf96a62c7a3b", null ],
+    [ "Unk_0B", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#acf786df170fe157c0a8d37dd10875681", null ],
+    [ "Unk_0C", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a0cc55eae8e92a3cde08fc05a2729458b", null ],
+    [ "Unk_0D", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a39e945717d884cc56a7551ed6c3959f7", null ],
+    [ "Unk_0E", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a5c002ef38727a9a8587c9bbdc84757ca", null ],
+    [ "RTTI", "class_r_e_1_1_b_s_script_1_1_i_v_m_save_load_interface.html#a0758912b4cde8285c07cf4ba44d02fa0", null ]
+];

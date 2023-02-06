@@ -1,0 +1,25 @@
+var class_r_e_1_1hk_vector4 =
+[
+    [ "hkVector4", "class_r_e_1_1hk_vector4.html#a256d2fb5e6a9b741a191b41e9120dbd9", null ],
+    [ "hkVector4", "class_r_e_1_1hk_vector4.html#acabb2e64799bb3a1992c70368d960bf5", null ],
+    [ "hkVector4", "class_r_e_1_1hk_vector4.html#a8767dffb0d3b2d41a4d86ad9c07437d9", null ],
+    [ "hkVector4", "class_r_e_1_1hk_vector4.html#a0ac028b8c904586451957dad90b23963", null ],
+    [ "hkVector4", "class_r_e_1_1hk_vector4.html#a406d13c54cc190346e36581bc22fbfdd", null ],
+    [ "hkVector4", "class_r_e_1_1hk_vector4.html#acc10b19fd72b4e84360ae8154f1154dd", null ],
+    [ "Cross", "class_r_e_1_1hk_vector4.html#a1a2c4293aa779ceaf518cc69f5a04cbd", null ],
+    [ "Dot3", "class_r_e_1_1hk_vector4.html#ae10a19cdfe75c695d0edb01919390929", null ],
+    [ "Dot4", "class_r_e_1_1hk_vector4.html#a14fbea592d39475f83c9868a310f8efe", null ],
+    [ "GetDistance3", "class_r_e_1_1hk_vector4.html#a7bf5aaa57c0359a77363fe15b7308c42", null ],
+    [ "GetSquaredDistance3", "class_r_e_1_1hk_vector4.html#adb50852a55d4ce91e288db39a9c281c5", null ],
+    [ "IsEqual", "class_r_e_1_1hk_vector4.html#a7c2e75573bb100fea952c146c5dcd64c", null ],
+    [ "Length3", "class_r_e_1_1hk_vector4.html#a9e2526f3ffb94d1a82adb585b99d780d", null ],
+    [ "Length4", "class_r_e_1_1hk_vector4.html#a74224cdb36098caf9776308ecf528546", null ],
+    [ "operator*", "class_r_e_1_1hk_vector4.html#ae082def6d90d7920e502046be2a58bb9", null ],
+    [ "operator+", "class_r_e_1_1hk_vector4.html#afae5937bea8f7085956428918024bd8b", null ],
+    [ "operator-", "class_r_e_1_1hk_vector4.html#a1afe39a4dd4a0a78e2fa0dc4bdfd7aad", null ],
+    [ "operator/", "class_r_e_1_1hk_vector4.html#a70a1d4946c1a49da15b004f0a96287f1", null ],
+    [ "operator=", "class_r_e_1_1hk_vector4.html#a554e467c6cb02ea680e0f2565b1af85e", null ],
+    [ "SqrLength3", "class_r_e_1_1hk_vector4.html#abfb1cbfc80caa982976dc403cc1ed213", null ],
+    [ "SqrLength4", "class_r_e_1_1hk_vector4.html#ad6673cc037494e3d05b933f29cd2a923", null ],
+    [ "quad", "class_r_e_1_1hk_vector4.html#a6562ed8ef321bfe0664c69e95d642e08", null ]
+];

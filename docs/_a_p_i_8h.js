@@ -1,0 +1,25 @@
+var _a_p_i_8h =
+[
+    [ "SKSEAPI", "_a_p_i_8h.html#a25269fbf29396e127b3cc0d88e3e5e96", null ],
+    [ "AllocTrampoline", "_a_p_i_8h.html#a90dbf1bed67e246c223e1701fc008387", null ],
+    [ "GetActionEventSource", "_a_p_i_8h.html#af225352cb144964e7919e79af864dbed", null ],
+    [ "GetCameraEventSource", "_a_p_i_8h.html#a851d1b1866c6eae9bac692320f497741", null ],
+    [ "GetCrosshairRefEventSource", "_a_p_i_8h.html#abef931b14d02bca642d7d16f579219e6", null ],
+    [ "GetDelayFunctorManager", "_a_p_i_8h.html#a5132c63044e651eba3a045430373d830", null ],
+    [ "GetMessagingInterface", "_a_p_i_8h.html#abc9d0c83e22d4f47f572812b7bddc97f", null ],
+    [ "GetModCallbackEventSource", "_a_p_i_8h.html#aa5ada81efdf3add5507f0763bcbac929", null ],
+    [ "GetNiNodeUpdateEventSource", "_a_p_i_8h.html#a40c8813834f2b08d44292caa34a4d00f", null ],
+    [ "GetObjectInterface", "_a_p_i_8h.html#a17756f56505e5ec95a249aa8347e8f6a", null ],
+    [ "GetObjectRegistry", "_a_p_i_8h.html#a5f3b77327dc61b05f052d44f49a96785", null ],
+    [ "GetPapyrusInterface", "_a_p_i_8h.html#a1d1e19f68784e1c75e489a7b16e3c035", null ],
+    [ "GetPersistentObjectStorage", "_a_p_i_8h.html#ae5913daabe420ace399731c4f018cfd5", null ],
+    [ "GetPluginHandle", "_a_p_i_8h.html#adc0ab20e9842b5620a59211566e754a2", null ],
+    [ "GetReleaseIndex", "_a_p_i_8h.html#adbe4d8211513cccfc6d985a46c633035", null ],
+    [ "GetScaleformInterface", "_a_p_i_8h.html#a9ae751d077dd1292f6dabb8e8df81b28", null ],
+    [ "GetSerializationInterface", "_a_p_i_8h.html#aebb5968a97e0008d969bf567f939ef5a", null ],
+    [ "GetTaskInterface", "_a_p_i_8h.html#accf370038b78508aabf2694b78bd7d00", null ],
+    [ "GetTrampoline", "_a_p_i_8h.html#a9410ae98b65b8374b757cc59492e240c", null ],
+    [ "GetTrampolineInterface", "_a_p_i_8h.html#ad1950e8fc8e6267092ad605c91132668", null ],
+    [ "Init", "_a_p_i_8h.html#aa1b6bd1ac2372edbaf543f1ac962b1a6", null ],
+    [ "RegisterForAPIInitEvent", "_a_p_i_8h.html#a2cb5f6eb821fbdb2f8079d5a42d3f973", null ]
+];

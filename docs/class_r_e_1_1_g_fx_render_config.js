@@ -1,0 +1,36 @@
+var class_r_e_1_1_g_fx_render_config =
+[
+    [ "RenderCapBits", "class_r_e_1_1_g_fx_render_config.html#ae5f2b4707238bf524ccc6820e6506680", null ],
+    [ "VertexFormat", "class_r_e_1_1_g_fx_render_config.html#a93844a5a3bce0d8a1eb81a9088f1f8a7", null ],
+    [ "RenderFlag", "class_r_e_1_1_g_fx_render_config.html#a5ea5909df3aeb55286c97fb822ca25e7", [
+      [ "kNone", "class_r_e_1_1_g_fx_render_config.html#a5ea5909df3aeb55286c97fb822ca25e7a35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kStrokeCorrect", "class_r_e_1_1_g_fx_render_config.html#a5ea5909df3aeb55286c97fb822ca25e7a8ab0a1b74813e369f264bef144452c5c", null ],
+      [ "kStrokeNormal", "class_r_e_1_1_g_fx_render_config.html#a5ea5909df3aeb55286c97fb822ca25e7af3b13ee82391372ee33242eb9818d5db", null ],
+      [ "kStrokeHairline", "class_r_e_1_1_g_fx_render_config.html#a5ea5909df3aeb55286c97fb822ca25e7aa5158e8b28dcdc3cd6a952262b920e02", null ],
+      [ "kStrokeMask", "class_r_e_1_1_g_fx_render_config.html#a5ea5909df3aeb55286c97fb822ca25e7aeb00110a8145469303bbf8e72f73e8d1", null ],
+      [ "kEdgeAA", "class_r_e_1_1_g_fx_render_config.html#a5ea5909df3aeb55286c97fb822ca25e7acd04cc66398a6e5838d920f2dc78f215", null ],
+      [ "kOptimizeTriangles", "class_r_e_1_1_g_fx_render_config.html#a5ea5909df3aeb55286c97fb822ca25e7abd50e0bad1a9f9d0b30845f7f4ee1677", null ],
+      [ "kNoViewCull", "class_r_e_1_1_g_fx_render_config.html#a5ea5909df3aeb55286c97fb822ca25e7a92a2cb25d7c49cc0ad5d4281faa5166c", null ]
+    ] ],
+    [ "GetMaxCurvePixelError", "class_r_e_1_1_g_fx_render_config.html#a2f42854dfd03cd8846d07c290093e884", null ],
+    [ "GetRenderer", "class_r_e_1_1_g_fx_render_config.html#ac0aae051174fdc3b98cf371a1fbbd2a2", null ],
+    [ "GetRendererCapBits", "class_r_e_1_1_g_fx_render_config.html#ad4cc70f21fa22fe5553112a8ec3ab466", null ],
+    [ "GetRenderFlags", "class_r_e_1_1_g_fx_render_config.html#a75922dbb45f6d7d6da71255122223882", null ],
+    [ "GetStrokerAAWidth", "class_r_e_1_1_g_fx_render_config.html#ad8312becd4c0487e49a19358b4ce0033", null ],
+    [ "GetStrokeRenderFlags", "class_r_e_1_1_g_fx_render_config.html#a1ee4762e4e9def976b0c74924821a061", null ],
+    [ "HasCxformAddAlpha", "class_r_e_1_1_g_fx_render_config.html#a779f9e8bd87ef394199a32848c7b7de2", null ],
+    [ "HasVertexFormat", "class_r_e_1_1_g_fx_render_config.html#a3286003b55ce285f11d46bfd7f124736", null ],
+    [ "IsEdgeAATextured", "class_r_e_1_1_g_fx_render_config.html#ac4af11569118e86e608b637b36d765e9", null ],
+    [ "IsOptimizingTriangles", "class_r_e_1_1_g_fx_render_config.html#a92706c6c3c9b01616bb41c53ccc9eac2", null ],
+    [ "IsUsingEdgeAA", "class_r_e_1_1_g_fx_render_config.html#a68ef103e6509d40d9848df1592142c98", null ],
+    [ "SetMaxCurvePixelError", "class_r_e_1_1_g_fx_render_config.html#a67b91fd952b030dcbf7a783564295e3b", null ],
+    [ "SetRenderFlags", "class_r_e_1_1_g_fx_render_config.html#af467f296051e4d81cb4b4a3d9e80d3bb", null ],
+    [ "SetStrokerAAWidth", "class_r_e_1_1_g_fx_render_config.html#aab1da55057a182dfb816cd0a06eead04", null ],
+    [ "maxCurvePixelError", "class_r_e_1_1_g_fx_render_config.html#a9211aaf203f3bdf2a04b2f0bdb56cbb7", null ],
+    [ "pad34", "class_r_e_1_1_g_fx_render_config.html#aaff2d4d93cbc716b2cbbe0a36caf8f00", null ],
+    [ "renderer", "class_r_e_1_1_g_fx_render_config.html#a21f3c248ac7ea6054623cd9d2820e55d", null ],
+    [ "rendererCapBits", "class_r_e_1_1_g_fx_render_config.html#a72ca7a002365ed5b89d241cdebea239f", null ],
+    [ "rendererVtxFmts", "class_r_e_1_1_g_fx_render_config.html#a211466e1e4434fd2b4d7958fd9a9a25f", null ],
+    [ "renderFlags", "class_r_e_1_1_g_fx_render_config.html#a6f95bbfe94ebbbcf93f20e8f9d9541ea", null ],
+    [ "strokerAAWidth", "class_r_e_1_1_g_fx_render_config.html#aca76f36dffdc223b1012c42950023c8d", null ]
+];

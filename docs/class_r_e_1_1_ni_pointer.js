@@ -1,0 +1,26 @@
+var class_r_e_1_1_ni_pointer =
+[
+    [ "element_type", "class_r_e_1_1_ni_pointer.html#a8b82307d785d625bf38719151d853e0b", null ],
+    [ "NiPointer", "class_r_e_1_1_ni_pointer.html#acf7d1ac4d9cf3a76efdd3e9d3baf81be", null ],
+    [ "NiPointer", "class_r_e_1_1_ni_pointer.html#ad3a74080b3dac8044fdbf427bc77bab1", null ],
+    [ "NiPointer", "class_r_e_1_1_ni_pointer.html#a9f318909adeeba2b7f5b5584eaa6d009", null ],
+    [ "NiPointer", "class_r_e_1_1_ni_pointer.html#aa180a6a06a9b548f53c2d96bf675e4bb", null ],
+    [ "NiPointer", "class_r_e_1_1_ni_pointer.html#aa03ce938b5b9b102c5e68d98e17d8166", null ],
+    [ "NiPointer", "class_r_e_1_1_ni_pointer.html#a33d74f46f2cdc254df9015b1860e6957", null ],
+    [ "NiPointer", "class_r_e_1_1_ni_pointer.html#adbd5a075d32a7fe7797b11a89675cfdc", null ],
+    [ "~NiPointer", "class_r_e_1_1_ni_pointer.html#a9e9167d01e71e2777a37a27c2b66eba3", null ],
+    [ "get", "class_r_e_1_1_ni_pointer.html#aa359b955fb3e8ea9a6e1ea41a9b1bcf9", null ],
+    [ "operator bool", "class_r_e_1_1_ni_pointer.html#afec60e2ece3cc97a2fc5768936e88202", null ],
+    [ "operator*", "class_r_e_1_1_ni_pointer.html#a51857f693c05f252a1b91b53afdfb8ab", null ],
+    [ "operator->", "class_r_e_1_1_ni_pointer.html#a8801ede6774e60bea049b04bd6e47680", null ],
+    [ "operator=", "class_r_e_1_1_ni_pointer.html#a78e1e6dde37f31e63b1fc84e0ea4a5e4", null ],
+    [ "operator=", "class_r_e_1_1_ni_pointer.html#a5d24c2ffd060ba0b8a9bac870758d6a6", null ],
+    [ "operator=", "class_r_e_1_1_ni_pointer.html#acc364f787ce12f4cacc5d030cd1801eb", null ],
+    [ "operator=", "class_r_e_1_1_ni_pointer.html#a7792ee2d2c60b3bd59db2a449f31a6d4", null ],
+    [ "reset", "class_r_e_1_1_ni_pointer.html#a1cbd1cc5cad22a1f3f7e45df9a516a5b", null ],
+    [ "reset", "class_r_e_1_1_ni_pointer.html#adcd794fd760dcc6ef97d70d719832cee", null ],
+    [ "TryAttach", "class_r_e_1_1_ni_pointer.html#accca9593197a65ae5eb9f471ed0bcd29", null ],
+    [ "TryDetach", "class_r_e_1_1_ni_pointer.html#a8202d3366d502033261f9b217989bdac", null ],
+    [ "NiPointer", "class_r_e_1_1_ni_pointer.html#acab922268e2466a7290a1de66f7b8d7a", null ],
+    [ "_ptr", "class_r_e_1_1_ni_pointer.html#af4ad24af591474495406da22ad46688b", null ]
+];

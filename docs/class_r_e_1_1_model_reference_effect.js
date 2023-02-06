@@ -1,0 +1,35 @@
+var class_r_e_1_1_model_reference_effect =
+[
+    [ "Flags", "class_r_e_1_1_model_reference_effect.html#a8d103ccbc5176740f1c884861ac4b1f4", [
+      [ "kNone", "class_r_e_1_1_model_reference_effect.html#a8d103ccbc5176740f1c884861ac4b1f4a35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kAttached", "class_r_e_1_1_model_reference_effect.html#a8d103ccbc5176740f1c884861ac4b1f4aa093003ece2a0eeae9263dbaed3dd861", null ],
+      [ "k3rdPersonVisible", "class_r_e_1_1_model_reference_effect.html#a8d103ccbc5176740f1c884861ac4b1f4a31cc823823614249ed885c83e83e8d50", null ]
+    ] ],
+    [ "~ModelReferenceEffect", "class_r_e_1_1_model_reference_effect.html#afbf6a3ea78d6352a95742914f83122ad", null ],
+    [ "CreateAnimationChannels", "class_r_e_1_1_model_reference_effect.html#afb951acd7cc120ee1effe3deb6620926", null ],
+    [ "DetachImpl", "class_r_e_1_1_model_reference_effect.html#a842f04e902f92741c0813b27ed5478ef", null ],
+    [ "Get3D", "class_r_e_1_1_model_reference_effect.html#ad5f9d59322a8d6e7c5f6a66df09220e7", null ],
+    [ "GetAttached", "class_r_e_1_1_model_reference_effect.html#a6b66b8f9db6caf0f4002be1464d5a5c4", null ],
+    [ "GetAttachRoot", "class_r_e_1_1_model_reference_effect.html#aaeeb7dd96c00bacc885d414083889c13", null ],
+    [ "GetRTTI", "class_r_e_1_1_model_reference_effect.html#a4a8ccf72d511487ef857d5c790efd959", null ],
+    [ "GetType", "class_r_e_1_1_model_reference_effect.html#a3407de4372e65678342bad387a62dcc7", null ],
+    [ "Init", "class_r_e_1_1_model_reference_effect.html#a15ea2b6c731752bb92ac3b06d7e72f02", null ],
+    [ "LoadGame", "class_r_e_1_1_model_reference_effect.html#abca6479f57b52ef9e2ca8160bf340657", null ],
+    [ "PostChangeAnimationManager", "class_r_e_1_1_model_reference_effect.html#a49efc927aeb6848ca20f47613b3114f5", null ],
+    [ "ProcessEvent", "class_r_e_1_1_model_reference_effect.html#a2c3ce9207938ff324ffaa2c9b08cb4b4", null ],
+    [ "SaveGame", "class_r_e_1_1_model_reference_effect.html#a263e1032a9339b92062f0e97df67f349", null ],
+    [ "SetupAnimEventSinks", "class_r_e_1_1_model_reference_effect.html#a1889595054049debf95b88e587f1f52b", null ],
+    [ "Update", "class_r_e_1_1_model_reference_effect.html#a28e2302ced171e0be0e7ba8fb40dbb00", null ],
+    [ "UpdateParentCell", "class_r_e_1_1_model_reference_effect.html#a82224a3a98ae9f32e00191cdb2b60a28", null ],
+    [ "UpdatePosition", "class_r_e_1_1_model_reference_effect.html#a1b0a69d00a52c559540ce11f18c82faa", null ],
+    [ "artObject", "class_r_e_1_1_model_reference_effect.html#a0b0da8696320495ffa2ab6a911ce7145", null ],
+    [ "artObject3D", "class_r_e_1_1_model_reference_effect.html#ad83cb6ecf0dc1cb46950573fe1ae7c3c", null ],
+    [ "cloneTask", "class_r_e_1_1_model_reference_effect.html#a277976f7c7dc4aa827a4d1551a082906", null ],
+    [ "flags", "class_r_e_1_1_model_reference_effect.html#a1da4b5df0c93937e42d95f3af448e49f", null ],
+    [ "hitEffectArtData", "class_r_e_1_1_model_reference_effect.html#ada252c068f223461b9eb2f9c940e3618", null ],
+    [ "Ni_RTTI", "class_r_e_1_1_model_reference_effect.html#a4c910362dbae54f9a191b47d4fccd108", null ],
+    [ "padD4", "class_r_e_1_1_model_reference_effect.html#a5c1c987f4c0379dfd27ecaab01d41c9b", null ],
+    [ "RTTI", "class_r_e_1_1_model_reference_effect.html#a5f821e49e04d8c29b9ab9281ee82c011", null ],
+    [ "TYPE", "class_r_e_1_1_model_reference_effect.html#a2ee43433e3114a9fa864656ca920d44a", null ],
+    [ "unkB0", "class_r_e_1_1_model_reference_effect.html#ad5cd68dc5b87ca3cf24af93b673c6ce8", null ]
+];

@@ -1,0 +1,25 @@
+var class_r_e_1_1_refr_interaction =
+[
+    [ "~RefrInteraction", "class_r_e_1_1_refr_interaction.html#a4c06ad420fb7301e7590672af13b51b2", null ],
+    [ "Unk_02", "class_r_e_1_1_refr_interaction.html#a94f7bb07d24db6f1d5e28eabe40cdaac", null ],
+    [ "Unk_03", "class_r_e_1_1_refr_interaction.html#a5a83cf96102feb401eedaf0848af4bf1", null ],
+    [ "Unk_04", "class_r_e_1_1_refr_interaction.html#ad9a8a836f88bdd751f7b5b9336a1a3fb", null ],
+    [ "Unk_05", "class_r_e_1_1_refr_interaction.html#a80a03e8024e77d096010af6ee04e9314", null ],
+    [ "Unk_06", "class_r_e_1_1_refr_interaction.html#a7e09d76474a1f11a00916e49d3795115", null ],
+    [ "Unk_07", "class_r_e_1_1_refr_interaction.html#a7bb616324783ba07805a1a38da283bd0", null ],
+    [ "Unk_08", "class_r_e_1_1_refr_interaction.html#a6dd4145effa9d95d20a0dc744c5771a7", null ],
+    [ "Unk_09", "class_r_e_1_1_refr_interaction.html#ae49b34e0208df73029eb7cf825f54657", null ],
+    [ "Unk_0A", "class_r_e_1_1_refr_interaction.html#a6d4926c2a2c2fec3f62c2fd78f2a127c", null ],
+    [ "Unk_0B", "class_r_e_1_1_refr_interaction.html#a940aa28e3be85a87628a882e012505d7", null ],
+    [ "Unk_0C", "class_r_e_1_1_refr_interaction.html#ae63a9058ab9597368b9d1c1f217d15aa", null ],
+    [ "Unk_0D", "class_r_e_1_1_refr_interaction.html#a72f39fd63fb22b64bee82a2637aaad77", null ],
+    [ "Unk_0E", "class_r_e_1_1_refr_interaction.html#ad1bc2c5579aa5a9d6dd963840efed945", null ],
+    [ "Unk_0F", "class_r_e_1_1_refr_interaction.html#a2017f8526e61a5759ab172b57b6029af", null ],
+    [ "actor", "class_r_e_1_1_refr_interaction.html#aeb7fb8b3014e83774a2986fb90b3c62c", null ],
+    [ "pad19", "class_r_e_1_1_refr_interaction.html#ac85662d44a34ecb475c12025f0ff2875", null ],
+    [ "pad1A", "class_r_e_1_1_refr_interaction.html#af9bb2da88fa02c7558fce8fd4ddbf993", null ],
+    [ "pad1C", "class_r_e_1_1_refr_interaction.html#a7b4107be54110ae21e6961f5b2fe2aba", null ],
+    [ "RTTI", "class_r_e_1_1_refr_interaction.html#acdac75267f1a02e4cda44e46f48e0fd1", null ],
+    [ "synced", "class_r_e_1_1_refr_interaction.html#a7688eee4a6286957c3b56eba575b3950", null ],
+    [ "targetRefr", "class_r_e_1_1_refr_interaction.html#a21783b76e3877d322e64fc0a0068b91e", null ]
+];

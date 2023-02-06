@@ -1,0 +1,28 @@
+var struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data =
+[
+    [ "SpellData", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#ab01d963b20ae843096a12794b4e06668", null ],
+    [ "~SpellData", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a6f23689d3384cab98421edcc460f4c38", null ],
+    [ "AddLevSpell", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a9bebb0aa893a6fdf8c1975f2a91c0a77", null ],
+    [ "AddLevSpells", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a222e74a42eb916a2ca6f62c65064a320", null ],
+    [ "AddShout", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#ad12ecf236665fe025b2c307fa65f7407", null ],
+    [ "AddShouts", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#ae90f983aeec052befe56424f01868239", null ],
+    [ "AddSpell", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a8d4a6132bcde1bd28bea542a16521a82", null ],
+    [ "AddSpells", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a4eb5df90e14fe2c9939b0923e08035cb", null ],
+    [ "GetIndex", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a7dff12aaec037f33cd18a249e6f60393", null ],
+    [ "GetIndex", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a33278844aa38d8f65ab6f8183106303b", null ],
+    [ "GetIndex", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a049687348e1fedc9b478a14f529f3601", null ],
+    [ "RemoveLevSpell", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a2f4dac67842ff366f24afee79121442d", null ],
+    [ "RemoveLevSpells", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#abfacc99e6010c7b21a41678c1b77cc07", null ],
+    [ "RemoveShout", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a00a9391cda24690314471574c04c0b1a", null ],
+    [ "RemoveShouts", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#ad0a542a81108a4061d57dc9f7c0c7598", null ],
+    [ "RemoveSpell", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a3127d5ffb962fac329831950b706bc40", null ],
+    [ "RemoveSpells", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#ae628396ceb847ede4d6bf12cb3bf81a3", null ],
+    [ "TES_HEAP_REDEFINE_NEW", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#aa32809e416c5566d9491e787a3c6ad5b", null ],
+    [ "levSpells", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a7e2328bc62101c2b6dbf40c5804e2893", null ],
+    [ "numlevSpells", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#ab422c486c97f14ee24fe0c964416345d", null ],
+    [ "numShouts", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#aef734dbfee6feeffd58f61b3f05315fc", null ],
+    [ "numSpells", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a458264d48fe7a7326c7dbe341f02a27f", null ],
+    [ "pad24", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a680baed06a67b0658b425db5de1fd806", null ],
+    [ "shouts", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a352b572f9ad87d8c1d1534a2b179844d", null ],
+    [ "spells", "struct_r_e_1_1_t_e_s_spell_list_1_1_spell_data.html#a0aa9f1730426c430e526f650ddbb9a42", null ]
+];

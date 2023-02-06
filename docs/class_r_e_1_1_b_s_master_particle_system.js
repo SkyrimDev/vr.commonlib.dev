@@ -1,0 +1,25 @@
+var class_r_e_1_1_b_s_master_particle_system =
+[
+    [ "~BSMasterParticleSystem", "class_r_e_1_1_b_s_master_particle_system.html#a4855a573a532f366b087c8c6b99a05a9", null ],
+    [ "GetRTTI", "class_r_e_1_1_b_s_master_particle_system.html#affdb2d9dc79b2e6449f8814cc8f3db0c", null ],
+    [ "IsEqual", "class_r_e_1_1_b_s_master_particle_system.html#ab48bdd36b34b4a1e1c027aa998fec558", null ],
+    [ "LinkObject", "class_r_e_1_1_b_s_master_particle_system.html#a053cc636ec616dfe6085bc6ee3ff3134", null ],
+    [ "LoadBinary", "class_r_e_1_1_b_s_master_particle_system.html#a6e2f2ce8bbcf5f749717fa43d97db116", null ],
+    [ "PostLinkObject", "class_r_e_1_1_b_s_master_particle_system.html#ad3a5da529ca6837f90fce07a77f65a98", null ],
+    [ "RegisterStreamables", "class_r_e_1_1_b_s_master_particle_system.html#aa2c54af720ce6bae06bb94cf4a2bc0d4", null ],
+    [ "SaveBinary", "class_r_e_1_1_b_s_master_particle_system.html#a0defab0919d76eafa89653ff08895a9a", null ],
+    [ "UpdateDownwardPass", "class_r_e_1_1_b_s_master_particle_system.html#a16a74474980cd1c0ea4e303a83723042", null ],
+    [ "UpdateRigidDownwardPass", "class_r_e_1_1_b_s_master_particle_system.html#a287a132e623378464fbf3014e8750ead", null ],
+    [ "UpdateSelectedDownwardPass", "class_r_e_1_1_b_s_master_particle_system.html#a1c4e1861b49e6875988f4e918891dddc", null ],
+    [ "destroyWhenNotInUse", "class_r_e_1_1_b_s_master_particle_system.html#ab03dfc88c3b12d8ac01204ac95e2fdc6", null ],
+    [ "emitterObjs", "class_r_e_1_1_b_s_master_particle_system.html#a29d217a7ffb6a78cc2842a7843a754ef", null ],
+    [ "index", "class_r_e_1_1_b_s_master_particle_system.html#ae7df4b47d19a42e86e1b168e3cf69591", null ],
+    [ "maxEmitterObj", "class_r_e_1_1_b_s_master_particle_system.html#a600aa4928ae166d66d71dad6efa2a795", null ],
+    [ "maxParticlesPerFrame", "class_r_e_1_1_b_s_master_particle_system.html#a4b5b74a018833d4332cced2ff97a0df3", null ],
+    [ "Ni_RTTI", "class_r_e_1_1_b_s_master_particle_system.html#a38634687c891be580e1a2f4ec369c297", null ],
+    [ "pad167", "class_r_e_1_1_b_s_master_particle_system.html#acb8766d87e20d6a79a5a1408faf8e746", null ],
+    [ "particles", "class_r_e_1_1_b_s_master_particle_system.html#a7d07594fede7718f5cb611f8bfc843ec", null ],
+    [ "RTTI", "class_r_e_1_1_b_s_master_particle_system.html#a53e1d01cd422e08ba54f3354cc606690", null ],
+    [ "unk15C", "class_r_e_1_1_b_s_master_particle_system.html#a17ff754e767f7694c81234cf8f9ff264", null ],
+    [ "unk160", "class_r_e_1_1_b_s_master_particle_system.html#a788e92c91df02f0d1441e1448396d43f", null ]
+];
