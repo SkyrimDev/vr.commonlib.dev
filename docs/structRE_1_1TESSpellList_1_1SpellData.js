@@ -1,0 +1,28 @@
+var structRE_1_1TESSpellList_1_1SpellData =
+[
+    [ "SpellData", "structRE_1_1TESSpellList_1_1SpellData.html#ab01d963b20ae843096a12794b4e06668", null ],
+    [ "~SpellData", "structRE_1_1TESSpellList_1_1SpellData.html#a6f23689d3384cab98421edcc460f4c38", null ],
+    [ "AddLevSpell", "structRE_1_1TESSpellList_1_1SpellData.html#a9bebb0aa893a6fdf8c1975f2a91c0a77", null ],
+    [ "AddLevSpells", "structRE_1_1TESSpellList_1_1SpellData.html#a222e74a42eb916a2ca6f62c65064a320", null ],
+    [ "AddShout", "structRE_1_1TESSpellList_1_1SpellData.html#ad12ecf236665fe025b2c307fa65f7407", null ],
+    [ "AddShouts", "structRE_1_1TESSpellList_1_1SpellData.html#ae90f983aeec052befe56424f01868239", null ],
+    [ "AddSpell", "structRE_1_1TESSpellList_1_1SpellData.html#a8d4a6132bcde1bd28bea542a16521a82", null ],
+    [ "AddSpells", "structRE_1_1TESSpellList_1_1SpellData.html#a4eb5df90e14fe2c9939b0923e08035cb", null ],
+    [ "GetIndex", "structRE_1_1TESSpellList_1_1SpellData.html#a413c33ccfc482356a9da9fad727d02e4", null ],
+    [ "GetIndex", "structRE_1_1TESSpellList_1_1SpellData.html#a84cf5cc9701346a86260bcf304b1f467", null ],
+    [ "GetIndex", "structRE_1_1TESSpellList_1_1SpellData.html#ac5b5cca55f50f1a84e1c135158f9bff8", null ],
+    [ "RemoveLevSpell", "structRE_1_1TESSpellList_1_1SpellData.html#a2f4dac67842ff366f24afee79121442d", null ],
+    [ "RemoveLevSpells", "structRE_1_1TESSpellList_1_1SpellData.html#abfacc99e6010c7b21a41678c1b77cc07", null ],
+    [ "RemoveShout", "structRE_1_1TESSpellList_1_1SpellData.html#a00a9391cda24690314471574c04c0b1a", null ],
+    [ "RemoveShouts", "structRE_1_1TESSpellList_1_1SpellData.html#ad0a542a81108a4061d57dc9f7c0c7598", null ],
+    [ "RemoveSpell", "structRE_1_1TESSpellList_1_1SpellData.html#a3127d5ffb962fac329831950b706bc40", null ],
+    [ "RemoveSpells", "structRE_1_1TESSpellList_1_1SpellData.html#ae628396ceb847ede4d6bf12cb3bf81a3", null ],
+    [ "TES_HEAP_REDEFINE_NEW", "structRE_1_1TESSpellList_1_1SpellData.html#aa32809e416c5566d9491e787a3c6ad5b", null ],
+    [ "levSpells", "structRE_1_1TESSpellList_1_1SpellData.html#a7e2328bc62101c2b6dbf40c5804e2893", null ],
+    [ "numlevSpells", "structRE_1_1TESSpellList_1_1SpellData.html#ab422c486c97f14ee24fe0c964416345d", null ],
+    [ "numShouts", "structRE_1_1TESSpellList_1_1SpellData.html#aef734dbfee6feeffd58f61b3f05315fc", null ],
+    [ "numSpells", "structRE_1_1TESSpellList_1_1SpellData.html#a458264d48fe7a7326c7dbe341f02a27f", null ],
+    [ "pad24", "structRE_1_1TESSpellList_1_1SpellData.html#a680baed06a67b0658b425db5de1fd806", null ],
+    [ "shouts", "structRE_1_1TESSpellList_1_1SpellData.html#a352b572f9ad87d8c1d1534a2b179844d", null ],
+    [ "spells", "structRE_1_1TESSpellList_1_1SpellData.html#a0aa9f1730426c430e526f650ddbb9a42", null ]
+];

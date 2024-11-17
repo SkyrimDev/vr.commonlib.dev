@@ -1,0 +1,5 @@
+var structREX_1_1W32_1_1D3D11__VIDEO__DECODER__SUB__SAMPLE__MAPPING__BLOCK =
+[
+    [ "clearSize", "structREX_1_1W32_1_1D3D11__VIDEO__DECODER__SUB__SAMPLE__MAPPING__BLOCK.html#a57f572063d706a47887eec15dfcac8ae", null ],
+    [ "encryptedSize", "structREX_1_1W32_1_1D3D11__VIDEO__DECODER__SUB__SAMPLE__MAPPING__BLOCK.html#a53a76ac01082ab6c3e32d9e29ec5740f", null ]
+];

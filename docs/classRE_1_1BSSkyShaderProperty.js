@@ -1,0 +1,37 @@
+var classRE_1_1BSSkyShaderProperty =
+[
+    [ "SkyObject", "classRE_1_1BSSkyShaderProperty.html#ab8d9433c695d6e5bab416c0eceadd849", [
+      [ "SO_SUN", "classRE_1_1BSSkyShaderProperty.html#ab8d9433c695d6e5bab416c0eceadd849a9aeb44dfef11240d8a4823422aa8ec80", null ],
+      [ "SO_SUN_GLARE", "classRE_1_1BSSkyShaderProperty.html#ab8d9433c695d6e5bab416c0eceadd849ade6413318d3898cddebf0e917224f9a4", null ],
+      [ "SO_ATMOSPHERE", "classRE_1_1BSSkyShaderProperty.html#ab8d9433c695d6e5bab416c0eceadd849a7a81d5a66f21a8b7104b7a919a8ea829", null ],
+      [ "SO_CLOUDS", "classRE_1_1BSSkyShaderProperty.html#ab8d9433c695d6e5bab416c0eceadd849a4b643a581893195feab100e73e187375", null ],
+      [ "SO_SKYQUAD", "classRE_1_1BSSkyShaderProperty.html#ab8d9433c695d6e5bab416c0eceadd849a272c18569a24c5e95cae21b9e2517c1e", null ],
+      [ "SO_STARS", "classRE_1_1BSSkyShaderProperty.html#ab8d9433c695d6e5bab416c0eceadd849a38724903034fde9bb5621b6a8e249c5b", null ],
+      [ "SO_MOON", "classRE_1_1BSSkyShaderProperty.html#ab8d9433c695d6e5bab416c0eceadd849abef93366e3cf4b689e69c8cd4d05b643", null ],
+      [ "SO_MOON_SHADOW", "classRE_1_1BSSkyShaderProperty.html#ab8d9433c695d6e5bab416c0eceadd849ae0f3a4c7aa2d59e0d8e23adfbdbae30a", null ]
+    ] ],
+    [ "~BSSkyShaderProperty", "classRE_1_1BSSkyShaderProperty.html#a32a87dcfd755d15148123f0a1683a9a3", null ],
+    [ "CreateClone", "classRE_1_1BSSkyShaderProperty.html#a24e32d97315e1cfea9d1d517b9d15127", null ],
+    [ "ForEachTexture", "classRE_1_1BSSkyShaderProperty.html#ab174801da862730ae3e188bc2679be0f", null ],
+    [ "GetBaseTexture", "classRE_1_1BSSkyShaderProperty.html#a588f1cf6b93ba73e771fac8a5581408d", null ],
+    [ "GetRenderPasses", "classRE_1_1BSSkyShaderProperty.html#ad1e2aa0f262514cebda510fbdafd87ff", null ],
+    [ "GetRTTI", "classRE_1_1BSSkyShaderProperty.html#ab62ccfb1da663487da8917f33e963b9c", null ],
+    [ "IsEqual", "classRE_1_1BSSkyShaderProperty.html#a127a5fdbb787da66c275711ffdf00384", null ],
+    [ "LinkObject", "classRE_1_1BSSkyShaderProperty.html#a2256c5560fcbbe0d5a4eb8e8faae4dbf", null ],
+    [ "LoadBinary", "classRE_1_1BSSkyShaderProperty.html#afaef410f323737184de784ed0b5bc03b", null ],
+    [ "PostLinkObject", "classRE_1_1BSSkyShaderProperty.html#a05722cea2d3d27cc07170417627fbbd7", null ],
+    [ "QShader", "classRE_1_1BSSkyShaderProperty.html#a9e06789da7869756a92110ff1b875321", null ],
+    [ "RegisterStreamables", "classRE_1_1BSSkyShaderProperty.html#a73d1d9d6e2056dbae9228b096b8439aa", null ],
+    [ "SaveBinary", "classRE_1_1BSSkyShaderProperty.html#a44ceb75857ef6bfef391f444e60b6276", null ],
+    [ "bFadeSecondTexture", "classRE_1_1BSSkyShaderProperty.html#a1d47ac3402c0c8da9d5a8d6faefcdb75", null ],
+    [ "fBlendValue", "classRE_1_1BSSkyShaderProperty.html#aafd568678257a168e6c88341bc7f3009", null ],
+    [ "kBlendColor", "classRE_1_1BSSkyShaderProperty.html#a13cef51fcac2ee8c9b61dbe557da314b", null ],
+    [ "Ni_RTTI", "classRE_1_1BSSkyShaderProperty.html#aa67a91f842464592340148eb52408a08", null ],
+    [ "pBaseTexture", "classRE_1_1BSSkyShaderProperty.html#a2e48396b3bde504d71759eec9d64cb13", null ],
+    [ "pBlendTexture", "classRE_1_1BSSkyShaderProperty.html#aaef5d976c09464a6d406f8bdab9bb73a", null ],
+    [ "RTTI", "classRE_1_1BSSkyShaderProperty.html#a9507bc1c31263b6f3b8863ac5a33cdfa", null ],
+    [ "uiSkyObjectType", "classRE_1_1BSSkyShaderProperty.html#a354bdcf5bf2cfdaeaf46e3772410b91e", null ],
+    [ "unk0A8", "classRE_1_1BSSkyShaderProperty.html#a1d50b6ea3a03778399b4c2b1f292d064", null ],
+    [ "usCloudLayer", "classRE_1_1BSSkyShaderProperty.html#a16d15d6a2e7dd487df469713be349079", null ],
+    [ "VTABLE", "classRE_1_1BSSkyShaderProperty.html#a7e5b29fe6fd5693f83a3eb5c0ef13d70", null ]
+];

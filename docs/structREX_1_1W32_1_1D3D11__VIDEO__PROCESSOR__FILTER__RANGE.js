@@ -1,0 +1,7 @@
+var structREX_1_1W32_1_1D3D11__VIDEO__PROCESSOR__FILTER__RANGE =
+[
+    [ "def", "structREX_1_1W32_1_1D3D11__VIDEO__PROCESSOR__FILTER__RANGE.html#aa6afe43cc67561a9712c73906f4daf68", null ],
+    [ "max", "structREX_1_1W32_1_1D3D11__VIDEO__PROCESSOR__FILTER__RANGE.html#ab594c28a899502e4c4d90baa6e96a507", null ],
+    [ "min", "structREX_1_1W32_1_1D3D11__VIDEO__PROCESSOR__FILTER__RANGE.html#a5d3743412c1820c3b54c2bf92e4ae31a", null ],
+    [ "mult", "structREX_1_1W32_1_1D3D11__VIDEO__PROCESSOR__FILTER__RANGE.html#a66a60a83e562fdb76fcc76f8a8e492c4", null ]
+];

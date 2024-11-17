@@ -1,0 +1,27 @@
+var classRE_1_1CombatInventoryItemMagic =
+[
+    [ "~CombatInventoryItemMagic", "classRE_1_1CombatInventoryItemMagic.html#a4eeae93571821a69cb155f3cc294c8c0", null ],
+    [ "CalculateScore", "classRE_1_1CombatInventoryItemMagic.html#aeb7b33968a13d952785e57716781d10e", null ],
+    [ "CheckBusy", "classRE_1_1CombatInventoryItemMagic.html#a511cefe248587368db7302023dd85887", null ],
+    [ "CheckShouldEquip", "classRE_1_1CombatInventoryItemMagic.html#abf88570fde8aff5662bf6d88b6810b3d", null ],
+    [ "CreateCaster", "classRE_1_1CombatInventoryItemMagic.html#ae7046f172cc157db01c016a58a884a03", null ],
+    [ "GetEquipRange", "classRE_1_1CombatInventoryItemMagic.html#a181dc1cf9865b47b1ca778be7ae67442", null ],
+    [ "GetEquipType", "classRE_1_1CombatInventoryItemMagic.html#aff5adf9ef3fb113c673221ab770ae4e7", null ],
+    [ "GetMagic", "classRE_1_1CombatInventoryItemMagic.html#a4cbc0c4237bb65f8782c51aca90a3b36", null ],
+    [ "GetMaxRange", "classRE_1_1CombatInventoryItemMagic.html#a05358ef5af0353adbfa5e8707e83150a", null ],
+    [ "GetMinRange", "classRE_1_1CombatInventoryItemMagic.html#adcb6682154254db72ff8fd01eab3d584", null ],
+    [ "GetOptimalRange", "classRE_1_1CombatInventoryItemMagic.html#a5acaa5a60d9694818695b7fd6a5f7576", null ],
+    [ "GetResource", "classRE_1_1CombatInventoryItemMagic.html#afe72d7835c6c427f8d5741b2f08db5e1", null ],
+    [ "GetType", "classRE_1_1CombatInventoryItemMagic.html#af52a368f57492ebff54d2d0beced93f7", null ],
+    [ "IsValid", "classRE_1_1CombatInventoryItemMagic.html#a18c4917b870d044ad0c36e636cc76f58", null ],
+    [ "LoadGame", "classRE_1_1CombatInventoryItemMagic.html#a645ee70958287e79e4d6d40e61765751", null ],
+    [ "SaveGame", "classRE_1_1CombatInventoryItemMagic.html#abf157545f3673310d5dc3714a52f2555", null ],
+    [ "currentAV", "classRE_1_1CombatInventoryItemMagic.html#aae2389a0dea100e33022b05c30768846", null ],
+    [ "effect", "classRE_1_1CombatInventoryItemMagic.html#ab0b1b8ab657d696c361dfb3f5c0004ca", null ],
+    [ "maxRange", "classRE_1_1CombatInventoryItemMagic.html#a68feb996bb1ab0c0f7a7df9015ce57d2", null ],
+    [ "minRange", "classRE_1_1CombatInventoryItemMagic.html#abf2566a2dd8acb88a7da056d53cbbc54", null ],
+    [ "power", "classRE_1_1CombatInventoryItemMagic.html#aec76b2280b9e890b3b903da61ef9bc3a", null ],
+    [ "RTTI", "classRE_1_1CombatInventoryItemMagic.html#a1f083887872f0d1dd0ce543e94deb98e", null ],
+    [ "tacticalDuration", "classRE_1_1CombatInventoryItemMagic.html#a187dd5b7dc2b53cf2e87e77a4c8570a9", null ],
+    [ "VTABLE", "classRE_1_1CombatInventoryItemMagic.html#a22953b9140bb3d9786ffd8c6f3b14e2b", null ]
+];

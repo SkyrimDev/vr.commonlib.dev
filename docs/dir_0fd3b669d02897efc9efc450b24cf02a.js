@@ -24,13 +24,13 @@ var dir_0fd3b669d02897efc9efc450b24cf02a =
     [ "V", "dir_046c589d27f48479a713c2d77d12ff4d.html", "dir_046c589d27f48479a713c2d77d12ff4d" ],
     [ "W", "dir_2dc43cb0e90aab6fb543e7af18ddcf4b.html", "dir_2dc43cb0e90aab6fb543e7af18ddcf4b" ],
     [ "Z", "dir_5cfa846bc3634e94e1543d7749777b54.html", "dir_5cfa846bc3634e94e1543d7749777b54" ],
-    [ "Offsets.h", "_offsets_8h.html", "_offsets_8h" ],
-    [ "Offsets_NiRTTI.h", "_offsets___ni_r_t_t_i_8h.html", "_offsets___ni_r_t_t_i_8h" ],
-    [ "Offsets_RTTI.h", "_offsets___r_t_t_i_8h.html", "_offsets___r_t_t_i_8h" ],
-    [ "Offsets_VR.h", "_offsets___v_r_8h.html", "_offsets___v_r_8h" ],
-    [ "Offsets_VR_NiRTTI.h", "_offsets___v_r___ni_r_t_t_i_8h.html", "_offsets___v_r___ni_r_t_t_i_8h" ],
-    [ "Offsets_VR_RTTI.h", "_offsets___v_r___r_t_t_i_8h.html", "_offsets___v_r___r_t_t_i_8h" ],
-    [ "Offsets_VTABLE.h", "_offsets___v_t_a_b_l_e_8h.html", "_offsets___v_t_a_b_l_e_8h" ],
-    [ "RTTI.h", "_r_t_t_i_8h.html", "_r_t_t_i_8h" ],
-    [ "Skyrim.h", "_skyrim_8h.html", null ]
+    [ "Offsets.h", "Offsets_8h.html", "Offsets_8h" ],
+    [ "Offsets_NiRTTI.h", "Offsets__NiRTTI_8h.html", "Offsets__NiRTTI_8h" ],
+    [ "Offsets_RTTI.h", "Offsets__RTTI_8h.html", "Offsets__RTTI_8h" ],
+    [ "Offsets_VR.h", "Offsets__VR_8h.html", "Offsets__VR_8h" ],
+    [ "Offsets_VR_NiRTTI.h", "Offsets__VR__NiRTTI_8h.html", "Offsets__VR__NiRTTI_8h" ],
+    [ "Offsets_VR_RTTI.h", "Offsets__VR__RTTI_8h.html", "Offsets__VR__RTTI_8h" ],
+    [ "Offsets_VTABLE.h", "Offsets__VTABLE_8h.html", "Offsets__VTABLE_8h" ],
+    [ "RTTI.h", "RTTI_8h.html", "RTTI_8h" ],
+    [ "Skyrim.h", "Skyrim_8h.html", null ]
 ];

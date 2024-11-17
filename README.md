@@ -4,9 +4,9 @@ This API documentation for `CommonLibVR` fork of `CommonLibSSE`:
 
 https://github.com/alandtse/CommonLibVR
 
-> Last Updated: TIMESTAMP_PLACEHOLDER
+> Last Updated: 2024-11-17 06:50:34 UTC
 >
-> Git revision: https://github.com/alandtse/CommonLibVR/commit/COMMIT_SHA_PLACEHOLDER
+> Git revision: https://github.com/alandtse/CommonLibVR/commit/0cf8498
 
 # About the VR fork
 

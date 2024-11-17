@@ -1,0 +1,4 @@
+var structREX_1_1W32_1_1DXGI__DECODE__SWAP__CHAIN__DESC =
+[
+    [ "flags", "structREX_1_1W32_1_1DXGI__DECODE__SWAP__CHAIN__DESC.html#a765cf51011a3111a259b1c217b53498b", null ]
+];

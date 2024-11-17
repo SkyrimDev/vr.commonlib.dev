@@ -1,0 +1,26 @@
+var classRE_1_1BSMasterParticleSystem =
+[
+    [ "~BSMasterParticleSystem", "classRE_1_1BSMasterParticleSystem.html#a4855a573a532f366b087c8c6b99a05a9", null ],
+    [ "GetRTTI", "classRE_1_1BSMasterParticleSystem.html#a7727b1922dfa7a162d6c99a74b7db3fd", null ],
+    [ "IsEqual", "classRE_1_1BSMasterParticleSystem.html#ab48bdd36b34b4a1e1c027aa998fec558", null ],
+    [ "LinkObject", "classRE_1_1BSMasterParticleSystem.html#a053cc636ec616dfe6085bc6ee3ff3134", null ],
+    [ "LoadBinary", "classRE_1_1BSMasterParticleSystem.html#a6e2f2ce8bbcf5f749717fa43d97db116", null ],
+    [ "PostLinkObject", "classRE_1_1BSMasterParticleSystem.html#ad3a5da529ca6837f90fce07a77f65a98", null ],
+    [ "RegisterStreamables", "classRE_1_1BSMasterParticleSystem.html#aa2c54af720ce6bae06bb94cf4a2bc0d4", null ],
+    [ "SaveBinary", "classRE_1_1BSMasterParticleSystem.html#a0defab0919d76eafa89653ff08895a9a", null ],
+    [ "UpdateDownwardPass", "classRE_1_1BSMasterParticleSystem.html#a16a74474980cd1c0ea4e303a83723042", null ],
+    [ "UpdateRigidDownwardPass", "classRE_1_1BSMasterParticleSystem.html#a287a132e623378464fbf3014e8750ead", null ],
+    [ "UpdateSelectedDownwardPass", "classRE_1_1BSMasterParticleSystem.html#a1c4e1861b49e6875988f4e918891dddc", null ],
+    [ "destroyWhenNotInUse", "classRE_1_1BSMasterParticleSystem.html#ab03dfc88c3b12d8ac01204ac95e2fdc6", null ],
+    [ "emitterObjs", "classRE_1_1BSMasterParticleSystem.html#a29d217a7ffb6a78cc2842a7843a754ef", null ],
+    [ "index", "classRE_1_1BSMasterParticleSystem.html#ae7df4b47d19a42e86e1b168e3cf69591", null ],
+    [ "maxEmitterObj", "classRE_1_1BSMasterParticleSystem.html#a600aa4928ae166d66d71dad6efa2a795", null ],
+    [ "maxParticlesPerFrame", "classRE_1_1BSMasterParticleSystem.html#a4b5b74a018833d4332cced2ff97a0df3", null ],
+    [ "Ni_RTTI", "classRE_1_1BSMasterParticleSystem.html#a38634687c891be580e1a2f4ec369c297", null ],
+    [ "pad167", "classRE_1_1BSMasterParticleSystem.html#acb8766d87e20d6a79a5a1408faf8e746", null ],
+    [ "particles", "classRE_1_1BSMasterParticleSystem.html#a7d07594fede7718f5cb611f8bfc843ec", null ],
+    [ "RTTI", "classRE_1_1BSMasterParticleSystem.html#a53e1d01cd422e08ba54f3354cc606690", null ],
+    [ "unk15C", "classRE_1_1BSMasterParticleSystem.html#a17ff754e767f7694c81234cf8f9ff264", null ],
+    [ "unk160", "classRE_1_1BSMasterParticleSystem.html#a788e92c91df02f0d1441e1448396d43f", null ],
+    [ "VTABLE", "classRE_1_1BSMasterParticleSystem.html#af32aad9a2a7e149c63cfc33ca92cd325", null ]
+];

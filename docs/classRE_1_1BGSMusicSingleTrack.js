@@ -1,0 +1,26 @@
+var classRE_1_1BGSMusicSingleTrack =
+[
+    [ "LoopData", "structRE_1_1BGSMusicSingleTrack_1_1LoopData.html", "structRE_1_1BGSMusicSingleTrack_1_1LoopData" ],
+    [ "~BGSMusicSingleTrack", "classRE_1_1BGSMusicSingleTrack.html#ae6f48a4bdbc37f013bd39e87def0e080", null ],
+    [ "DoClearDucking", "classRE_1_1BGSMusicSingleTrack.html#af9e93325e4950f7a03cb6b388a26d818", null ],
+    [ "DoFinish", "classRE_1_1BGSMusicSingleTrack.html#a0b9d9d28a50c9cf1476b1d55dbeac58e", null ],
+    [ "DoPause", "classRE_1_1BGSMusicSingleTrack.html#ad601d17c3578f5fc6a2b9d4191f6a193", null ],
+    [ "DoPlay", "classRE_1_1BGSMusicSingleTrack.html#af8f0eaf5f7e76652c69a0827cb1ce414", null ],
+    [ "DoSetDuckingAttenuation", "classRE_1_1BGSMusicSingleTrack.html#af78d4ee755a385a0d2640b180b06e17e", null ],
+    [ "DoUpdate", "classRE_1_1BGSMusicSingleTrack.html#a490bef88643c67cc0393ebe84c142732", null ],
+    [ "GetDurationImpl", "classRE_1_1BGSMusicSingleTrack.html#a2fbef8ae62a79a5823b698c032d6e1ab", null ],
+    [ "GetType", "classRE_1_1BGSMusicSingleTrack.html#a6218492ce57237d9cb5fae1dfccbf5c1", null ],
+    [ "Load", "classRE_1_1BGSMusicSingleTrack.html#aaf88fcc10d5d84bbd6966debe0cf8f88", null ],
+    [ "cuePoints", "classRE_1_1BGSMusicSingleTrack.html#a48c9c312fea37d82df9edad2ab07b2e1", null ],
+    [ "finaleHandle", "classRE_1_1BGSMusicSingleTrack.html#a4d58d6b0749143cd5705d94a740718fc", null ],
+    [ "finaleID", "classRE_1_1BGSMusicSingleTrack.html#aaf09f4efd1ade71d6d66f4e029570953", null ],
+    [ "lastKnownPlaybackPosition", "classRE_1_1BGSMusicSingleTrack.html#a8b364eb4bb7a23ad93f9aade35bd1b34", null ],
+    [ "loopData", "classRE_1_1BGSMusicSingleTrack.html#af8ebbab8d33f1156b16ed7b48abd7a74", null ],
+    [ "loopsRemaining", "classRE_1_1BGSMusicSingleTrack.html#ad0ce1baa8cf79266b20ef69947e3f80f", null ],
+    [ "nextCuePoint", "classRE_1_1BGSMusicSingleTrack.html#ad27502a51186735472aa58afbbdf448a", null ],
+    [ "pad5C", "classRE_1_1BGSMusicSingleTrack.html#ac22e8a83843b1ecd8d3fc80573cd4f87", null ],
+    [ "RTTI", "classRE_1_1BGSMusicSingleTrack.html#a6ec00c846384ab388010c5120de906a3", null ],
+    [ "trackHandle", "classRE_1_1BGSMusicSingleTrack.html#ac40ce231577f6f2c5c283ea1b434c63b", null ],
+    [ "trackID", "classRE_1_1BGSMusicSingleTrack.html#a35bf2926aec0c3b1d02c5cd54ccc9a8f", null ],
+    [ "VTABLE", "classRE_1_1BGSMusicSingleTrack.html#a5147d3546a7f96715dd0754b2cd9e86f", null ]
+];

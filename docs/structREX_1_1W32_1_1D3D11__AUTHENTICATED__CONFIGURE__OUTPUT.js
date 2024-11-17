@@ -1,0 +1,8 @@
+var structREX_1_1W32_1_1D3D11__AUTHENTICATED__CONFIGURE__OUTPUT =
+[
+    [ "channel", "structREX_1_1W32_1_1D3D11__AUTHENTICATED__CONFIGURE__OUTPUT.html#a61ef2ec2e4fbeafc80248bf1b491e167", null ],
+    [ "configureType", "structREX_1_1W32_1_1D3D11__AUTHENTICATED__CONFIGURE__OUTPUT.html#a298f2a6bb240f772ddb79496ea697315", null ],
+    [ "omac", "structREX_1_1W32_1_1D3D11__AUTHENTICATED__CONFIGURE__OUTPUT.html#a4223abad0489cb275844eba84aba6aa5", null ],
+    [ "returnCode", "structREX_1_1W32_1_1D3D11__AUTHENTICATED__CONFIGURE__OUTPUT.html#a4a6cfa4864cb947ab9119fa58bc5d915", null ],
+    [ "sequenceNumber", "structREX_1_1W32_1_1D3D11__AUTHENTICATED__CONFIGURE__OUTPUT.html#a66e93a10e047a0d6ad8c7335e8a98317", null ]
+];

@@ -1,0 +1,45 @@
+var classRE_1_1GFxResource =
+[
+    [ "ResourceType", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47", [
+      [ "kCharacterDefBit", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47a8af47f24f1e1c8a7b1ba03d67e253372", null ],
+      [ "kNone", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47a35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kImage", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47a49a3fd258715e6355ffc4596a6cba23f", null ],
+      [ "kFont", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47aa4d596fbe5ff39cc6ed2d862dd16a135", null ],
+      [ "kMovieDef", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47a7b3efb81087d48cd012b21aaf37eb329", null ],
+      [ "kSoundSample", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47a8b6a1b4fd7889013c613a732ea9fefeb", null ],
+      [ "kMovieDataDef", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47a69b7d9456627f9d41e32d1f21c1fc189", null ],
+      [ "kButtonDef", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47a09f0e6eed6464bf1487f8a1c6eb1c490", null ],
+      [ "kTextDef", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47a14aee213b20982aaad23c9b2f3b713c4", null ],
+      [ "kEditTextDef", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47a44f561017e1822018ab3fbd8f748271b", null ],
+      [ "kSpriteDef", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47a0a24d7505c69445fcc98a8e369ab3bec", null ],
+      [ "kShapeDef", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47a2698d6c592f6e23b4fae5e29f4833e33", null ],
+      [ "kVideoDef", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47ac8818b7ffdd7e646239e8d88dd40b58a", null ],
+      [ "kTypeCode_Mask", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47a0ffad3699ef7d68fb38589b3205a7ab5", null ],
+      [ "kTypeCode_Shift", "classRE_1_1GFxResource.html#abe46b19e676910eb83c2576cc455ca47abe5873e37c8a4ccd1df4513714b6964f", null ]
+    ] ],
+    [ "ResourceUse", "classRE_1_1GFxResource.html#a444a73d9201986af1fec02ec79862363", [
+      [ "kNone", "classRE_1_1GFxResource.html#a444a73d9201986af1fec02ec79862363a35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kBitmap", "classRE_1_1GFxResource.html#a444a73d9201986af1fec02ec79862363a73abae1fdc436dffaa002f784efd8740", null ],
+      [ "kGradient", "classRE_1_1GFxResource.html#a444a73d9201986af1fec02ec79862363ad42c39ef8af8c2f2f28ef56473c352bc", null ],
+      [ "kFontTexture", "classRE_1_1GFxResource.html#a444a73d9201986af1fec02ec79862363abbb8670c14cddcda929e9d9db4eb525f", null ],
+      [ "kSoundSample", "classRE_1_1GFxResource.html#a444a73d9201986af1fec02ec79862363a8b6a1b4fd7889013c613a732ea9fefeb", null ],
+      [ "kTypeCode_Mask", "classRE_1_1GFxResource.html#a444a73d9201986af1fec02ec79862363a0ffad3699ef7d68fb38589b3205a7ab5", null ]
+    ] ],
+    [ "GFxResource", "classRE_1_1GFxResource.html#acea7e39858b31862622a30b1d8904134", null ],
+    [ "~GFxResource", "classRE_1_1GFxResource.html#a29e3f5e22b57292a36245e8b6c051837", null ],
+    [ "AddRef", "classRE_1_1GFxResource.html#acf9ab47ba2f6b3a54d62d8c7a13827e9", null ],
+    [ "AddRef_NotZero", "classRE_1_1GFxResource.html#adad3cde7e6c121a1097743c8f04c107f", null ],
+    [ "GetKey", "classRE_1_1GFxResource.html#af89e216c0ec1c749323d85ae4abc5ba9", null ],
+    [ "GetRefCount", "classRE_1_1GFxResource.html#ab6f12996a8ccbc693bb9d966ca0e2fe2", null ],
+    [ "GetResourceReport", "classRE_1_1GFxResource.html#a1a9078542f913159d4852139707e50c5", null ],
+    [ "GetResourceType", "classRE_1_1GFxResource.html#a90b87611d99a6de85400b2b3fc31a6aa", null ],
+    [ "GetResourceTypeCode", "classRE_1_1GFxResource.html#a2c2a4744327cf1713d68e0d229041ac5", null ],
+    [ "GetResourceUse", "classRE_1_1GFxResource.html#a8d57912198933b11aca956ee1add1837", null ],
+    [ "MakeTypeCode", "classRE_1_1GFxResource.html#a845aa610db273bbd8a5b356a9e6e4d64", null ],
+    [ "Release", "classRE_1_1GFxResource.html#a84711641b63e1b221697755fbd96d0a1", null ],
+    [ "SetOwnerResourceLib", "classRE_1_1GFxResource.html#a2620a6cd165ab6fa58203a7909fcd6e7", null ],
+    [ "GFxResourceWeakLib", "classRE_1_1GFxResource.html#ac4868454380e773fbb0337556938a1b4", null ],
+    [ "_lib", "classRE_1_1GFxResource.html#a5747c3ffc86058f1bac7832ddc4d382e", null ],
+    [ "_pad0C", "classRE_1_1GFxResource.html#a201d2a6aded3889e635f4cee2aa030f9", null ],
+    [ "_refCount", "classRE_1_1GFxResource.html#a0b4377592f781a201562ef4461767421", null ]
+];

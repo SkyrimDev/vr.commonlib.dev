@@ -1,0 +1,28 @@
+var classRE_1_1BSTempEffectGeometryDecal =
+[
+    [ "~BSTempEffectGeometryDecal", "classRE_1_1BSTempEffectGeometryDecal.html#aec75f257bdb62b0730a875eba1fda589", null ],
+    [ "Attach", "classRE_1_1BSTempEffectGeometryDecal.html#a169931ebeb9536039a0e2387f77af52a", null ],
+    [ "Get3D", "classRE_1_1BSTempEffectGeometryDecal.html#a227cb8d37ae4f204bfe321392abec3d4", null ],
+    [ "GetRTTI", "classRE_1_1BSTempEffectGeometryDecal.html#a1cc0a4a2867ef749b144b32e642c3bc2", null ],
+    [ "GetType", "classRE_1_1BSTempEffectGeometryDecal.html#a03256f1ce90d3e3d4951aaf641647fa7", null ],
+    [ "Initialize", "classRE_1_1BSTempEffectGeometryDecal.html#a95026f11f0953fe293abca4c1a09050d", null ],
+    [ "Update", "classRE_1_1BSTempEffectGeometryDecal.html#a4ce2a4ade15f3b2011f5d77ad0ca5817", null ],
+    [ "attachedGeometry", "classRE_1_1BSTempEffectGeometryDecal.html#a8d8abec94a29ce385064eea63c065147", null ],
+    [ "attachedGeometryParent", "classRE_1_1BSTempEffectGeometryDecal.html#afeb82f226c3c581128753d121ddb3c05", null ],
+    [ "decal", "classRE_1_1BSTempEffectGeometryDecal.html#a7a58cb584530b028d6cc3848933bbf47", null ],
+    [ "decalNode", "classRE_1_1BSTempEffectGeometryDecal.html#a7f15699b53690d727f30c0e0d36f3960", null ],
+    [ "direction", "classRE_1_1BSTempEffectGeometryDecal.html#a0d062f01575367c20f1bbb529d40326a", null ],
+    [ "flags", "classRE_1_1BSTempEffectGeometryDecal.html#a530791123259de3acbdff1a939190663", null ],
+    [ "Ni_RTTI", "classRE_1_1BSTempEffectGeometryDecal.html#afe8db5440cc3b6ea3c2a17b0510cc161", null ],
+    [ "origin", "classRE_1_1BSTempEffectGeometryDecal.html#af117d687898ff2f27f58279456c0109d", null ],
+    [ "queuedDecal", "classRE_1_1BSTempEffectGeometryDecal.html#aae89811422e70516e669f8a7f40d105f", null ],
+    [ "rotation", "classRE_1_1BSTempEffectGeometryDecal.html#a5a74e7986cc1cc78de0e2cf55cca4e11", null ],
+    [ "RTTI", "classRE_1_1BSTempEffectGeometryDecal.html#a926d911f915e6bd9abb3e0f9ce78420c", null ],
+    [ "texSet", "classRE_1_1BSTempEffectGeometryDecal.html#a596388b87a83a4b8cb8a1585d47b14fb", null ],
+    [ "texSet2", "classRE_1_1BSTempEffectGeometryDecal.html#a6837c5ee8801c331e2d0ab2113c9d2d7", null ],
+    [ "TYPE", "classRE_1_1BSTempEffectGeometryDecal.html#ae53b80079871b156dfc7c67d7e42031f", null ],
+    [ "unkA8", "classRE_1_1BSTempEffectGeometryDecal.html#a6b74d462783fa3bbfa1585bc07408f32", null ],
+    [ "unkB0", "classRE_1_1BSTempEffectGeometryDecal.html#aca26962f3df5855fa94fa478692a1391", null ],
+    [ "VTABLE", "classRE_1_1BSTempEffectGeometryDecal.html#a7a0d4753fdb90c3d5a73efaf2b293218", null ],
+    [ "width", "classRE_1_1BSTempEffectGeometryDecal.html#ae5686fc7fc2399fb730ed17df7c7ab1f", null ]
+];

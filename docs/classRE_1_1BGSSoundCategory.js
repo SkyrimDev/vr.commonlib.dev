@@ -1,0 +1,37 @@
+var classRE_1_1BGSSoundCategory =
+[
+    [ "RecordFlags", "structRE_1_1BGSSoundCategory_1_1RecordFlags.html", "structRE_1_1BGSSoundCategory_1_1RecordFlags" ],
+    [ "Flag", "classRE_1_1BGSSoundCategory.html#ab42406fa5a86a9394cf3e8240bca7b46", [
+      [ "kNone", "classRE_1_1BGSSoundCategory.html#ab42406fa5a86a9394cf3e8240bca7b46a35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kMuteWhenSubmerged", "classRE_1_1BGSSoundCategory.html#ab42406fa5a86a9394cf3e8240bca7b46aa2d15f114ff78710871a53d7f8d930dc", null ],
+      [ "kShouldAppearOnMenu", "classRE_1_1BGSSoundCategory.html#ab42406fa5a86a9394cf3e8240bca7b46ad79c0d472ae33dae0e7c73c2252e0fa4", null ]
+    ] ],
+    [ "~BGSSoundCategory", "classRE_1_1BGSSoundCategory.html#a434551f4ca4f7ab2fd16082e04211ab9", null ],
+    [ "GetCategoryAttenuation", "classRE_1_1BGSSoundCategory.html#a10aaaa77500a28645eb18f8d23226b2d", null ],
+    [ "GetCategoryFrequency", "classRE_1_1BGSSoundCategory.html#a80787f95e161bd18305970bf97c25916", null ],
+    [ "GetCategoryVolume", "classRE_1_1BGSSoundCategory.html#a46deea794398f2b3a00f5fd0b16ca65d", null ],
+    [ "GetDefaultMenuValue", "classRE_1_1BGSSoundCategory.html#a30515f63729617196c454a05dbb77f6d", null ],
+    [ "GetStaticVolumeMultiplier", "classRE_1_1BGSSoundCategory.html#a393fb275c48645440a57502f4c6ca4e9", null ],
+    [ "InitializeData", "classRE_1_1BGSSoundCategory.html#ad64d1c974199dc352781b76f034b9797", null ],
+    [ "InitItemImpl", "classRE_1_1BGSSoundCategory.html#a956175a4045cc559855883906cd4a683", null ],
+    [ "IsMenuCategory", "classRE_1_1BGSSoundCategory.html#afa0ce613d426a256d97a4962af256a98", null ],
+    [ "Load", "classRE_1_1BGSSoundCategory.html#a1fb431908eee96e7ac3a99be7fff4c07", null ],
+    [ "Matches", "classRE_1_1BGSSoundCategory.html#a3a5e43d4161b5e256ea03d704ad88cfd", null ],
+    [ "SetCategoryAttenuation", "classRE_1_1BGSSoundCategory.html#a724fb2a4589385fc6c53ca91cba07947", null ],
+    [ "SetCategoryFrequency", "classRE_1_1BGSSoundCategory.html#a24b05269b407e4fe4081ebfacb6b507a", null ],
+    [ "SetCategoryVolume", "classRE_1_1BGSSoundCategory.html#abad7155bb57750ed0108fa622e8e40a3", null ],
+    [ "SetDefaultMenuValue", "classRE_1_1BGSSoundCategory.html#a1b1ddc78d9ca40bbbcd4b2201e37fbf8", null ],
+    [ "SetStaticVolumeMultiplier", "classRE_1_1BGSSoundCategory.html#a3c36070cd5750e42987188d27f24fa77", null ],
+    [ "attenuation", "classRE_1_1BGSSoundCategory.html#af7cd48f851131b6331a21dc606af8e59", null ],
+    [ "defaultMenuValue", "classRE_1_1BGSSoundCategory.html#a4d1b6b44568b053752111549cdbdb92e", null ],
+    [ "flags", "classRE_1_1BGSSoundCategory.html#a29da3310e389199b9eac6d3e82997afa", null ],
+    [ "FORMTYPE", "classRE_1_1BGSSoundCategory.html#a9006fb47c471e561d8765e96d909fb30", null ],
+    [ "frequencyMult", "classRE_1_1BGSSoundCategory.html#a5fd53105a2cca58b183b0f349cbd0362", null ],
+    [ "parentCategory", "classRE_1_1BGSSoundCategory.html#ad2f2abc403d12ad1e3dc2077be8396ab", null ],
+    [ "RTTI", "classRE_1_1BGSSoundCategory.html#ae2d9e0ff83769123c90cc48f0c28ca39", null ],
+    [ "staticMult", "classRE_1_1BGSSoundCategory.html#aa5b7a3cfb79200c32846eb4c1762126f", null ],
+    [ "unk3C", "classRE_1_1BGSSoundCategory.html#a6af772067dc711af4a1b34ee2a1ca170", null ],
+    [ "unk48", "classRE_1_1BGSSoundCategory.html#ae7b6df8a03d634fb411caf3feaf127cb", null ],
+    [ "volumeMult", "classRE_1_1BGSSoundCategory.html#ae8d0778263e55975b80eab80bf1268ca", null ],
+    [ "VTABLE", "classRE_1_1BGSSoundCategory.html#abb65a4584198a29c8ff37ead719b5d83", null ]
+];

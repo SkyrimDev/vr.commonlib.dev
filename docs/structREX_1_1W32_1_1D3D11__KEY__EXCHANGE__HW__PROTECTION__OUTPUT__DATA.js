@@ -1,0 +1,9 @@
+var structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA =
+[
+    [ "executionTime", "structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#ad511f5bd6e082923ec1351414372ba61", null ],
+    [ "hwProtectionDataSize", "structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#a73a678a97519f33406e1c6bacf4bf9af", null ],
+    [ "maxHWProtectionDataSize", "structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#ab471408044d6de2a92ef5c336116d299", null ],
+    [ "output", "structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#a3f736b955dc99114ed9108797a7d9bba", null ],
+    [ "privateDataSize", "structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#a3b9a8429ebe73dd5a7050051345131b8", null ],
+    [ "transportTime", "structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#a94926686246aae54d05a554d099ac442", null ]
+];

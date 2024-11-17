@@ -1,0 +1,26 @@
+var classRE_1_1BSMultiBoundShape =
+[
+    [ "~BSMultiBoundShape", "classRE_1_1BSMultiBoundShape.html#ae48e697e9951dcd9aff347b382eec286", null ],
+    [ "CreateClone", "classRE_1_1BSMultiBoundShape.html#aa3915302318b85fd4dc9ace1b3ee4198", null ],
+    [ "GetLength", "classRE_1_1BSMultiBoundShape.html#a67e90b2146f9daec1438aca89834695f", null ],
+    [ "GetRTTI", "classRE_1_1BSMultiBoundShape.html#a083af9eabef84069884ca1148bdae0ef", null ],
+    [ "GetType", "classRE_1_1BSMultiBoundShape.html#a66516b0c11043fa6b70bb9bea621e126", null ],
+    [ "GetWithinPoint", "classRE_1_1BSMultiBoundShape.html#aba609ca868eb0909c41495cc839e1856", null ],
+    [ "IsEqual", "classRE_1_1BSMultiBoundShape.html#a98a4cc9a05fe4ccbafb30fb4816ccb0b", null ],
+    [ "LinkObject", "classRE_1_1BSMultiBoundShape.html#ac06e403a2d5ef1f1b67317c0654bf9d0", null ],
+    [ "LoadBinary", "classRE_1_1BSMultiBoundShape.html#a5d499a25c2ffcb916845a4e9e485b882", null ],
+    [ "RegisterStreamables", "classRE_1_1BSMultiBoundShape.html#a991318d4bd9787744d1eeb77c6627b8d", null ],
+    [ "SaveBinary", "classRE_1_1BSMultiBoundShape.html#aea9d683e7ad3607060629592b0572f96", null ],
+    [ "SetCenter", "classRE_1_1BSMultiBoundShape.html#adab802fbdd37510380174da5cc801daa", null ],
+    [ "Unk_27", "classRE_1_1BSMultiBoundShape.html#aa227bd03f9da0adfbcf6608d3a55b4e7", null ],
+    [ "Unk_28", "classRE_1_1BSMultiBoundShape.html#a67767f6596e40457c2b3dacee8327723", null ],
+    [ "Unk_29", "classRE_1_1BSMultiBoundShape.html#a354263c2650c8d3564f11d8249970245", null ],
+    [ "Unk_2A", "classRE_1_1BSMultiBoundShape.html#a8a0aaf77ad69e023580633a51f94d903", null ],
+    [ "Unk_2B", "classRE_1_1BSMultiBoundShape.html#a0e311a4db90f044af47d2d5741122f55", null ],
+    [ "Unk_2E", "classRE_1_1BSMultiBoundShape.html#ac1ae735f6aae193ca44bfe2525219762", null ],
+    [ "Ni_RTTI", "classRE_1_1BSMultiBoundShape.html#a9bb5cdca8bee832fa57f4563784e359b", null ],
+    [ "pad14", "classRE_1_1BSMultiBoundShape.html#a08aa51990aa9478e0fc3a5f0d562bfd5", null ],
+    [ "RTTI", "classRE_1_1BSMultiBoundShape.html#af622ee2ed4c122b0720ee4aeb16696f4", null ],
+    [ "unk10", "classRE_1_1BSMultiBoundShape.html#abd7fedd5259080d89e532056bc348d82", null ],
+    [ "VTABLE", "classRE_1_1BSMultiBoundShape.html#a19819496ec103fc4aed17a24a4c5766c", null ]
+];

@@ -1,0 +1,28 @@
+var classRE_1_1NiPoint2 =
+[
+    [ "NiPoint2", "classRE_1_1NiPoint2.html#a3bfce1a5ccbcab5acd2728697fb0888d", null ],
+    [ "NiPoint2", "classRE_1_1NiPoint2.html#af58fed251f24fae20d9ffb1039c769df", null ],
+    [ "Cross", "classRE_1_1NiPoint2.html#a27910d6308fa0b5222568051e20431db", null ],
+    [ "Dot", "classRE_1_1NiPoint2.html#a278a50bdeb124a3825124a30066588e5", null ],
+    [ "GetDistance", "classRE_1_1NiPoint2.html#a722f1210df5cc156bb07a247e62faba0", null ],
+    [ "GetSquaredDistance", "classRE_1_1NiPoint2.html#abd749f7438b885e5c51557754be0c588", null ],
+    [ "Length", "classRE_1_1NiPoint2.html#aea5226bd27526e802b29e356db4993de", null ],
+    [ "operator!=", "classRE_1_1NiPoint2.html#abab1c44f0f48b8802e435fa10350ec0b", null ],
+    [ "operator*", "classRE_1_1NiPoint2.html#af4c267534a022c9ade2a5deec7f18ead", null ],
+    [ "operator*", "classRE_1_1NiPoint2.html#a060a12a73e3e2f880ec9fd0f077b0e59", null ],
+    [ "operator*=", "classRE_1_1NiPoint2.html#a7474f4c545c051e30c94160008b3bc58", null ],
+    [ "operator+", "classRE_1_1NiPoint2.html#adf82ecaa6e9a4de6c7a94a5157110b05", null ],
+    [ "operator+=", "classRE_1_1NiPoint2.html#a2cd1357639311628eaaa5d2f53859282", null ],
+    [ "operator-", "classRE_1_1NiPoint2.html#a01c0fc049e669bb229e44d476f1237fd", null ],
+    [ "operator-", "classRE_1_1NiPoint2.html#a9a81e30b10ba45b828fd41bf437780d6", null ],
+    [ "operator-=", "classRE_1_1NiPoint2.html#ad6012efffd45b77c488ee4eff5a39dca", null ],
+    [ "operator/", "classRE_1_1NiPoint2.html#a015458e65977569db66278746f904579", null ],
+    [ "operator/=", "classRE_1_1NiPoint2.html#a466787c30ff1a57674ac97fe80e13b86", null ],
+    [ "operator==", "classRE_1_1NiPoint2.html#aa390b428fa5f0b23b56507199366db4d", null ],
+    [ "operator[]", "classRE_1_1NiPoint2.html#aca63486e292f40b7b12a0ca53dfa279c", null ],
+    [ "operator[]", "classRE_1_1NiPoint2.html#aae386534d1e26e991a7a3b4b44b94145", null ],
+    [ "SqrLength", "classRE_1_1NiPoint2.html#afc76dd50066879f4e1c046a48865782c", null ],
+    [ "Unitize", "classRE_1_1NiPoint2.html#ad53d6ea93afe21a69cd09e71472260d6", null ],
+    [ "x", "classRE_1_1NiPoint2.html#a0ccba4a5f9d526b562816e126478fe43", null ],
+    [ "y", "classRE_1_1NiPoint2.html#a89e34c75c796cbdf1377dd5d11358e67", null ]
+];

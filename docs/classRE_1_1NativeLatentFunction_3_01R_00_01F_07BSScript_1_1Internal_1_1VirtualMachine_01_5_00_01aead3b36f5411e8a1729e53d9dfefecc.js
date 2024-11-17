@@ -1,0 +1,6 @@
+var classRE_1_1NativeLatentFunction_3_01R_00_01F_07BSScript_1_1Internal_1_1VirtualMachine_01_5_00_01aead3b36f5411e8a1729e53d9dfefecc =
+[
+    [ "base_type", "classRE_1_1NativeLatentFunction_3_01R_00_01F_07BSScript_1_1Internal_1_1VirtualMachine_01_5_00_01aead3b36f5411e8a1729e53d9dfefecc.html#a72ee8769ef3dde336a46bcb259b81c24", null ],
+    [ "function_type", "classRE_1_1NativeLatentFunction_3_01R_00_01F_07BSScript_1_1Internal_1_1VirtualMachine_01_5_00_01aead3b36f5411e8a1729e53d9dfefecc.html#a505e40be7f81f74dd27fe8f3710caf7a", null ],
+    [ "result_type", "classRE_1_1NativeLatentFunction_3_01R_00_01F_07BSScript_1_1Internal_1_1VirtualMachine_01_5_00_01aead3b36f5411e8a1729e53d9dfefecc.html#a36083ba408fbdb0f38c91cb1d8a65ed5", null ]
+];

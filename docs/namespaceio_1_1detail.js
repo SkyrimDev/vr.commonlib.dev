@@ -1,10 +1,10 @@
 var namespaceio_1_1detail =
 [
-    [ "AsynchronousReader", "classio_1_1detail_1_1_asynchronous_reader.html", "classio_1_1detail_1_1_asynchronous_reader" ],
-    [ "NonOwningIStreamByteSource", "classio_1_1detail_1_1_non_owning_i_stream_byte_source.html", "classio_1_1detail_1_1_non_owning_i_stream_byte_source" ],
-    [ "NonOwningStringByteSource", "classio_1_1detail_1_1_non_owning_string_byte_source.html", "classio_1_1detail_1_1_non_owning_string_byte_source" ],
-    [ "OwningStdIOByteSourceBase", "classio_1_1detail_1_1_owning_std_i_o_byte_source_base.html", "classio_1_1detail_1_1_owning_std_i_o_byte_source_base" ],
-    [ "SynchronousReader", "classio_1_1detail_1_1_synchronous_reader.html", "classio_1_1detail_1_1_synchronous_reader" ],
+    [ "OwningStdIOByteSourceBase", "classio_1_1detail_1_1OwningStdIOByteSourceBase.html", "classio_1_1detail_1_1OwningStdIOByteSourceBase" ],
+    [ "NonOwningIStreamByteSource", "classio_1_1detail_1_1NonOwningIStreamByteSource.html", "classio_1_1detail_1_1NonOwningIStreamByteSource" ],
+    [ "NonOwningStringByteSource", "classio_1_1detail_1_1NonOwningStringByteSource.html", "classio_1_1detail_1_1NonOwningStringByteSource" ],
+    [ "AsynchronousReader", "classio_1_1detail_1_1AsynchronousReader.html", "classio_1_1detail_1_1AsynchronousReader" ],
+    [ "SynchronousReader", "classio_1_1detail_1_1SynchronousReader.html", "classio_1_1detail_1_1SynchronousReader" ],
     [ "chop_next_column", "namespaceio_1_1detail.html#a5656f385aea8d6ee5814a2abc20f5191", null ],
     [ "parse", "namespaceio_1_1detail.html#a2109437c5cfde706232ff352a06a8c9f", null ],
     [ "parse", "namespaceio_1_1detail.html#a51894246476f8614a57292c4ecd5ee70", null ],

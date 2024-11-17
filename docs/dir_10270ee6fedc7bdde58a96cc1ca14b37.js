@@ -1,68 +1,219 @@
 var dir_10270ee6fedc7bdde58a96cc1ca14b37 =
 [
-    [ "Calendar.h", "_calendar_8h.html", "_calendar_8h" ],
-    [ "CalmEffect.h", "_calm_effect_8h.html", "_calm_effect_8h" ],
-    [ "CFilter.h", "_c_filter_8h.html", "_c_filter_8h" ],
-    [ "Character.h", "_character_8h.html", "_character_8h" ],
-    [ "ChestsLooted.h", "_chests_looted_8h.html", "_chests_looted_8h" ],
-    [ "Clouds.h", "_clouds_8h.html", "_clouds_8h" ],
-    [ "CodeTasklet.h", "_code_tasklet_8h.html", "_code_tasklet_8h" ],
-    [ "CollisionLayers.h", "_collision_layers_8h.html", "_collision_layers_8h" ],
-    [ "Color.h", "_color_8h.html", "_color_8h" ],
-    [ "ColorUtil.h", "_color_util_8h.html", "_color_util_8h" ],
-    [ "CombatController.h", "_combat_controller_8h.html", "_combat_controller_8h" ],
-    [ "CombatGroup.h", "_combat_group_8h.html", "_combat_group_8h" ],
-    [ "CombatGroupDetectionListener.h", "_combat_group_detection_listener_8h.html", "_combat_group_detection_listener_8h" ],
-    [ "CombatInventory.h", "_combat_inventory_8h.html", "_combat_inventory_8h" ],
-    [ "CombatInventoryItem.h", "_combat_inventory_item_8h.html", "_combat_inventory_item_8h" ],
-    [ "CombatInventoryItemMagic.h", "_combat_inventory_item_magic_8h.html", "_combat_inventory_item_magic_8h" ],
-    [ "CombatInventoryItemMagicT.h", "_combat_inventory_item_magic_t_8h.html", "_combat_inventory_item_magic_t_8h" ],
-    [ "CombatInventoryItemPotion.h", "_combat_inventory_item_potion_8h.html", "_combat_inventory_item_potion_8h" ],
-    [ "CombatInventoryItemScroll.h", "_combat_inventory_item_scroll_8h.html", "_combat_inventory_item_scroll_8h" ],
-    [ "CombatInventoryItemShout.h", "_combat_inventory_item_shout_8h.html", "_combat_inventory_item_shout_8h" ],
-    [ "CombatInventoryItemStaff.h", "_combat_inventory_item_staff_8h.html", "_combat_inventory_item_staff_8h" ],
-    [ "CombatMagicCaster.h", "_combat_magic_caster_8h.html", "_combat_magic_caster_8h" ],
-    [ "CombatMagicCasterBoundItem.h", "_combat_magic_caster_bound_item_8h.html", "_combat_magic_caster_bound_item_8h" ],
-    [ "CombatMagicCasterCloak.h", "_combat_magic_caster_cloak_8h.html", "_combat_magic_caster_cloak_8h" ],
-    [ "CombatMagicCasterDisarm.h", "_combat_magic_caster_disarm_8h.html", "_combat_magic_caster_disarm_8h" ],
-    [ "CombatMagicCasterInvisibility.h", "_combat_magic_caster_invisibility_8h.html", "_combat_magic_caster_invisibility_8h" ],
-    [ "CombatMagicCasterLight.h", "_combat_magic_caster_light_8h.html", "_combat_magic_caster_light_8h" ],
-    [ "CombatMagicCasterOffensive.h", "_combat_magic_caster_offensive_8h.html", "_combat_magic_caster_offensive_8h" ],
-    [ "CombatMagicCasterParalyze.h", "_combat_magic_caster_paralyze_8h.html", "_combat_magic_caster_paralyze_8h" ],
-    [ "CombatMagicCasterReanimate.h", "_combat_magic_caster_reanimate_8h.html", "_combat_magic_caster_reanimate_8h" ],
-    [ "CombatMagicCasterRestore.h", "_combat_magic_caster_restore_8h.html", "_combat_magic_caster_restore_8h" ],
-    [ "CombatMagicCasterScript.h", "_combat_magic_caster_script_8h.html", "_combat_magic_caster_script_8h" ],
-    [ "CombatMagicCasterStagger.h", "_combat_magic_caster_stagger_8h.html", "_combat_magic_caster_stagger_8h" ],
-    [ "CombatMagicCasterSummon.h", "_combat_magic_caster_summon_8h.html", "_combat_magic_caster_summon_8h" ],
-    [ "CombatMagicCasterTargetEffect.h", "_combat_magic_caster_target_effect_8h.html", "_combat_magic_caster_target_effect_8h" ],
-    [ "CombatMagicCasterWard.h", "_combat_magic_caster_ward_8h.html", "_combat_magic_caster_ward_8h" ],
-    [ "CombatManager.h", "_combat_manager_8h.html", "_combat_manager_8h" ],
-    [ "CombatObject.h", "_combat_object_8h.html", "_combat_object_8h" ],
-    [ "CombatSearchLocation.h", "_combat_search_location_8h.html", "_combat_search_location_8h" ],
-    [ "CombatState.h", "_combat_state_8h.html", "_combat_state_8h" ],
-    [ "CommandEffect.h", "_command_effect_8h.html", "_command_effect_8h" ],
-    [ "CommandTable.h", "_command_table_8h.html", "_command_table_8h" ],
-    [ "CommonTypeTraits.h", "_common_type_traits_8h.html", "_common_type_traits_8h" ],
-    [ "CompactingStore.h", "_compacting_store_8h.html", "_compacting_store_8h" ],
-    [ "CompiledScriptLoader.h", "_compiled_script_loader_8h.html", "_compiled_script_loader_8h" ],
-    [ "ConcreteFormFactory.h", "_concrete_form_factory_8h.html", "_concrete_form_factory_8h" ],
-    [ "ConcreteObjectFormFactory.h", "_concrete_object_form_factory_8h.html", "_concrete_object_form_factory_8h" ],
-    [ "ConeProjectile.h", "_cone_projectile_8h.html", "_cone_projectile_8h" ],
-    [ "Console.h", "_console_8h.html", "_console_8h" ],
-    [ "ConsoleData.h", "_console_data_8h.html", "_console_data_8h" ],
-    [ "ConsoleLog.h", "_console_log_8h.html", "_console_log_8h" ],
-    [ "ConsoleNativeUIMenu.h", "_console_native_u_i_menu_8h.html", "_console_native_u_i_menu_8h" ],
-    [ "ConstructibleObjectMenu.h", "_constructible_object_menu_8h.html", "_constructible_object_menu_8h" ],
-    [ "ContainerItemExtra.h", "_container_item_extra_8h.html", "_container_item_extra_8h" ],
-    [ "ContainerMenu.h", "_container_menu_8h.html", "_container_menu_8h" ],
-    [ "ControlMap.h", "_control_map_8h.html", "_control_map_8h" ],
-    [ "CraftingMenu.h", "_crafting_menu_8h.html", "_crafting_menu_8h" ],
-    [ "CraftingSubMenu.h", "_crafting_sub_menu_8h.html", "_crafting_sub_menu_8h" ],
-    [ "CRC.h", "_c_r_c_8h.html", "_c_r_c_8h" ],
-    [ "CreationClubMenu.h", "_creation_club_menu_8h.html", "_creation_club_menu_8h" ],
-    [ "CreditsMenu.h", "_credits_menu_8h.html", "_credits_menu_8h" ],
-    [ "Crime.h", "_crime_8h.html", "_crime_8h" ],
-    [ "CriticalHit.h", "_critical_hit_8h.html", "_critical_hit_8h" ],
-    [ "CrosshairPickData.h", "_crosshair_pick_data_8h.html", "_crosshair_pick_data_8h" ],
-    [ "CursorMenu.h", "_cursor_menu_8h.html", "_cursor_menu_8h" ]
+    [ "Calendar.h", "Calendar_8h.html", [
+      [ "Calendar", "classRE_1_1Calendar.html", "classRE_1_1Calendar" ],
+      [ "Days", "structRE_1_1Calendar_1_1Days.html", "structRE_1_1Calendar_1_1Days" ],
+      [ "Months", "structRE_1_1Calendar_1_1Months.html", "structRE_1_1Calendar_1_1Months" ]
+    ] ],
+    [ "CalibrationOptionMenu.h", "CalibrationOptionMenu_8h.html", null ],
+    [ "CalmEffect.h", "CalmEffect_8h.html", [
+      [ "CalmEffect", "classRE_1_1CalmEffect.html", "classRE_1_1CalmEffect" ]
+    ] ],
+    [ "CFilter.h", "CFilter_8h.html", "CFilter_8h" ],
+    [ "Character.h", "Character_8h.html", [
+      [ "Character", "classRE_1_1Character.html", "classRE_1_1Character" ],
+      [ "RecordFlags", "structRE_1_1Character_1_1RecordFlags.html", "structRE_1_1Character_1_1RecordFlags" ]
+    ] ],
+    [ "CharEvent.h", "CharEvent_8h.html", [
+      [ "CharEvent", "classRE_1_1CharEvent.html", "classRE_1_1CharEvent" ]
+    ] ],
+    [ "ChestsLooted.h", "ChestsLooted_8h.html", [
+      [ "ChestsLooted", "structRE_1_1ChestsLooted.html", "structRE_1_1ChestsLooted" ],
+      [ "Event", "structRE_1_1ChestsLooted_1_1Event.html", null ]
+    ] ],
+    [ "CloakEffect.h", "CloakEffect_8h.html", [
+      [ "CloakEffect", "classRE_1_1CloakEffect.html", "classRE_1_1CloakEffect" ]
+    ] ],
+    [ "Clouds.h", "Clouds_8h.html", [
+      [ "Clouds", "classRE_1_1Clouds.html", "classRE_1_1Clouds" ]
+    ] ],
+    [ "CodeTasklet.h", "CodeTasklet_8h.html", [
+      [ "CodeTasklet", "classRE_1_1BSScript_1_1Internal_1_1CodeTasklet.html", "classRE_1_1BSScript_1_1Internal_1_1CodeTasklet" ]
+    ] ],
+    [ "CollisionLayers.h", "CollisionLayers_8h.html", "CollisionLayers_8h" ],
+    [ "Color.h", "Color_8h.html", [
+      [ "Color", "structRE_1_1Color.html", "structRE_1_1Color" ]
+    ] ],
+    [ "ColorUtil.h", "ColorUtil_8h.html", "ColorUtil_8h" ],
+    [ "CombatController.h", "CombatController_8h.html", [
+      [ "CombatController", "classRE_1_1CombatController.html", "classRE_1_1CombatController" ]
+    ] ],
+    [ "CombatGroup.h", "CombatGroup_8h.html", [
+      [ "CombatTarget", "classRE_1_1CombatTarget.html", "classRE_1_1CombatTarget" ],
+      [ "CombatMember", "classRE_1_1CombatMember.html", "classRE_1_1CombatMember" ],
+      [ "CombatSearchDoor", "structRE_1_1CombatSearchDoor.html", "structRE_1_1CombatSearchDoor" ],
+      [ "CombatGroup", "classRE_1_1CombatGroup.html", "classRE_1_1CombatGroup" ]
+    ] ],
+    [ "CombatGroupDetectionListener.h", "CombatGroupDetectionListener_8h.html", [
+      [ "CombatGroupDetectionListener", "classRE_1_1CombatGroupDetectionListener.html", "classRE_1_1CombatGroupDetectionListener" ]
+    ] ],
+    [ "CombatInventory.h", "CombatInventory_8h.html", [
+      [ "CombatEquipment", "structRE_1_1CombatEquipment.html", "structRE_1_1CombatEquipment" ],
+      [ "CombatEquippedItem", "structRE_1_1CombatEquippedItem.html", "structRE_1_1CombatEquippedItem" ],
+      [ "CombatInventory", "classRE_1_1CombatInventory.html", "classRE_1_1CombatInventory" ]
+    ] ],
+    [ "CombatInventoryItem.h", "CombatInventoryItem_8h.html", [
+      [ "CombatInventoryItemResource", "structRE_1_1CombatInventoryItemResource.html", "structRE_1_1CombatInventoryItemResource" ],
+      [ "CombatInventoryItemSlot", "classRE_1_1CombatInventoryItemSlot.html", "classRE_1_1CombatInventoryItemSlot" ],
+      [ "CombatInventoryItem", "classRE_1_1CombatInventoryItem.html", "classRE_1_1CombatInventoryItem" ]
+    ] ],
+    [ "CombatInventoryItemMagic.h", "CombatInventoryItemMagic_8h.html", [
+      [ "CombatInventoryItemMagic", "classRE_1_1CombatInventoryItemMagic.html", "classRE_1_1CombatInventoryItemMagic" ]
+    ] ],
+    [ "CombatInventoryItemMagicT.h", "CombatInventoryItemMagicT_8h.html", [
+      [ "CombatInventoryItemMagicT", "classRE_1_1CombatInventoryItemMagicT.html", "classRE_1_1CombatInventoryItemMagicT" ]
+    ] ],
+    [ "CombatInventoryItemPotion.h", "CombatInventoryItemPotion_8h.html", [
+      [ "CombatInventoryItemPotion", "classRE_1_1CombatInventoryItemPotion.html", "classRE_1_1CombatInventoryItemPotion" ]
+    ] ],
+    [ "CombatInventoryItemScroll.h", "CombatInventoryItemScroll_8h.html", [
+      [ "CombatInventoryItemScroll", "classRE_1_1CombatInventoryItemScroll.html", "classRE_1_1CombatInventoryItemScroll" ]
+    ] ],
+    [ "CombatInventoryItemShout.h", "CombatInventoryItemShout_8h.html", [
+      [ "CombatInventoryItemShout", "classRE_1_1CombatInventoryItemShout.html", "classRE_1_1CombatInventoryItemShout" ]
+    ] ],
+    [ "CombatInventoryItemStaff.h", "CombatInventoryItemStaff_8h.html", [
+      [ "CombatInventoryItemStaff", "classRE_1_1CombatInventoryItemStaff.html", "classRE_1_1CombatInventoryItemStaff" ]
+    ] ],
+    [ "CombatMagicCaster.h", "CombatMagicCaster_8h.html", [
+      [ "CombatMagicCaster", "classRE_1_1CombatMagicCaster.html", "classRE_1_1CombatMagicCaster" ]
+    ] ],
+    [ "CombatMagicCasterBoundItem.h", "CombatMagicCasterBoundItem_8h.html", [
+      [ "CombatMagicCasterBoundItem", "classRE_1_1CombatMagicCasterBoundItem.html", "classRE_1_1CombatMagicCasterBoundItem" ]
+    ] ],
+    [ "CombatMagicCasterCloak.h", "CombatMagicCasterCloak_8h.html", [
+      [ "CombatMagicCasterCloak", "classRE_1_1CombatMagicCasterCloak.html", "classRE_1_1CombatMagicCasterCloak" ]
+    ] ],
+    [ "CombatMagicCasterDisarm.h", "CombatMagicCasterDisarm_8h.html", [
+      [ "CombatMagicCasterDisarm", "classRE_1_1CombatMagicCasterDisarm.html", "classRE_1_1CombatMagicCasterDisarm" ]
+    ] ],
+    [ "CombatMagicCasterInvisibility.h", "CombatMagicCasterInvisibility_8h.html", [
+      [ "CombatMagicCasterInvisibility", "classRE_1_1CombatMagicCasterInvisibility.html", "classRE_1_1CombatMagicCasterInvisibility" ]
+    ] ],
+    [ "CombatMagicCasterLight.h", "CombatMagicCasterLight_8h.html", [
+      [ "CombatMagicCasterLight", "classRE_1_1CombatMagicCasterLight.html", "classRE_1_1CombatMagicCasterLight" ]
+    ] ],
+    [ "CombatMagicCasterOffensive.h", "CombatMagicCasterOffensive_8h.html", [
+      [ "CombatMagicCasterOffensive", "classRE_1_1CombatMagicCasterOffensive.html", "classRE_1_1CombatMagicCasterOffensive" ]
+    ] ],
+    [ "CombatMagicCasterParalyze.h", "CombatMagicCasterParalyze_8h.html", [
+      [ "CombatMagicCasterParalyze", "classRE_1_1CombatMagicCasterParalyze.html", "classRE_1_1CombatMagicCasterParalyze" ]
+    ] ],
+    [ "CombatMagicCasterReanimate.h", "CombatMagicCasterReanimate_8h.html", [
+      [ "CombatMagicCasterReanimate", "classRE_1_1CombatMagicCasterReanimate.html", "classRE_1_1CombatMagicCasterReanimate" ]
+    ] ],
+    [ "CombatMagicCasterRestore.h", "CombatMagicCasterRestore_8h.html", [
+      [ "CombatMagicCasterRestore", "classRE_1_1CombatMagicCasterRestore.html", "classRE_1_1CombatMagicCasterRestore" ]
+    ] ],
+    [ "CombatMagicCasterScript.h", "CombatMagicCasterScript_8h.html", [
+      [ "CombatMagicCasterScript", "classRE_1_1CombatMagicCasterScript.html", "classRE_1_1CombatMagicCasterScript" ]
+    ] ],
+    [ "CombatMagicCasterStagger.h", "CombatMagicCasterStagger_8h.html", [
+      [ "CombatMagicCasterStagger", "classRE_1_1CombatMagicCasterStagger.html", "classRE_1_1CombatMagicCasterStagger" ]
+    ] ],
+    [ "CombatMagicCasterSummon.h", "CombatMagicCasterSummon_8h.html", [
+      [ "CombatMagicCasterSummon", "classRE_1_1CombatMagicCasterSummon.html", "classRE_1_1CombatMagicCasterSummon" ]
+    ] ],
+    [ "CombatMagicCasterTargetEffect.h", "CombatMagicCasterTargetEffect_8h.html", [
+      [ "CombatMagicCasterTargetEffect", "classRE_1_1CombatMagicCasterTargetEffect.html", "classRE_1_1CombatMagicCasterTargetEffect" ]
+    ] ],
+    [ "CombatMagicCasterWard.h", "CombatMagicCasterWard_8h.html", [
+      [ "CombatMagicCasterWard", "classRE_1_1CombatMagicCasterWard.html", "classRE_1_1CombatMagicCasterWard" ]
+    ] ],
+    [ "CombatManager.h", "CombatManager_8h.html", [
+      [ "CombatThreatMap", "structRE_1_1CombatThreatMap.html", "structRE_1_1CombatThreatMap" ],
+      [ "CombatManager", "classRE_1_1CombatManager.html", "classRE_1_1CombatManager" ]
+    ] ],
+    [ "CombatObject.h", "CombatObject_8h.html", [
+      [ "CombatObject", "classRE_1_1CombatObject.html", "classRE_1_1CombatObject" ]
+    ] ],
+    [ "CombatSearchLocation.h", "CombatSearchLocation_8h.html", [
+      [ "CombatSearchLocation", "classRE_1_1CombatSearchLocation.html", "classRE_1_1CombatSearchLocation" ]
+    ] ],
+    [ "CombatState.h", "CombatState_8h.html", [
+      [ "UnreachableLocation", "structRE_1_1UnreachableLocation.html", "structRE_1_1UnreachableLocation" ],
+      [ "CombatState", "classRE_1_1CombatState.html", "classRE_1_1CombatState" ]
+    ] ],
+    [ "CommandEffect.h", "CommandEffect_8h.html", [
+      [ "CommandEffect", "classRE_1_1CommandEffect.html", "classRE_1_1CommandEffect" ]
+    ] ],
+    [ "CommandSummonedEffect.h", "CommandSummonedEffect_8h.html", [
+      [ "CommandSummonedEffect", "classRE_1_1CommandSummonedEffect.html", "classRE_1_1CommandSummonedEffect" ]
+    ] ],
+    [ "CommandTable.h", "CommandTable_8h.html", "CommandTable_8h" ],
+    [ "CommonTypeTraits.h", "CommonTypeTraits_8h.html", "CommonTypeTraits_8h" ],
+    [ "CompactingStore.h", "CompactingStore_8h.html", [
+      [ "Store", "classRE_1_1CompactingStore_1_1Store.html", "classRE_1_1CompactingStore_1_1Store" ]
+    ] ],
+    [ "CompiledScriptLoader.h", "CompiledScriptLoader_8h.html", [
+      [ "CompiledScriptLoader", "classRE_1_1BSScript_1_1CompiledScriptLoader.html", "classRE_1_1BSScript_1_1CompiledScriptLoader" ]
+    ] ],
+    [ "ConcreteFormFactory.h", "ConcreteFormFactory_8h.html", [
+      [ "ConcreteFormFactory", "classRE_1_1ConcreteFormFactory.html", "classRE_1_1ConcreteFormFactory" ]
+    ] ],
+    [ "ConcreteObjectFormFactory.h", "ConcreteObjectFormFactory_8h.html", [
+      [ "ConcreteObjectFormFactory", "classRE_1_1ConcreteObjectFormFactory.html", "classRE_1_1ConcreteObjectFormFactory" ]
+    ] ],
+    [ "ConcussionEffect.h", "ConcussionEffect_8h.html", [
+      [ "ConcussionEffect", "classRE_1_1ConcussionEffect.html", "classRE_1_1ConcussionEffect" ]
+    ] ],
+    [ "ConeProjectile.h", "ConeProjectile_8h.html", [
+      [ "ConeProjectile", "classRE_1_1ConeProjectile.html", "classRE_1_1ConeProjectile" ],
+      [ "RecordFlags", "structRE_1_1ConeProjectile_1_1RecordFlags.html", "structRE_1_1ConeProjectile_1_1RecordFlags" ]
+    ] ],
+    [ "Console.h", "Console_8h.html", [
+      [ "Console", "classRE_1_1Console.html", "classRE_1_1Console" ]
+    ] ],
+    [ "ConsoleData.h", "ConsoleData_8h.html", [
+      [ "ConsoleData", "classRE_1_1ConsoleData.html", "classRE_1_1ConsoleData" ]
+    ] ],
+    [ "ConsoleLog.h", "ConsoleLog_8h.html", [
+      [ "ConsoleLog", "classRE_1_1ConsoleLog.html", "classRE_1_1ConsoleLog" ]
+    ] ],
+    [ "ConsoleNativeUIMenu.h", "ConsoleNativeUIMenu_8h.html", [
+      [ "ConsoleNativeUIMenu", "classRE_1_1ConsoleNativeUIMenu.html", "classRE_1_1ConsoleNativeUIMenu" ]
+    ] ],
+    [ "ConstructibleObjectMenu.h", "ConstructibleObjectMenu_8h.html", [
+      [ "ConstructibleObjectMenu", "classRE_1_1CraftingSubMenus_1_1ConstructibleObjectMenu.html", "classRE_1_1CraftingSubMenus_1_1ConstructibleObjectMenu" ],
+      [ "CreationConfirmCallback", "classRE_1_1CraftingSubMenus_1_1ConstructibleObjectMenu_1_1CreationConfirmCallback.html", "classRE_1_1CraftingSubMenus_1_1ConstructibleObjectMenu_1_1CreationConfirmCallback" ],
+      [ "ItemEntry", "structRE_1_1CraftingSubMenus_1_1ConstructibleObjectMenu_1_1ItemEntry.html", "structRE_1_1CraftingSubMenus_1_1ConstructibleObjectMenu_1_1ItemEntry" ]
+    ] ],
+    [ "ContainerItemExtra.h", "ContainerItemExtra_8h.html", [
+      [ "ContainerItemExtra", "structRE_1_1ContainerItemExtra.html", "structRE_1_1ContainerItemExtra" ],
+      [ "Conditional", "unionRE_1_1ContainerItemExtra_1_1Conditional.html", "unionRE_1_1ContainerItemExtra_1_1Conditional" ]
+    ] ],
+    [ "ContainerMenu.h", "ContainerMenu_8h.html", [
+      [ "ContainerMenu", "classRE_1_1ContainerMenu.html", "classRE_1_1ContainerMenu" ]
+    ] ],
+    [ "ControlMap.h", "ControlMap_8h.html", [
+      [ "ControlMap", "classRE_1_1ControlMap.html", "classRE_1_1ControlMap" ],
+      [ "UserEventMapping", "structRE_1_1ControlMap_1_1UserEventMapping.html", "structRE_1_1ControlMap_1_1UserEventMapping" ],
+      [ "InputContext", "structRE_1_1ControlMap_1_1InputContext.html", "structRE_1_1ControlMap_1_1InputContext" ],
+      [ "LinkedMapping", "structRE_1_1ControlMap_1_1LinkedMapping.html", "structRE_1_1ControlMap_1_1LinkedMapping" ]
+    ] ],
+    [ "CraftingMenu.h", "CraftingMenu_8h.html", [
+      [ "CraftingMenu", "classRE_1_1CraftingMenu.html", "classRE_1_1CraftingMenu" ]
+    ] ],
+    [ "CraftingSubMenu.h", "CraftingSubMenu_8h.html", [
+      [ "CraftingSubMenu", "classRE_1_1CraftingSubMenus_1_1CraftingSubMenu.html", "classRE_1_1CraftingSubMenus_1_1CraftingSubMenu" ]
+    ] ],
+    [ "CRC.h", "CRC_8h.html", "CRC_8h" ],
+    [ "CreationClubMenu.h", "CreationClubMenu_8h.html", [
+      [ "CreationClubMenu", "classRE_1_1CreationClubMenu.html", "classRE_1_1CreationClubMenu" ]
+    ] ],
+    [ "CreditsMenu.h", "CreditsMenu_8h.html", [
+      [ "CreditsMenu", "classRE_1_1CreditsMenu.html", "classRE_1_1CreditsMenu" ]
+    ] ],
+    [ "Crime.h", "Crime_8h.html", "Crime_8h" ],
+    [ "CriticalHit.h", "CriticalHit_8h.html", [
+      [ "CriticalHit", "structRE_1_1CriticalHit.html", "structRE_1_1CriticalHit" ],
+      [ "Event", "structRE_1_1CriticalHit_1_1Event.html", "structRE_1_1CriticalHit_1_1Event" ]
+    ] ],
+    [ "CrosshairPickData.h", "CrosshairPickData_8h.html", "CrosshairPickData_8h" ],
+    [ "CureEffect.h", "CureEffect_8h.html", [
+      [ "CureEffect", "classRE_1_1CureEffect.html", "classRE_1_1CureEffect" ]
+    ] ],
+    [ "CursorMenu.h", "CursorMenu_8h.html", [
+      [ "CursorMenu", "classRE_1_1CursorMenu.html", "classRE_1_1CursorMenu" ]
+    ] ]
 ];

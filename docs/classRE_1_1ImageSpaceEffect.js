@@ -1,0 +1,28 @@
+var classRE_1_1ImageSpaceEffect =
+[
+    [ "~ImageSpaceEffect", "classRE_1_1ImageSpaceEffect.html#ade2af0b6e3b2f6fb778a9b6849285e1c", null ],
+    [ "BorrowTextures", "classRE_1_1ImageSpaceEffect.html#a7f438b555d134822ca20a8de1b984fcc", null ],
+    [ "IsActive", "classRE_1_1ImageSpaceEffect.html#abd470f4573b59c5e671249a53f86d326", null ],
+    [ "Render", "classRE_1_1ImageSpaceEffect.html#ab4b42c9fe7500ba66a75c81f8d776cc8", null ],
+    [ "RestoreRenderStates", "classRE_1_1ImageSpaceEffect.html#a6b1a30431e4b323fb72956a60e3ff7b1", null ],
+    [ "ReturnTextures", "classRE_1_1ImageSpaceEffect.html#a9d37cd952912b51208305233c41967e9", null ],
+    [ "SetRenderStates", "classRE_1_1ImageSpaceEffect.html#ad03b7adbbbc0cc483e6f3c06f7ab2b4a", null ],
+    [ "Setup", "classRE_1_1ImageSpaceEffect.html#a8b179b7ddb26082411396de531c51313", null ],
+    [ "ShutDown", "classRE_1_1ImageSpaceEffect.html#a29814f394f266ae935f41a652abebaee", null ],
+    [ "UpdateParams", "classRE_1_1ImageSpaceEffect.html#a6342c2e66544c5ab0feb8d9275e8c632", null ],
+    [ "active", "classRE_1_1ImageSpaceEffect.html#a441376862d41c862e97e95786b4a4d0e", null ],
+    [ "effectInputs", "classRE_1_1ImageSpaceEffect.html#ac5c515fce47ae49f1effdd4fdaca6f04", null ],
+    [ "effectParams", "classRE_1_1ImageSpaceEffect.html#a6dfe2232af40302507aec77a6d6f3c23", null ],
+    [ "effects", "classRE_1_1ImageSpaceEffect.html#a7ec451ee747338f0a0ef0fb07ddb70bc", null ],
+    [ "effectTextures", "classRE_1_1ImageSpaceEffect.html#a2b524f64ef0a8c7100781deaa9fcbaed", null ],
+    [ "pad0A", "classRE_1_1ImageSpaceEffect.html#a0800ddedce2b5bc8373875a28fbfad14", null ],
+    [ "pad0C", "classRE_1_1ImageSpaceEffect.html#a145185ec1eb3e849a63f1cb2be4fc46c", null ],
+    [ "pad89", "classRE_1_1ImageSpaceEffect.html#ac81b262b37c83a91f77d7f60b9356331", null ],
+    [ "pad8A", "classRE_1_1ImageSpaceEffect.html#a67c64543ac8d2313ee56a9030fd4d134", null ],
+    [ "pad8C", "classRE_1_1ImageSpaceEffect.html#af45bd5dc06d8376d2742f672ead57eb7", null ],
+    [ "RTTI", "classRE_1_1ImageSpaceEffect.html#a2a7f58f37b0a1cbdd93bf212121614db", null ],
+    [ "unk09", "classRE_1_1ImageSpaceEffect.html#a82ce9fc46da2103aa48794b3811d766f", null ],
+    [ "unk70", "classRE_1_1ImageSpaceEffect.html#ac9cd0c4a50de7d0cbf4bf6ea2a3e1e54", null ],
+    [ "unk88", "classRE_1_1ImageSpaceEffect.html#ae96b0fdac76dc71ceca884e3e7e33448", null ],
+    [ "VTABLE", "classRE_1_1ImageSpaceEffect.html#aa9edb1455e90ccf07a312b944ed030b5", null ]
+];

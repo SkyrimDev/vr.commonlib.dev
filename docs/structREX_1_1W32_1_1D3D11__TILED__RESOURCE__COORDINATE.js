@@ -1,0 +1,7 @@
+var structREX_1_1W32_1_1D3D11__TILED__RESOURCE__COORDINATE =
+[
+    [ "subResource", "structREX_1_1W32_1_1D3D11__TILED__RESOURCE__COORDINATE.html#af4235cf4fe93eb8e8fc00f6ab9295ac8", null ],
+    [ "x", "structREX_1_1W32_1_1D3D11__TILED__RESOURCE__COORDINATE.html#ad81f7777122cd6dea29dc60129f93098", null ],
+    [ "y", "structREX_1_1W32_1_1D3D11__TILED__RESOURCE__COORDINATE.html#acaae22eb169e849c08f3511991c6f8e7", null ],
+    [ "z", "structREX_1_1W32_1_1D3D11__TILED__RESOURCE__COORDINATE.html#afe094d5cb60a1443217fe4a0f95781dc", null ]
+];
