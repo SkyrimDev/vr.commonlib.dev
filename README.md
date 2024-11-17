@@ -6,7 +6,7 @@ https://github.com/alandtse/CommonLibVR
 
 > Last Updated: TIMESTAMP_PLACEHOLDER
 >
-> Git revision: https://github.com/CharmedBaryon/CommonLibSSE-NG/commit/COMMIT_SHA_PLACEHOLDER
+> Git revision: https://github.com/alandtse/CommonLibVR/commit/COMMIT_SHA_PLACEHOLDER
 
 # About the VR fork
 
