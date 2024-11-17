@@ -1,0 +1,82 @@
+name: Update Doxygen Docs
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour at minute 0
+  workflow_dispatch:     # Allows manual triggering
+
+env:
+  SUBMODULE_PATH: CommonLibVR
+
+permissions:
+  contents: write
+
+jobs:
+  update-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository including submodules
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          submodules: recursive
+
+      - name: Fetch submodule latest commit
+        run: |
+          cd ${{ env.SUBMODULE_PATH }}
+          git fetch origin
+
+      - name: Check if submodule is up to date
+        id: check_submodule
+        run: |
+          cd ${{ env.SUBMODULE_PATH }}
+          LOCAL_COMMIT=$(git rev-parse HEAD)
+          REMOTE_BRANCH=$(git rev-parse --abbrev-ref origin/HEAD | sed 's@^origin/@@')
+          REMOTE_COMMIT=$(git rev-parse origin/${REMOTE_BRANCH})
+          echo "LOCAL_COMMIT=${LOCAL_COMMIT}"
+          echo "REMOTE_COMMIT=${REMOTE_COMMIT}"
+          if [ "$LOCAL_COMMIT" = "$REMOTE_COMMIT" ]; then
+            echo "Submodule is up to date."
+            echo "UPDATED=false" >> $GITHUB_OUTPUT
+          else
+            echo "Submodule is not up to date."
+            echo "UPDATED=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Update submodule
+        if: steps.check_submodule.outputs.UPDATED == 'true'
+        run: |
+          git submodule update --remote ${{ env.SUBMODULE_PATH }}
+
+      - name: Get submodule latest commit SHA
+        if: steps.check_submodule.outputs.UPDATED == 'true'
+        id: get_submodule_sha
+        run: |
+          SUBMODULE_SHA=$(git submodule status ${{ env.SUBMODULE_PATH }} | awk '{print $1}' | sed 's/^-//;s/^+//;s/^ //')
+          SUBMODULE_SHA_SHORT=$(echo $SUBMODULE_SHA | cut -c1-7)
+          echo "SUBMODULE_SHA=${SUBMODULE_SHA_SHORT}" >> $GITHUB_OUTPUT
+
+      - name: Update README.md placeholders
+        if: steps.check_submodule.outputs.UPDATED == 'true'
+        run: |
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          SUBMODULE_SHA=${{ steps.get_submodule_sha.outputs.SUBMODULE_SHA }}
+          sed -i "s/TIMESTAMP_PLACEHOLDER/${TIMESTAMP}/g" README.md
+          sed -i "s/COMMIT_SHA_PLACEHOLDER/${SUBMODULE_SHA}/g" README.md
+
+      - name: Install Doxygen
+        if: steps.check_submodule.outputs.UPDATED == 'true'
+        run: sudo apt-get install -y doxygen
+
+      - name: Run Doxygen
+        if: steps.check_submodule.outputs.UPDATED == 'true'
+        run: doxygen Doxyfile
+
+      - name: Commit and push changes
+        if: steps.check_submodule.outputs.UPDATED == 'true' && success()
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add ${{ env.SUBMODULE_PATH }} docs/ README.md
+          git commit -m "Updated docs to ${{ steps.get_submodule_sha.outputs.SUBMODULE_SHA }}"
+          git push

@@ -4,6 +4,10 @@ This API documentation for `CommonLibVR` fork of `CommonLibSSE`:
 
 https://github.com/alandtse/CommonLibVR
 
+> Last Updated: TIMESTAMP_PLACEHOLDER
+>
+> Git revision: https://github.com/CharmedBaryon/CommonLibSSE-NG/commit/COMMIT_SHA_PLACEHOLDER
+
 # About the VR fork
 
 Maintained by [Alan Tse](https://github.com/alandtse), this fork supports Skyrim VR.
@@ -86,5 +90,5 @@ Created by [Mrowr Purr](https://github.com/mrowrpurr/) `<3`
 > Do you have a version of CommonLibSSE which other developers use?
 >
 > Do you want a generated website like this one? _Feel free to reach out!_
-> 
+>
 > **THANK YOU TO ALL CommonLibSSE CONTRIBUTORS IN THE COMMUNITY 🎈**
