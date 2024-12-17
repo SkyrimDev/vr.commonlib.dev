@@ -1,8 +1,8 @@
 var classRE_1_1BSSimpleScaleController =
 [
     [ "~BSSimpleScaleController", "classRE_1_1BSSimpleScaleController.html#a25f3bd7bd69792c471f148ba455b1768", null ],
-    [ "CreateClone", "classRE_1_1BSSimpleScaleController.html#a5e5700b3ab2fc6871cbc86a93b81cd84", null ],
-    [ "GetRTTI", "classRE_1_1BSSimpleScaleController.html#ac493aafe6030b9964acdd0cb1be1b0e4", null ],
+    [ "CreateClone", "classRE_1_1BSSimpleScaleController.html#a03624e06345c75ef9a45a93b706cacb7", null ],
+    [ "GetRTTI", "classRE_1_1BSSimpleScaleController.html#a68462d31aa7e0ae94c1f2348d3760e65", null ],
     [ "TargetIsRequiredType", "classRE_1_1BSSimpleScaleController.html#a898a2db3f6a23d875919995fb9ecfd4c", null ],
     [ "Update", "classRE_1_1BSSimpleScaleController.html#a2bcddf1cca111ec96c8bdafc1a861cc1", null ],
     [ "Ni_RTTI", "classRE_1_1BSSimpleScaleController.html#a5081b7bce3af195ddb73bbe88ae4808d", null ],

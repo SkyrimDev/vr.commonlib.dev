@@ -1,9 +1,9 @@
 var classRE_1_1BSMultiBoundShape =
 [
     [ "~BSMultiBoundShape", "classRE_1_1BSMultiBoundShape.html#ae48e697e9951dcd9aff347b382eec286", null ],
-    [ "CreateClone", "classRE_1_1BSMultiBoundShape.html#aa3915302318b85fd4dc9ace1b3ee4198", null ],
+    [ "CreateClone", "classRE_1_1BSMultiBoundShape.html#a1f89067c15131848be0b11d8779ee538", null ],
     [ "GetLength", "classRE_1_1BSMultiBoundShape.html#a67e90b2146f9daec1438aca89834695f", null ],
-    [ "GetRTTI", "classRE_1_1BSMultiBoundShape.html#a083af9eabef84069884ca1148bdae0ef", null ],
+    [ "GetRTTI", "classRE_1_1BSMultiBoundShape.html#a4a53c356f3f76e54dcf6ba662f3e6a7b", null ],
     [ "GetType", "classRE_1_1BSMultiBoundShape.html#a66516b0c11043fa6b70bb9bea621e126", null ],
     [ "GetWithinPoint", "classRE_1_1BSMultiBoundShape.html#aba609ca868eb0909c41495cc839e1856", null ],
     [ "IsEqual", "classRE_1_1BSMultiBoundShape.html#a98a4cc9a05fe4ccbafb30fb4816ccb0b", null ],

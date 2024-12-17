@@ -3,7 +3,7 @@ var classRE_1_1TESLevCharacter =
     [ "ChangeFlags", "structRE_1_1TESLevCharacter_1_1ChangeFlags.html", "structRE_1_1TESLevCharacter_1_1ChangeFlags" ],
     [ "RecordFlags", "structRE_1_1TESLevCharacter_1_1RecordFlags.html", "structRE_1_1TESLevCharacter_1_1RecordFlags" ],
     [ "~TESLevCharacter", "classRE_1_1TESLevCharacter.html#aa36c1e6906a1aaf22f753e8cf6aa2ccf", null ],
-    [ "Clone3D", "classRE_1_1TESLevCharacter.html#a2c8af73ae4de1869e56132ac82f58c33", null ],
+    [ "Clone3D", "classRE_1_1TESLevCharacter.html#a858d963f912c77573341a7711f2ddb31", null ],
     [ "GetCanContainFormsOfType", "classRE_1_1TESLevCharacter.html#a80064dfe0ef9608b37937502e2983cd3", null ],
     [ "GetLevDifferenceMax", "classRE_1_1TESLevCharacter.html#a288685195efaddbcce9739cac183bf69", null ],
     [ "InitItemImpl", "classRE_1_1TESLevCharacter.html#a03c57e10346465fc6dc4786ab61c2e03", null ],

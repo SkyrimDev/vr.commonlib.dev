@@ -1,10 +1,10 @@
 var classRE_1_1NiStringsExtraData =
 [
     [ "~NiStringsExtraData", "classRE_1_1NiStringsExtraData.html#adaad09918c85702a1b573253e8aa4ab3", null ],
-    [ "Create", "classRE_1_1NiStringsExtraData.html#a813a832e2adc1d6ecee216800d18490e", null ],
-    [ "CreateClone", "classRE_1_1NiStringsExtraData.html#ab8f6426c4012b3279a86747a1cf0aaff", null ],
-    [ "GetIndex", "classRE_1_1NiStringsExtraData.html#a7ec528e8f48fa1cbbaee98d818a02f24", null ],
-    [ "GetRTTI", "classRE_1_1NiStringsExtraData.html#a8c110ffd420bd085c7019c5cbd322ae3", null ],
+    [ "Create", "classRE_1_1NiStringsExtraData.html#a1b400615f7b707533248077a362aa6c0", null ],
+    [ "CreateClone", "classRE_1_1NiStringsExtraData.html#a2678da8523eb071dbe94b9748cf0d160", null ],
+    [ "GetIndex", "classRE_1_1NiStringsExtraData.html#afc9f9589f53d44559c5e332715d815e2", null ],
+    [ "GetRTTI", "classRE_1_1NiStringsExtraData.html#a9784d7a4a399ef9fc805d413152a2a6f", null ],
     [ "Insert", "classRE_1_1NiStringsExtraData.html#ac27265535ed2b84da61d9cea71de8413", null ],
     [ "IsEqual", "classRE_1_1NiStringsExtraData.html#a1e0269a596672af07fee44491b3c3b1e", null ],
     [ "LinkObject", "classRE_1_1NiStringsExtraData.html#a74133d47dc737236e841c6011672647b", null ],

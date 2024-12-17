@@ -2,8 +2,8 @@ var classRE_1_1TESTopic =
 [
     [ "RecordFlags", "structRE_1_1TESTopic_1_1RecordFlags.html", "structRE_1_1TESTopic_1_1RecordFlags" ],
     [ "~TESTopic", "classRE_1_1TESTopic.html#aae0775d27c53733addad2063307b92c1", null ],
-    [ "GetFormEditorID", "classRE_1_1TESTopic.html#a6a2ccd4e0ab5d550146392baba1c3663", null ],
-    [ "GetFullName", "classRE_1_1TESTopic.html#ad4a9e166de0c94db2d9f04dfa55d6d3c", null ],
+    [ "GetFormEditorID", "classRE_1_1TESTopic.html#acd246c4877105d744ec07082d35dbe83", null ],
+    [ "GetFullName", "classRE_1_1TESTopic.html#a07224dc9a7c3daa170390ff19636f12d", null ],
     [ "GetFullNameLength", "classRE_1_1TESTopic.html#ab63b70722ee788c817b7fc64f70405c0", null ],
     [ "GetPriority", "classRE_1_1TESTopic.html#aaaecd4d31792c78cc6d72543b36e842d", null ],
     [ "InitItemImpl", "classRE_1_1TESTopic.html#abec2b30bee0c3c6bcba68a8458aee890", null ],

@@ -22,7 +22,10 @@ var classRE_1_1BSLight =
     [ "pad0D4", "classRE_1_1BSLight.html#a14986c687df0124cc29c58e2ba219900", null ],
     [ "pointLight", "classRE_1_1BSLight.html#afa997b80b494ca0900352d7ea2b91283", null ],
     [ "portalGraph", "classRE_1_1BSLight.html#acfb6138305df52281c6499f34cfa8689", null ],
+    [ "portals", "classRE_1_1BSLight.html#a6f59972bedc52d2fe7e302786e2d579b", null ],
+    [ "portalSharedNodes", "classRE_1_1BSLight.html#a203c57a93c823a9c1590f16022c59548", null ],
     [ "portalStrict", "classRE_1_1BSLight.html#a8e03823836896f460c41e8d95deb384a", null ],
+    [ "rooms", "classRE_1_1BSLight.html#a702710c021843b6648cd01713af9ad9f", null ],
     [ "RTTI", "classRE_1_1BSLight.html#a9295f6451d297426f319113ed2245137", null ],
     [ "unk018", "classRE_1_1BSLight.html#ad2184a1aea28ab3fbac1d6ef6c82474d", null ],
     [ "unk038", "classRE_1_1BSLight.html#a4db1a6d0e0d6b1356ef5ee51b7c326fa", null ],
@@ -32,9 +35,6 @@ var classRE_1_1BSLight =
     [ "unk068", "classRE_1_1BSLight.html#abcacf732af71a58ce4e77cdbf4743a93", null ],
     [ "unk070", "classRE_1_1BSLight.html#a73d735d4ea71ffb16e2c98e7a85e9078", null ],
     [ "unk0D0", "classRE_1_1BSLight.html#ab57e82e9faeaa4c03a0825969f9047fd", null ],
-    [ "unk0D8", "classRE_1_1BSLight.html#a6d675534417d2e72c58e83141224ad5d", null ],
-    [ "unk0F0", "classRE_1_1BSLight.html#a95265eaead13f2f72666c2ebc522efc1", null ],
-    [ "unk108", "classRE_1_1BSLight.html#a2858591b1a19e65759a3eacde94f72cc", null ],
     [ "VTABLE", "classRE_1_1BSLight.html#ae09a841ebe45978b2e6e9969d0f771b3", null ],
     [ "worldTranslate", "classRE_1_1BSLight.html#a5482b1275a07a43c53eac6caa8ea8e42", null ]
 ];

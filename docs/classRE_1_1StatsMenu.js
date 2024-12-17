@@ -19,7 +19,7 @@ var classRE_1_1StatsMenu =
     [ "horizontalVelocity", "classRE_1_1StatsMenu.html#a10097ae41b9596396f8776ed4ee35865", null ],
     [ "idle", "classRE_1_1StatsMenu.html#a9d501845716eed288a72b2de27a17c89", null ],
     [ "linesNode", "classRE_1_1StatsMenu.html#a9cc0cdf362b9f55865193ec03e499d58", null ],
-    [ "MENU_NAME", "classRE_1_1StatsMenu.html#a23b07c64790e85716c918effedbb1693", null ],
+    [ "MENU_NAME", "classRE_1_1StatsMenu.html#a3933dfffb9a2a24fbfd201c19fad3514", null ],
     [ "modelHandles", "classRE_1_1StatsMenu.html#a905d01922ea788603545b4370aa1fb66", null ],
     [ "numSelectableTrees", "classRE_1_1StatsMenu.html#a44e7a2fdd8f10dbb3b9ba15365116eef", null ],
     [ "RTTI", "classRE_1_1StatsMenu.html#a9f16eca180c74431cce9c51de6a4d68f", null ],

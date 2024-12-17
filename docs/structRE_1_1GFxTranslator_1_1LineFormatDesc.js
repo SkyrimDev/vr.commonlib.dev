@@ -6,7 +6,7 @@ var structRE_1_1GFxTranslator_1_1LineFormatDesc =
       [ "kCenter", "structRE_1_1GFxTranslator_1_1LineFormatDesc.html#a5a5ed1848a642ec649cf35702f34c814a3a344159c7144969a66c510c5eb0040d", null ],
       [ "kJustify", "structRE_1_1GFxTranslator_1_1LineFormatDesc.html#a5a5ed1848a642ec649cf35702f34c814a6ed268c8ae695cbb3ccc07b11400c98e", null ]
     ] ],
-    [ "alignment", "structRE_1_1GFxTranslator_1_1LineFormatDesc.html#ad2ffbe77083034ca9c2c98852366693b", null ],
+    [ "alignment", "structRE_1_1GFxTranslator_1_1LineFormatDesc.html#ab65cf937dbac94b68cb6bf8e571f3bac", null ],
     [ "currentLineWidth", "structRE_1_1GFxTranslator_1_1LineFormatDesc.html#a50d45e27e4615739f68e25b1372ecf5c", null ],
     [ "dashSymbolWidth", "structRE_1_1GFxTranslator_1_1LineFormatDesc.html#a7cc53366560fe0f258d71543880a1a26", null ],
     [ "lineStartPos", "structRE_1_1GFxTranslator_1_1LineFormatDesc.html#aac2612597e3eda06ece0669ad1b39210", null ],

@@ -1,6 +1,6 @@
 var GMemory_8h =
 [
-    [ "GMemory", "classRE_1_1GMemory.html", "classRE_1_1GMemory" ],
+    [ "RE::GMemory", "classRE_1_1GMemory.html", "classRE_1_1GMemory" ],
     [ "GALLOC", "GMemory_8h.html#adfd49327ba42f65852704480d9f915a5", null ],
     [ "GFC_MEMORY_CHECK_DELETE_NONE", "GMemory_8h.html#a8d3731486578a270a8282d6ba14ce1ef", null ],
     [ "GFC_MEMORY_REDEFINE_NEW", "GMemory_8h.html#ab4e5914c7f8f30060cc06e8f9f09e247", null ],

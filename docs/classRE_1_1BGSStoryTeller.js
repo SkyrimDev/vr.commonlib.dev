@@ -3,7 +3,7 @@ var classRE_1_1BGSStoryTeller =
     [ "~BGSStoryTeller", "classRE_1_1BGSStoryTeller.html#afeca5433feec21c6505a0c180a832fbb", null ],
     [ "BeginShutDownQuest", "classRE_1_1BGSStoryTeller.html#a0b47f4fb17c1efccc5b810f026a9db34", null ],
     [ "BeginStartUpQuest", "classRE_1_1BGSStoryTeller.html#afb5097fee2c776c7a45af9c7681e40a6", null ],
-    [ "GetSingleton", "classRE_1_1BGSStoryTeller.html#ad81fd37b417567ab232b06900b7fe08b", null ],
+    [ "GetSingleton", "classRE_1_1BGSStoryTeller.html#ad45892ae1f6bd8170285b42ac070c370", null ],
     [ "ProcessEvent", "classRE_1_1BGSStoryTeller.html#ac0fd5d9a16561fbabd53a3dd833e44ec", null ],
     [ "greetingTopicQuests", "classRE_1_1BGSStoryTeller.html#ae09c037a1d8237459ef9d8678a7a6b68", null ],
     [ "helloTopicQuests", "classRE_1_1BGSStoryTeller.html#ae256d62cfb4c80dffde6593959c0c3eb", null ],

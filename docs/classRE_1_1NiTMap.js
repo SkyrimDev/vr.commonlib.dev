@@ -7,5 +7,5 @@ var classRE_1_1NiTMap =
     [ "NiTMap", "classRE_1_1NiTMap.html#a6bc0f8b2156d4eaeb1c3f330f193132a", null ],
     [ "~NiTMap", "classRE_1_1NiTMap.html#a55a87d9639cc5fe6961e10ed33a7fe3d", null ],
     [ "free_value", "classRE_1_1NiTMap.html#a035e897927e7ed9e67186fc542b31c3a", null ],
-    [ "malloc_value", "classRE_1_1NiTMap.html#a3b231796c118dc391376d4e82a1eec5b", null ]
+    [ "malloc_value", "classRE_1_1NiTMap.html#a7a0bc72a32c1d6fd4fddf2c0b30d2891", null ]
 ];

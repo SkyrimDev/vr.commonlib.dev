@@ -1,15 +1,12 @@
 var BSTHashMap_8h =
 [
-    [ "BSTScatterTable", "classRE_1_1BSTScatterTable.html", "classRE_1_1BSTScatterTable" ],
-    [ "BSTScatterTableTraits", "classRE_1_1BSTScatterTableTraits.html", "classRE_1_1BSTScatterTableTraits" ],
-    [ "BSTSetTraits", "classRE_1_1BSTSetTraits.html", "classRE_1_1BSTSetTraits" ],
-    [ "BSTScatterTableHeapAllocator", "structRE_1_1BSTScatterTableHeapAllocator.html", "structRE_1_1BSTScatterTableHeapAllocator" ],
-    [ "BSTStaticHashMapBase", "structRE_1_1BSTStaticHashMapBase.html", [
-      [ "Allocator", "structRE_1_1BSTStaticHashMapBase_1_1Allocator.html", "structRE_1_1BSTStaticHashMapBase_1_1Allocator" ]
-    ] ],
-    [ "Allocator", "structRE_1_1BSTStaticHashMapBase_1_1Allocator.html", "structRE_1_1BSTStaticHashMapBase_1_1Allocator" ],
-    [ "BSTScatterTableScrapAllocator", "classRE_1_1BSTScatterTableScrapAllocator.html", "classRE_1_1BSTScatterTableScrapAllocator" ],
-    [ "_dummy_bsthashmap", "BSTHashMap_8h.html#a13bf83039efa8a3cdf02539819c4f32e", null ],
+    [ "RE::BSTScatterTable< Hash, KeyEqual, Traits, Allocator >", "classRE_1_1BSTScatterTable.html", "classRE_1_1BSTScatterTable" ],
+    [ "RE::BSTScatterTableTraits< Key, T >", "classRE_1_1BSTScatterTableTraits.html", "classRE_1_1BSTScatterTableTraits" ],
+    [ "RE::BSTSetTraits< Key >", "classRE_1_1BSTSetTraits.html", "classRE_1_1BSTSetTraits" ],
+    [ "RE::BSTScatterTableHeapAllocator< S, A >", "structRE_1_1BSTScatterTableHeapAllocator.html", "structRE_1_1BSTScatterTableHeapAllocator" ],
+    [ "RE::BSTStaticHashMapBase< N >", "structRE_1_1BSTStaticHashMapBase.html", "structRE_1_1BSTStaticHashMapBase" ],
+    [ "RE::BSTStaticHashMapBase< N >::Allocator< S, A >", "structRE_1_1BSTStaticHashMapBase_1_1Allocator.html", "structRE_1_1BSTStaticHashMapBase_1_1Allocator" ],
+    [ "RE::BSTScatterTableScrapAllocator< S, A >", "classRE_1_1BSTScatterTableScrapAllocator.html", "classRE_1_1BSTScatterTableScrapAllocator" ],
     [ "BSTHashMap", "BSTHashMap_8h.html#a4044a8689d728a63ab3c4faf41b91bc6", null ],
     [ "BSTScrapHashMap", "BSTHashMap_8h.html#a0c5d3fec2f0298f70e0db0dedbd0be21", null ],
     [ "BSTSet", "BSTHashMap_8h.html#ab1411d27849872a8416568582c85ffe0", null ],

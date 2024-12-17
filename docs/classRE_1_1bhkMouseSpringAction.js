@@ -1,8 +1,8 @@
 var classRE_1_1bhkMouseSpringAction =
 [
     [ "~bhkMouseSpringAction", "classRE_1_1bhkMouseSpringAction.html#afe69cb99f69201fdb3928999c12d4cdc", null ],
-    [ "CreateClone", "classRE_1_1bhkMouseSpringAction.html#a30ce96b61d41954ae6af1584f477b6a3", null ],
-    [ "GetRTTI", "classRE_1_1bhkMouseSpringAction.html#a84b8ab4f52971a29ad884204dc0c9a3a", null ],
+    [ "CreateClone", "classRE_1_1bhkMouseSpringAction.html#abec2ba806983e4b6720fbf72a8714e85", null ],
+    [ "GetRTTI", "classRE_1_1bhkMouseSpringAction.html#a7b2e53888643bad5ced5c9030b0703f4", null ],
     [ "LoadBinary", "classRE_1_1bhkMouseSpringAction.html#aedd654bb629a7b299d9dc7fdf072daf7", null ],
     [ "SaveBinary", "classRE_1_1bhkMouseSpringAction.html#a5a47b14a476dc789a0b3e91d00d1e035", null ],
     [ "Unk_2B", "classRE_1_1bhkMouseSpringAction.html#a3112f7af4ccb47765ebf2118053c2129", null ],

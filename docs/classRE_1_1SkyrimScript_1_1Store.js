@@ -4,7 +4,7 @@ var classRE_1_1SkyrimScript_1_1Store =
     [ "Close", "classRE_1_1SkyrimScript_1_1Store.html#aa06401c7f0c9422c9bc4739b786830aa", null ],
     [ "FileIsGood", "classRE_1_1SkyrimScript_1_1Store.html#ac0f68f847e2d7c07c482cbce6b7335ee", null ],
     [ "GetPosition", "classRE_1_1SkyrimScript_1_1Store.html#a8543dc68f25796b5f130a943a26ad282", null ],
-    [ "GetRelPath", "classRE_1_1SkyrimScript_1_1Store.html#aef67d378a73a5274063bb968e95eb660", null ],
+    [ "GetRelPath", "classRE_1_1SkyrimScript_1_1Store.html#a137bc2934a647e6a8d4378edd5e39399", null ],
     [ "GetSize", "classRE_1_1SkyrimScript_1_1Store.html#a2f2fb733a9a4312c09bc2f8bd93cedbe", null ],
     [ "HasOpenFile", "classRE_1_1SkyrimScript_1_1Store.html#a6aab702926adcea7d346fc04a665ff24", null ],
     [ "Open", "classRE_1_1SkyrimScript_1_1Store.html#aec19334309e805ef6cf347825661cbf1", null ],

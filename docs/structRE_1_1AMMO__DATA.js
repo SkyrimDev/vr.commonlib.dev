@@ -7,7 +7,7 @@ var structRE_1_1AMMO__DATA =
       [ "kNonBolt", "structRE_1_1AMMO__DATA.html#a18b25d0dc9cfec839fd0c5bbe17373cca3731d3d966720d2e12728d0b82e050dc", null ]
     ] ],
     [ "damage", "structRE_1_1AMMO__DATA.html#acf913c151f268f43e630c0fd2f5131a5", null ],
-    [ "flags", "structRE_1_1AMMO__DATA.html#a617cdb8c8e9157cde973f9d22209f1b6", null ],
+    [ "flags", "structRE_1_1AMMO__DATA.html#a298db4c243942ef94f66a97271870fd8", null ],
     [ "pa09", "structRE_1_1AMMO__DATA.html#ad64891216ac2d3c907b021c1255fa433", null ],
     [ "pa0A", "structRE_1_1AMMO__DATA.html#a6b9959ccbf4b01ca66dc766d30982f3d", null ],
     [ "projectile", "structRE_1_1AMMO__DATA.html#a13028d117211c8fd7fa69e3566bddaf1", null ]

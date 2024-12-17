@@ -1,6 +1,6 @@
 var classRE_1_1GFxCharacterDef =
 [
-    [ "CreateCharacter", "classRE_1_1GFxCharacterDef.html#a2c292a1f4861c4a5741759c2f6fccbab", null ],
+    [ "CreateCharacter", "classRE_1_1GFxCharacterDef.html#a09c1ce3133d47c21ee7e434196db54ce", null ],
     [ "GetVersion", "classRE_1_1GFxCharacterDef.html#a558e663395d1b817f71f012272eac3c8", null ],
     [ "Unk_04", "classRE_1_1GFxCharacterDef.html#a12fd62eb103bad147a1e573178eaa9ad", null ],
     [ "Unk_05", "classRE_1_1GFxCharacterDef.html#a73f6196f98b6f6e7e763366db1cd20f8", null ],

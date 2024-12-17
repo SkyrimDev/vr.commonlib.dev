@@ -4,7 +4,7 @@ var classRE_1_1PlayerCamera =
     [ "~PlayerCamera", "classRE_1_1PlayerCamera.html#a5ae2754c02c14a340506213d7e826262", null ],
     [ "ForceFirstPerson", "classRE_1_1PlayerCamera.html#aea82a572ff039df2c30ef16a24d1e469", null ],
     [ "ForceThirdPerson", "classRE_1_1PlayerCamera.html#a0d23eef324bab2775883bf891dbcc41c", null ],
-    [ "GetSingleton", "classRE_1_1PlayerCamera.html#aba202d9f089807c7fb9090aaa5412103", null ],
+    [ "GetSingleton", "classRE_1_1PlayerCamera.html#a978bafa5a6dea54e96ab0c299023747b", null ],
     [ "IsInBleedoutMode", "classRE_1_1PlayerCamera.html#abff664f9e152bec325077e3a69d01b08", null ],
     [ "IsInFirstPerson", "classRE_1_1PlayerCamera.html#a8ac590296f5c289aa6ec89a9f55f622f", null ],
     [ "IsInFreeCameraMode", "classRE_1_1PlayerCamera.html#a0434725eabc7b688d366220d58aca34d", null ],

@@ -6,7 +6,7 @@ var structRE_1_1BGSDualCastDataDEF =
       [ "kProjectileInheritScale", "structRE_1_1BGSDualCastDataDEF.html#a39e6a6e8be093bea7b62304fa8a53b01a543b3988abc8571eaf347a3ba54b8df0", null ],
       [ "kExplosionInheritScale", "structRE_1_1BGSDualCastDataDEF.html#a39e6a6e8be093bea7b62304fa8a53b01a1e2e6159d3f83afefd8cc5f0fde9feda", null ]
     ] ],
-    [ "flags", "structRE_1_1BGSDualCastDataDEF.html#a9287c5d372c7e7fc4026137bba2e0dda", null ],
+    [ "flags", "structRE_1_1BGSDualCastDataDEF.html#a2ebdd6bed147514318427721e046ab95", null ],
     [ "pad30", "structRE_1_1BGSDualCastDataDEF.html#ab2d4176938ed0ed2414c7e3422d75cb4", null ],
     [ "pEffectShader", "structRE_1_1BGSDualCastDataDEF.html#a964d264b909397bcc98cacc548cae8ec", null ],
     [ "pExplosion", "structRE_1_1BGSDualCastDataDEF.html#a38fe3f640bca391f174dff71db8c1fb4", null ],

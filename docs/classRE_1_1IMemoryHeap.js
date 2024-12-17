@@ -1,13 +1,13 @@
 var classRE_1_1IMemoryHeap =
 [
     [ "~IMemoryHeap", "classRE_1_1IMemoryHeap.html#a2cdeb367c021cf74649635cef026d11f", null ],
-    [ "Allocate", "classRE_1_1IMemoryHeap.html#a07751c2c62482c9e96be77af75dcdf97", null ],
-    [ "AllocateAlignImpl", "classRE_1_1IMemoryHeap.html#a84e317954f2c3ef4e1f787d48de1de38", null ],
+    [ "Allocate", "classRE_1_1IMemoryHeap.html#afc877424d53a1325115c8e1d2994cca1", null ],
+    [ "AllocateAlignImpl", "classRE_1_1IMemoryHeap.html#a081b8691b42992e3c5d622b743e72d2b", null ],
     [ "ContainsBlockImpl", "classRE_1_1IMemoryHeap.html#adbd288092847bfca59219e1fb424e5cd", null ],
     [ "Deallocate", "classRE_1_1IMemoryHeap.html#abb872b5ad129e8cba70da50892f5f087", null ],
     [ "DeallocateAlignImpl", "classRE_1_1IMemoryHeap.html#a1e0bca4dd5f19f81acd377e857ec6ee1", null ],
     [ "GetHeapStats", "classRE_1_1IMemoryHeap.html#aeab428ab65307abe55047c87948aa1d4", null ],
-    [ "GetName", "classRE_1_1IMemoryHeap.html#acbdea435d16827f382951c8645068adf", null ],
+    [ "GetName", "classRE_1_1IMemoryHeap.html#a7bd4e44e9fa25916a033ae9b1bffbb5f", null ],
     [ "GetPageSize", "classRE_1_1IMemoryHeap.html#a99a537126650750c6d40452cba05a719", null ],
     [ "PointerInHeap", "classRE_1_1IMemoryHeap.html#a9db9734aeec429384cdab5417aeaf70c", null ],
     [ "ShouldTrySmallBlockPools", "classRE_1_1IMemoryHeap.html#a4863e38952f78aa55f3006d23c1b3aae", null ],

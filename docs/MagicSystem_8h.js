@@ -56,8 +56,8 @@ var MagicSystem_8h =
       [ "kBreak", "MagicSystem_8h.html#af6692654f281487ce855de84b71e3f68ab1cec4b5157c0bc35a95b44a2c1a36f0", null ],
       [ "kTotal", "MagicSystem_8h.html#af6692654f281487ce855de84b71e3f68ac5773fa6682ca4cde48ab9f265398de3", null ]
     ] ],
-    [ "GetCannotCastString", "MagicSystem_8h.html#add8dba95598da2e49dc7feb16b1333db", null ],
+    [ "GetCannotCastString", "MagicSystem_8h.html#a88d6e703ef3ea885f9ca5e3e48ecfb2c", null ],
     [ "GetMagicCasterTargetUpdateInterval", "MagicSystem_8h.html#a6c19fe9be822f012139f88dcb1e9caa0", null ],
-    [ "GetMagicFailureSound", "MagicSystem_8h.html#a5cfdc3a88b7564c41546815b29672021", null ],
+    [ "GetMagicFailureSound", "MagicSystem_8h.html#a1df13b8d44219883c1e328d64f1a656c", null ],
     [ "GetMagicItemDescription", "MagicSystem_8h.html#aad286cfe78e12ba5b959acfc1ee1e1ed", null ]
 ];

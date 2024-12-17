@@ -1,7 +1,7 @@
 var classRE_1_1GFxCharacter =
 [
     [ "~GFxCharacter", "classRE_1_1GFxCharacter.html#a61fec545e70ff9d404e4bca6f0cafdc1", null ],
-    [ "GetEnvironment", "classRE_1_1GFxCharacter.html#a38e626dbc23ec0a8b3d92f19018e0649", null ],
+    [ "GetEnvironment", "classRE_1_1GFxCharacter.html#a98e3712e475a8b6f35ba1351f4308f3a", null ],
     [ "Unk_01", "classRE_1_1GFxCharacter.html#affedea6bc4363792f78da036fc9e2971", null ],
     [ "Unk_02", "classRE_1_1GFxCharacter.html#a742a891a26d1fef807878dde91f1711a", null ],
     [ "Unk_03", "classRE_1_1GFxCharacter.html#ae13328e6e3d71bbb0c7d53547b48e8c6", null ],

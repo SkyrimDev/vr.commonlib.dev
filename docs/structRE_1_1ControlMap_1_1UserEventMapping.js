@@ -7,5 +7,5 @@ var structRE_1_1ControlMap_1_1UserEventMapping =
     [ "modifier", "structRE_1_1ControlMap_1_1UserEventMapping.html#a5b6084ef1e5ab6ff25d2a4d4a39aa8b1", null ],
     [ "pad14", "structRE_1_1ControlMap_1_1UserEventMapping.html#af20fc6a9b7807a74857e46ad14168c4a", null ],
     [ "remappable", "structRE_1_1ControlMap_1_1UserEventMapping.html#ae70c337d88d690b7a9df21a54e89f8c8", null ],
-    [ "userEventGroupFlag", "structRE_1_1ControlMap_1_1UserEventMapping.html#a3b2da14c42fa90ca63b372f6fcf514ed", null ]
+    [ "userEventGroupFlag", "structRE_1_1ControlMap_1_1UserEventMapping.html#af4e123defc06daa8f0a1861f50e737a1", null ]
 ];

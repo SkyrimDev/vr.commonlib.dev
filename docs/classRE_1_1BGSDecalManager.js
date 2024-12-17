@@ -1,6 +1,6 @@
 var classRE_1_1BGSDecalManager =
 [
-    [ "GetSingleton", "classRE_1_1BGSDecalManager.html#ae49d385a1d6598a06cd8ea8956dcff21", null ],
+    [ "GetSingleton", "classRE_1_1BGSDecalManager.html#ade8e97298c88174f19829c84e1649ff9", null ],
     [ "camera", "classRE_1_1BGSDecalManager.html#aa9fbc810e9f34e1064ad62ba519ebbd1", null ],
     [ "decalCount", "classRE_1_1BGSDecalManager.html#a48700cd1aed69f8952f4eb4f84a83f3a", null ],
     [ "decalCountCurrentFrame", "classRE_1_1BGSDecalManager.html#af99a9ab659b5ee7b31ecf92c0067acc7", null ],

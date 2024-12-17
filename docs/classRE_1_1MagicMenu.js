@@ -6,7 +6,7 @@ var classRE_1_1MagicMenu =
     [ "ProcessMessage", "classRE_1_1MagicMenu.html#aec00ee5c68f67b1dfaf3d693a42583b9", null ],
     [ "bottomBar", "classRE_1_1MagicMenu.html#ad7d39ea205276266e2bfaa7c45c10a86", null ],
     [ "itemCard", "classRE_1_1MagicMenu.html#a6ef2c44d34006cc8babc6df349245755", null ],
-    [ "MENU_NAME", "classRE_1_1MagicMenu.html#a40d1384195d79dde095146dd65a4c46a", null ],
+    [ "MENU_NAME", "classRE_1_1MagicMenu.html#a49d8f1edafd4ab29276270a6721ce2e7", null ],
     [ "pad61", "classRE_1_1MagicMenu.html#ada70767b7c905b2c84dba47c5359666f", null ],
     [ "pad62", "classRE_1_1MagicMenu.html#a2ad8e30ac4fba57641006b6aa8322859", null ],
     [ "pad64", "classRE_1_1MagicMenu.html#a957020733972058dd69bb2878207badf", null ],

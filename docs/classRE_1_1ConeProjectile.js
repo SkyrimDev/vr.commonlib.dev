@@ -4,7 +4,7 @@ var classRE_1_1ConeProjectile =
     [ "~ConeProjectile", "classRE_1_1ConeProjectile.html#ad08abb21b8e022da5033ef6b78f7b77e", null ],
     [ "AddImpact", "classRE_1_1ConeProjectile.html#a89968b093a4d90e0829229bce1b6d52f", null ],
     [ "FinishLoadGame", "classRE_1_1ConeProjectile.html#ae9931e5b54075165fd2e80a284be7547", null ],
-    [ "GetCollisionShape", "classRE_1_1ConeProjectile.html#a91ac0ca7fd22d986d7b4f72bbd4b9af9", null ],
+    [ "GetCollisionShape", "classRE_1_1ConeProjectile.html#a0ee5f240905e7b27c4c43214d8fa59a0", null ],
     [ "GetHeight", "classRE_1_1ConeProjectile.html#a63324941d0cf28a1be1e7713f3839742", null ],
     [ "GetKillOnCollision", "classRE_1_1ConeProjectile.html#a131895c49566d1248939f1124bf147ab", null ],
     [ "Handle3DLoaded", "classRE_1_1ConeProjectile.html#a037390310024e293d46252242f05db14", null ],

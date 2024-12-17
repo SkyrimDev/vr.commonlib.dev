@@ -3,7 +3,7 @@ var classRE_1_1BSAudioManager =
     [ "BuildSoundDataFromDescriptor", "classRE_1_1BSAudioManager.html#ae889b0d3817773b7e3f3de865f454f8f", null ],
     [ "BuildSoundDataFromEditorID", "classRE_1_1BSAudioManager.html#abc4e12fc8eaf5e0e10e275078310e4e8", null ],
     [ "BuildSoundDataFromFile", "classRE_1_1BSAudioManager.html#a2df92a01ccb15c3fc15343b244de0e2a", null ],
-    [ "GetSingleton", "classRE_1_1BSAudioManager.html#ab560b30f59dcd96b7842a3dfebd5d7bf", null ],
+    [ "GetSingleton", "classRE_1_1BSAudioManager.html#af4372880223ec30e004782538fed54cd", null ],
     [ "Play", "classRE_1_1BSAudioManager.html#a2612de2e8a44a2a3a7be0efee317cc7a", null ],
     [ "Play", "classRE_1_1BSAudioManager.html#a3b9a2144e3e7e3c2466b388048a84a28", null ],
     [ "unk000", "classRE_1_1BSAudioManager.html#ac24deac6d61aee0d7ab0d765aa2fdfc3", null ],

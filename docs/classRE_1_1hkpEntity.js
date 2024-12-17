@@ -15,7 +15,7 @@ var classRE_1_1hkpEntity =
     [ "AddContactListener", "classRE_1_1hkpEntity.html#a3baaa8a25091c1232fa8e97f6955e0aa", null ],
     [ "CalcContentStatistics", "classRE_1_1hkpEntity.html#a6f7f40cad60891d03d96e2a4b0a9ac86", null ],
     [ "DeallocateInternalArrays", "classRE_1_1hkpEntity.html#adb2782f69a13cb2746e871f6f60cc0cf", null ],
-    [ "GetMotionState", "classRE_1_1hkpEntity.html#aa9caf606efb30d918e5d98fe78e723ac", null ],
+    [ "GetMotionState", "classRE_1_1hkpEntity.html#a6d034da645f8252a8ac2d16865df0cbc", null ],
     [ "RemoveContactListener", "classRE_1_1hkpEntity.html#adc95cadc1d7cbeca4e5628042a7d3c92", null ],
     [ "actions", "classRE_1_1hkpEntity.html#a425a829bdc108ca8c197dce5a921afaf", null ],
     [ "autoRemoveLevel", "classRE_1_1hkpEntity.html#a6eb10b3da95f2363052581c98e168880", null ],

@@ -11,7 +11,7 @@ var classRE_1_1BGSColorForm =
     [ "IsPlayable", "classRE_1_1BGSColorForm.html#abcc5a370babab34b1ba43e9e3c4dd725", null ],
     [ "Load", "classRE_1_1BGSColorForm.html#a88c1d46fd9460e444a57c1a57158edba", null ],
     [ "color", "classRE_1_1BGSColorForm.html#a3319d09a87aff0a53d346cf521556c8e", null ],
-    [ "flags", "classRE_1_1BGSColorForm.html#acf41418d53bab716a597602974dc5f80", null ],
+    [ "flags", "classRE_1_1BGSColorForm.html#a08315ab894f795120978cdba6c34edfc", null ],
     [ "FORMTYPE", "classRE_1_1BGSColorForm.html#a5e6a1fce2e621c447811c897846a055b", null ],
     [ "RTTI", "classRE_1_1BGSColorForm.html#a88bdf0f2bcbf4e3351efd511b865a788", null ],
     [ "VTABLE", "classRE_1_1BGSColorForm.html#a256531c389d6568139821cbd2b41f110", null ]

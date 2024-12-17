@@ -5,7 +5,7 @@ var classRE_1_1BGSTalkingActivator =
     [ "~BGSTalkingActivator", "classRE_1_1BGSTalkingActivator.html#ae010b919b6d6639b581ed1311e71136e", null ],
     [ "Activate", "classRE_1_1BGSTalkingActivator.html#a59cef75e61905f44e27464270a4bd789", null ],
     [ "GetDangerous", "classRE_1_1BGSTalkingActivator.html#a4a9105df09ecbd9570c62dab914a515c", null ],
-    [ "GetObjectVoiceType", "classRE_1_1BGSTalkingActivator.html#a9b98053bb287993c018a3b107eea813e", null ],
+    [ "GetObjectVoiceType", "classRE_1_1BGSTalkingActivator.html#aae5a428ade757b714095b74256c13990", null ],
     [ "GetReflectedByAutoWater", "classRE_1_1BGSTalkingActivator.html#a98ffc01a249975ed75e5204560bd7721", null ],
     [ "InitializeData", "classRE_1_1BGSTalkingActivator.html#ad1f96a0481684257b1d1b1751beb6f67", null ],
     [ "InitItemImpl", "classRE_1_1BGSTalkingActivator.html#ad82047906b67324d8c553ddf9d0c4ef7", null ],

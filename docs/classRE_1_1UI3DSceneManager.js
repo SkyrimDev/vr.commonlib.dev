@@ -3,7 +3,7 @@ var classRE_1_1UI3DSceneManager =
     [ "AttachChild", "classRE_1_1UI3DSceneManager.html#aee3b5aec227f73080a8bc63c28c422ea", null ],
     [ "AttachChild", "classRE_1_1UI3DSceneManager.html#aa5999361f4e312cc7a9018155d78f0e9", null ],
     [ "DetachChild", "classRE_1_1UI3DSceneManager.html#a607a9e2b6f878aad7c029cba272f805a", null ],
-    [ "GetSingleton", "classRE_1_1UI3DSceneManager.html#a194780c5a71af64029330a6acdeb588b", null ],
+    [ "GetSingleton", "classRE_1_1UI3DSceneManager.html#afd054b53053a35da925feded8ee1651e", null ],
     [ "SetCameraFOV", "classRE_1_1UI3DSceneManager.html#a7f7ca10b5a8b112c31fc0a6eaeecef2b", null ],
     [ "SetCameraPosition", "classRE_1_1UI3DSceneManager.html#a325613c33f394c89fe9454c87bada80c", null ],
     [ "SetCameraRotate", "classRE_1_1UI3DSceneManager.html#a54b1e43954ecfcc46895b75798c9af92", null ],

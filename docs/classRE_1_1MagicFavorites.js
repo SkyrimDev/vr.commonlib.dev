@@ -1,7 +1,7 @@
 var classRE_1_1MagicFavorites =
 [
     [ "~MagicFavorites", "classRE_1_1MagicFavorites.html#accecfad4238a2fc139ce2ed50eb26662", null ],
-    [ "GetSingleton", "classRE_1_1MagicFavorites.html#a140fe6abc08be4b793d139caf9194b2b", null ],
+    [ "GetSingleton", "classRE_1_1MagicFavorites.html#a2cea83be5579549a16379eccb2276717", null ],
     [ "RemoveFavorite", "classRE_1_1MagicFavorites.html#a5f5105158ae2a786cd079644197a7dcb", null ],
     [ "SetFavorite", "classRE_1_1MagicFavorites.html#a75a3a0da751b53cb29fa0986c51c76c9", null ],
     [ "hotkeys", "classRE_1_1MagicFavorites.html#a8cf2231062f3ee52f6dc3bc6bbb62cec", null ],

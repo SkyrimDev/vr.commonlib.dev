@@ -2,7 +2,7 @@ var classRE_1_1UIBlurManager =
 [
     [ "~UIBlurManager", "classRE_1_1UIBlurManager.html#a1770eab011ad26b429937d8e1b568de1", null ],
     [ "DecrementBlurCount", "classRE_1_1UIBlurManager.html#aa2a502d327f953d2ff9592acee64f55f", null ],
-    [ "GetSingleton", "classRE_1_1UIBlurManager.html#a0a5c76cb7f5297415c28f3781148de7c", null ],
+    [ "GetSingleton", "classRE_1_1UIBlurManager.html#a22dacaddf84bd9c3366595c1813440f1", null ],
     [ "IncrementBlurCount", "classRE_1_1UIBlurManager.html#a0872ee1ee07883b349bf35056d0c0abb", null ],
     [ "blurCount", "classRE_1_1UIBlurManager.html#a503d89cba4fb6ff73adf67eec3392af5", null ],
     [ "blurEffect", "classRE_1_1UIBlurManager.html#aedbf8653ed3474e9625aa2b2a908f51e", null ],

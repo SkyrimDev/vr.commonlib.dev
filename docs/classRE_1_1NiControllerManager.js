@@ -1,10 +1,10 @@
 var classRE_1_1NiControllerManager =
 [
     [ "~NiControllerManager", "classRE_1_1NiControllerManager.html#a624155a843386c1f5c3ca5193e7b11e7", null ],
-    [ "AsNiControllerManager", "classRE_1_1NiControllerManager.html#a110bce3594519134b68d00ec44aa52d0", null ],
-    [ "CreateClone", "classRE_1_1NiControllerManager.html#a4d2041fa618e7a4af75839de684d3cae", null ],
-    [ "GetRTTI", "classRE_1_1NiControllerManager.html#ab5483acd6fc36a9d11a2d6541e54bde6", null ],
-    [ "GetSequenceByName", "classRE_1_1NiControllerManager.html#a8c53a93a426b13eb54a2921c9128409c", null ],
+    [ "AsNiControllerManager", "classRE_1_1NiControllerManager.html#af45271ec422a7ba0797340a1edf9c869", null ],
+    [ "CreateClone", "classRE_1_1NiControllerManager.html#a2bdb9850ae48771b1dea462456dcf611", null ],
+    [ "GetRTTI", "classRE_1_1NiControllerManager.html#aa850b75d499b85bfef577f4244ad018c", null ],
+    [ "GetSequenceByName", "classRE_1_1NiControllerManager.html#afa7c379ff0d9ded6431c47574e573561", null ],
     [ "IsEqual", "classRE_1_1NiControllerManager.html#ae499de09fb8b8b57df314d65a698c66e", null ],
     [ "LinkObject", "classRE_1_1NiControllerManager.html#af9e41e53e494b320b17750dfdb1d4cee", null ],
     [ "LoadBinary", "classRE_1_1NiControllerManager.html#a5826f12c1fb71cef5bd1a0e566b600bc", null ],

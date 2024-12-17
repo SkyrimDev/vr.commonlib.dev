@@ -5,6 +5,6 @@ var structRE_1_1BGSEntryPoint =
     [ "EntryPointParameter", "structRE_1_1BGSEntryPoint_1_1EntryPointParameter.html", "structRE_1_1BGSEntryPoint_1_1EntryPointParameter" ],
     [ "EntryPointParameters", "structRE_1_1BGSEntryPoint_1_1EntryPointParameters.html", "structRE_1_1BGSEntryPoint_1_1EntryPointParameters" ],
     [ "ENTRY_POINT", "structRE_1_1BGSEntryPoint.html#a7e46271a5f0d5d03ee9ce35bf209c7d3", null ],
-    [ "GetEntryPoint", "structRE_1_1BGSEntryPoint.html#a4cbff569c03c4d37f6aec372413f762b", null ],
+    [ "GetEntryPoint", "structRE_1_1BGSEntryPoint.html#ad390736f5445f047cf37d70d87f6f567", null ],
     [ "HandleEntryPoint", "structRE_1_1BGSEntryPoint.html#a8b93ee221778f0d2f1fe99e881cc4680", null ]
 ];

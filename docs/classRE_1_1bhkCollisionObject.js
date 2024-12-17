@@ -1,9 +1,9 @@
 var classRE_1_1bhkCollisionObject =
 [
     [ "~bhkCollisionObject", "classRE_1_1bhkCollisionObject.html#a2aa1913cc6ab3ccc0af7e6437f400629", null ],
-    [ "CreateClone", "classRE_1_1bhkCollisionObject.html#a963a5fca271ab499a3593ccace5ae5e3", null ],
-    [ "GetRigidBody", "classRE_1_1bhkCollisionObject.html#a331d5f42e9207b205c801b93fd683cf8", null ],
-    [ "GetRTTI", "classRE_1_1bhkCollisionObject.html#ace33efc25ebb5b35fbe436428fb83c84", null ],
+    [ "CreateClone", "classRE_1_1bhkCollisionObject.html#a6b2b97b8527fede9d143b12089b6f12e", null ],
+    [ "GetRigidBody", "classRE_1_1bhkCollisionObject.html#a9eae434e11a603e7dc27c50bf1d2630a", null ],
+    [ "GetRTTI", "classRE_1_1bhkCollisionObject.html#a2cae3b37f4ff8a7a57faa5aa72ba2b6c", null ],
     [ "LinkObject", "classRE_1_1bhkCollisionObject.html#a3f33610d9f3c69e0b16267033d487f62", null ],
     [ "LoadBinary", "classRE_1_1bhkCollisionObject.html#a0cf77be9b01ae12d43ec30e353611a1f", null ],
     [ "RegisterStreamables", "classRE_1_1bhkCollisionObject.html#adb6122c150c629c49a8b4dda90c21faf", null ],

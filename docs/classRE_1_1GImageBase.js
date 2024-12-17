@@ -16,7 +16,7 @@ var classRE_1_1GImageBase =
     [ "colorMap", "classRE_1_1GImageBase.html#a0851959b1f274bbb8d0ae40ed0cba2cb", null ],
     [ "data", "classRE_1_1GImageBase.html#a4942d11e3ce770475b8bf8356fe48618", null ],
     [ "dataSize", "classRE_1_1GImageBase.html#a7e316113dfac3caa950cda58d15a6295", null ],
-    [ "format", "classRE_1_1GImageBase.html#a93d60c8cbe491d857261151d72d21889", null ],
+    [ "format", "classRE_1_1GImageBase.html#a848bfbe84b839e428b04c1caa10aa472", null ],
     [ "height", "classRE_1_1GImageBase.html#a18fc753c95888d9cf124f4bc3dcef640", null ],
     [ "mipMapCount", "classRE_1_1GImageBase.html#ad1df513485ab0c600b266388c65293f5", null ],
     [ "pitch", "classRE_1_1GImageBase.html#a59b557f8d033b99154abf32de2ff77f5", null ],

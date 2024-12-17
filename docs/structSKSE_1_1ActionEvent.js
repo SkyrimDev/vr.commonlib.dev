@@ -19,7 +19,7 @@ var structSKSE_1_1ActionEvent =
       [ "kEndSheathe", "structSKSE_1_1ActionEvent.html#af39c9bd3f84c3428d7d33b65fcf1a570a6952fa04c35cac073daf61a5a78e30c6", null ]
     ] ],
     [ "actor", "structSKSE_1_1ActionEvent.html#a96870a793620a1c0664b7cc6155d8140", null ],
-    [ "slot", "structSKSE_1_1ActionEvent.html#a8066801066bc78f8c5850c168919801d", null ],
+    [ "slot", "structSKSE_1_1ActionEvent.html#ae21f0f5be8ca783b1d296426f1c76646", null ],
     [ "sourceForm", "structSKSE_1_1ActionEvent.html#af8b14596edf3f13bced3180093a94181", null ],
-    [ "type", "structSKSE_1_1ActionEvent.html#a1b8ae8faba59454e6ef137b39879a69c", null ]
+    [ "type", "structSKSE_1_1ActionEvent.html#a0355ac82f334626b6b0f5f451773d668", null ]
 ];

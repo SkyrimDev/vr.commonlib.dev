@@ -24,11 +24,11 @@ var classRE_1_1NiAlphaProperty =
       [ "kNever", "classRE_1_1NiAlphaProperty.html#aafb20fa1082b2585b790cb1e39498b8bad06502a3bc7cfe7abb153de330dff930", null ]
     ] ],
     [ "~NiAlphaProperty", "classRE_1_1NiAlphaProperty.html#a9fb326d1903dd82e272fda44a0a84d54", null ],
-    [ "CreateClone", "classRE_1_1NiAlphaProperty.html#a320edf35542cd5ad46cd62c7e6159745", null ],
+    [ "CreateClone", "classRE_1_1NiAlphaProperty.html#acbd0bff6fdd412a78c5182a64c5f1a89", null ],
     [ "GetAlphaBlending", "classRE_1_1NiAlphaProperty.html#a0bc71ecc5e1cf9bc4d03e91619590bc4", null ],
     [ "GetAlphaTesting", "classRE_1_1NiAlphaProperty.html#a7b6cca30f3b4ab4bbda9a99ff857b1c2", null ],
     [ "GetDestBlendMode", "classRE_1_1NiAlphaProperty.html#a6f2da693c911c928f10f48545e509c8b", null ],
-    [ "GetRTTI", "classRE_1_1NiAlphaProperty.html#ae0b8eef2e1b40eae6fbd7c1be93d174e", null ],
+    [ "GetRTTI", "classRE_1_1NiAlphaProperty.html#a999ffb3cdedf79cd40c09b837037212a", null ],
     [ "GetSrcBlendMode", "classRE_1_1NiAlphaProperty.html#a467a86cdc735b89fa70c3249e556fbee", null ],
     [ "GetType", "classRE_1_1NiAlphaProperty.html#a5410becb445e0959d4287b075984b2bd", null ],
     [ "IsEqual", "classRE_1_1NiAlphaProperty.html#ae3f572a18eb5b815a5ef45d2db7c0405", null ],

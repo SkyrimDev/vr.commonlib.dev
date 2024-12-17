@@ -2,9 +2,9 @@ var classRE_1_1bhkWorld =
 [
     [ "~bhkWorld", "classRE_1_1bhkWorld.html#a1f63b43fb9a2dc8118f94a8343e1f929", null ],
     [ "AdjustRefCount", "classRE_1_1bhkWorld.html#a35b5998af6b9952db8f01ea5b830bdcf", null ],
-    [ "GetRTTI", "classRE_1_1bhkWorld.html#ae7deb530028d9e7d8a245f76c439dbc7", null ],
-    [ "GetWorld1", "classRE_1_1bhkWorld.html#a3bc43aa874065984e30135ad3d398c8c", null ],
-    [ "GetWorld2", "classRE_1_1bhkWorld.html#a039dea38fa5580e82d71def6a8d4ba96", null ],
+    [ "GetRTTI", "classRE_1_1bhkWorld.html#a17f8440e6cffb75a161fe12f2672ba79", null ],
+    [ "GetWorld1", "classRE_1_1bhkWorld.html#ad14b0490d4fd76ab5cb6f1de97d3ecc4", null ],
+    [ "GetWorld2", "classRE_1_1bhkWorld.html#a9ea47225d131d9123fef29a5df16d81a", null ],
     [ "GetWorldScale", "classRE_1_1bhkWorld.html#a07ae423ac630fd7c1a57022acb3d86b5", null ],
     [ "GetWorldScaleInverse", "classRE_1_1bhkWorld.html#aecf57ff2651690da838ec3519da032ff", null ],
     [ "InitHavok", "classRE_1_1bhkWorld.html#ab5a1eb275c0cb98e11f5627814b332c7", null ],

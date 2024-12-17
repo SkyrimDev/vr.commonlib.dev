@@ -1,9 +1,9 @@
 var classRE_1_1BGSSaveFormBuffer =
 [
     [ "~BGSSaveFormBuffer", "classRE_1_1BGSSaveFormBuffer.html#a204223c25a74e93eae08e826b995e768", null ],
-    [ "GetActor", "classRE_1_1BGSSaveFormBuffer.html#aa49b2079314156bcf2df86bbab68c1ec", null ],
-    [ "GetForm", "classRE_1_1BGSSaveFormBuffer.html#a968873d8991051e26689a3e280e256aa", null ],
-    [ "GetReference", "classRE_1_1BGSSaveFormBuffer.html#a25430bdb5611a67274ee89ee516f6ca3", null ],
+    [ "GetActor", "classRE_1_1BGSSaveFormBuffer.html#ad146e063b21b72f57547305a4be925e5", null ],
+    [ "GetForm", "classRE_1_1BGSSaveFormBuffer.html#a78e12d14bb46a76ac0b72ecca167ffda", null ],
+    [ "GetReference", "classRE_1_1BGSSaveFormBuffer.html#a363cd8e65f12dd613c01f3e0d380a722", null ],
     [ "form", "classRE_1_1BGSSaveFormBuffer.html#aae66d7b03a33d5468b5cb9bf0b8c492a", null ],
     [ "RTTI", "classRE_1_1BGSSaveFormBuffer.html#a60559064f6d6afa2ba729ccce97acaec", null ],
     [ "unk18", "classRE_1_1BGSSaveFormBuffer.html#a6fd1c64a2c73210df15be67881f095f8", null ],

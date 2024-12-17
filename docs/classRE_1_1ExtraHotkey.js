@@ -7,7 +7,7 @@ var classRE_1_1ExtraHotkey =
     [ "GetType", "classRE_1_1ExtraHotkey.html#a49c97a9eb5991b050d3886fa9793bf43", null ],
     [ "IsNotEqual", "classRE_1_1ExtraHotkey.html#ae6b195f42d40594c7c0d4a0980dabf97", null ],
     [ "EXTRADATATYPE", "classRE_1_1ExtraHotkey.html#a65b59df001b919f23ef151067784caa8", null ],
-    [ "hotkey", "classRE_1_1ExtraHotkey.html#ade733219d92dfbaee41a906ba434f362", null ],
+    [ "hotkey", "classRE_1_1ExtraHotkey.html#a8df2ae254bb2cffb4173399892502e20", null ],
     [ "RTTI", "classRE_1_1ExtraHotkey.html#a3cffa8d074ffc38fc21c84a051940c62", null ],
     [ "unk11", "classRE_1_1ExtraHotkey.html#ab81e20e32a41f2e527f8c178cb4608c5", null ],
     [ "unk12", "classRE_1_1ExtraHotkey.html#a558a1845ecc9b565ce83b6355480a8e8", null ],

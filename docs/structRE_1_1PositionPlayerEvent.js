@@ -7,5 +7,5 @@ var structRE_1_1PositionPlayerEvent =
       [ "kPost", "structRE_1_1PositionPlayerEvent.html#aecc663d2aa0d8a453d776bd5b9127563a35a066c0e13328b52559d97ec54653e1", null ],
       [ "kFinish", "structRE_1_1PositionPlayerEvent.html#aecc663d2aa0d8a453d776bd5b9127563a8941714ff8251a03708025c060c46556", null ]
     ] ],
-    [ "type", "structRE_1_1PositionPlayerEvent.html#ae4f68dce97d6c87b5de4ff31acd2308b", null ]
+    [ "type", "structRE_1_1PositionPlayerEvent.html#a84ea7bd297d9b34423677743c2a225f5", null ]
 ];

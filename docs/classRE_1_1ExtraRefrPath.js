@@ -14,6 +14,6 @@ var classRE_1_1ExtraRefrPath =
     [ "startEuler", "classRE_1_1ExtraRefrPath.html#afc3206a2e3c2a35df4cedc992aa50ba1", null ],
     [ "startPos", "classRE_1_1ExtraRefrPath.html#a344c95f1663ace2a277d86bb6d451384", null ],
     [ "startTangent", "classRE_1_1ExtraRefrPath.html#a42765afe96805b032e4037f43918c675", null ],
-    [ "type", "classRE_1_1ExtraRefrPath.html#a7aae4f3157950e57ae68457408f7efab", null ],
+    [ "type", "classRE_1_1ExtraRefrPath.html#a8acde33128ee889f02531862033828d2", null ],
     [ "VTABLE", "classRE_1_1ExtraRefrPath.html#a74cc8c6206f892230af42171cdacbf1d", null ]
 ];

@@ -12,8 +12,8 @@ var structRE_1_1BGSExplosionData =
       [ "kNoControllerVibration", "structRE_1_1BGSExplosionData.html#a23f509cc2b9a5b8bc7068682eca701eda6ab6412c6efef6cc687e1bab43090295", null ]
     ] ],
     [ "damage", "structRE_1_1BGSExplosionData.html#a25021ed4e7ae5f95df87d2878edb8841", null ],
-    [ "eSoundLevel", "structRE_1_1BGSExplosionData.html#a505eaa5e23b51aad085f81e059353244", null ],
-    [ "flags", "structRE_1_1BGSExplosionData.html#a025207ff7b4707f22bb77dfd08ece548", null ],
+    [ "eSoundLevel", "structRE_1_1BGSExplosionData.html#a21ab927fabf430c210f5e7ca5eb61348", null ],
+    [ "flags", "structRE_1_1BGSExplosionData.html#a0203604febfc34d9b5f4e349c90c28be", null ],
     [ "force", "structRE_1_1BGSExplosionData.html#accd8a6a5c725d2a881e14ea6e93b6e9c", null ],
     [ "imageSpaceRadius", "structRE_1_1BGSExplosionData.html#a915ae9f43768e108dbfc801db1274d1c", null ],
     [ "impactDataSet", "structRE_1_1BGSExplosionData.html#a64d1fc35efd837726a069e6bb3fed260", null ],

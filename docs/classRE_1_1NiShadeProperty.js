@@ -1,9 +1,9 @@
 var classRE_1_1NiShadeProperty =
 [
     [ "~NiShadeProperty", "classRE_1_1NiShadeProperty.html#af5a3573b0a850b2176cbe81b1a06ac97", null ],
-    [ "CreateClone", "classRE_1_1NiShadeProperty.html#a20ddef8386187d24e868ceefa7bcb013", null ],
+    [ "CreateClone", "classRE_1_1NiShadeProperty.html#a3a3e780ee2e48ffbf68e7b6ee7e57df6", null ],
     [ "FinishSetupGeometry", "classRE_1_1NiShadeProperty.html#a812da1d17855169808ef529a3f56256c", null ],
-    [ "GetRTTI", "classRE_1_1NiShadeProperty.html#a9da6c50b3734db7c0ef100d15c5aec59", null ],
+    [ "GetRTTI", "classRE_1_1NiShadeProperty.html#a60d10f2357cdcf06fcf14cbef145afdc", null ],
     [ "GetType", "classRE_1_1NiShadeProperty.html#aff050a55035a7d562b4b80ba0b51a422", null ],
     [ "IsEqual", "classRE_1_1NiShadeProperty.html#acb9f0daf76aa1f777dc527159366d02a", null ],
     [ "LinkObject", "classRE_1_1NiShadeProperty.html#a4e97f41b7bc07c4b1859a49c2482f80e", null ],

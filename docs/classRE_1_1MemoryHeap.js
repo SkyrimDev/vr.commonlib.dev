@@ -1,12 +1,12 @@
 var classRE_1_1MemoryHeap =
 [
     [ "~MemoryHeap", "classRE_1_1MemoryHeap.html#a1f7d2d28ad6423ef16b80eb60a043208", null ],
-    [ "Allocate", "classRE_1_1MemoryHeap.html#a3001e12af120cf1a07821b89eafe66bc", null ],
+    [ "Allocate", "classRE_1_1MemoryHeap.html#abec4d60f081a10ebe4f640276b78bf34", null ],
     [ "CleanExtraPages", "classRE_1_1MemoryHeap.html#a0983861bbcf4e8f9a43b16ce7d8e864d", null ],
     [ "CreateMorePages", "classRE_1_1MemoryHeap.html#afbf3345ed15ebae382e2573f4bc64b7f", null ],
     [ "Deallocate", "classRE_1_1MemoryHeap.html#abf2a7941198c49cdbffb3abec605b146", null ],
     [ "DecommitPages", "classRE_1_1MemoryHeap.html#a86aacc5f1fb498155ad57ec98076e647", null ],
-    [ "DoHeapAllocation", "classRE_1_1MemoryHeap.html#a4c5eef4d51fec5ceb55e03d1aab807fe", null ],
+    [ "DoHeapAllocation", "classRE_1_1MemoryHeap.html#a17ee92c3869ee03edbed4f8aed13ebc1", null ],
     [ "DoHeapFree", "classRE_1_1MemoryHeap.html#a0827d472db7f8b84e31957c6bc9b2376", null ],
     [ "GetHeapStats", "classRE_1_1MemoryHeap.html#a8af0f6223dcc64253e41d76b4ac4da8e", null ],
     [ "Size", "classRE_1_1MemoryHeap.html#ab93e2b1a6ca0df5c9a751bc5f7825a3d", null ],

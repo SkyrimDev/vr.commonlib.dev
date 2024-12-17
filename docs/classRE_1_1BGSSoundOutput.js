@@ -11,7 +11,7 @@ var classRE_1_1BGSSoundOutput =
     [ "~BGSSoundOutput", "classRE_1_1BGSSoundOutput.html#ab1eb0263513817156094b21d59f932a1", null ],
     [ "ClearData", "classRE_1_1BGSSoundOutput.html#a3da8cb00b7d40992e370ee5ba5c824d9", null ],
     [ "DoGetAttenuatesWithDistance", "classRE_1_1BGSSoundOutput.html#aff1f6a7cd2ef961126838beaec25460b", null ],
-    [ "DoGetAttenuation", "classRE_1_1BGSSoundOutput.html#a6d41e5d9a26bb174db653747b80735fc", null ],
+    [ "DoGetAttenuation", "classRE_1_1BGSSoundOutput.html#a79e7bfa2283b0727b851f4e27006b5e7", null ],
     [ "DoGetAudibility", "classRE_1_1BGSSoundOutput.html#aedeeed4941538ad6157b8f6d1908954b", null ],
     [ "DoGetHasSpeakerBias", "classRE_1_1BGSSoundOutput.html#a8320d6ab3ca1e7c01ff6bc438d9e290a", null ],
     [ "DoGetReverbSendLevel", "classRE_1_1BGSSoundOutput.html#a243c33a80f56ad76ce843ab5763cee82", null ],
@@ -26,6 +26,6 @@ var classRE_1_1BGSSoundOutput =
     [ "FORMTYPE", "classRE_1_1BGSSoundOutput.html#a840e951ad72965a48524ef42854d07fd", null ],
     [ "RTTI", "classRE_1_1BGSSoundOutput.html#ae28e4fb03393a4352f570bfb746c16c9", null ],
     [ "speakerOutputs", "classRE_1_1BGSSoundOutput.html#a570368e6511905d187c4a301eddfe12e", null ],
-    [ "type", "classRE_1_1BGSSoundOutput.html#a74a320e1850bdc128bafed0e0442af9f", null ],
+    [ "type", "classRE_1_1BGSSoundOutput.html#a06c1b1c3a40f9b2310bab52579321156", null ],
     [ "VTABLE", "classRE_1_1BGSSoundOutput.html#aa9085b86c0f45436c0f363d5dc16e21e", null ]
 ];

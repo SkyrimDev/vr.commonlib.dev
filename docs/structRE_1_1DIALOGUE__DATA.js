@@ -109,7 +109,7 @@ var structRE_1_1DIALOGUE__DATA =
       [ "kNone", "structRE_1_1DIALOGUE__DATA.html#a58269b35e575b0c97876e37dc51395baa35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kDoAllBeforeRepeating", "structRE_1_1DIALOGUE__DATA.html#a58269b35e575b0c97876e37dc51395baa16e81cf30560c05c76bb2e668a16567e", null ]
     ] ],
-    [ "subtype", "structRE_1_1DIALOGUE__DATA.html#a039c6b7d3d42c11d380bc15d5514f004", null ],
-    [ "topicFlags", "structRE_1_1DIALOGUE__DATA.html#ac3cc8718b0658db45aa1f406f569fc62", null ],
-    [ "type", "structRE_1_1DIALOGUE__DATA.html#ae6818e9f491b73bbf7a1fed8f1f764f3", null ]
+    [ "subtype", "structRE_1_1DIALOGUE__DATA.html#aeb05c9a6e335f1bb0fc5147802c81fc4", null ],
+    [ "topicFlags", "structRE_1_1DIALOGUE__DATA.html#a5caf7fdcee48b280ccd388ad71451476", null ],
+    [ "type", "structRE_1_1DIALOGUE__DATA.html#adf1421b2c8206b19398fdb8972998a7d", null ]
 ];

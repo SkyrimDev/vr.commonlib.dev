@@ -1,8 +1,8 @@
 var classRE_1_1UIMessageQueue =
 [
     [ "AddMessage", "classRE_1_1UIMessageQueue.html#af4ccbc7f8bd7650e09eacb2d2d21d1b8", null ],
-    [ "CreateUIMessageData", "classRE_1_1UIMessageQueue.html#a1a5c6a18a72c52348b1994a2924966bc", null ],
-    [ "GetSingleton", "classRE_1_1UIMessageQueue.html#a39b19d4d28fc3464f12c2d504d8f47b6", null ],
+    [ "CreateUIMessageData", "classRE_1_1UIMessageQueue.html#a4b296f61c51adf689ab6679fd19ccf3a", null ],
+    [ "GetSingleton", "classRE_1_1UIMessageQueue.html#aa049faaf44cc1cf83e57d2ba9118b7c9", null ],
     [ "ProcessCommands", "classRE_1_1UIMessageQueue.html#a80066e72ae0cae381d81cdc0d443af73", null ],
     [ "messagePool", "classRE_1_1UIMessageQueue.html#a796cbd8662ed573ef3a1161c17035ac9", null ],
     [ "messages", "classRE_1_1UIMessageQueue.html#aaf12d768c84841be284b86248d0b86df", null ],

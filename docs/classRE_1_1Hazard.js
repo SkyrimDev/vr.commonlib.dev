@@ -15,7 +15,7 @@ var classRE_1_1Hazard =
     [ "SetActorCause", "classRE_1_1Hazard.html#adb764d2fc194cddbfa3b7eb547864624", null ],
     [ "Unk_A3", "classRE_1_1Hazard.html#a09945204321c1d0ffa2a25c23508552f", null ],
     [ "age", "classRE_1_1Hazard.html#a00b9049e2abdade3e13e2fc599eed870", null ],
-    [ "flags", "classRE_1_1Hazard.html#aee60fa18b51f812299af94a18ef1471d", null ],
+    [ "flags", "classRE_1_1Hazard.html#a01f8fc3de0c987f73f741b166cafa50b", null ],
     [ "FORMTYPE", "classRE_1_1Hazard.html#a1a24d55a6cd07267c728e451d2cfa6a5", null ],
     [ "hazard", "classRE_1_1Hazard.html#a77d8861398845ad219bfb0e71db50d0f", null ],
     [ "hazardDBHandle", "classRE_1_1Hazard.html#a9fd1797b5e72b94df626fe62c8f6da0a", null ],

@@ -1,9 +1,9 @@
 var structRE_1_1hkContainerHeapAllocator_1_1Allocator =
 [
     [ "~Allocator", "structRE_1_1hkContainerHeapAllocator_1_1Allocator.html#aa8f84759950f61687a290229a19cab1e", null ],
-    [ "BlockAlloc", "structRE_1_1hkContainerHeapAllocator_1_1Allocator.html#a389a23fc88133117813ad820be1fbe0f", null ],
+    [ "BlockAlloc", "structRE_1_1hkContainerHeapAllocator_1_1Allocator.html#ad5663010c97c924aef2591a45c51b7fb", null ],
     [ "BlockFree", "structRE_1_1hkContainerHeapAllocator_1_1Allocator.html#ae585c178a5f5105b7a36ec38f5cb8f6b", null ],
-    [ "BufAlloc", "structRE_1_1hkContainerHeapAllocator_1_1Allocator.html#a8c3f74a023dc248b484fd77882242122", null ],
+    [ "BufAlloc", "structRE_1_1hkContainerHeapAllocator_1_1Allocator.html#a3f05480c52d5213bcb6375e4811e5154", null ],
     [ "BufFree", "structRE_1_1hkContainerHeapAllocator_1_1Allocator.html#a59dd8fe9f8a765e8e23014d879031f0e", null ],
     [ "GetAllocatedSize", "structRE_1_1hkContainerHeapAllocator_1_1Allocator.html#a417f4503d901cfc3ff1a9b84ede74e0e", null ],
     [ "GetMemoryStatistics", "structRE_1_1hkContainerHeapAllocator_1_1Allocator.html#a783d930ab1e7d6c78ef7a003206d39de", null ],

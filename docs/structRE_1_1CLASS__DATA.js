@@ -27,7 +27,7 @@ var structRE_1_1CLASS__DATA =
     [ "maximumTrainingLevel", "structRE_1_1CLASS__DATA.html#ad7d97cba1c53968fd99146d4a7d0db0b", null ],
     [ "pad23", "structRE_1_1CLASS__DATA.html#a8e6a9615f91222ef99e555e3a8f409df", null ],
     [ "skillWeights", "structRE_1_1CLASS__DATA.html#afcf7f988dacc09ca5b6556128148edee", null ],
-    [ "teaches", "structRE_1_1CLASS__DATA.html#a5aee57abeef1d765801e3e5e250b0754", null ],
+    [ "teaches", "structRE_1_1CLASS__DATA.html#ac4cb5238f95b54cdcdd7d7644e2971cf", null ],
     [ "unk00", "structRE_1_1CLASS__DATA.html#a362fe4c60a7903585a6bfe7ed063ec33", null ],
     [ "voicePoints", "structRE_1_1CLASS__DATA.html#a9587bd5ac0cb4ecfc52392d47ae87c22", null ]
 ];

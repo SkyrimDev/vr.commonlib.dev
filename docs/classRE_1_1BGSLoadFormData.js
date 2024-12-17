@@ -9,7 +9,7 @@ var classRE_1_1BGSLoadFormData =
       [ "kLoadingPackageFromExtraData", "classRE_1_1BGSLoadFormData.html#aecf7963dcbb09097db0c39af3d3d1735a69a176c247a34a433bc84888295cbb85", null ]
     ] ],
     [ "changeFlags", "classRE_1_1BGSLoadFormData.html#a19579c69be0afdc5b4bd26f16bb680b7", null ],
-    [ "flags", "classRE_1_1BGSLoadFormData.html#a07ef5b8a328171b4955ed322147bbc37", null ],
+    [ "flags", "classRE_1_1BGSLoadFormData.html#ae92f8c7b4738900f922c47f868803a35", null ],
     [ "form", "classRE_1_1BGSLoadFormData.html#a281fb7382df3627d4ea88a48e0ae6e36", null ],
     [ "formID", "classRE_1_1BGSLoadFormData.html#a5cda8d696335064986aed1f271c86082", null ],
     [ "oldChangeFlags", "classRE_1_1BGSLoadFormData.html#a47395c12712b70355537812ee27f13c4", null ],

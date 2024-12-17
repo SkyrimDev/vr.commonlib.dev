@@ -1,7 +1,7 @@
 var classRE_1_1REFREventCallbacks_1_1IEventCallback =
 [
     [ "~IEventCallback", "classRE_1_1REFREventCallbacks_1_1IEventCallback.html#a0cc07735c6749ee7d7ef4a788740fd74", null ],
-    [ "GetType", "classRE_1_1REFREventCallbacks_1_1IEventCallback.html#a98da462660ebdf57b9b02370c293a23a", null ],
+    [ "GetType", "classRE_1_1REFREventCallbacks_1_1IEventCallback.html#ad0a7e69b971313abb0e2c13cd9e2194c", null ],
     [ "Load", "classRE_1_1REFREventCallbacks_1_1IEventCallback.html#a76cccdfd665fc47408699403b73fcc23", null ],
     [ "operator()", "classRE_1_1REFREventCallbacks_1_1IEventCallback.html#ab20941e3f9eb4a06d42ff8e12cf64c95", null ],
     [ "Save", "classRE_1_1REFREventCallbacks_1_1IEventCallback.html#aacffc87900e0ba91d812391beb7d2a3c", null ],

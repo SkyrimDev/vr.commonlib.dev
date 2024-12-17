@@ -5,7 +5,7 @@ var classRE_1_1NiProperty =
       [ "kShade", "classRE_1_1NiProperty.html#aadd8caf830e20d950e7ff2bd71ebecd1a3cb3ab0e24509ca7e7c588f78577488e", null ]
     ] ],
     [ "~NiProperty", "classRE_1_1NiProperty.html#a038f3ccb9cde66f8c22e94241702f2e6", null ],
-    [ "GetRTTI", "classRE_1_1NiProperty.html#aca6819ece9a05fa2829d9e4248f8becb", null ],
+    [ "GetRTTI", "classRE_1_1NiProperty.html#a4954b2044bd1520291460ff19f458f7d", null ],
     [ "GetType", "classRE_1_1NiProperty.html#abaa2e25a7db333d66836cdb647e10374", null ],
     [ "IsEqual", "classRE_1_1NiProperty.html#abd63aa22899fa74774a161cf58aa8964", null ],
     [ "LinkObject", "classRE_1_1NiProperty.html#afc268856c6a40974fc1ed2c5a6c04978", null ],

@@ -1,19 +1,14 @@
 var searchData=
 [
-  ['d3d11_5fprimitive_79081',['D3D11_PRIMITIVE',['../namespaceREX_1_1W32.html#a3ec831fefaa2a7b932a036b5bbeda8d0',1,'REX::W32']]],
-  ['d3d11_5fprimitive_5ftopology_79082',['D3D11_PRIMITIVE_TOPOLOGY',['../namespaceREX_1_1W32.html#a9cd48bf7b3c5e80020b9faec87bb16ea',1,'REX::W32']]],
-  ['d3d11_5frect_79083',['D3D11_RECT',['../namespaceREX_1_1W32.html#af03837226c8095a6e43a1d50276278f6',1,'REX::W32']]],
-  ['d3d11_5fsrv_5fdimension_79084',['D3D11_SRV_DIMENSION',['../namespaceREX_1_1W32.html#a4bffc7b8846958961bb33bf6b0c8e50e',1,'REX::W32']]],
-  ['d3dcolor_79085',['D3DCOLOR',['../namespaceREX_1_1W32.html#a055549ae194207bd15a1643662475f5c',1,'REX::W32']]],
-  ['day_79086',['Day',['../classRE_1_1Calendar.html#ab2b345dec3aab46a47ab232d510ec55f',1,'RE::Calendar']]],
-  ['deactivationclass_79087',['DeactivationClass',['../structRE_1_1hkpSolverInfo.html#a80eaf0768bbedc4aff64c5526f9ff39b',1,'RE::hkpSolverInfo']]],
-  ['decay_5fpointer_5ft_79088',['decay_pointer_t',['../namespaceRE_1_1BSScript.html#a2cf2d2f593bd3d7d4159ca396ca4e763',1,'RE::BSScript']]],
-  ['default_5fobject_79089',['DEFAULT_OBJECT',['../namespaceRE.html#ac0b9dea6a9254d15ec696b7fba8af4c1',1,'RE']]],
-  ['defaultobject_79090',['DefaultObject',['../classRE_1_1BGSDefaultObjectManager.html#afc5b8614c9cd3bdf23d6a8edff0be70f',1,'RE::BGSDefaultObjectManager']]],
-  ['deleter_5ftype_79091',['deleter_type',['../classSKSE_1_1Trampoline.html#a4c29657455258b6e32a819e365cf712b',1,'SKSE::Trampoline']]],
-  ['dialogue_5ftype_79092',['DIALOGUE_TYPE',['../namespaceRE.html#a1c302cfb948692bc80a690707b1b5def',1,'RE']]],
-  ['difference_5ftype_79093',['difference_type',['../structRE_1_1NiTMapBase_1_1iterator__base.html#a95fea5da6cfe52e46b0103d640f3f3e2',1,'RE::NiTMapBase::iterator_base::difference_type()'],['../classRE_1_1BSScript_1_1reference__array_3_01T_00_01std_1_1enable__if__t_3_01std_1_1disjunction__23d79d9a27cfca2e97d3ae8cde9853d7.html#ada9e6aedd278e776cd6a5637593da189',1,'RE::BSScript::reference_array&lt; T, std::enable_if_t&lt; std::disjunction_v&lt; is_builtin_convertible&lt; T &gt;, is_form_pointer&lt; T &gt; &gt; &gt; &gt;::difference_type()'],['../classRE_1_1SimpleArray.html#ae97a9362a61fa9f2b289fa6af2d1a8a6',1,'RE::SimpleArray::difference_type()'],['../classRE_1_1GList_1_1iterator__base.html#a1fcb50daf57a0c397e0b59569a9f16d4',1,'RE::GList::iterator_base::difference_type()'],['../structRE_1_1GList_1_1iterator__traits.html#a36b06b2225512473fad678ec5944b462',1,'RE::GList::iterator_traits::difference_type()'],['../classRE_1_1GList.html#a016620b0031d760012a5dad8ffbb08e9',1,'RE::GList::difference_type()'],['../classRE_1_1FxResponseArgsEx.html#aabaf2d5a98dca8aee03199e02afedd45',1,'RE::FxResponseArgsEx::difference_type()'],['../classRE_1_1ExtraDataList_1_1iterator__base.html#a5b5f66b2dd1a724c1a44d8f3020198ab',1,'RE::ExtraDataList::iterator_base::difference_type()'],['../classRE_1_1BSSimpleList_1_1iterator__base.html#ad5edcea25a7737ac3f18957f59c0ed4e',1,'RE::BSSimpleList::iterator_base::difference_type()'],['../classRE_1_1BSTScatterTable.html#a48c23f8fc494c1c7d23de4f2ac576e8f',1,'RE::BSTScatterTable::difference_type()'],['../classRE_1_1BSScript_1_1Array.html#a05253592dffc23170780f7a3510108e3',1,'RE::BSScript::Array::difference_type()']]],
-  ['dt_79094',['DT',['../classRE_1_1TESQuest.html#a2ec41cd7bfa7993dbaad1de5763a9146',1,'RE::TESQuest']]],
-  ['dxgi_5frgba_79095',['DXGI_RGBA',['../namespaceREX_1_1W32.html#ab21ca0f9ff3a19fae7c15a1522d4baed',1,'REX::W32']]],
-  ['dxgi_5fusage_79096',['DXGI_USAGE',['../namespaceREX_1_1W32.html#ab3b5596bdfed1d18764fcfaca6c3bee6',1,'REX::W32']]]
+  ['effectarchetype_0',['EffectArchetype',['../namespaceRE.html#a2f196c000d63692a29114c2d9bf39291',1,'RE']]],
+  ['element_5ftype_1',['element_type',['../classRE_1_1BSTSmartPointer.html#ac19dae57ff1f1fb49bd5e438f055f315',1,'RE::BSTSmartPointer::element_type'],['../classRE_1_1NiPointer.html#a8b82307d785d625bf38719151d853e0b',1,'RE::NiPointer::element_type'],['../classRE_1_1hkRefPtr.html#a25da8f60f69547733b43793b84e93839',1,'RE::hkRefPtr::element_type'],['../classRE_1_1GPtr.html#a328b477db5f947eca5c5cb722b2925df',1,'RE::GPtr::element_type'],['../classRE_1_1BSTPointerAndFlags.html#ab9d05b772eff53d69c19ff4bb05bc322',1,'RE::BSTPointerAndFlags::element_type']]],
+  ['entry_5fpoint_2',['ENTRY_POINT',['../structRE_1_1BGSEntryPoint.html#a7e46271a5f0d5d03ee9ce35bf209c7d3',1,'RE::BGSEntryPoint']]],
+  ['entry_5fpoint_5ffunction_3',['ENTRY_POINT_FUNCTION',['../structRE_1_1BGSEntryPointFunction.html#a936826396be533d41cbe78a994ea6fb1',1,'RE::BGSEntryPointFunction']]],
+  ['entry_5fpoint_5ffunction_5ftype_4',['ENTRY_POINT_FUNCTION_TYPE',['../structRE_1_1BGSEntryPointFunction.html#a1411ec78768303ca165590510486f907',1,'RE::BGSEntryPointFunction']]],
+  ['entrypoint_5',['EntryPoint',['../classRE_1_1BGSPerkEntry.html#ab0751c4a02acdd3cbd747efeef6ac09f',1,'RE::BGSPerkEntry']]],
+  ['enum_5ftype_6',['enum_type',['../classREX_1_1Enum.html#afb632c295e02e154693d43874f34e86f',1,'REX::Enum::enum_type'],['../classREX_1_1EnumSet.html#af072e2288abb31efec3c862b05e8ab02',1,'REX::EnumSet::enum_type'],['../classSKSE_1_1stl_1_1enumeration.html#a693246aaffe6bda3caed423e2e95cbe1',1,'SKSE::stl::enumeration::enum_type']]],
+  ['eventcallback_7',['eventcallback',['../classSKSE_1_1SerializationInterface.html#a285b0d4148f837cec57079654dd9fdf0',1,'SKSE::SerializationInterface::EventCallback'],['../classSKSE_1_1MessagingInterface.html#aff57da4a305f754bbaa2dd5d9ea52733',1,'SKSE::MessagingInterface::EventCallback']]],
+  ['eventfilter_8',['EventFilter',['../classSKSE_1_1Impl_1_1EventFilterUnique.html#a1e5742f02be25cbe31b37deae967dd95',1,'SKSE::Impl::EventFilterUnique']]],
+  ['eventfilterhandlemap_9',['EventFilterHandleMap',['../classSKSE_1_1Impl_1_1EventFilterUnique.html#a09200da5eb509bf96e664d1f2b6d2a32',1,'SKSE::Impl::EventFilterUnique']]],
+  ['execute_5ft_10',['Execute_t',['../structRE_1_1SCRIPT__FUNCTION.html#ae4822826218fe00d5fd9517e26d23316',1,'RE::SCRIPT_FUNCTION']]]
 ];

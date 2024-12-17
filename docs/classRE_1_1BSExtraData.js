@@ -3,7 +3,7 @@ var classRE_1_1BSExtraData =
     [ "BSExtraData", "classRE_1_1BSExtraData.html#a7693c723e0014173251bd0db51f66e35", null ],
     [ "~BSExtraData", "classRE_1_1BSExtraData.html#a64d5cd26541521b94df46249420b64ab", null ],
     [ "Create", "classRE_1_1BSExtraData.html#afe2a4705159c3ec64b7bd573c337e418", null ],
-    [ "Create", "classRE_1_1BSExtraData.html#aca685a220211ae3dcfd5654fdbf01e43", null ],
+    [ "Create", "classRE_1_1BSExtraData.html#a57c364c3374bcf32be03f7ef75afeee0", null ],
     [ "GetType", "classRE_1_1BSExtraData.html#ad5746052974f55add736796a3cde8c9c", null ],
     [ "IsNotEqual", "classRE_1_1BSExtraData.html#a346fdf30351ea3c929a893c4acd00040", null ],
     [ "operator!=", "classRE_1_1BSExtraData.html#a918e00d690f7347a0da9d74ae2a325c1", null ],

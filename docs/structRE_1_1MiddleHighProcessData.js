@@ -120,7 +120,7 @@ var structRE_1_1MiddleHighProcessData =
     [ "unk32E", "structRE_1_1MiddleHighProcessData.html#ad6825a8652f508ff02f2688c59283cfc", null ],
     [ "unk32F", "structRE_1_1MiddleHighProcessData.html#a25a8f30d54861c20e5c6a6f496c6f780", null ],
     [ "unk330", "structRE_1_1MiddleHighProcessData.html#a8389b8293acd427db51c6bf8fbedb298", null ],
-    [ "update3DModel", "structRE_1_1MiddleHighProcessData.html#ad492b4d84f1b0d794b0648780a59d16a", null ],
+    [ "update3DModel", "structRE_1_1MiddleHighProcessData.html#a55ee5962fa00f727f0a01f449a2743fb", null ],
     [ "wardState", "structRE_1_1MiddleHighProcessData.html#a3508692134fcc1247bb39f6acdcf4695", null ],
     [ "weaponBone", "structRE_1_1MiddleHighProcessData.html#a73219f51d61f9fe0dcc69bce6f6ff01b", null ]
 ];

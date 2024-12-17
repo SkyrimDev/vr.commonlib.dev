@@ -9,7 +9,7 @@ var classRE_1_1BGSEquipType =
     [ "~BGSEquipType", "classRE_1_1BGSEquipType.html#a5d60a9f696da77f06ad38d9ab9d43a74", null ],
     [ "ClearDataComponent", "classRE_1_1BGSEquipType.html#a8ee7f9fe0c8ab268eaf1daef89b6229c", null ],
     [ "CopyComponent", "classRE_1_1BGSEquipType.html#afacb0d7cf795fff5a659f8efb7d991e8", null ],
-    [ "GetEquipSlot", "classRE_1_1BGSEquipType.html#a00689306e5464681aa5392b29da09f9f", null ],
+    [ "GetEquipSlot", "classRE_1_1BGSEquipType.html#a1e4e3b88ee221b3cc99c42e5a2de321e", null ],
     [ "InitializeDataComponent", "classRE_1_1BGSEquipType.html#ad72da33435924c64028fb846ac13ca5a", null ],
     [ "SetEquipSlot", "classRE_1_1BGSEquipType.html#a42da555662126ed9091a8eb003b53d6e", null ],
     [ "equipSlot", "classRE_1_1BGSEquipType.html#a2ebc8192116ecfef3a3031ea5d39a18b", null ],

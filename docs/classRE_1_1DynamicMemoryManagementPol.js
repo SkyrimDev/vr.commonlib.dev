@@ -5,8 +5,8 @@ var classRE_1_1DynamicMemoryManagementPol =
     [ "DynamicMemoryManagementPol", "classRE_1_1DynamicMemoryManagementPol.html#af58f88780d3fc6ec47e1fb65e6bc811a", null ],
     [ "DynamicMemoryManagementPol", "classRE_1_1DynamicMemoryManagementPol.html#a6905b3ca397edebddd387e9d0d4f423c", null ],
     [ "~DynamicMemoryManagementPol", "classRE_1_1DynamicMemoryManagementPol.html#a3bd0885aa0fd644402a3a3fd85482dbe", null ],
-    [ "allocate", "classRE_1_1DynamicMemoryManagementPol.html#ad0d74fc509ecdf6de222e744697f43a5", null ],
+    [ "allocate", "classRE_1_1DynamicMemoryManagementPol.html#a16f168c759dcd9472c3372185dea4452", null ],
     [ "deallocate", "classRE_1_1DynamicMemoryManagementPol.html#a2adae00f6416b2f25ad5745d549e7de2", null ],
-    [ "operator=", "classRE_1_1DynamicMemoryManagementPol.html#ade2685cda8eabb8f9d01723bbd19aaac", null ],
-    [ "operator=", "classRE_1_1DynamicMemoryManagementPol.html#a29825bff217b4158527d1d93309b807c", null ]
+    [ "operator=", "classRE_1_1DynamicMemoryManagementPol.html#af9ffa26f89a16ae118e3a8894a2906c3", null ],
+    [ "operator=", "classRE_1_1DynamicMemoryManagementPol.html#a56830448039f133bcadba778741a2030", null ]
 ];

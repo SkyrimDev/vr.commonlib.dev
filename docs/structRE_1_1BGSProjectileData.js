@@ -35,7 +35,7 @@ var structRE_1_1BGSProjectileData =
     [ "explosionTimer", "structRE_1_1BGSProjectileData.html#ae81795d8e16ea3289e3420f594efc9fc", null ],
     [ "explosionType", "structRE_1_1BGSProjectileData.html#a9a286a27cd199e16e5166d8b9ab5dbf9", null ],
     [ "fadeOutTime", "structRE_1_1BGSProjectileData.html#aa23e630d9d2a9532dd12be1f2ea44c88", null ],
-    [ "flags", "structRE_1_1BGSProjectileData.html#a98859afe002096436086e2ed40d30f0f", null ],
+    [ "flags", "structRE_1_1BGSProjectileData.html#a172aa7553d9b515cba2ab5412475855d", null ],
     [ "force", "structRE_1_1BGSProjectileData.html#a807e5aa264584b9760282e435a7e44a5", null ],
     [ "gravity", "structRE_1_1BGSProjectileData.html#a916c18170caed1ea8f608c75762f5222", null ],
     [ "lifetime", "structRE_1_1BGSProjectileData.html#aa36f90e5042485eeb0a8ba2d0b028131", null ],
@@ -48,5 +48,5 @@ var structRE_1_1BGSProjectileData =
     [ "relaunchInterval", "structRE_1_1BGSProjectileData.html#a246d4909c2a0e0a7659a6ed88a3f4e36", null ],
     [ "speed", "structRE_1_1BGSProjectileData.html#ab93fb08daae040f3271cd73ddda30af2", null ],
     [ "tracerChance", "structRE_1_1BGSProjectileData.html#a4406fac692e6f4ebef7f6b806963ea05", null ],
-    [ "types", "structRE_1_1BGSProjectileData.html#a9a514431fe15f3699f854537329be669", null ]
+    [ "types", "structRE_1_1BGSProjectileData.html#a2998b40b2270c427b58082dd3a377ac7", null ]
 ];

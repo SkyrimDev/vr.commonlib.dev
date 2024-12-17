@@ -6,7 +6,7 @@ var classRE_1_1BGSEntryPointPerkEntry =
     [ "CheckConditionFilters", "classRE_1_1BGSEntryPointPerkEntry.html#aea7e68f9ed8b9765693234f65d97e0c5", null ],
     [ "ClearData", "classRE_1_1BGSEntryPointPerkEntry.html#af91a47d66b93e773e220fd1e6b900dfe", null ],
     [ "GetFunction", "classRE_1_1BGSEntryPointPerkEntry.html#a9e0a945425715c2c43c32d4fc3376c85", null ],
-    [ "GetFunctionData", "classRE_1_1BGSEntryPointPerkEntry.html#a18b91c47057dd94269028bc15de36a71", null ],
+    [ "GetFunctionData", "classRE_1_1BGSEntryPointPerkEntry.html#aa12c498c56582e296add18e57b6587f0", null ],
     [ "GetID", "classRE_1_1BGSEntryPointPerkEntry.html#acff389f593a23913b7295db927d500dc", null ],
     [ "GetType", "classRE_1_1BGSEntryPointPerkEntry.html#a644bfad5158fc4dc3a5e894ad11fb2fb", null ],
     [ "InitItem", "classRE_1_1BGSEntryPointPerkEntry.html#ac25cdfc7d95e8c32efd6a9af7d3ba5f4", null ],

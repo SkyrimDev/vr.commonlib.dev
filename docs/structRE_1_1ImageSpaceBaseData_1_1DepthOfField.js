@@ -21,6 +21,6 @@ var structRE_1_1ImageSpaceBaseData_1_1DepthOfField =
     [ "distance", "structRE_1_1ImageSpaceBaseData_1_1DepthOfField.html#a32ac9a44c611b81e9601a5c30379bbba", null ],
     [ "flags", "structRE_1_1ImageSpaceBaseData_1_1DepthOfField.html#a22069987c6ad1cf3d3a06766a99bb46c", null ],
     [ "range", "structRE_1_1ImageSpaceBaseData_1_1DepthOfField.html#a8786062713641079a07f09c61f32d2e5", null ],
-    [ "skyBlurRadius", "structRE_1_1ImageSpaceBaseData_1_1DepthOfField.html#ad226885b903560077350305a1eb34602", null ],
+    [ "skyBlurRadius", "structRE_1_1ImageSpaceBaseData_1_1DepthOfField.html#a771e91403dd2808310de4e2afa9c3233", null ],
     [ "strength", "structRE_1_1ImageSpaceBaseData_1_1DepthOfField.html#a11c8e72bd474092318dc5a326608384d", null ]
 ];

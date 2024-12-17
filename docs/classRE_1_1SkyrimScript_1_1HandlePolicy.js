@@ -5,7 +5,7 @@ var classRE_1_1SkyrimScript_1_1HandlePolicy =
     [ "EmptyHandle", "classRE_1_1SkyrimScript_1_1HandlePolicy.html#a3b8a8039c1ce86a6610a0efefc285c88", null ],
     [ "GetHandleForObject", "classRE_1_1SkyrimScript_1_1HandlePolicy.html#a3f0b87d8484428d0c6253dc2f09f0c60", null ],
     [ "GetHandleScriptsMovedFrom", "classRE_1_1SkyrimScript_1_1HandlePolicy.html#a6862dee3c93cb24bd3bf838c631a01a6", null ],
-    [ "GetObjectForHandle", "classRE_1_1SkyrimScript_1_1HandlePolicy.html#a07991c83251dfb5a6dac56f4423cc2e5", null ],
+    [ "GetObjectForHandle", "classRE_1_1SkyrimScript_1_1HandlePolicy.html#aa92dbe11b180dcef973e544c846697ea", null ],
     [ "GetParentHandle", "classRE_1_1SkyrimScript_1_1HandlePolicy.html#ad84c2d3c6ddc6cf1a87f0f7e5fc6e93d", null ],
     [ "HandleIsType", "classRE_1_1SkyrimScript_1_1HandlePolicy.html#ad8511e44cb4a0735a7b0ee1200d212e9", null ],
     [ "HasParent", "classRE_1_1SkyrimScript_1_1HandlePolicy.html#a6e1a1f6eb596f859c6428de00ee36890", null ],

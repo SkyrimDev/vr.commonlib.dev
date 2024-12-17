@@ -1,6 +1,6 @@
 var classRE_1_1CombatManager =
 [
-    [ "GetSingleton", "classRE_1_1CombatManager.html#a3a7b0190d7b2ece78bb0b59e86da27a7", null ],
+    [ "GetSingleton", "classRE_1_1CombatManager.html#a46abbdb09d65ad337a14931f031b0d1c", null ],
     [ "combatCount", "classRE_1_1CombatManager.html#a0f4bf4f8177adb715ef46d11c7ab5646", null ],
     [ "combatGroups", "classRE_1_1CombatManager.html#a316126e0ac3e9fa595eea581f9cf734b", null ],
     [ "combatThreatMap", "classRE_1_1CombatManager.html#aed945e172b9ee8a6cb90ab8b39c5a4e1", null ],

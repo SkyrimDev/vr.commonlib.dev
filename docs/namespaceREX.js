@@ -23,5 +23,14 @@ var namespaceREX =
         [ "SCE_PAD_BUTTON_INTERCEPTED", "namespaceREX_1_1PS4.html#a60420ee8f213144bb52bacdec2a5c57bad3afb2f3cf1d407a0b61e2f007a31d1e", null ]
       ] ]
     ] ],
-    [ "W32", "namespaceREX_1_1W32.html", "namespaceREX_1_1W32" ]
+    [ "W32", "namespaceREX_1_1W32.html", "namespaceREX_1_1W32" ],
+    [ "Enum", "classREX_1_1Enum.html", "classREX_1_1Enum" ],
+    [ "EnumSet", "classREX_1_1EnumSet.html", "classREX_1_1EnumSet" ],
+    [ "ISetting", "classREX_1_1ISetting.html", "classREX_1_1ISetting" ],
+    [ "ISettingStore", "classREX_1_1ISettingStore.html", "classREX_1_1ISettingStore" ],
+    [ "Singleton", "classREX_1_1Singleton.html", "classREX_1_1Singleton" ],
+    [ "TSetting", "classREX_1_1TSetting.html", "classREX_1_1TSetting" ],
+    [ "TSettingStore", "classREX_1_1TSettingStore.html", "classREX_1_1TSettingStore" ],
+    [ "Enum", "namespaceREX.html#aa1b918b17e79b2a9d2d70d1f4f3bc8a0", null ],
+    [ "EnumSet", "namespaceREX.html#aa963dd013313335b6dc2ae7634ac7711", null ]
 ];

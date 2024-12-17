@@ -2,9 +2,9 @@ var classRE_1_1bhkWorldObject =
 [
     [ "~bhkWorldObject", "classRE_1_1bhkWorldObject.html#a2608bd2863de556f57ad6ad149aae952", null ],
     [ "AdjustRefCount", "classRE_1_1bhkWorldObject.html#a83b3bae8369ed061d6b7b6b9ec4f67f9", null ],
-    [ "GetRTTI", "classRE_1_1bhkWorldObject.html#a2709708322881460b672be74aba5c987", null ],
-    [ "GetWorld1", "classRE_1_1bhkWorldObject.html#a3aa01f9bd3f76fbe17c3343cc08baede", null ],
-    [ "GetWorld2", "classRE_1_1bhkWorldObject.html#abca8cb5cc1d24b824be12a15e19d9a05", null ],
+    [ "GetRTTI", "classRE_1_1bhkWorldObject.html#a59bab86a1fe1c3bc851adb238cd799c7", null ],
+    [ "GetWorld1", "classRE_1_1bhkWorldObject.html#ae826e557573182984355a2b1bffd3099", null ],
+    [ "GetWorld2", "classRE_1_1bhkWorldObject.html#ac0bc84d64f01ef5b2ed81e6a4fe8de76", null ],
     [ "LinkObject", "classRE_1_1bhkWorldObject.html#acecd7f5e8bb999a4546b5e1ae4d0e399", null ],
     [ "LoadBinary", "classRE_1_1bhkWorldObject.html#a858d85df5e726d9ba34f795b2befc9a4", null ],
     [ "MoveToWorld", "classRE_1_1bhkWorldObject.html#af113d8a68a00dfed53abbc5e425fde03", null ],

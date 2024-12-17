@@ -13,7 +13,7 @@ var classRE_1_1GFxPlaceObject2 =
     ] ],
     [ "~GFxPlaceObject2", "classRE_1_1GFxPlaceObject2.html#a010faecdc3f9a5cb96d2bc4a576693df", null ],
     [ "Execute1", "classRE_1_1GFxPlaceObject2.html#ad7e0877ee1b69cec6da78415be284068", null ],
-    [ "GetClipActions", "classRE_1_1GFxPlaceObject2.html#a3bcfc4b45e8ea1f486e04329aa4f9400", null ],
+    [ "GetClipActions", "classRE_1_1GFxPlaceObject2.html#a72ba5e922090371eaa54eb040a5b9610", null ],
     [ "GetPlaceFlags", "classRE_1_1GFxPlaceObject2.html#a5d57df7760afb8e315c5114d4cd45f29", null ],
     [ "GetPlaceObjectData", "classRE_1_1GFxPlaceObject2.html#a6a494f906c1c32a0d281ea4c49e63f19", null ],
     [ "Unk_06", "classRE_1_1GFxPlaceObject2.html#a8860862435b0d1d5e6ea040b0d429e78", null ],

@@ -1,7 +1,7 @@
 var MaterialIDs_8h =
 [
     [ "MATERIAL_ID", "MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6f", [
-      [ "kNone", "MaterialIDs_8h.html#acb188ad7ca48bb8b3528d814ca060efea35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kNone", "MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kStoneBroken", "MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa8d0c6e45060d4667e88b5ecd8a16ff82", null ],
       [ "kBlockBlade1Hand", "MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa8af2df5daaee817c18bf172897304c13", null ],
       [ "kMeat", "MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6faccc5914116822e3b03b0ef726ed36d7e", null ],

@@ -16,7 +16,7 @@ var classRE_1_1GTexture =
     ] ],
     [ "~GTexture", "classRE_1_1GTexture.html#ac7b9ba2ce7381513ba59532ea89a6fdf", null ],
     [ "AddChangeHandler", "classRE_1_1GTexture.html#ae7ae82157eab636aab8c95e67378bed4", null ],
-    [ "GetRenderer", "classRE_1_1GTexture.html#aa77a7f7cae45a9fae3c1eda5ad89ea7c", null ],
+    [ "GetRenderer", "classRE_1_1GTexture.html#aea75f7a8ca6d27830e968c688962dd51", null ],
     [ "GetUserData", "classRE_1_1GTexture.html#a7f5eadd121b8731bf498a25365918b02", null ],
     [ "InitDynamicTexture", "classRE_1_1GTexture.html#acbfeb9ba25b00c0d608416660b01680f", null ],
     [ "InitTexture", "classRE_1_1GTexture.html#a286cd3a28c43aecc2b441fd15880b364", null ],

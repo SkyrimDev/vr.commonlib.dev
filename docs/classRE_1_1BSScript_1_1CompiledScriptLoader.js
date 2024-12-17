@@ -1,7 +1,7 @@
 var classRE_1_1BSScript_1_1CompiledScriptLoader =
 [
     [ "~CompiledScriptLoader", "classRE_1_1BSScript_1_1CompiledScriptLoader.html#aa1bcc2b65e4412fde44fe9d2bf0d75d0", null ],
-    [ "Clone", "classRE_1_1BSScript_1_1CompiledScriptLoader.html#aee1433a45c92c71f78f12f03496ee13d", null ],
+    [ "Clone", "classRE_1_1BSScript_1_1CompiledScriptLoader.html#a417e8dbe99d97b661f492f0dee18f215", null ],
     [ "GetClass", "classRE_1_1BSScript_1_1CompiledScriptLoader.html#a17add1338acfd8b2c95a41351f35972b", null ],
     [ "SetScriptStore", "classRE_1_1BSScript_1_1CompiledScriptLoader.html#ab74ec7d86462cb4bc14683e125a004c6", null ],
     [ "errorHandler", "classRE_1_1BSScript_1_1CompiledScriptLoader.html#afb8784687ddbb78475a4efc5b2cd3596", null ],

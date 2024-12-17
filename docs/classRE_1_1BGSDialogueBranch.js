@@ -12,7 +12,7 @@ var classRE_1_1BGSDialogueBranch =
     [ "InitializeData", "classRE_1_1BGSDialogueBranch.html#a0ede1915f8f737513c2fda5930e1ec5b", null ],
     [ "InitItemImpl", "classRE_1_1BGSDialogueBranch.html#abbd23a17d81ac175bd6d384b07d8d937", null ],
     [ "Load", "classRE_1_1BGSDialogueBranch.html#a55e7378142ded6f472aa354b57c92aaf", null ],
-    [ "flags", "classRE_1_1BGSDialogueBranch.html#a3bf1fda9761db154e46ab21c039f98b3", null ],
+    [ "flags", "classRE_1_1BGSDialogueBranch.html#a3c281e7cedbbbafb22d433af4469b117", null ],
     [ "FORMTYPE", "classRE_1_1BGSDialogueBranch.html#a91cf1fe7499d3c0b58d6c2d0fe266806", null ],
     [ "pad24", "classRE_1_1BGSDialogueBranch.html#ab7024bc9e483b7d7cc4151ca6292849b", null ],
     [ "pad3C", "classRE_1_1BGSDialogueBranch.html#a3e14fdca16a8e0f43e8a8a7f787090d1", null ],

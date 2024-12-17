@@ -4,7 +4,7 @@ var classRE_1_1hkpPhantom =
     [ "AddOverlappingCollidable", "classRE_1_1hkpPhantom.html#a640ff4e1d39591dc5a6ae760f2d4bdff", null ],
     [ "CalcAabb", "classRE_1_1hkpPhantom.html#a399cd01d790e66d27ea0f701d114e3d1", null ],
     [ "CalcContentStatistics", "classRE_1_1hkpPhantom.html#aa6ed0329ec572b9eba2861ec437983e6", null ],
-    [ "Clone", "classRE_1_1hkpPhantom.html#ae1e4bb1a08492c707a5a07fd55a500ab", null ],
+    [ "Clone", "classRE_1_1hkpPhantom.html#afa85f54a0c13959e5a1b44e3ca24389d", null ],
     [ "DeallocateInternalArrays", "classRE_1_1hkpPhantom.html#a78f2f0302d19164ef8b80e5886161f72", null ],
     [ "EnsureDeterministicOrder", "classRE_1_1hkpPhantom.html#a30eef4b40f23f4b3c4510ad5a74b8291", null ],
     [ "GetType", "classRE_1_1hkpPhantom.html#aa0cb5c1cbaee363475d3cdc0534983d6", null ],

@@ -6,7 +6,7 @@ var classRE_1_1ModManagerMenu =
     [ "CanProcess", "classRE_1_1ModManagerMenu.html#a77d176c73584f8302fbc2a939c9c7906", null ],
     [ "ProcessMessage", "classRE_1_1ModManagerMenu.html#a1b9cb705dd6317e3494fc8822f035631", null ],
     [ "ProcessThumbstick", "classRE_1_1ModManagerMenu.html#a8f0def77e87dbca09b652e63f4f31145", null ],
-    [ "MENU_NAME", "classRE_1_1ModManagerMenu.html#ad08604ca4d9ebdb9e686c7992a3ded8a", null ],
+    [ "MENU_NAME", "classRE_1_1ModManagerMenu.html#a950881c9fe0989c56ee06c9ba6ead87b", null ],
     [ "pad51", "classRE_1_1ModManagerMenu.html#a3751898032248130d7f4c62b9ef334cc", null ],
     [ "pad52", "classRE_1_1ModManagerMenu.html#aaa57fff4c316cdbd756931e850e9b9a3", null ],
     [ "pad54", "classRE_1_1ModManagerMenu.html#a125ec53169a030656b50ea5dfb140b61", null ],

@@ -19,6 +19,6 @@ var structRE_1_1TOPIC__INFO__DATA =
       [ "kSpendsFavorPoints", "structRE_1_1TOPIC__INFO__DATA.html#a24f0c8fdfa201e5600872d8863374b01ae2b513b3f3eba915dbc8fc27633c6d77", null ]
     ] ],
     [ "GetResetHours", "structRE_1_1TOPIC__INFO__DATA.html#afb054ef56be79cc7fd6a6039d1619aa9", null ],
-    [ "flags", "structRE_1_1TOPIC__INFO__DATA.html#ab1edc4a2ec789c92896eebcd16cf8066", null ],
+    [ "flags", "structRE_1_1TOPIC__INFO__DATA.html#a2f8ec6288ae4ee22c2e6439c8976f073", null ],
     [ "timeUntilReset", "structRE_1_1TOPIC__INFO__DATA.html#a2b66eb09a7106f4e81cae02ea689ea84", null ]
 ];

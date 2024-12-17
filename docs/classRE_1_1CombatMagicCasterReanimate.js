@@ -3,7 +3,7 @@ var classRE_1_1CombatMagicCasterReanimate =
     [ "~CombatMagicCasterReanimate", "classRE_1_1CombatMagicCasterReanimate.html#a60f6fc5a1faa39b434c98a56304d642f", null ],
     [ "CheckStartCast", "classRE_1_1CombatMagicCasterReanimate.html#a2c2b62c9708a6e63eac58032a26aff08", null ],
     [ "GetCategory", "classRE_1_1CombatMagicCasterReanimate.html#aa5afc6f5342859aba902e15adcddb5f5", null ],
-    [ "GetMagicTarget", "classRE_1_1CombatMagicCasterReanimate.html#a976734e6fd496e62c216ce07f52563c7", null ],
+    [ "GetMagicTarget", "classRE_1_1CombatMagicCasterReanimate.html#a506d529fb2c2d80d71d50edf1bf148f9", null ],
     [ "GetObjectType", "classRE_1_1CombatMagicCasterReanimate.html#ad41a490b20690a711b3fd9ebeefa38a0", null ],
     [ "LoadGame", "classRE_1_1CombatMagicCasterReanimate.html#a5f5084cbae685ec4b110d3192066b40b", null ],
     [ "NotifyStopCast", "classRE_1_1CombatMagicCasterReanimate.html#a62311c0a742b49cf86e84bc97263ddbc", null ],

@@ -11,6 +11,6 @@ var structRE_1_1BSSystemFileStorage_1_1Attributes =
       [ "kUnkFlag", "structRE_1_1BSSystemFileStorage_1_1Attributes.html#a5ae16c88f0b3816ef828a346a55132a8a170b53250ee7901dffc0e8277787471a", null ]
     ] ],
     [ "handle", "structRE_1_1BSSystemFileStorage_1_1Attributes.html#a01d84bf29a9497d54deeeb0735c803b7", null ],
-    [ "lastError", "structRE_1_1BSSystemFileStorage_1_1Attributes.html#af1cd2fbe7ae968e648ebd4bbd3c1c3d1", null ],
+    [ "lastError", "structRE_1_1BSSystemFileStorage_1_1Attributes.html#abaf16402462f36bfdef1d960a6f65bc0", null ],
     [ "pad24", "structRE_1_1BSSystemFileStorage_1_1Attributes.html#ad1ca37a488dc6751ae26304b53d0c062", null ]
 ];

@@ -10,6 +10,7 @@ var structRE_1_1GHashNode =
     [ "GHashNode", "structRE_1_1GHashNode.html#a0e49014a5efe04a274f23ab41549787c", null ],
     [ "CalcHash", "structRE_1_1GHashNode.html#ac97e735dda6435301254d29a6ae06880", null ],
     [ "GetHash", "structRE_1_1GHashNode.html#a37869103117ab1fc8c30853e3937314f", null ],
+    [ "operator=", "structRE_1_1GHashNode.html#a8b549d1f8579d7076589cba8b87f9444", null ],
     [ "operator=", "structRE_1_1GHashNode.html#ae6c69705f5d3dbd6c5c4e7b0e06de262", null ],
     [ "operator==", "structRE_1_1GHashNode.html#a1912ea0dc9fa1e463b532720e0afaf67", null ],
     [ "first", "structRE_1_1GHashNode.html#ad2be61076709a158154459984e011abd", null ],

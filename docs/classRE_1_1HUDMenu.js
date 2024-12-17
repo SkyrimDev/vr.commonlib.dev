@@ -11,7 +11,7 @@ var classRE_1_1HUDMenu =
     [ "UpdateCrosshairMagicTarget", "classRE_1_1HUDMenu.html#a20a18bcf36214f275a163a615d3a39f1", null ],
     [ "health", "classRE_1_1HUDMenu.html#ae2ab7fbdda858c4025e907511ea2d666", null ],
     [ "magicka", "classRE_1_1HUDMenu.html#a054ed3784307d6756e65fa182a13e258", null ],
-    [ "MENU_NAME", "classRE_1_1HUDMenu.html#a0d0ce31dc29965c2292f5adaa4cad312", null ],
+    [ "MENU_NAME", "classRE_1_1HUDMenu.html#ad344200c98c0d9d7cf8f83d51bf6fa23", null ],
     [ "objects", "classRE_1_1HUDMenu.html#a07f70d1b51d0a6f3481483be059161fa", null ],
     [ "root", "classRE_1_1HUDMenu.html#a8694a41d27b46df649de6ac902575e22", null ],
     [ "RTTI", "classRE_1_1HUDMenu.html#ae9910e7f97bff2d46702cde2e57682c3", null ],

@@ -12,7 +12,7 @@ var classRE_1_1BGSEquipSlot =
     [ "InitializeData", "classRE_1_1BGSEquipSlot.html#a84623e5924f3de9bfdcbb9e9c2209746", null ],
     [ "InitItemImpl", "classRE_1_1BGSEquipSlot.html#a78604941aba2379a40476d2910a8d636", null ],
     [ "Load", "classRE_1_1BGSEquipSlot.html#a2c3ae067b2d608f4cfb6b8b1d573ede1", null ],
-    [ "flags", "classRE_1_1BGSEquipSlot.html#a6bfae370239ea19e122cdb520708be34", null ],
+    [ "flags", "classRE_1_1BGSEquipSlot.html#a14882a6760ed3d7402df9fa1985aacbc", null ],
     [ "FORMTYPE", "classRE_1_1BGSEquipSlot.html#ab9f050aa05b9c3140903ecd0380e3859", null ],
     [ "pad3C", "classRE_1_1BGSEquipSlot.html#a108e23fe4abc31229b1d88181fd19478", null ],
     [ "parentSlots", "classRE_1_1BGSEquipSlot.html#a951acb9ade38ff222aad55ceeec11783", null ],

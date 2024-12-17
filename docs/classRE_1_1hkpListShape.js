@@ -11,7 +11,7 @@ var classRE_1_1hkpListShape =
     [ "CastRayImpl", "classRE_1_1hkpListShape.html#a624df512e5dcd0573df3b30b0192b343", null ],
     [ "CastRayWithCollectorImpl", "classRE_1_1hkpListShape.html#ad60022fb5a050fe5927b8b5464fff95c", null ],
     [ "GetAabbImpl", "classRE_1_1hkpListShape.html#a1a4942ac20d5227f905b9bce79cf16ed", null ],
-    [ "GetChildShape", "classRE_1_1hkpListShape.html#a67fb6bf2cc78a79ee0373b160543d10f", null ],
+    [ "GetChildShape", "classRE_1_1hkpListShape.html#ab6dcc97b32f57257a3205c76b3631550", null ],
     [ "GetCollisionFilterInfo", "classRE_1_1hkpListShape.html#a26da5bc7cdc984cfb3b22c967f3db35c", null ],
     [ "GetFirstKey", "classRE_1_1hkpListShape.html#a4834801600fc0c8fc1cbf1b20598c6d2", null ],
     [ "GetNextKey", "classRE_1_1hkpListShape.html#a6fdb7e13aac022ea2e9667620cfe0c9d", null ],

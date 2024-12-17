@@ -14,7 +14,7 @@ var classRE_1_1GFxASCharacter =
     [ "GASObjectInterface_12", "classRE_1_1GFxASCharacter.html#aeaeebc99f1e8bf742f60e92144b5956d", null ],
     [ "GASObjectInterface_13", "classRE_1_1GFxASCharacter.html#ab29f7244e841bb570ef72f6649235182", null ],
     [ "GASObjectInterface_14", "classRE_1_1GFxASCharacter.html#a9fa0b6546933d2a6c63e9c324b94d990", null ],
-    [ "GetMovieClip", "classRE_1_1GFxASCharacter.html#aaac7e3bd9c90d55f28120b10405e1585", null ],
+    [ "GetMovieClip", "classRE_1_1GFxASCharacter.html#a1beff12111c7611507dedc3cac4dbac4", null ],
     [ "Set__proto__", "classRE_1_1GFxASCharacter.html#acc9dd4638cefc1a11123f383f54676e5", null ],
     [ "Unk_01", "classRE_1_1GFxASCharacter.html#a0149d8ad6756478fe3a1233ca5941d31", null ],
     [ "Unk_04", "classRE_1_1GFxASCharacter.html#a413c9d0919b3c32531bdbf99e1e1c881", null ],

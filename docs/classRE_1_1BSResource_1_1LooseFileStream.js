@@ -1,7 +1,7 @@
 var classRE_1_1BSResource_1_1LooseFileStream =
 [
     [ "~LooseFileStream", "classRE_1_1BSResource_1_1LooseFileStream.html#a5138ed63fa06493a75ea56d12dbcab2a", null ],
-    [ "Create", "classRE_1_1BSResource_1_1LooseFileStream.html#a6350b5819a33d0169e3291277fd17780", null ],
+    [ "Create", "classRE_1_1BSResource_1_1LooseFileStream.html#ad8452161b879a56b97dc6617732241cd", null ],
     [ "DoClone", "classRE_1_1BSResource_1_1LooseFileStream.html#a0c22710d326f3a9bf714a4c80480cc71", null ],
     [ "DoClose", "classRE_1_1BSResource_1_1LooseFileStream.html#a4d5aa673c3d189c6e3d2feec0f044073", null ],
     [ "DoCreateAsync", "classRE_1_1BSResource_1_1LooseFileStream.html#a114982184d5408ec9869c77c9a1b8f61", null ],

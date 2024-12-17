@@ -1,9 +1,9 @@
 var classRE_1_1NiBooleanExtraData =
 [
     [ "~NiBooleanExtraData", "classRE_1_1NiBooleanExtraData.html#afadd6fe7b10f525de865349447d0b54f", null ],
-    [ "Create", "classRE_1_1NiBooleanExtraData.html#a7dfaac3f298a2a7ff78ec37fee46b1db", null ],
-    [ "CreateClone", "classRE_1_1NiBooleanExtraData.html#ada49175f13e805d82be6d03b3fd0765a", null ],
-    [ "GetRTTI", "classRE_1_1NiBooleanExtraData.html#aa00a2c00c6aece7662fdef3ac4b6e5c6", null ],
+    [ "Create", "classRE_1_1NiBooleanExtraData.html#a13b7b72bf9247e821786215065ff309b", null ],
+    [ "CreateClone", "classRE_1_1NiBooleanExtraData.html#a86e6f457c889706d3c555a54e1a5cb3b", null ],
+    [ "GetRTTI", "classRE_1_1NiBooleanExtraData.html#a27920a84ef431244f07eee846bc03fb8", null ],
     [ "IsEqual", "classRE_1_1NiBooleanExtraData.html#a61758056fe27491b1ecdee44946902a9", null ],
     [ "LinkObject", "classRE_1_1NiBooleanExtraData.html#adb18f452e9b7b02119eb229f77eef5f2", null ],
     [ "LoadBinary", "classRE_1_1NiBooleanExtraData.html#acf44ad3880299c03d365a50c49dd3500", null ],

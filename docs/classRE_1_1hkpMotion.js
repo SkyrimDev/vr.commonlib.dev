@@ -52,6 +52,6 @@ var classRE_1_1hkpMotion =
     [ "RTTI", "classRE_1_1hkpMotion.html#a8fae4010d4ef2d8b9236573335a8cb44", null ],
     [ "savedMotion", "classRE_1_1hkpMotion.html#a159c9cbf196a038c96fe3799bd06a3dc", null ],
     [ "savedQualityTypeIndex", "classRE_1_1hkpMotion.html#abd1d40025cab0d91b9cfadf868978fe7", null ],
-    [ "type", "classRE_1_1hkpMotion.html#a1205d2a10e4e9e143965d49b22e8ace3", null ],
+    [ "type", "classRE_1_1hkpMotion.html#addec120c933646d8ce0d3b3efa6b7c65", null ],
     [ "VTABLE", "classRE_1_1hkpMotion.html#ae1de61f4a179675b5d96a1a438b72c41", null ]
 ];

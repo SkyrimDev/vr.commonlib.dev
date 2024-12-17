@@ -1,7 +1,7 @@
 var classSKSE_1_1ObjectInterface =
 [
-    [ "GetDelayFunctorManager", "classSKSE_1_1ObjectInterface.html#a2efc42122bdd8c8afc826d5bada4c64d", null ],
-    [ "GetObjectRegistry", "classSKSE_1_1ObjectInterface.html#acc2133d01e03a811452c770fc36eb67e", null ],
-    [ "GetPersistentObjectStorage", "classSKSE_1_1ObjectInterface.html#a330ca499f5d87d60d2bd131f8bb9bef2", null ],
+    [ "GetDelayFunctorManager", "classSKSE_1_1ObjectInterface.html#aae2839a79790141374ceb0f7f9370549", null ],
+    [ "GetObjectRegistry", "classSKSE_1_1ObjectInterface.html#a21daebf3a953c84c071e1372f63fbfd8", null ],
+    [ "GetPersistentObjectStorage", "classSKSE_1_1ObjectInterface.html#a69213a5e9b9fea0b4f4da1f5c6c48f88", null ],
     [ "Version", "classSKSE_1_1ObjectInterface.html#a6eeaf460ccba69842c51a792da40e488", null ]
 ];

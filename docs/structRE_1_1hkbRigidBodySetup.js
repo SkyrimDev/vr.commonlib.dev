@@ -8,5 +8,5 @@ var structRE_1_1hkbRigidBodySetup =
     ] ],
     [ "collisionFilterInfo", "structRE_1_1hkbRigidBodySetup.html#add89264c5ae3bd2f10f6a5f96904445b", null ],
     [ "shapeSetup", "structRE_1_1hkbRigidBodySetup.html#aec9825d4cf27c8361a10a42d224fb9d1", null ],
-    [ "type", "structRE_1_1hkbRigidBodySetup.html#a7557ef0beb2732b6a1470016ab274c65", null ]
+    [ "type", "structRE_1_1hkbRigidBodySetup.html#a6f91fe169ee992109fef693c6cf4365a", null ]
 ];

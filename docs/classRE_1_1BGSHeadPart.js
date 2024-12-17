@@ -23,7 +23,7 @@ var classRE_1_1BGSHeadPart =
     ] ],
     [ "~BGSHeadPart", "classRE_1_1BGSHeadPart.html#a24597ad91a2904e440373f6df4bb3430", null ],
     [ "ClearData", "classRE_1_1BGSHeadPart.html#aca2808e892f87c6847a9e2a24a2e1bb8", null ],
-    [ "GetFormEditorID", "classRE_1_1BGSHeadPart.html#aade74e7b159999d22f8e3f03e51b4578", null ],
+    [ "GetFormEditorID", "classRE_1_1BGSHeadPart.html#afc65cafef2e735212327595c1568c6d0", null ],
     [ "InitializeData", "classRE_1_1BGSHeadPart.html#a5e6fea240790fe22accce43816066695", null ],
     [ "InitItemImpl", "classRE_1_1BGSHeadPart.html#a9b7d92310a813701cfe95751dfa4037c", null ],
     [ "IsExtraPart", "classRE_1_1BGSHeadPart.html#aa023d431ef94b1a09494f75c3fb385b4", null ],
@@ -31,7 +31,7 @@ var classRE_1_1BGSHeadPart =
     [ "SetFormEditorID", "classRE_1_1BGSHeadPart.html#aa9b7dc0816db7e48fd70712530a83a61", null ],
     [ "color", "classRE_1_1BGSHeadPart.html#a3e5640c3946af8df9a70f9e568ae2e3c", null ],
     [ "extraParts", "classRE_1_1BGSHeadPart.html#a8cf79fb824b2eedb4731808e75826be9", null ],
-    [ "flags", "classRE_1_1BGSHeadPart.html#a660d938259c00b779129416ee9f97cfe", null ],
+    [ "flags", "classRE_1_1BGSHeadPart.html#a303ce505a94b2bc10f4277d357b8c95f", null ],
     [ "formEditorID", "classRE_1_1BGSHeadPart.html#a693276ea47e1eb296a6e6f6b2638eccf", null ],
     [ "FORMTYPE", "classRE_1_1BGSHeadPart.html#ac357e1ad3ec30d79a2fb1315b329b1f7", null ],
     [ "morphs", "classRE_1_1BGSHeadPart.html#a2cb40a2ee6ccb495b38d1a8d08529972", null ],
@@ -39,7 +39,7 @@ var classRE_1_1BGSHeadPart =
     [ "pad06A", "classRE_1_1BGSHeadPart.html#a32c9d133a43785822ebeb8a61aac8a23", null ],
     [ "RTTI", "classRE_1_1BGSHeadPart.html#a18eed5442b7f2caea87d1b414706964b", null ],
     [ "textureSet", "classRE_1_1BGSHeadPart.html#ab2470aed9d2111588a2dc2d85fbf0909", null ],
-    [ "type", "classRE_1_1BGSHeadPart.html#a2f94b264817779adc7072fd4668c63e7", null ],
+    [ "type", "classRE_1_1BGSHeadPart.html#a316459772955b2f2986b96885a2b9fad", null ],
     [ "validRaces", "classRE_1_1BGSHeadPart.html#a9f92842db50c81512276bbdb3b9ef962", null ],
     [ "VTABLE", "classRE_1_1BGSHeadPart.html#a61bb26af16bbf66f6549d39a000bfedf", null ]
 ];

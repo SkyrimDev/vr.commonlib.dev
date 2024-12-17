@@ -5,7 +5,7 @@ var classRE_1_1TESShout =
     [ "VariationIDs", "structRE_1_1TESShout_1_1VariationIDs.html", "structRE_1_1TESShout_1_1VariationIDs" ],
     [ "VariationID", "classRE_1_1TESShout.html#a9f72aea2a388a843e83a4f86eba8692e", null ],
     [ "~TESShout", "classRE_1_1TESShout.html#a4aa0db5f47ab07c93e154fb6f11a2412", null ],
-    [ "GetEquipSlot", "classRE_1_1TESShout.html#aa80329f1757d79e7be949f23776e922b", null ],
+    [ "GetEquipSlot", "classRE_1_1TESShout.html#a0b6e09709decdd1cdbf25c90aded270b", null ],
     [ "GetKnown", "classRE_1_1TESShout.html#a3f64123a2db937497f9d69044ce4106e", null ],
     [ "InitItemImpl", "classRE_1_1TESShout.html#a7d5274465be7f1d4ac23057da27705e0", null ],
     [ "Load", "classRE_1_1TESShout.html#a70db1b8a43212ad876db98e86ee450c6", null ],

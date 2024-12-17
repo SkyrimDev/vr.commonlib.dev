@@ -1,6 +1,6 @@
 var UIMessage_8h =
 [
-    [ "UIMessage", "classRE_1_1UIMessage.html", "classRE_1_1UIMessage" ],
+    [ "RE::UIMessage", "classRE_1_1UIMessage.html", "classRE_1_1UIMessage" ],
     [ "UI_MESSAGE_TYPE", "UIMessage_8h.html#ae20a9871c0ed5615c7f39c82ff4ae3f4", [
       [ "kUpdate", "UIMessage_8h.html#ae20a9871c0ed5615c7f39c82ff4ae3f4a3f55b8326206a387d817795ab2a0b339", null ],
       [ "kShow", "UIMessage_8h.html#ae20a9871c0ed5615c7f39c82ff4ae3f4a96e00e4d663b1ac7232f8aa8a0fd4768", null ],

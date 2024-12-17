@@ -2,7 +2,7 @@ var classRE_1_1NiSkinPartition =
 [
     [ "Partition", "classRE_1_1NiSkinPartition_1_1Partition.html", "classRE_1_1NiSkinPartition_1_1Partition" ],
     [ "~NiSkinPartition", "classRE_1_1NiSkinPartition.html#a50d5fecfa9373c441ab45156118c8c08", null ],
-    [ "GetRTTI", "classRE_1_1NiSkinPartition.html#adb8b45b9915003d47f873594bae874d6", null ],
+    [ "GetRTTI", "classRE_1_1NiSkinPartition.html#a94d31de2cb40f3528410b6833652f8dd", null ],
     [ "IsEqual", "classRE_1_1NiSkinPartition.html#a77ae8fc4770b625c6631317ff8b02db4", null ],
     [ "LinkObject", "classRE_1_1NiSkinPartition.html#ae8ff4e73823856b8f368b665458eff09", null ],
     [ "LoadBinary", "classRE_1_1NiSkinPartition.html#ad0dab6554470d0fe7212ba4870e733c6", null ],

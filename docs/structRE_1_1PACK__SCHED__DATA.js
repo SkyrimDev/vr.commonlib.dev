@@ -15,7 +15,7 @@ var structRE_1_1PACK__SCHED__DATA =
       [ "kTuesdayThursday", "structRE_1_1PACK__SCHED__DATA.html#a37022d0dfafd309f7ae87bdd0e1c2749a8ddbdd1e5c9c5221a057cadb03e643a5", null ]
     ] ],
     [ "date", "structRE_1_1PACK__SCHED__DATA.html#afd7a0b87058eef431dec63e6ecc6590c", null ],
-    [ "dayOfWeek", "structRE_1_1PACK__SCHED__DATA.html#a4fa8c7f9847041113f26433ad6619c18", null ],
+    [ "dayOfWeek", "structRE_1_1PACK__SCHED__DATA.html#abaf93bd390190872be44cffb2babae0b", null ],
     [ "duration", "structRE_1_1PACK__SCHED__DATA.html#a13d6ebcc935eeadb4be3a19c9d96cdfa", null ],
     [ "hour", "structRE_1_1PACK__SCHED__DATA.html#ab377878ebe9f7004f10aa20605c3ac92", null ],
     [ "minute", "structRE_1_1PACK__SCHED__DATA.html#a9879b6adb198d8c67d985c522950bc79", null ],

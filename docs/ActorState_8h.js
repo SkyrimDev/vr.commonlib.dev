@@ -1,8 +1,8 @@
 var ActorState_8h =
 [
-    [ "ActorState", "classRE_1_1ActorState.html", "classRE_1_1ActorState" ],
-    [ "ActorState1", "structRE_1_1ActorState_1_1ActorState1.html", "structRE_1_1ActorState_1_1ActorState1" ],
-    [ "ActorState2", "structRE_1_1ActorState_1_1ActorState2.html", "structRE_1_1ActorState_1_1ActorState2" ],
+    [ "RE::ActorState", "classRE_1_1ActorState.html", "classRE_1_1ActorState" ],
+    [ "RE::ActorState::ActorState1", "structRE_1_1ActorState_1_1ActorState1.html", "structRE_1_1ActorState_1_1ActorState1" ],
+    [ "RE::ActorState::ActorState2", "structRE_1_1ActorState_1_1ActorState2.html", "structRE_1_1ActorState_1_1ActorState2" ],
     [ "ACTOR_LIFE_STATE", "ActorState_8h.html#a7cd5b617cffa663d07fe1ca334d4ce57", [
       [ "kAlive", "ActorState_8h.html#a7cd5b617cffa663d07fe1ca334d4ce57a1afae68d912420c95faecff14f083c26", null ],
       [ "kDying", "ActorState_8h.html#a7cd5b617cffa663d07fe1ca334d4ce57a22d8350fd45931701649ed1832da57b3", null ],
@@ -15,7 +15,7 @@ var ActorState_8h =
       [ "kBleedout", "ActorState_8h.html#a7cd5b617cffa663d07fe1ca334d4ce57a896d3239e41bf1082d1cac857d3674e7", null ]
     ] ],
     [ "ATTACK_STATE_ENUM", "ActorState_8h.html#a9231bd38202fdcd8e07ba8eb145e4a6c", [
-      [ "kNone", "ActorState_8h.html#acb188ad7ca48bb8b3528d814ca060efea35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kNone", "ActorState_8h.html#a9231bd38202fdcd8e07ba8eb145e4a6ca35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kDraw", "ActorState_8h.html#a9231bd38202fdcd8e07ba8eb145e4a6cadd7d286635f912e2de9b6601024bfa96", null ],
       [ "kSwing", "ActorState_8h.html#a9231bd38202fdcd8e07ba8eb145e4a6ca0edec695fb63090e6dd08800a688f763", null ],
       [ "kHit", "ActorState_8h.html#a9231bd38202fdcd8e07ba8eb145e4a6ca384457c75df578a44499d4c868eb9355", null ],
@@ -34,7 +34,7 @@ var ActorState_8h =
       [ "kFired", "ActorState_8h.html#a9231bd38202fdcd8e07ba8eb145e4a6ca3995f78062a50ff927220aff1cddb2c8", null ]
     ] ],
     [ "FLY_STATE", "ActorState_8h.html#a7c47e4424c2e1777fc8694857987f098", [
-      [ "kNone", "ActorState_8h.html#acb188ad7ca48bb8b3528d814ca060efea35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kNone", "ActorState_8h.html#a7c47e4424c2e1777fc8694857987f098a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kTakeOff", "ActorState_8h.html#a7c47e4424c2e1777fc8694857987f098a2820128500908bc84c06727342c5553f", null ],
       [ "kCruising", "ActorState_8h.html#a7c47e4424c2e1777fc8694857987f098ac5dbc679592c2f3211a158f22db04c00", null ],
       [ "kHovering", "ActorState_8h.html#a7c47e4424c2e1777fc8694857987f098a24cc24088de74694174e1e9b7611b3fe", null ],

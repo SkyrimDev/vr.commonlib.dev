@@ -13,7 +13,7 @@ var classRE_1_1BGSMessage =
     [ "InitItemImpl", "classRE_1_1BGSMessage.html#aa2e5532b33ff12b9f807a028a62cccf9", null ],
     [ "Load", "classRE_1_1BGSMessage.html#a6ee05b113a354519b373b94bd120dffd", null ],
     [ "displayTime", "classRE_1_1BGSMessage.html#a708410274a9dc7ccc521001f8fd5541f", null ],
-    [ "flags", "classRE_1_1BGSMessage.html#a83271e0ec4216ad895416eb173a5e8f7", null ],
+    [ "flags", "classRE_1_1BGSMessage.html#a31e145bc8a0817005106209b15b80882", null ],
     [ "FORMTYPE", "classRE_1_1BGSMessage.html#aee99ddc2ed12bd808871ccb9029b7ca5", null ],
     [ "icon", "classRE_1_1BGSMessage.html#aa547b8a86efc9a620763a8dbd4826747", null ],
     [ "menuButtons", "classRE_1_1BGSMessage.html#abaf8be58b1daa96354a9dbe5f0649366", null ],

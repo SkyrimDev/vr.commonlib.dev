@@ -30,7 +30,7 @@ var classRE_1_1hkpCompressedMeshShape =
     [ "materials16", "classRE_1_1hkpCompressedMeshShape.html#aa7049c5fb46278f623cfa087cd86a788", null ],
     [ "materials8", "classRE_1_1hkpCompressedMeshShape.html#aec3c79f9108c96238ffe3de93c667b4c", null ],
     [ "materialStriding", "classRE_1_1hkpCompressedMeshShape.html#a055dd9c959351d9659d5cf2e7810cbcf", null ],
-    [ "materialType", "classRE_1_1hkpCompressedMeshShape.html#ad552952dc6c41e46bc232dbac5158113", null ],
+    [ "materialType", "classRE_1_1hkpCompressedMeshShape.html#a1c4132a812ad03d95fb2eac05d8428db", null ],
     [ "meshMaterials", "classRE_1_1hkpCompressedMeshShape.html#ad0d44fc42d565df4b88df3c162c317bc", null ],
     [ "namedMaterials", "classRE_1_1hkpCompressedMeshShape.html#abaf002993bba4298a1b55af302211b8e", null ],
     [ "numMaterials", "classRE_1_1hkpCompressedMeshShape.html#ae80c60d046b7ca578b8a2ba9b6f17b61", null ],
@@ -43,6 +43,6 @@ var classRE_1_1hkpCompressedMeshShape =
     [ "RTTI", "classRE_1_1hkpCompressedMeshShape.html#ac72c42a248e0a01dc09ec6ad04aa1bc2", null ],
     [ "transforms", "classRE_1_1hkpCompressedMeshShape.html#abb8484f3172405db5d1bb9a2d8d86516", null ],
     [ "VTABLE", "classRE_1_1hkpCompressedMeshShape.html#aa61b3eb2a875bdbb1216791817d647de", null ],
-    [ "weldingType", "classRE_1_1hkpCompressedMeshShape.html#a4240d1ca78ab5e9033d4916d81b32e0c", null ],
+    [ "weldingType", "classRE_1_1hkpCompressedMeshShape.html#aaa93cdf7837a146427026c35841c3234", null ],
     [ "wIndexMask", "classRE_1_1hkpCompressedMeshShape.html#a3b2dc59f6b7cbdff4f530dde3d12b246", null ]
 ];

@@ -4,7 +4,7 @@ var classRE_1_1bhkCharProxyController =
     [ "CharacterInteractionCallback", "classRE_1_1bhkCharProxyController.html#ade01b393b94bf0f85cacd5c7138e4c2b", null ],
     [ "ContactPointAddedCallback", "classRE_1_1bhkCharProxyController.html#a4fb8be5f7829e3854c0669790eed0619", null ],
     [ "ContactPointRemovedCallback", "classRE_1_1bhkCharProxyController.html#ab7b00d8e9bf5fe2e42bcf7359765363d", null ],
-    [ "GetCharacterProxy", "classRE_1_1bhkCharProxyController.html#a82bfbd282dd60ff2033f6dae534ea075", null ],
+    [ "GetCharacterProxy", "classRE_1_1bhkCharProxyController.html#af87ac8944fb9dec731b1e053263ffb7d", null ],
     [ "GetLinearVelocityImpl", "classRE_1_1bhkCharProxyController.html#a3d866ff13a0300804110d23369a65271", null ],
     [ "ObjectInteractionCallback", "classRE_1_1bhkCharProxyController.html#a2de89ebfbf9b2afe4d610f5ed2eb4881", null ],
     [ "ProcessConstraintsCallback", "classRE_1_1bhkCharProxyController.html#a5419d33362c2075b2cdbf4dc1b02ebd5", null ],

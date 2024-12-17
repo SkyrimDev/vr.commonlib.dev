@@ -1,11 +1,11 @@
 var classRE_1_1MemoryManager =
 [
     [ "ThreadScrapHeap", "structRE_1_1MemoryManager_1_1ThreadScrapHeap.html", "structRE_1_1MemoryManager_1_1ThreadScrapHeap" ],
-    [ "Allocate", "classRE_1_1MemoryManager.html#ae43698d3b7c0bc5f14d5553fae118031", null ],
+    [ "Allocate", "classRE_1_1MemoryManager.html#afe1d4001aa3cfa39705326e92add732f", null ],
     [ "Deallocate", "classRE_1_1MemoryManager.html#a872ab8c82116b5ac265ca335549e024b", null ],
-    [ "GetSingleton", "classRE_1_1MemoryManager.html#a9d2e5a7f349d132ada7fde1fa883f2f3", null ],
-    [ "GetThreadScrapHeap", "classRE_1_1MemoryManager.html#a7e7ac88bdaacff087e4a6bce038f4ecd", null ],
-    [ "Reallocate", "classRE_1_1MemoryManager.html#ac71cac0b00b31f92d619467646bfbb4c", null ],
+    [ "GetSingleton", "classRE_1_1MemoryManager.html#a93a1ca6c75e678b05972293d1673c915", null ],
+    [ "GetThreadScrapHeap", "classRE_1_1MemoryManager.html#ac230a55e9a7c8519e9492626de813950", null ],
+    [ "Reallocate", "classRE_1_1MemoryManager.html#a9b5042c44404a7454db415cb8fd98f96", null ],
     [ "RegisterMemoryManager", "classRE_1_1MemoryManager.html#ad1b743625ce187379bb94245cca98de9", null ],
     [ "alignmentForPools", "classRE_1_1MemoryManager.html#a71a639cf38b7a62d5d233f94a9d6e23c", null ],
     [ "allowOtherContextAllocs", "classRE_1_1MemoryManager.html#aed68aa4bab3cc079eca02919c44665e7", null ],

@@ -12,7 +12,7 @@ var classRE_1_1hkaDefaultAnimationControl =
     [ "GetNumberOfFloatTracks", "classRE_1_1hkaDefaultAnimationControl.html#a94862aba96a41136e56ec055f4f1fbc7", null ],
     [ "GetNumberOfTransformTracks", "classRE_1_1hkaDefaultAnimationControl.html#a6fb80e2369c2c5e3b175ae622399d37a", null ],
     [ "GetNumTransformTrackToBoneIndices", "classRE_1_1hkaDefaultAnimationControl.html#af5ef2d0ab3eafe1de41fd723a5a99690", null ],
-    [ "GetTransformTrackToBoneIndices", "classRE_1_1hkaDefaultAnimationControl.html#a62903d2e8f47585e5441d69f0f6b241e", null ],
+    [ "GetTransformTrackToBoneIndices", "classRE_1_1hkaDefaultAnimationControl.html#aa17cd0fe1a9291eaf01d025845e8103a", null ],
     [ "SamplePartialTracks", "classRE_1_1hkaDefaultAnimationControl.html#a1ac97f43ea18d46cc84ed9ded6e8d2b4", null ],
     [ "SampleTracks", "classRE_1_1hkaDefaultAnimationControl.html#a7115c86ca7bc4b8f6e90086f293daf9a", null ],
     [ "Update", "classRE_1_1hkaDefaultAnimationControl.html#a151f55199fc1e887d055690dbc06c0c6", null ],

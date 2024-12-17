@@ -31,7 +31,7 @@ var classRE_1_1HitData =
     [ "criticalEffect", "classRE_1_1HitData.html#a993ecd44e969a5bcce7196599309d8ed", null ],
     [ "damageLimb", "classRE_1_1HitData.html#a6fa7401bfa122cd0c88ef1f734ff7f44", null ],
     [ "equipIndex", "classRE_1_1HitData.html#ab7d3fddb70ab0033f1a9e9d341ed7434", null ],
-    [ "flags", "classRE_1_1HitData.html#aa505eb400b3a56e228a9aa7db6750a1b", null ],
+    [ "flags", "classRE_1_1HitData.html#a905069e1c1e6c9ac843ce1ef05345f63", null ],
     [ "hitDirection", "classRE_1_1HitData.html#ad87b2dd2d1ff74911ec3d9b9be5daca8", null ],
     [ "hitPosition", "classRE_1_1HitData.html#aa80f36bad7e82c26d1e199a460c0e974", null ],
     [ "pad24", "classRE_1_1HitData.html#ab8766a60e376d71d0dc340a33e8fb7e9", null ],

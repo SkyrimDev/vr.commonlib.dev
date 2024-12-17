@@ -28,6 +28,6 @@ var structRE_1_1INTERIOR__DATA =
     [ "fogPower", "structRE_1_1INTERIOR__DATA.html#adac136b6c8eed35b8a67d3b446e44612", null ],
     [ "lightFadeEnd", "structRE_1_1INTERIOR__DATA.html#a5d8b29b0c447f54b4373b0103af40311", null ],
     [ "lightFadeStart", "structRE_1_1INTERIOR__DATA.html#a0319f762d2a5f2686280d6b77c52237c", null ],
-    [ "lightingTemplateInheritanceFlags", "structRE_1_1INTERIOR__DATA.html#ae42f85b4f5bb5e520b61272b6577c52f", null ],
+    [ "lightingTemplateInheritanceFlags", "structRE_1_1INTERIOR__DATA.html#ac9e1748d57c9de2d5f08228c2c720427", null ],
     [ "unk5C", "structRE_1_1INTERIOR__DATA.html#a606f6329fc0f9e6976187fad61219166", null ]
 ];

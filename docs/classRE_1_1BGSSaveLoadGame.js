@@ -10,9 +10,9 @@ var classRE_1_1BGSSaveLoadGame =
       [ "kPlayerLocationInvalid", "classRE_1_1BGSSaveLoadGame.html#a2022365ae2fc3a2f63feec0fba03a226ac7481e9b05484ca16ee91b347d9087bf", null ]
     ] ],
     [ "GetChange", "classRE_1_1BGSSaveLoadGame.html#a18b88e1dfe790e5718ff6f98ced34020", null ],
-    [ "GetSingleton", "classRE_1_1BGSSaveLoadGame.html#a81e861696831cd93daa0bd310fef15a1", null ],
+    [ "GetSingleton", "classRE_1_1BGSSaveLoadGame.html#acc8080f9c9df6afb08030d882cc59712", null ],
     [ "currentMinorVersion", "classRE_1_1BGSSaveLoadGame.html#af70273d971eb61cbcf641d9ff8ae86c1", null ],
-    [ "flags", "classRE_1_1BGSSaveLoadGame.html#a470461be8028816a0af9a003fb86b4f6", null ],
+    [ "flags", "classRE_1_1BGSSaveLoadGame.html#a583592c19cae13a9fdf0e085470e088e", null ],
     [ "formIDMap", "classRE_1_1BGSSaveLoadGame.html#af3e4e82632bc5460c936913014c5f89f", null ],
     [ "pluginList", "classRE_1_1BGSSaveLoadGame.html#a130702e3fef850a9ffb509f5dae47e02", null ],
     [ "queuedSubBuffersMap", "classRE_1_1BGSSaveLoadGame.html#a3e0b79c09a163e7954e19b7f4787c25d", null ],

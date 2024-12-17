@@ -2,7 +2,7 @@ var classRE_1_1TESSound =
 [
     [ "RecordFlags", "structRE_1_1TESSound_1_1RecordFlags.html", "structRE_1_1TESSound_1_1RecordFlags" ],
     [ "~TESSound", "classRE_1_1TESSound.html#af851f5b45b95ec82b31d0497c2ed7273", null ],
-    [ "Clone3D", "classRE_1_1TESSound.html#a0147cc3690dd723fb259872172a65bb7", null ],
+    [ "Clone3D", "classRE_1_1TESSound.html#a9f869acb7a426044885919e6435390e6", null ],
     [ "InitializeData", "classRE_1_1TESSound.html#ac4ea4f69b01f90f41013b2e31791ebff", null ],
     [ "InitItemImpl", "classRE_1_1TESSound.html#a419db57db8f678d0598ea9d0cb41d05a", null ],
     [ "Load", "classRE_1_1TESSound.html#a2875b4515a93612d559b5979600a72f5", null ],

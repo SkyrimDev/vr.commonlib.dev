@@ -40,6 +40,6 @@ var structRE_1_1BIPED__MODEL =
       [ "kModMisc2", "structRE_1_1BIPED__MODEL.html#a2612a621ddaa5231ab6ab7e999192ae8a71dd08e428c78b3202f5e3df4bc5c644", null ],
       [ "kFX01", "structRE_1_1BIPED__MODEL.html#a2612a621ddaa5231ab6ab7e999192ae8af9bd05f33737ab5e053d54cd7e76009f", null ]
     ] ],
-    [ "armorType", "structRE_1_1BIPED__MODEL.html#a05bf03561cecb417bbc9fda42085a6f1", null ],
-    [ "bipedObjectSlots", "structRE_1_1BIPED__MODEL.html#af1c0dff19e1b14e2a09fde83bc736d7c", null ]
+    [ "armorType", "structRE_1_1BIPED__MODEL.html#ad6222a3b0575bdacabf33d07c2f0235f", null ],
+    [ "bipedObjectSlots", "structRE_1_1BIPED__MODEL.html#a573baf977fcc47405302695689c02233", null ]
 ];

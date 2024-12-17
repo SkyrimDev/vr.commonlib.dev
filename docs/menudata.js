@@ -101,7 +101,6 @@ var menudata={children:[
 {text:"v",url:"namespacemembers_vars_v.html#index_v"},
 {text:"x",url:"namespacemembers_vars_x.html#index_x"}]},
 {text:"Typedefs",url:"namespacemembers_type.html",children:[
-{text:"_",url:"namespacemembers_type.html#index__5F"},
 {text:"a",url:"namespacemembers_type.html#index_a"},
 {text:"b",url:"namespacemembers_type.html#index_b"},
 {text:"c",url:"namespacemembers_type.html#index_c"},
@@ -303,7 +302,7 @@ var menudata={children:[
 {text:"t",url:"functions_eval_t.html#index_t"},
 {text:"v",url:"functions_eval_v.html#index_v"},
 {text:"w",url:"functions_eval_w.html#index_w"}]},
-{text:"Related Functions",url:"functions_rela.html",children:[
+{text:"Related Symbols",url:"functions_rela.html",children:[
 {text:"b",url:"functions_rela.html#index_b"},
 {text:"c",url:"functions_rela.html#index_c"},
 {text:"g",url:"functions_rela.html#index_g"},

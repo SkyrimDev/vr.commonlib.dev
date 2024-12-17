@@ -1,12 +1,12 @@
 var classRE_1_1BSEffectShaderProperty =
 [
     [ "~BSEffectShaderProperty", "classRE_1_1BSEffectShaderProperty.html#af9a12b8c2a604bd58ed3459cf1eb3843", null ],
-    [ "CreateClone", "classRE_1_1BSEffectShaderProperty.html#aba2a6c13a3b844d1fd0b5ef7bbd90ecc", null ],
+    [ "CreateClone", "classRE_1_1BSEffectShaderProperty.html#a060497a4c7c5bd134d5fa9c0528dcfa9", null ],
     [ "ForEachTexture", "classRE_1_1BSEffectShaderProperty.html#a3b3d0335c601f14106f90a0eb2d97bb2", null ],
-    [ "GetBaseTexture", "classRE_1_1BSEffectShaderProperty.html#a78c4459bd1ccf4795601d17998b414e0", null ],
+    [ "GetBaseTexture", "classRE_1_1BSEffectShaderProperty.html#a82dbfe9b52cdd0b6c9a939ad463bd4b7", null ],
     [ "GetMaterialType", "classRE_1_1BSEffectShaderProperty.html#ace0836897ca1b9b163ca852eb7a2ac2e", null ],
-    [ "GetRenderPasses", "classRE_1_1BSEffectShaderProperty.html#a2ffc99946cc0e9e5acf3d32f61055525", null ],
-    [ "GetRTTI", "classRE_1_1BSEffectShaderProperty.html#a2e3e0ca9a2701b54299d412e352de193", null ],
+    [ "GetRenderPasses", "classRE_1_1BSEffectShaderProperty.html#a823b1144e27a4f4dcd6d4fa802281ce6", null ],
+    [ "GetRTTI", "classRE_1_1BSEffectShaderProperty.html#a9269c5aa9995f6c5969c718f20f43b67", null ],
     [ "LinkObject", "classRE_1_1BSEffectShaderProperty.html#a5c94c4c03a8fa96abed1fb85e2303f07", null ],
     [ "LoadBinary", "classRE_1_1BSEffectShaderProperty.html#a70c5fe897116d334ea8e8eec5db88bbe", null ],
     [ "PostLinkObject", "classRE_1_1BSEffectShaderProperty.html#a965791ce8ab21a68d710a965fed42e19", null ],

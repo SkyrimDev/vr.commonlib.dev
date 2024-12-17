@@ -2,8 +2,8 @@ var classRE_1_1NiCamera =
 [
     [ "~NiCamera", "classRE_1_1NiCamera.html#ae479514e436c936988951640e2c2729a", null ],
     [ "BoundInFrustum", "classRE_1_1NiCamera.html#a2de82aad58a0d3859045f275b81aa5de", null ],
-    [ "CreateClone", "classRE_1_1NiCamera.html#a807c62a68df8cf0a656db79af22e8b4d", null ],
-    [ "GetRTTI", "classRE_1_1NiCamera.html#ac868b53b9eeb692232fa35b870b84e3f", null ],
+    [ "CreateClone", "classRE_1_1NiCamera.html#a4a6472184c29a4eb9e22fff3d4b490b4", null ],
+    [ "GetRTTI", "classRE_1_1NiCamera.html#a3ac9150f71d05b7467a338792f9ddecd", null ],
     [ "IsEqual", "classRE_1_1NiCamera.html#a3a20f6eb2cf2ef9e72d24eeefff065fc", null ],
     [ "LinkObject", "classRE_1_1NiCamera.html#a7f78cebebd14f988adf06b0bc919df1a", null ],
     [ "LoadBinary", "classRE_1_1NiCamera.html#ae81578ad520380f2bb579d26daf09739", null ],

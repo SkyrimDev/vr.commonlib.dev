@@ -2,9 +2,9 @@ var classRE_1_1NiExtraData =
 [
     [ "~NiExtraData", "classRE_1_1NiExtraData.html#a6c7237464930659f667bdff521dc8962", null ],
     [ "Create", "classRE_1_1NiExtraData.html#a1066bde8f6755344ad28f901b88f43a8", null ],
-    [ "Create", "classRE_1_1NiExtraData.html#ae3fb370ab4028343a5c960a87e06bf35", null ],
-    [ "GetName", "classRE_1_1NiExtraData.html#a1c4ac963a74856ba48336d9f38f690c8", null ],
-    [ "GetRTTI", "classRE_1_1NiExtraData.html#a99468516afb053efafaea80c08b5fe94", null ],
+    [ "Create", "classRE_1_1NiExtraData.html#a9c4ec4204db913b1210b20450c54ba60", null ],
+    [ "GetName", "classRE_1_1NiExtraData.html#ae656e32dad90dc7819702e7276f8fe39", null ],
+    [ "GetRTTI", "classRE_1_1NiExtraData.html#aad072be81e200787fc1f6d7566fd8742", null ],
     [ "IsCloneable", "classRE_1_1NiExtraData.html#a4350bcf0e6b90c0a8065c14120cb005d", null ],
     [ "IsEqual", "classRE_1_1NiExtraData.html#acf22097dadb7ceecaa08ceb850aad6a5", null ],
     [ "IsStreamable", "classRE_1_1NiExtraData.html#ae2741b7a7e18ec7dacbd7aa78f02997b", null ],

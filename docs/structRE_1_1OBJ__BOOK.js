@@ -12,9 +12,9 @@ var structRE_1_1OBJ__BOOK =
       [ "kBookTome", "structRE_1_1OBJ__BOOK.html#a98324d82792eb5f37f0a6b1b1b4c3524a8ff7dff506c0e252b32706418283d771", null ]
     ] ],
     [ "GetSanitizedType", "structRE_1_1OBJ__BOOK.html#ac876c01795774bff894a1526067357ad", null ],
-    [ "flags", "structRE_1_1OBJ__BOOK.html#a96a20946effebf8b0ae33ac5c76cb605", null ],
+    [ "flags", "structRE_1_1OBJ__BOOK.html#a67a04d1c9382765fa55240860da192d7", null ],
     [ "pad02", "structRE_1_1OBJ__BOOK.html#ab0c40d3c20901c46f18de2fa39fa0652", null ],
     [ "pad04", "structRE_1_1OBJ__BOOK.html#a910b72c5e0dc6a3d4e1b1e9944eb8068", null ],
     [ "teaches", "structRE_1_1OBJ__BOOK.html#a9a1fa0c74bf2d43171f99d0d3b498b27", null ],
-    [ "type", "structRE_1_1OBJ__BOOK.html#a6ffb88792f7bf9d980ca7a043dcb0d6e", null ]
+    [ "type", "structRE_1_1OBJ__BOOK.html#a82dfc71f05f5560cad2283075a91ec96", null ]
 ];

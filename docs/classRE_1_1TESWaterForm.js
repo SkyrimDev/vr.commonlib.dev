@@ -20,7 +20,7 @@ var classRE_1_1TESWaterForm =
     [ "contactSpell", "classRE_1_1TESWaterForm.html#a27216f5c73dc3073ed31015fcf62a5ed", null ],
     [ "currentTextureSelect", "classRE_1_1TESWaterForm.html#a179124b0b9524b8243e04f541f96c3d2", null ],
     [ "data", "classRE_1_1TESWaterForm.html#a6401e64971aa85887be1b5c70a34349f", null ],
-    [ "flags", "classRE_1_1TESWaterForm.html#a52cbb474a228a8db02cc984c1685b7bf", null ],
+    [ "flags", "classRE_1_1TESWaterForm.html#a86ab17891f457c957503b7e0e04d6f4c", null ],
     [ "FORMTYPE", "classRE_1_1TESWaterForm.html#a43133970f2fb0acae95eb0cee34d8b0a", null ],
     [ "frequencyX", "classRE_1_1TESWaterForm.html#af5b2c0e4edd7e2f8b0e47bcdd8718c15", null ],
     [ "frequencyY", "classRE_1_1TESWaterForm.html#a708e84d81f5197bc2e64dc305ba713f8", null ],

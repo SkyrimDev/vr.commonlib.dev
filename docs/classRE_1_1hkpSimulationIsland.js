@@ -4,7 +4,7 @@ var classRE_1_1hkpSimulationIsland =
     [ "AddCallbackRequest", "classRE_1_1hkpSimulationIsland.html#ac775d42ab3054f88f5eb9e0c323e65f2", null ],
     [ "AddConstraintToCriticalLockedIsland", "classRE_1_1hkpSimulationIsland.html#aa2864062d5e21f347184acdf9dc2cc10", null ],
     [ "CalcContentStatistics", "classRE_1_1hkpSimulationIsland.html#aa16865cdf2ebd261fe132291ef607d4b", null ],
-    [ "GetClassType", "classRE_1_1hkpSimulationIsland.html#a4fb2173872fa0a807adad220d453ee1a", null ],
+    [ "GetClassType", "classRE_1_1hkpSimulationIsland.html#aa603f7cf55a34a799ba6094e9cd751d9", null ],
     [ "RemoveConstraintFromCriticalLockedIsland", "classRE_1_1hkpSimulationIsland.html#ab84c3b8c077df9ea6abe56bc9b8e6b0c", null ],
     [ "actionListCleanupNeeded", "classRE_1_1hkpSimulationIsland.html#a7cb0e71035ae2b002fed47771fbd6d5a", null ],
     [ "actions", "classRE_1_1hkpSimulationIsland.html#ad30d41b70c207b637700bf42a82593e9", null ],

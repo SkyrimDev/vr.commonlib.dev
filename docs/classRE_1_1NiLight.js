@@ -1,7 +1,7 @@
 var classRE_1_1NiLight =
 [
     [ "~NiLight", "classRE_1_1NiLight.html#a03353e31f823a446027cfb3bb1b050ac", null ],
-    [ "GetRTTI", "classRE_1_1NiLight.html#a591b8d71e4b269649882fe8d30352480", null ],
+    [ "GetRTTI", "classRE_1_1NiLight.html#a3e13e131dc42ec50da7f9c5e23f9aa49", null ],
     [ "IsEqual", "classRE_1_1NiLight.html#abb3f189e9ff84ba22d7ca6791413c960", null ],
     [ "LoadBinary", "classRE_1_1NiLight.html#a15697a7176dc64b8078d41df73ffed53", null ],
     [ "SaveBinary", "classRE_1_1NiLight.html#a37472d42c1b12decdff28e60f7bd0013", null ],

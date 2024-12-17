@@ -4,7 +4,7 @@ var classRE_1_1VATS =
       [ "kNone", "classRE_1_1VATS.html#af935cea4087918d25745c633c376e5f8a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kKillCam", "classRE_1_1VATS.html#af935cea4087918d25745c633c376e5f8acbbe8aac5e8e779ac782423ab02a3f23", null ]
     ] ],
-    [ "GetSingleton", "classRE_1_1VATS.html#acab0c6823645fca62684e7f7e8df76f0", null ],
+    [ "GetSingleton", "classRE_1_1VATS.html#ab9a85b2080f0888bedc925e63c92f6e8", null ],
     [ "SetMagicTimeSlowdown", "classRE_1_1VATS.html#a9a6ca43547c76370c2d545eba5f5a0a9", null ],
     [ "attacker", "classRE_1_1VATS.html#a1ae7d76c74136b493fbe998f0def6d98", null ],
     [ "cameraShot", "classRE_1_1VATS.html#a57eccaf9ca30d69e2e24980763d1308e", null ],
@@ -15,6 +15,7 @@ var classRE_1_1VATS =
     [ "item", "classRE_1_1VATS.html#a30101240ae32beed85b7869a8e37db79", null ],
     [ "lock", "classRE_1_1VATS.html#ac26a6f3ed230fe0ff5711cec9d4076f6", null ],
     [ "magicTimeSlowdown", "classRE_1_1VATS.html#aca358a432110954c24728745f9f7d21d", null ],
+    [ "mode", "classRE_1_1VATS.html#aea0d32b091911cd3f66ba58537d730e4", null ],
     [ "pad00", "classRE_1_1VATS.html#aa5421ae91430954bc4e74d07130b6896", null ],
     [ "pad24", "classRE_1_1VATS.html#a44cb0ffab90257932540af52d56fe64b", null ],
     [ "pad44", "classRE_1_1VATS.html#a161fa837d35dc842dd6b03381481e999", null ],
@@ -22,6 +23,7 @@ var classRE_1_1VATS =
     [ "padA4", "classRE_1_1VATS.html#a9bbfa65c2e2d3f0945cab1aa973000ad", null ],
     [ "playerMagicTimeSlowdown", "classRE_1_1VATS.html#acc3c617d65b4b664ef339c979402cb25", null ],
     [ "safetyTime", "classRE_1_1VATS.html#aef48f97c5366da376738a0b4b4908328", null ],
+    [ "stranger", "classRE_1_1VATS.html#addd34425f3faf4893d16d105829ce605", null ],
     [ "target", "classRE_1_1VATS.html#a46ce6901a8c7fb669ce865e2217dae93", null ],
     [ "unk28", "classRE_1_1VATS.html#a5dfa54b210d61494b5e152d67a0011ed", null ],
     [ "unk48", "classRE_1_1VATS.html#a1d97db35164e11f0c7e867dbbe94c5af", null ],
@@ -33,7 +35,5 @@ var classRE_1_1VATS =
     [ "unk79", "classRE_1_1VATS.html#a96f966b83b62508e915e15386d13cfcf", null ],
     [ "unk7C", "classRE_1_1VATS.html#a96314846c852a525d73d5cfdf3fc25d8", null ],
     [ "unkA0", "classRE_1_1VATS.html#ade50ad688d41811b9e4901785fe2e39a", null ],
-    [ "unkB0", "classRE_1_1VATS.html#a398914631271bfe551968e7b7c0e9272", null ],
-    [ "VATSLight", "classRE_1_1VATS.html#a89cc90d4999ed4950c45cda18c32d643", null ],
-    [ "VATSMode", "classRE_1_1VATS.html#a9fd511538e76f31cb29b4466de071c6e", null ]
+    [ "VATSLight", "classRE_1_1VATS.html#a89cc90d4999ed4950c45cda18c32d643", null ]
 ];

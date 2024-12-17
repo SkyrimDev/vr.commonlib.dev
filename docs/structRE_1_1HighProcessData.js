@@ -54,7 +54,7 @@ var structRE_1_1HighProcessData =
     [ "exclusiveTimer", "structRE_1_1HighProcessData.html#a516246f2d6bd72a00489ad8729873907", null ],
     [ "faceGenGeomHandle", "structRE_1_1HighProcessData.html#a9f0787ed8c5c001c67bffc002a96855a", null ],
     [ "fadeAlpha", "structRE_1_1HighProcessData.html#a2e613a929a1f4f7fb3f94d435b01607a", null ],
-    [ "fadeState", "structRE_1_1HighProcessData.html#a8f4b5540b7e55a1ac719e830933996ac", null ],
+    [ "fadeState", "structRE_1_1HighProcessData.html#a5d3a32444d77446e488cfeff1c58e998", null ],
     [ "fadeTrigger", "structRE_1_1HighProcessData.html#a243268bcee238ee49f2172709bff52d9", null ],
     [ "farGeometry", "structRE_1_1HighProcessData.html#a2fecda16103d3473cda72436afba3a12", null ],
     [ "fistsDrawn", "structRE_1_1HighProcessData.html#aa6d129381f19e5590bdbda186f6596a1", null ],
@@ -195,7 +195,7 @@ var structRE_1_1HighProcessData =
     [ "unk46F", "structRE_1_1HighProcessData.html#a47a9720d864518934d97b117445eb01d", null ],
     [ "unk471", "structRE_1_1HighProcessData.html#a717f908af318757cd929bab8c5e9ded0", null ],
     [ "voiceRecoveryTime", "structRE_1_1HighProcessData.html#a507118911a6d0341a5ad3c09feaab52f", null ],
-    [ "voiceState", "structRE_1_1HighProcessData.html#a3e19580321825a3faa73782cea956348", null ],
+    [ "voiceState", "structRE_1_1HighProcessData.html#aec2273e2034da319ff07cea418d97555", null ],
     [ "voiceSubtitle", "structRE_1_1HighProcessData.html#a7d87ba4cb9cbb54feb46d511c0c51bbd", null ],
     [ "voiceTimeElapsed", "structRE_1_1HighProcessData.html#ad94d1341b07ebb9df7177050d6f14453", null ],
     [ "voiceTimer", "structRE_1_1HighProcessData.html#a33b94f36d779147a70207746b3e9a475", null ]

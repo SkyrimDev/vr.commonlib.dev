@@ -24,10 +24,10 @@ var classRE_1_1BSScript_1_1Stack =
     ] ],
     [ "~Stack", "classRE_1_1BSScript_1_1Stack.html#afb885fc4af19b64d65929183c2eb6e96", null ],
     [ "GetPageForFrame", "classRE_1_1BSScript_1_1Stack.html#aa82b8ea95594027c441a2f71aec9ed19", null ],
-    [ "GetStackFrameVariable", "classRE_1_1BSScript_1_1Stack.html#a80caadc3bfea95d1d34eb07051587cd1", null ],
+    [ "GetStackFrameVariable", "classRE_1_1BSScript_1_1Stack.html#a6188c3dc515404a393110273c05ac2ed", null ],
     [ "callback", "classRE_1_1BSScript_1_1Stack.html#a5e8c18af586ddb735304d2a3c0ad3757", null ],
     [ "frames", "classRE_1_1BSScript_1_1Stack.html#a6883e6383bc50d58629b1e530c7c046f", null ],
-    [ "freezeState", "classRE_1_1BSScript_1_1Stack.html#aac1f4fa94b057f461a0a24e0326e2208", null ],
+    [ "freezeState", "classRE_1_1BSScript_1_1Stack.html#ad78c101a285c02363b7f69cdf66d1b3a", null ],
     [ "nextStack", "classRE_1_1BSScript_1_1Stack.html#a6a2285674b13ca6b3d9eec3f1546afc4", null ],
     [ "owningTasklet", "classRE_1_1BSScript_1_1Stack.html#afb6b8af384bb51bc1e2450941e03e07b", null ],
     [ "pad04", "classRE_1_1BSScript_1_1Stack.html#a65f97b91e3a1dc48a2188bfee9c9207e", null ],
@@ -37,7 +37,7 @@ var classRE_1_1BSScript_1_1Stack =
     [ "profilePolicy", "classRE_1_1BSScript_1_1Stack.html#acdb6f44e08f3114b7a5c47dfd1d28245", null ],
     [ "returnValue", "classRE_1_1BSScript_1_1Stack.html#a63c7be7ee8640f86f2fb1de6aa441c9a", null ],
     [ "stackID", "classRE_1_1BSScript_1_1Stack.html#a549f095cf072f63b2619cb1323ecd0a6", null ],
-    [ "stackType", "classRE_1_1BSScript_1_1Stack.html#afef20feda21acdecd36e8bc9f04d2465", null ],
-    [ "state", "classRE_1_1BSScript_1_1Stack.html#a4aafaa4d40c1f4cfcd23b7be47146a7b", null ],
+    [ "stackType", "classRE_1_1BSScript_1_1Stack.html#acd69930f1414ae52f7317e2f1b66f31d", null ],
+    [ "state", "classRE_1_1BSScript_1_1Stack.html#a406ec1943877f18d47efbef6a35c7337", null ],
     [ "top", "classRE_1_1BSScript_1_1Stack.html#a2b23d62fb5ea54a00ee4386c4c58cd1e", null ]
 ];

@@ -1,8 +1,8 @@
 var classRE_1_1BSBound =
 [
     [ "~BSBound", "classRE_1_1BSBound.html#a4a292e169d08ee7056c1f6f66e15722c", null ],
-    [ "CreateClone", "classRE_1_1BSBound.html#ae2837be9501314292a43fa989a24647e", null ],
-    [ "GetRTTI", "classRE_1_1BSBound.html#aaecaf5af4c7d09057cb587aa37101c4f", null ],
+    [ "CreateClone", "classRE_1_1BSBound.html#a006fa0b6f2d289438dfbf84a4f6399f7", null ],
+    [ "GetRTTI", "classRE_1_1BSBound.html#a9b778518bd95ebac4943faae525168fc", null ],
     [ "IsEqual", "classRE_1_1BSBound.html#a164a3a51ac62509d23f73461ed10e577", null ],
     [ "LinkObject", "classRE_1_1BSBound.html#aabeb495f74f5f73971c792eaf35ef41d", null ],
     [ "LoadBinary", "classRE_1_1BSBound.html#acba4a30e6f63664a2576430c7712b01b", null ],

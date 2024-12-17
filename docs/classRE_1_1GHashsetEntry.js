@@ -8,7 +8,7 @@ var classRE_1_1GHashsetEntry =
     [ "GetCachedHash", "classRE_1_1GHashsetEntry.html#a0d5cd1ce2b37582ee028330e7959f6e8", null ],
     [ "IsEmpty", "classRE_1_1GHashsetEntry.html#a4cf0d5b5259891256b957c5315b36473", null ],
     [ "IsEndOfChain", "classRE_1_1GHashsetEntry.html#a95ed13eccc6d47dfc97ebe670ebf535b", null ],
-    [ "SetCachedHash", "classRE_1_1GHashsetEntry.html#a7d4699045138e724385d7133b0da2f29", null ],
+    [ "SetCachedHash", "classRE_1_1GHashsetEntry.html#a932cbb51ae0dcbc4f4d91d64d225b17a", null ],
     [ "nextInChain", "classRE_1_1GHashsetEntry.html#a9a4069c2b8b80b9739d6f65ff860448b", null ],
     [ "value", "classRE_1_1GHashsetEntry.html#a9af39bc35ab4f910d0228cc8371c1832", null ]
 ];

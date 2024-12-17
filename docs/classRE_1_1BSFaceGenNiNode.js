@@ -1,9 +1,9 @@
 var classRE_1_1BSFaceGenNiNode =
 [
     [ "~BSFaceGenNiNode", "classRE_1_1BSFaceGenNiNode.html#a8f7a49c654869dfad8d6000f8c7be4b3", null ],
-    [ "CreateClone", "classRE_1_1BSFaceGenNiNode.html#a477e9e62467fbbe6f41fcd994c69e297", null ],
+    [ "CreateClone", "classRE_1_1BSFaceGenNiNode.html#a6de61922be885069b4c32c530ea49faf", null ],
     [ "FixSkinInstances", "classRE_1_1BSFaceGenNiNode.html#a62023995ce1430e4a5ecaad1ba6c4dff", null ],
-    [ "GetRTTI", "classRE_1_1BSFaceGenNiNode.html#a56b815af1ebffba1efd1b4d2ba0f29cf", null ],
+    [ "GetRTTI", "classRE_1_1BSFaceGenNiNode.html#ad4044e5b8310d4dca86afd126cee8cd3", null ],
     [ "UpdateDownwardPass", "classRE_1_1BSFaceGenNiNode.html#ac04389ffcdb568427fbff8621a259f3e", null ],
     [ "animationData", "classRE_1_1BSFaceGenNiNode.html#a1b8a20ae396a6ff84ccec9d14fd53cfd", null ],
     [ "baseRotation", "classRE_1_1BSFaceGenNiNode.html#a984f8191b12c76048465c2704bfcf0d0", null ],

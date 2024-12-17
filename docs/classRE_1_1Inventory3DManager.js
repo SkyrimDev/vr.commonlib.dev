@@ -3,7 +3,7 @@ var classRE_1_1Inventory3DManager =
     [ "~Inventory3DManager", "classRE_1_1Inventory3DManager.html#a0fc25886e7af3c6a22806fc306d14827", null ],
     [ "Begin3D", "classRE_1_1Inventory3DManager.html#a57b419560de4bd1473c3a9d87da4b5f4", null ],
     [ "End3D", "classRE_1_1Inventory3DManager.html#ac53139c41128865c3d3f3c2e737dc0da", null ],
-    [ "GetSingleton", "classRE_1_1Inventory3DManager.html#a18dd7c4b5f07e9a28275c80a7f09f28a", null ],
+    [ "GetSingleton", "classRE_1_1Inventory3DManager.html#a90d0aa8e856b077e19f39d32c50436cc", null ],
     [ "LoadInventoryItem", "classRE_1_1Inventory3DManager.html#aee324cc7a5e8cbc825c2937a9ac73426", null ],
     [ "LoadInventoryItem", "classRE_1_1Inventory3DManager.html#ab0e9ebbe5f80997c39a9b21e8d1abeb7", null ],
     [ "Render", "classRE_1_1Inventory3DManager.html#afa6a403187e4f46c9cfee99e5876d5bd", null ],

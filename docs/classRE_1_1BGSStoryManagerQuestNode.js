@@ -5,7 +5,7 @@ var classRE_1_1BGSStoryManagerQuestNode =
     [ "~BGSStoryManagerQuestNode", "classRE_1_1BGSStoryManagerQuestNode.html#a27b413a29d8c9395ed80f2405074c41b", null ],
     [ "AcceptVisitor", "classRE_1_1BGSStoryManagerQuestNode.html#a104d2c3bfdd5ac945f9c09271f86a81a", null ],
     [ "ClearData", "classRE_1_1BGSStoryManagerQuestNode.html#a3531519c99a8420dab3f9c4dfc5b2031", null ],
-    [ "GetChild", "classRE_1_1BGSStoryManagerQuestNode.html#a1603517fd3d744fe543c606aea0db1f8", null ],
+    [ "GetChild", "classRE_1_1BGSStoryManagerQuestNode.html#a0a87f256474d25702d3e1ea7a94a961a", null ],
     [ "InitItemImpl", "classRE_1_1BGSStoryManagerQuestNode.html#a70da78d051d656efb97a92982fd48cd8", null ],
     [ "Load", "classRE_1_1BGSStoryManagerQuestNode.html#a095d635ecdc59d868d848976444608b7", null ],
     [ "LoadGame", "classRE_1_1BGSStoryManagerQuestNode.html#ab288e3b62a8279505f6e11baca42dac5", null ],

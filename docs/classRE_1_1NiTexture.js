@@ -3,7 +3,7 @@ var classRE_1_1NiTexture =
     [ "FormatPrefs", "classRE_1_1NiTexture_1_1FormatPrefs.html", "classRE_1_1NiTexture_1_1FormatPrefs" ],
     [ "RendererData", "classRE_1_1NiTexture_1_1RendererData.html", "classRE_1_1NiTexture_1_1RendererData" ],
     [ "~NiTexture", "classRE_1_1NiTexture.html#aaa527eb05dc02ea21c72ad8e44c41de6", null ],
-    [ "GetRTTI", "classRE_1_1NiTexture.html#a4748a82e2f75b4c3c6f01a3319accdfc", null ],
+    [ "GetRTTI", "classRE_1_1NiTexture.html#a1a03427bde135994ba95941783166eb6", null ],
     [ "Unk_25", "classRE_1_1NiTexture.html#af7d8322c42595f1aa1bc60cbcad06089", null ],
     [ "Unk_26", "classRE_1_1NiTexture.html#a6615744f35c8d13c116a5716d1d47dda", null ],
     [ "Unk_27", "classRE_1_1NiTexture.html#af090f5eacd9fd0d48b91c814c2005880", null ],

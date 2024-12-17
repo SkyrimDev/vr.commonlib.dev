@@ -1,7 +1,7 @@
 var classRE_1_1ScreenSplatter =
 [
     [ "Clear", "classRE_1_1ScreenSplatter.html#ac3a941510f21df0ebfde04c0d7c2048f", null ],
-    [ "GetSingleton", "classRE_1_1ScreenSplatter.html#a6c4f30fb398b47613f2316ac65448c58", null ],
+    [ "GetSingleton", "classRE_1_1ScreenSplatter.html#a1c676e4485cc72e4d934c62693ad1e47", null ],
     [ "camera", "classRE_1_1ScreenSplatter.html#a48888036ddc872ef1a58c06f7c51a49c", null ],
     [ "enabled", "classRE_1_1ScreenSplatter.html#a3525d1c7aac2f3b41f878d4d4a2da1a6", null ],
     [ "hRadius", "classRE_1_1ScreenSplatter.html#a311dd9bf6dfbbe7deec868d297f76995", null ],

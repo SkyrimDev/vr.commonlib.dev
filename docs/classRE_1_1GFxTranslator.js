@@ -20,5 +20,5 @@ var classRE_1_1GFxTranslator =
     [ "pad1C", "classRE_1_1GFxTranslator.html#a1e3db066b3efa7df6bb8e1161a3483dd", null ],
     [ "RTTI", "classRE_1_1GFxTranslator.html#a2aca0b45b285070e3d68e196dace4495", null ],
     [ "VTABLE", "classRE_1_1GFxTranslator.html#a67e066ab5743355923225d94637fcf42", null ],
-    [ "wwMode", "classRE_1_1GFxTranslator.html#aba534b47bce62160cee902c802aa3904", null ]
+    [ "wwMode", "classRE_1_1GFxTranslator.html#a0b7650d0d6284a9230bebbf525658e6d", null ]
 ];

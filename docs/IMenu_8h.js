@@ -1,8 +1,8 @@
 var IMenu_8h =
 [
-    [ "IMenu", "classRE_1_1IMenu.html", "classRE_1_1IMenu" ],
+    [ "RE::IMenu", "classRE_1_1IMenu.html", "classRE_1_1IMenu" ],
     [ "UI_MENU_FLAGS", "IMenu_8h.html#a6888818b02313c2fb8d8c39749d12733", [
-      [ "kNone", "IMenu_8h.html#acb188ad7ca48bb8b3528d814ca060efea35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kNone", "IMenu_8h.html#a6888818b02313c2fb8d8c39749d12733a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kPausesGame", "IMenu_8h.html#a6888818b02313c2fb8d8c39749d12733ac59767d360df91348ce13e3d96e508ce", null ],
       [ "kAlwaysOpen", "IMenu_8h.html#a6888818b02313c2fb8d8c39749d12733a18f51f86ca1fe4bbc9b1eb7d4dfb33d8", null ],
       [ "kUsesCursor", "IMenu_8h.html#a6888818b02313c2fb8d8c39749d12733a38c67567dbf3861ebf8a438ff6b38370", null ],

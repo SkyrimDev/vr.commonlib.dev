@@ -1,9 +1,9 @@
 var classRE_1_1BSWindModifier =
 [
     [ "~BSWindModifier", "classRE_1_1BSWindModifier.html#a4a28e78a64065521966e9e5b986e4dc9", null ],
-    [ "Create", "classRE_1_1BSWindModifier.html#a71d8cc7a9df576edc9a097ef6bd38aed", null ],
-    [ "CreateClone", "classRE_1_1BSWindModifier.html#a35fc5813b73f204c47e1b642d59281de", null ],
-    [ "GetRTTI", "classRE_1_1BSWindModifier.html#a4b1eb5065d200f83cf742b92ccc10d47", null ],
+    [ "Create", "classRE_1_1BSWindModifier.html#a1b77336add429b17c221811871d4b13f", null ],
+    [ "CreateClone", "classRE_1_1BSWindModifier.html#a4ffdf42465c4c01845b365a0b647ea4f", null ],
+    [ "GetRTTI", "classRE_1_1BSWindModifier.html#ab43592bef1cabc2169ce5ad1c899e13d", null ],
     [ "IsEqual", "classRE_1_1BSWindModifier.html#a6105385b352eaa3173f4f579b40ce7d3", null ],
     [ "LinkObject", "classRE_1_1BSWindModifier.html#af998cbdb611d1311b618b98be50cbf1f", null ],
     [ "LoadBinary", "classRE_1_1BSWindModifier.html#a2e82d3c9b29ce17cb1ef73e9d332fc59", null ],

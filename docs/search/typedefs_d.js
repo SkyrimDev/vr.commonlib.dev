@@ -1,6 +1,9 @@
 var searchData=
 [
-  ['native_5fhandle_5ftype_79213',['native_handle_type',['../classRE_1_1BSPointerHandle.html#ac34cd851422e2330f14edcd98c92e43b',1,'RE::BSPointerHandle']]],
-  ['nodefilterfunction_5ft_79214',['NodeFilterFunction_t',['../classRE_1_1BSEffectShaderData.html#aa2bbd1e0baf7bf9587184997f1cc8b4b',1,'RE::BSEffectShaderData']]],
-  ['not_5fnull_79215',['not_null',['../namespaceSKSE_1_1stl.html#a0e2d7cb0684880e77c8bbc0f871a070b',1,'SKSE::stl']]]
+  ['objectrefhandle_0',['ObjectRefHandle',['../namespaceRE.html#a6401843e863f7fecb990cfd8d516a0b5',1,'RE']]],
+  ['objectvisitfn_1',['ObjectVisitFn',['../classRE_1_1GFxValue.html#a55cb131b9a501fa8fbc0de83bbe92678',1,'RE::GFxValue']]],
+  ['objectvisitor_2',['ObjectVisitor',['../classRE_1_1GFxValue.html#afa0e733dd4fb2db3c897bcf27a81070a',1,'RE::GFxValue']]],
+  ['observer_3',['observer',['../namespaceSKSE_1_1stl.html#a7d5cd67a5541bb340eb1e852eaf7286a',1,'SKSE::stl']]],
+  ['off_5ftype_4',['off_type',['../classRE_1_1NiBinaryStream.html#aa82021ee2c008606cc086e6d399d04e8',1,'RE::NiBinaryStream']]],
+  ['owner_5',['owner',['../namespaceSKSE_1_1stl.html#a7ae5e6315e33466e038aefe540bfd205',1,'SKSE::stl']]]
 ];

@@ -3,7 +3,7 @@ var classRE_1_1IPackageData =
     [ "~IPackageData", "classRE_1_1IPackageData.html#a9507a63bb02573def9b35e50996b2bab", null ],
     [ "Assign", "classRE_1_1IPackageData.html#a93bb57f675ae94c83df920fad50cde0c", null ],
     [ "GetDataAsString", "classRE_1_1IPackageData.html#a4b450f91962f9c073cc9afde0d17c0ef", null ],
-    [ "GetTypeName", "classRE_1_1IPackageData.html#a18e33193b24b775e1d661efcaab0a42e", null ],
+    [ "GetTypeName", "classRE_1_1IPackageData.html#a7e0e689dc93922e29a9c9f0e1e040fb8", null ],
     [ "InitPackage", "classRE_1_1IPackageData.html#a991fcc5622787651ef5a6477684f1539", null ],
     [ "IsNotEqual", "classRE_1_1IPackageData.html#a39cef99aca62401d296b844da74c0cfc", null ],
     [ "LoadBuffer", "classRE_1_1IPackageData.html#a0936109514cbdc40426ae7faa2509994", null ],

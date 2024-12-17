@@ -13,7 +13,7 @@ var classRE_1_1GFxRenderConfig =
       [ "kNoViewCull", "classRE_1_1GFxRenderConfig.html#a5ea5909df3aeb55286c97fb822ca25e7a92a2cb25d7c49cc0ad5d4281faa5166c", null ]
     ] ],
     [ "GetMaxCurvePixelError", "classRE_1_1GFxRenderConfig.html#a2f42854dfd03cd8846d07c290093e884", null ],
-    [ "GetRenderer", "classRE_1_1GFxRenderConfig.html#a5c61ee8e72eccfafe327ae48fd2ea47b", null ],
+    [ "GetRenderer", "classRE_1_1GFxRenderConfig.html#ac0aae051174fdc3b98cf371a1fbbd2a2", null ],
     [ "GetRendererCapBits", "classRE_1_1GFxRenderConfig.html#ad4cc70f21fa22fe5553112a8ec3ab466", null ],
     [ "GetRenderFlags", "classRE_1_1GFxRenderConfig.html#a75922dbb45f6d7d6da71255122223882", null ],
     [ "GetStrokerAAWidth", "classRE_1_1GFxRenderConfig.html#ad8312becd4c0487e49a19358b4ce0033", null ],
@@ -29,8 +29,8 @@ var classRE_1_1GFxRenderConfig =
     [ "maxCurvePixelError", "classRE_1_1GFxRenderConfig.html#a9211aaf203f3bdf2a04b2f0bdb56cbb7", null ],
     [ "pad34", "classRE_1_1GFxRenderConfig.html#aaff2d4d93cbc716b2cbbe0a36caf8f00", null ],
     [ "renderer", "classRE_1_1GFxRenderConfig.html#a21f3c248ac7ea6054623cd9d2820e55d", null ],
-    [ "rendererCapBits", "classRE_1_1GFxRenderConfig.html#a72ca7a002365ed5b89d241cdebea239f", null ],
-    [ "rendererVtxFmts", "classRE_1_1GFxRenderConfig.html#a211466e1e4434fd2b4d7958fd9a9a25f", null ],
-    [ "renderFlags", "classRE_1_1GFxRenderConfig.html#a6f95bbfe94ebbbcf93f20e8f9d9541ea", null ],
+    [ "rendererCapBits", "classRE_1_1GFxRenderConfig.html#a5c57bbfc35ca1eef6e8293dc793a7063", null ],
+    [ "rendererVtxFmts", "classRE_1_1GFxRenderConfig.html#a62809b71f0f7f64b9ffe799a5137c189", null ],
+    [ "renderFlags", "classRE_1_1GFxRenderConfig.html#a545d21d73d62e0c98563035cf34f354c", null ],
     [ "strokerAAWidth", "classRE_1_1GFxRenderConfig.html#aca76f36dffdc223b1012c42950023c8d", null ]
 ];

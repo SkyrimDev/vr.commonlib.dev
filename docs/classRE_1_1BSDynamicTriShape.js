@@ -1,9 +1,9 @@
 var classRE_1_1BSDynamicTriShape =
 [
     [ "~BSDynamicTriShape", "classRE_1_1BSDynamicTriShape.html#a36cbe5529e943eea49d2cd1eb62f6e20", null ],
-    [ "AsDynamicTriShape", "classRE_1_1BSDynamicTriShape.html#a4b9b51632b3c04310c5280532a43b04e", null ],
-    [ "CreateClone", "classRE_1_1BSDynamicTriShape.html#a52d284863d0729dd4bab41fd90360772", null ],
-    [ "GetRTTI", "classRE_1_1BSDynamicTriShape.html#a02dc8004a3f9205013673d75c810b077", null ],
+    [ "AsDynamicTriShape", "classRE_1_1BSDynamicTriShape.html#a26da896670b814d70aead9ab198b6ad4", null ],
+    [ "CreateClone", "classRE_1_1BSDynamicTriShape.html#a28223811fdb40af59b043870cb677e00", null ],
+    [ "GetRTTI", "classRE_1_1BSDynamicTriShape.html#a79f3ec9ad0299e82e1059e0a05303eaf", null ],
     [ "IsEqual", "classRE_1_1BSDynamicTriShape.html#a15135ffb7807eddd9b8436a68fb82f30", null ],
     [ "LinkObject", "classRE_1_1BSDynamicTriShape.html#a5f643781799bb0a93b65e9bec8d580bb", null ],
     [ "LoadBinary", "classRE_1_1BSDynamicTriShape.html#adc9b034429174129d63a3c3c22e12c42", null ],

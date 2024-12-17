@@ -15,7 +15,7 @@ var classRE_1_1BGSCollisionLayer =
     [ "collidesWith", "classRE_1_1BGSCollisionLayer.html#acf9fe1fa89715d6c46ae1bd74af27600", null ],
     [ "collisionIdx", "classRE_1_1BGSCollisionLayer.html#a819f70b1cb7672c38a1d3b59c124b010", null ],
     [ "debugColor", "classRE_1_1BGSCollisionLayer.html#a0d4ccd9f2503850044fc590353a4e991", null ],
-    [ "flags", "classRE_1_1BGSCollisionLayer.html#ab8572284af9da218980165c203619b61", null ],
+    [ "flags", "classRE_1_1BGSCollisionLayer.html#adbb69d5bf6ba220f40521c753152c3b8", null ],
     [ "FORMTYPE", "classRE_1_1BGSCollisionLayer.html#ade4fca44810885c0d099bec99d4ad682", null ],
     [ "name", "classRE_1_1BGSCollisionLayer.html#a78d8279e6e0d426f77790a809ebab367", null ],
     [ "pad3C", "classRE_1_1BGSCollisionLayer.html#a69d6688b3c3ba3dd5d18e6aeef93169d", null ],

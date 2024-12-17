@@ -6,7 +6,7 @@ var classRE_1_1BSInstanceTriShape =
     [ "BeginAddingInstances", "classRE_1_1BSInstanceTriShape.html#a5b7cc604b113a6484f0a195857dbc3b4", null ],
     [ "DoneAddingInstances", "classRE_1_1BSInstanceTriShape.html#af34ecdd331fe97ac82b232e9502dc897", null ],
     [ "GetIsAddingInstances", "classRE_1_1BSInstanceTriShape.html#a7725dceaecc2a80efe113c4f822e5258", null ],
-    [ "GetRTTI", "classRE_1_1BSInstanceTriShape.html#a515eb552d6646805ffdc42f30574f37c", null ],
+    [ "GetRTTI", "classRE_1_1BSInstanceTriShape.html#ad764f401636f6527da0053fbb2d44230", null ],
     [ "RemoveGroup", "classRE_1_1BSInstanceTriShape.html#a2c4f867599a6b15b1e3b12b2734dcfab", null ],
     [ "Ni_RTTI", "classRE_1_1BSInstanceTriShape.html#ac0cdc04d93e4690a4a0eaf6ae7881754", null ],
     [ "RTTI", "classRE_1_1BSInstanceTriShape.html#a307e0dc7f5654a6aab78127ac765ad34", null ],

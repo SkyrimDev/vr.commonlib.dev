@@ -23,6 +23,6 @@ var classRE_1_1GFxActionControl =
     [ "UnsetLongFilenameLogging", "classRE_1_1GFxActionControl.html#adfc3433e11abbcfcda17bac62b45bd06", null ],
     [ "UnsetRootFilenameLogging", "classRE_1_1GFxActionControl.html#af9fc6f1795a1d5df55e0238bcd53baff", null ],
     [ "UnsetVerboseLogging", "classRE_1_1GFxActionControl.html#af10831501839fc5e6d5f03eeee2b583f", null ],
-    [ "actionFlags", "classRE_1_1GFxActionControl.html#a9f503164681f363a755b4deed52f2b5f", null ],
+    [ "actionFlags", "classRE_1_1GFxActionControl.html#a97983ecba77591bab8082da291a6d191", null ],
     [ "pad1C", "classRE_1_1GFxActionControl.html#a2e1b997c69e7b5fae4fae271732c1c3c", null ]
 ];

@@ -1,6 +1,6 @@
 var classRE_1_1BSTimer =
 [
-    [ "GetSingleton", "classRE_1_1BSTimer.html#a2661accde06bbf156b098f4f03605d33", null ],
+    [ "GetSingleton", "classRE_1_1BSTimer.html#a3d30a71d75ccbfef1619f165212d01ec", null ],
     [ "QGlobalTimeMultiplier", "classRE_1_1BSTimer.html#a21877b0e9aa63404d1b416a05beb1720", null ],
     [ "QGlobalTimeMultiplierTarget", "classRE_1_1BSTimer.html#a8f63122e71083e53c2db73fc1b236007", null ],
     [ "SetGlobalTimeMultiplier", "classRE_1_1BSTimer.html#a0c8457eb2ca0c2d2a49c8cfe40bf00a7", null ],
@@ -8,6 +8,7 @@ var classRE_1_1BSTimer =
     [ "clampRemainder", "classRE_1_1BSTimer.html#a2d8a4b42dd5c26478ad60e1dbdd75762", null ],
     [ "delta", "classRE_1_1BSTimer.html#a40290c572a50320e8216f71699648ab7", null ],
     [ "lastPerformanceCount", "classRE_1_1BSTimer.html#a0e6493022be119c6422795e539ef668a", null ],
+    [ "pad0C", "classRE_1_1BSTimer.html#a1d8b1e638257db1567d1ecf1905f6b97", null ],
     [ "pad3B", "classRE_1_1BSTimer.html#ac6862fda602f0d056df62b45bbb8474c", null ],
     [ "pad3C", "classRE_1_1BSTimer.html#ac17532e5d5f8f0824c53f086c205ef17", null ],
     [ "realTimeDelta", "classRE_1_1BSTimer.html#a0b88045b94f349a4ad58c6ed7c8d94a2", null ],

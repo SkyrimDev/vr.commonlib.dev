@@ -3,7 +3,7 @@ var classRE_1_1NiSkinData =
     [ "BoneData", "classRE_1_1NiSkinData_1_1BoneData.html", "classRE_1_1NiSkinData_1_1BoneData" ],
     [ "BoneVertData", "classRE_1_1NiSkinData_1_1BoneVertData.html", "classRE_1_1NiSkinData_1_1BoneVertData" ],
     [ "~NiSkinData", "classRE_1_1NiSkinData.html#a65aed140b100e67205a58cd185d8b5e9", null ],
-    [ "GetRTTI", "classRE_1_1NiSkinData.html#ac1cdc3941e192212244db089a483bbef", null ],
+    [ "GetRTTI", "classRE_1_1NiSkinData.html#a7bbac8cad1c19d3e6dfb078ac4b55d6a", null ],
     [ "IsEqual", "classRE_1_1NiSkinData.html#ad532e03ec20131aedce715d62365355d", null ],
     [ "LinkObject", "classRE_1_1NiSkinData.html#adcdbb488cbae89ae82f351c92265ae63", null ],
     [ "LoadBinary", "classRE_1_1NiSkinData.html#a665baadfae7d497c04c9c3f08bb98d13", null ],

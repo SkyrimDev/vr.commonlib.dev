@@ -25,8 +25,8 @@ var structRE_1_1BSNavmeshTriangle =
       [ "kOverlapping", "structRE_1_1BSNavmeshTriangle.html#a6e761f376bd5ffccfa598265430a7c9cac1a1d74d00227b3055391f15be3052b8", null ],
       [ "kPreferred", "structRE_1_1BSNavmeshTriangle.html#a6e761f376bd5ffccfa598265430a7c9cadef84d98ccbaf6b12d65747933ef3302", null ]
     ] ],
-    [ "traversalFlags", "structRE_1_1BSNavmeshTriangle.html#a53807a6c9dffb5e6318be7de41c4b8ae", null ],
-    [ "triangleFlags", "structRE_1_1BSNavmeshTriangle.html#a75df62d0d044090aa6da74f0c726c361", null ],
+    [ "traversalFlags", "structRE_1_1BSNavmeshTriangle.html#aae0243a5df6d335955a4796063949ab6", null ],
+    [ "triangleFlags", "structRE_1_1BSNavmeshTriangle.html#a45d4ec6e046ae5fdfcea338e9fde10ae", null ],
     [ "triangles", "structRE_1_1BSNavmeshTriangle.html#a8d06425e63e8916ad2f976c6fa59315c", null ],
     [ "vertices", "structRE_1_1BSNavmeshTriangle.html#ace36fe51e1fb469f209508ab41ed936f", null ]
 ];

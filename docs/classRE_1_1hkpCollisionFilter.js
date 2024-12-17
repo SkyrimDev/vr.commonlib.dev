@@ -18,6 +18,6 @@ var classRE_1_1hkpCollisionFilter =
     [ "pad40", "classRE_1_1hkpCollisionFilter.html#a82afd12f00d0f3a2d0ee5f3e014061e0", null ],
     [ "pad44", "classRE_1_1hkpCollisionFilter.html#acc4ec976ce480881ab55615c243719f1", null ],
     [ "RTTI", "classRE_1_1hkpCollisionFilter.html#aaa8b4991573dbf4c16393cb5092a133d", null ],
-    [ "type", "classRE_1_1hkpCollisionFilter.html#a1d3f240e5d4438a972e38422e3f8dd60", null ],
+    [ "type", "classRE_1_1hkpCollisionFilter.html#a6b339eee62edb9ddf301041eedeba79f", null ],
     [ "VTABLE", "classRE_1_1hkpCollisionFilter.html#add8c0b46654ff4a9415cf0ba6e2e401a", null ]
 ];

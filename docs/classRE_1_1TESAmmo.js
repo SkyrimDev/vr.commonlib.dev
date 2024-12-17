@@ -2,8 +2,8 @@ var classRE_1_1TESAmmo =
 [
     [ "RecordFlags", "structRE_1_1TESAmmo_1_1RecordFlags.html", "structRE_1_1TESAmmo_1_1RecordFlags" ],
     [ "~TESAmmo", "classRE_1_1TESAmmo.html#a98cffa14155a40bc601418f9c3e4a4b4", null ],
-    [ "Clone3D", "classRE_1_1TESAmmo.html#a519988a7ac304d096b2ceada57e799ef", null ],
-    [ "GetDefaultKeyword", "classRE_1_1TESAmmo.html#a69d462c506cc8e5028fa88596c69dc21", null ],
+    [ "Clone3D", "classRE_1_1TESAmmo.html#a0d2d2ce243d0c8ec3976ce3009a452b8", null ],
+    [ "GetDefaultKeyword", "classRE_1_1TESAmmo.html#a7c5a590a5e8ef87c81f51677eb1b74dc", null ],
     [ "GetPlayable", "classRE_1_1TESAmmo.html#a252759b46ed707e47b1510f984316885", null ],
     [ "HandleRemoveItemFromContainer", "classRE_1_1TESAmmo.html#a40f600270058aaef2352c5fffae00c62", null ],
     [ "IgnoresNormalWeaponResistance", "classRE_1_1TESAmmo.html#a44e1e29ee253865637313b194f9b43f4", null ],

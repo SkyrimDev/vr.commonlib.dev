@@ -8,7 +8,7 @@ var classRE_1_1CombatMagicCaster =
     [ "CheckTargetValid", "classRE_1_1CombatMagicCaster.html#a6b4cbfa8aedd84c576dbe29fa1680cad", null ],
     [ "CheckTargetValid", "classRE_1_1CombatMagicCaster.html#ade80b9b37ab402177c99f6c68f8382c7", null ],
     [ "GetCategory", "classRE_1_1CombatMagicCaster.html#aa896f85fcfa1ddc8bf1721aff333667e", null ],
-    [ "GetMagicTarget", "classRE_1_1CombatMagicCaster.html#a1841f7b2880b0dfcdd7d3fa6e3600e60", null ],
+    [ "GetMagicTarget", "classRE_1_1CombatMagicCaster.html#a93eecf26f0924ef122b69815dc42d053", null ],
     [ "LoadGame", "classRE_1_1CombatMagicCaster.html#abb1ee061e1ea2df78d7af8a920c63b43", null ],
     [ "NotifyStartCast", "classRE_1_1CombatMagicCaster.html#af2a42a74cdb3c14d0fed272ad215e748", null ],
     [ "NotifyStopCast", "classRE_1_1CombatMagicCaster.html#a139f0c644a8a0e664ab062907cfaa045", null ],

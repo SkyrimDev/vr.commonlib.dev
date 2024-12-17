@@ -26,7 +26,7 @@ var structRE_1_1CachedValues =
       [ "kOwnerIsInCombatantFaction", "structRE_1_1CachedValues.html#a89d82d1e191802d32d8c3a305ca3fec6a4939ce214c17c10c6f3a2a997ebec524", null ]
     ] ],
     [ "actorValueCache", "structRE_1_1CachedValues.html#a7ba0abd4c278aed4945c5da4f5b75f62", null ],
-    [ "booleanValues", "structRE_1_1CachedValues.html#a42d94a78fb3992a5935e98384e7473d0", null ],
+    [ "booleanValues", "structRE_1_1CachedValues.html#a450c643ae0d5336ba07ad5e308231708", null ],
     [ "cachedDPS", "structRE_1_1CachedValues.html#a26c815a16a48c3aaf2895f86c400a1b2", null ],
     [ "cachedEyeLevel", "structRE_1_1CachedValues.html#ab3aba8d96946277f2c4e7e0495a5253b", null ],
     [ "cachedFastWalkSpeed", "structRE_1_1CachedValues.html#abb52372d8e64f32afeb10951171b9a55", null ],
@@ -37,6 +37,6 @@ var structRE_1_1CachedValues =
     [ "cachedRunSpeed", "structRE_1_1CachedValues.html#a31c89cad96f3fde747cafa84def85420", null ],
     [ "cachedWalkSpeed", "structRE_1_1CachedValues.html#af14bef88172490e2927a52cfcbe2de80", null ],
     [ "cachedWidth", "structRE_1_1CachedValues.html#ad3b00fc5598a3395dca9e05cdfaa4c1b", null ],
-    [ "flags", "structRE_1_1CachedValues.html#a2c66246c3a919eca373d73bd5cdf78da", null ],
+    [ "flags", "structRE_1_1CachedValues.html#aac5365d99389b2f0d5a50970647a4638", null ],
     [ "maxActorValueCache", "structRE_1_1CachedValues.html#aedba9037e06f17b537594b893c916402", null ]
 ];

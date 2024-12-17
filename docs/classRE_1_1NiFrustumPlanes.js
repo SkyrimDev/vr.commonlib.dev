@@ -9,7 +9,7 @@ var classRE_1_1NiFrustumPlanes =
       [ "kTop", "classRE_1_1NiFrustumPlanes.html#a2cb93abfa0d95505c6d66a2ce4754b0eac44256df9082e82baea867976fa04c9f", null ],
       [ "kBottom", "classRE_1_1NiFrustumPlanes.html#a2cb93abfa0d95505c6d66a2ce4754b0ea78cd851b433d8d6864110dd678e43586", null ]
     ] ],
-    [ "activePlanes", "classRE_1_1NiFrustumPlanes.html#a804cd900632c481ce5c7d2f903900d2d", null ],
+    [ "activePlanes", "classRE_1_1NiFrustumPlanes.html#afcb5d8e6c47e855f8e4d88ab19008b12", null ],
     [ "basePlaneStates", "classRE_1_1NiFrustumPlanes.html#a9355a2838aae28712e0401b80cc46821", null ],
     [ "cullingPlanes", "classRE_1_1NiFrustumPlanes.html#a8e37df640a347a7bf90105d02e444c0a", null ],
     [ "unk68", "classRE_1_1NiFrustumPlanes.html#a80736394fb467b6fa2767c8c72c0a8b1", null ],

@@ -12,7 +12,7 @@ var classRE_1_1EffectSetting =
     [ "GetArchetypeAsString", "classRE_1_1EffectSetting.html#a114de4606ecd3d1a2068751d254e2263", null ],
     [ "GetMagickSkill", "classRE_1_1EffectSetting.html#a8dd7a1ec5daf6a79f121e435b4631515", null ],
     [ "GetMinimumSkillLevel", "classRE_1_1EffectSetting.html#ae90029dfd1caf2f76229b0db4851a095", null ],
-    [ "GetObjectTypeName", "classRE_1_1EffectSetting.html#a019afad3edfa7ce5d8a974a2ed7103b8", null ],
+    [ "GetObjectTypeName", "classRE_1_1EffectSetting.html#a5de7e2496e0d68443e51bc3e0c9cde61", null ],
     [ "HasArchetype", "classRE_1_1EffectSetting.html#a9ff82a0f8a276ba21084cb8bf6b85f2a", null ],
     [ "HasKeyword", "classRE_1_1EffectSetting.html#af0bc7203d8157accb768eb429736e877", null ],
     [ "HasKeyword", "classRE_1_1EffectSetting.html#a8474c73405acf63800e73c8376458f8f", null ],

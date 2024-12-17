@@ -4,7 +4,7 @@ var classRE_1_1SleepWaitMenu =
     [ "Accept", "classRE_1_1SleepWaitMenu.html#a8aa603177a7805bd10777f7ac35cccae", null ],
     [ "ProcessMessage", "classRE_1_1SleepWaitMenu.html#ac9513f5c0200d004d57ed50b0a86b717", null ],
     [ "ToggleOpenSleepWaitMenu", "classRE_1_1SleepWaitMenu.html#aaea511378041d007da597e6179b77e8b", null ],
-    [ "MENU_NAME", "classRE_1_1SleepWaitMenu.html#af08621cc5435f21fc2d241ca48de12bf", null ],
+    [ "MENU_NAME", "classRE_1_1SleepWaitMenu.html#aa274085901aefd5d3c5bd319681890d2", null ],
     [ "pad34", "classRE_1_1SleepWaitMenu.html#a671e427abd75f8728145749ce818f09c", null ],
     [ "pad52", "classRE_1_1SleepWaitMenu.html#aaa9c10becb93daeeae5e6988a283ab1e", null ],
     [ "pad54", "classRE_1_1SleepWaitMenu.html#af38993363fed50024c4c7832e55e5d9f", null ],

@@ -8,7 +8,7 @@ var classRE_1_1BarrierProjectile =
     [ "InitHavok", "classRE_1_1BarrierProjectile.html#a18b4216dfe38ead890572ae5bada5b9b", null ],
     [ "InitLoadGame", "classRE_1_1BarrierProjectile.html#ae1917125c913e8aaa5b45c3cad32e394", null ],
     [ "IsBarrierProjectile", "classRE_1_1BarrierProjectile.html#a4f5c51cb6957428cc4357d97b585dcd5", null ],
-    [ "Load3D", "classRE_1_1BarrierProjectile.html#a918c77333e322fc7a9309c9cd3fd622d", null ],
+    [ "Load3D", "classRE_1_1BarrierProjectile.html#a91efa0b0e945f03dc31e87c0d82b00cb", null ],
     [ "LoadGame", "classRE_1_1BarrierProjectile.html#a8ac94bd2641c88e5bd29ecc54785a036", null ],
     [ "ProcessImpacts", "classRE_1_1BarrierProjectile.html#a9197596f927358717278bdb6f76ae345", null ],
     [ "Revert", "classRE_1_1BarrierProjectile.html#a09ce1889e9ade1dd3b47569124c176af", null ],

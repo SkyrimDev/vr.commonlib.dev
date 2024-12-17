@@ -8,6 +8,6 @@ var classRE_1_1CreationClubMenu =
     [ "ProcessThumbstick", "classRE_1_1CreationClubMenu.html#a5e047ffbcf12bf839fa15e57decec1dd", null ],
     [ "background", "classRE_1_1CreationClubMenu.html#a1941f881bdfeb44e1545aba4e037adef", null ],
     [ "details", "classRE_1_1CreationClubMenu.html#ac0127d4a26ed7460c1354c54545ebf72", null ],
-    [ "MENU_NAME", "classRE_1_1CreationClubMenu.html#acd9bce64365819efde1b4c4109f380be", null ],
+    [ "MENU_NAME", "classRE_1_1CreationClubMenu.html#aa1ec7cb8120cff63b3287833ce3901de", null ],
     [ "RTTI", "classRE_1_1CreationClubMenu.html#a2f81a4fa30b940fc8ce60c16a1c23d6d", null ]
 ];

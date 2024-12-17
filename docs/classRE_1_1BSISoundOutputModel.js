@@ -3,7 +3,7 @@ var classRE_1_1BSISoundOutputModel =
     [ "BSIAttenuationCharacteristics", "structRE_1_1BSISoundOutputModel_1_1BSIAttenuationCharacteristics.html", "structRE_1_1BSISoundOutputModel_1_1BSIAttenuationCharacteristics" ],
     [ "~BSISoundOutputModel", "classRE_1_1BSISoundOutputModel.html#abe4708c097d46ede54b15bb93e092ebb", null ],
     [ "DoGetAttenuatesWithDistance", "classRE_1_1BSISoundOutputModel.html#a94248c996a28e695aa39ad27f2fe551d", null ],
-    [ "DoGetAttenuation", "classRE_1_1BSISoundOutputModel.html#a0d29d5148a402d6ef5c00794d7ae7f04", null ],
+    [ "DoGetAttenuation", "classRE_1_1BSISoundOutputModel.html#a008fe77f737e3b673062771fc9c0e916", null ],
     [ "DoGetAudibility", "classRE_1_1BSISoundOutputModel.html#aba9d2e0e867da767f9483cf66920f3ca", null ],
     [ "DoGetHasSpeakerBias", "classRE_1_1BSISoundOutputModel.html#afe5b658bdf11882623309be09ec80a3b", null ],
     [ "DoGetReverbSendLevel", "classRE_1_1BSISoundOutputModel.html#ab07c056c8fef6ede5e4fd8dd8dbcc41a", null ],

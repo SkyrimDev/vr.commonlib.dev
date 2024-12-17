@@ -1,8 +1,8 @@
 var bhkCharacterController_8h =
 [
-    [ "bhkCharacterController", "classRE_1_1bhkCharacterController.html", "classRE_1_1bhkCharacterController" ],
+    [ "RE::bhkCharacterController", "classRE_1_1bhkCharacterController.html", "classRE_1_1bhkCharacterController" ],
     [ "CHARACTER_FLAGS", "bhkCharacterController_8h.html#a53850c43d5b5e86fe39939990716a00b", [
-      [ "kNone", "bhkCharacterController_8h.html#acb188ad7ca48bb8b3528d814ca060efea35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kNone", "bhkCharacterController_8h.html#a53850c43d5b5e86fe39939990716a00ba35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kQuadruped", "bhkCharacterController_8h.html#a53850c43d5b5e86fe39939990716a00bac8da7f2294d2ccf84e89a97a2ca3f473", null ],
       [ "kNoGravityOnGround", "bhkCharacterController_8h.html#a53850c43d5b5e86fe39939990716a00baf61f1531af8ed28bafb020d759e0ce35", null ],
       [ "kTryStep", "bhkCharacterController_8h.html#a53850c43d5b5e86fe39939990716a00ba06d496f35072a065556c531b550f1400", null ],

@@ -10,7 +10,7 @@ var classREL_1_1Version =
     [ "begin", "classREL_1_1Version.html#ab67495cb64110bab7ab19eb105d8261e", null ],
     [ "cbegin", "classREL_1_1Version.html#a2ba0e206d7d3f10a51cb9f1fab3e5b3d", null ],
     [ "cend", "classREL_1_1Version.html#a6f5115d9029e46f62c9505f4cee6aa1d", null ],
-    [ "compare", "classREL_1_1Version.html#ab1037dff486a2b9701172598ebcacf80", null ],
+    [ "compare", "classREL_1_1Version.html#a246600ada17adcae255d60ac1fd4473f", null ],
     [ "end", "classREL_1_1Version.html#a0e219ebc53c8e894dbbd5edc8df2cb99", null ],
     [ "operator[]", "classREL_1_1Version.html#a4fffd5b2086bca2ad048668f9af47549", null ],
     [ "operator[]", "classREL_1_1Version.html#a1e5f05d67175bb3e1673eba40b8f94c3", null ],

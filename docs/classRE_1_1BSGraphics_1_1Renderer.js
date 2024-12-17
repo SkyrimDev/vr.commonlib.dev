@@ -1,12 +1,12 @@
 var classRE_1_1BSGraphics_1_1Renderer =
 [
-    [ "CreateRenderTexture", "classRE_1_1BSGraphics_1_1Renderer.html#afdea8cdf4700b7f8d12adc100be8db1d", null ],
+    [ "CreateRenderTexture", "classRE_1_1BSGraphics_1_1Renderer.html#a92e6929abff1a861798c09fb956f976c", null ],
     [ "CreateSwapChain", "classRE_1_1BSGraphics_1_1Renderer.html#ac1fcfea3fc2c7c5e12672ebd9f7a8eee", null ],
-    [ "GetCurrentRenderWindow", "classRE_1_1BSGraphics_1_1Renderer.html#a526a4318ef14340cf6ba35ba5b7283a5", null ],
-    [ "GetDevice", "classRE_1_1BSGraphics_1_1Renderer.html#a0f92c87564d4d3c37f27f7c7779de9ec", null ],
-    [ "GetRendererData", "classRE_1_1BSGraphics_1_1Renderer.html#a4b5899e2083b0813fe47b737e7055431", null ],
+    [ "GetCurrentRenderWindow", "classRE_1_1BSGraphics_1_1Renderer.html#a8d52b25de15a3495411c9cf9260d2d00", null ],
+    [ "GetDevice", "classRE_1_1BSGraphics_1_1Renderer.html#a83d4ffc91c64cf0b7f743e3579d94196", null ],
+    [ "GetRendererData", "classRE_1_1BSGraphics_1_1Renderer.html#a8e279f34ad9e123a0ecb4f8a23079fe8", null ],
     [ "GetScreenSize", "classRE_1_1BSGraphics_1_1Renderer.html#acea7df30820198d3a00a261dd506d0e2", null ],
-    [ "GetSingleton", "classRE_1_1BSGraphics_1_1Renderer.html#a4dab31b088ca040e57f120388f31acec", null ],
+    [ "GetSingleton", "classRE_1_1BSGraphics_1_1Renderer.html#ad42b06e04010546add85a6497347827e", null ],
     [ "KillWindow", "classRE_1_1BSGraphics_1_1Renderer.html#a9345ffb7bb6a46887d4c74359f87512a", null ],
     [ "Lock", "classRE_1_1BSGraphics_1_1Renderer.html#a99d8045aa64d4dc7f448009a7015e44a", null ],
     [ "RequestWindowResize", "classRE_1_1BSGraphics_1_1Renderer.html#a0d97e6001c650ebade37a7c961a8f809", null ],

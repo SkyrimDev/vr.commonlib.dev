@@ -1,9 +1,9 @@
 var classRE_1_1BSTriShape =
 [
     [ "~BSTriShape", "classRE_1_1BSTriShape.html#abba630a3dde3c23b42239b5b7799a5f3", null ],
-    [ "AsTriShape", "classRE_1_1BSTriShape.html#a1fbba4a25a446a46e8c466ec354dc4c4", null ],
-    [ "CreateClone", "classRE_1_1BSTriShape.html#abbc9e0b56b99646b57fe34aad0ccffd4", null ],
-    [ "GetRTTI", "classRE_1_1BSTriShape.html#ae5394f56a4cec86e395107da5af75ad4", null ],
+    [ "AsTriShape", "classRE_1_1BSTriShape.html#a1eb3b852bda52400027f2e314a47315b", null ],
+    [ "CreateClone", "classRE_1_1BSTriShape.html#a8f7611a4d978d1a2ac740d20d3086db6", null ],
+    [ "GetRTTI", "classRE_1_1BSTriShape.html#acf0b3f2145d372b1bef3ad0d7667d162", null ],
     [ "IsEqual", "classRE_1_1BSTriShape.html#a0fd1db4bc597e00b65d6011ae6f16d04", null ],
     [ "LinkObject", "classRE_1_1BSTriShape.html#a78b582603ffbfcd3e1c6a111ec33660a", null ],
     [ "LoadBinary", "classRE_1_1BSTriShape.html#a728cca1ec2741b488b0f8f50189dfe7e", null ],

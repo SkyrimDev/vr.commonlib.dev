@@ -12,7 +12,7 @@ var classRE_1_1MagicItemDataCollector =
     [ "~MagicItemDataCollector", "classRE_1_1MagicItemDataCollector.html#a52257f5beea78ea45b92c0514fd60b22", null ],
     [ "operator()", "classRE_1_1MagicItemDataCollector.html#a98676a7fe4393ea22e5de48705bb9ed6", null ],
     [ "costliestEffect", "classRE_1_1MagicItemDataCollector.html#a24d374dfd86d5a207a2aff8cdc5c1da8", null ],
-    [ "flags", "classRE_1_1MagicItemDataCollector.html#a7d9f5d722c9d99c7481f4931bf622fb6", null ],
+    [ "flags", "classRE_1_1MagicItemDataCollector.html#a5d08f59a1712b3a6cdd5a213a0cd28ad", null ],
     [ "highestArea", "classRE_1_1MagicItemDataCollector.html#add74560b50d4ceacb80ee45225db76fd", null ],
     [ "largestAreaEffect", "classRE_1_1MagicItemDataCollector.html#ab5fc74ebdc25de306091cdfe3dab0f6e", null ],
     [ "maxCost", "classRE_1_1MagicItemDataCollector.html#abe5fb904adf6c9284ebba42a6dcf7ede", null ],

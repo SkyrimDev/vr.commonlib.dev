@@ -1,6 +1,6 @@
 var classRE_1_1SubtitleManager =
 [
-    [ "GetSingleton", "classRE_1_1SubtitleManager.html#ab9c3c69a62242f99b740f1c1a21a3fa5", null ],
+    [ "GetSingleton", "classRE_1_1SubtitleManager.html#a958c5e4cf06e5b5bba805435009d8983", null ],
     [ "KillSubtitles", "classRE_1_1SubtitleManager.html#a47be79f8e6de8b5e2ca4d14682135f38", null ],
     [ "currentSpeaker", "classRE_1_1SubtitleManager.html#a48457fd58d0ddcdf03849e86159e2dae", null ],
     [ "lock", "classRE_1_1SubtitleManager.html#a062eee10aa3bbc85a7cfe37733e93111", null ],

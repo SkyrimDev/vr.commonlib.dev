@@ -6,7 +6,7 @@ var classRE_1_1hkpCachingShapePhantom =
     [ "~hkpCachingShapePhantom", "classRE_1_1hkpCachingShapePhantom.html#a4862457e4db16256f25d7deace8d813d", null ],
     [ "AddOverlappingCollidable", "classRE_1_1hkpCachingShapePhantom.html#afe1c5ba4bc9817330a7639bc466bd90c", null ],
     [ "CalcContentStatistics", "classRE_1_1hkpCachingShapePhantom.html#ac75fa2c3e3ca12df5b03df274ae72b35", null ],
-    [ "Clone", "classRE_1_1hkpCachingShapePhantom.html#ad726ea82c0d2e6b803798dbedef585db", null ],
+    [ "Clone", "classRE_1_1hkpCachingShapePhantom.html#abf5ef8414d6e44a1e5ff4bd3958d0bcb", null ],
     [ "DeallocateInternalArrays", "classRE_1_1hkpCachingShapePhantom.html#a893e109ed9065a64b3c4649315a00010", null ],
     [ "EnsureDeterministicOrder", "classRE_1_1hkpCachingShapePhantom.html#ab86975b4b7454a26c3ea1c93fcc07f02", null ],
     [ "GetClosestPoints", "classRE_1_1hkpCachingShapePhantom.html#ab598f872f2e1d9c5d3806aebf24e552d", null ],

@@ -1,6 +1,6 @@
 var classRE_1_1InterfaceStrings =
 [
-    [ "GetSingleton", "classRE_1_1InterfaceStrings.html#a9fc1debf1f3e0ebcc8e84b0323cb03f4", null ],
+    [ "GetSingleton", "classRE_1_1InterfaceStrings.html#a592f16b93deba56baa484344ec3074d2", null ],
     [ "barterMenu", "classRE_1_1InterfaceStrings.html#a0585607d3d7d8f3ad6db004541d32fc4", null ],
     [ "bookMenu", "classRE_1_1InterfaceStrings.html#abf04a2693f54169f47e11c5ccfeaec09", null ],
     [ "bsUIAnalogData", "classRE_1_1InterfaceStrings.html#a543171a39f8f380778a98cadc2ccb1ef", null ],

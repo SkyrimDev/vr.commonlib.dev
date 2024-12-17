@@ -13,5 +13,5 @@ var structRE_1_1BGSNumericIDIndex =
     [ "data1", "structRE_1_1BGSNumericIDIndex.html#adb28603e39a61b7fee3d1c4c424dbaa6", null ],
     [ "data2", "structRE_1_1BGSNumericIDIndex.html#a856e5ba1c6edab56201f548200ae15ca", null ],
     [ "data3", "structRE_1_1BGSNumericIDIndex.html#af59f33a844e8376400b3ce1eafbb0ce1", null ],
-    [ "flags", "structRE_1_1BGSNumericIDIndex.html#aef78a42e00ee370d5b728ce6d133ee2e", null ]
+    [ "flags", "structRE_1_1BGSNumericIDIndex.html#a5e447adb4a0dcff054035a411352da44", null ]
 ];

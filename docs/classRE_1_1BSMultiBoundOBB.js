@@ -1,8 +1,8 @@
 var classRE_1_1BSMultiBoundOBB =
 [
     [ "~BSMultiBoundOBB", "classRE_1_1BSMultiBoundOBB.html#aab89e67520264d3129bf7a3923b8d95a", null ],
-    [ "CreateClone", "classRE_1_1BSMultiBoundOBB.html#a63aef2edc26fb36b3699a3dfb789248f", null ],
-    [ "GetRTTI", "classRE_1_1BSMultiBoundOBB.html#a4873b187301a2787215a98dc1523d38e", null ],
+    [ "CreateClone", "classRE_1_1BSMultiBoundOBB.html#af3ce7555496de2ae92ce135c1790697f", null ],
+    [ "GetRTTI", "classRE_1_1BSMultiBoundOBB.html#ae236d9ec31de806c98ecccca63d5aaa6", null ],
     [ "GetType", "classRE_1_1BSMultiBoundOBB.html#adde01fae1919159356833270e74586c3", null ],
     [ "GetWithinPoint", "classRE_1_1BSMultiBoundOBB.html#a86dce03e6b2cf78306093c0b1ce258b6", null ],
     [ "IsEqual", "classRE_1_1BSMultiBoundOBB.html#a098f2f0bb9afc1544434affcdd9d32d6", null ],

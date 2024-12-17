@@ -5,7 +5,7 @@ var classRE_1_1GrenadeProjectile =
     [ "AddImpact", "classRE_1_1GrenadeProjectile.html#a32487022c17999ae4162fd4ae8c1b907", null ],
     [ "FinishLoadGame", "classRE_1_1GrenadeProjectile.html#aa552241657070a0a99948c4e44563097", null ],
     [ "GetCollisionGroup", "classRE_1_1GrenadeProjectile.html#a40139b9caa5ac5bf5f9d07331cc55d3c", null ],
-    [ "GetDecalGroup", "classRE_1_1GrenadeProjectile.html#a5e31935024580fcce3234ed58f6f5cfa", null ],
+    [ "GetDecalGroup", "classRE_1_1GrenadeProjectile.html#a4a167f5ca5768846ee3c668e80777e5f", null ],
     [ "Handle3DLoaded", "classRE_1_1GrenadeProjectile.html#acb85b5e61221d88a69cbda012ed30948", null ],
     [ "InitLoadGame", "classRE_1_1GrenadeProjectile.html#a0748374ad79f6bb42e3da66923273c0b", null ],
     [ "IsGrenadeProjectile", "classRE_1_1GrenadeProjectile.html#a317d4b32bc077ac856e81110f4df1050", null ],

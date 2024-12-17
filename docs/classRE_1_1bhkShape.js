@@ -3,7 +3,7 @@ var classRE_1_1bhkShape =
     [ "~bhkShape", "classRE_1_1bhkShape.html#a3d141108a7c98c71969859e4a7b4eece", null ],
     [ "AdjustRefCount", "classRE_1_1bhkShape.html#aa8b8f794984e4beb2db7d2204c6f94ba", null ],
     [ "GetMaterialID", "classRE_1_1bhkShape.html#a5816b9e4356f49113b6a6f55e25ad204", null ],
-    [ "GetRTTI", "classRE_1_1bhkShape.html#a386af4132fb29731e64e4c6ce96f0451", null ],
+    [ "GetRTTI", "classRE_1_1bhkShape.html#aa8d65d787516c049a4180b67c7aba4ba", null ],
     [ "IsEqual", "classRE_1_1bhkShape.html#ac22740d9bb9dcbc4c3dfde5efb620b03", null ],
     [ "LinkObject", "classRE_1_1bhkShape.html#ae7d02a7a8980b83da7ecc7c3f94cd737", null ],
     [ "LoadBinary", "classRE_1_1bhkShape.html#a472346b28a772733755688c37d8e44e1", null ],

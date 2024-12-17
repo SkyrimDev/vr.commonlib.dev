@@ -24,7 +24,7 @@ var classRE_1_1BGSSoundCategory =
     [ "SetStaticVolumeMultiplier", "classRE_1_1BGSSoundCategory.html#a3c36070cd5750e42987188d27f24fa77", null ],
     [ "attenuation", "classRE_1_1BGSSoundCategory.html#af7cd48f851131b6331a21dc606af8e59", null ],
     [ "defaultMenuValue", "classRE_1_1BGSSoundCategory.html#a4d1b6b44568b053752111549cdbdb92e", null ],
-    [ "flags", "classRE_1_1BGSSoundCategory.html#a29da3310e389199b9eac6d3e82997afa", null ],
+    [ "flags", "classRE_1_1BGSSoundCategory.html#a9d6f0794ceb8109a5f6de30a36ac9201", null ],
     [ "FORMTYPE", "classRE_1_1BGSSoundCategory.html#a9006fb47c471e561d8765e96d909fb30", null ],
     [ "frequencyMult", "classRE_1_1BGSSoundCategory.html#a5fd53105a2cca58b183b0f349cbd0362", null ],
     [ "parentCategory", "classRE_1_1BGSSoundCategory.html#ad2f2abc403d12ad1e3dc2077be8396ab", null ],

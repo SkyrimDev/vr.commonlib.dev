@@ -2,8 +2,8 @@ var classRE_1_1BSTempEffectGeometryDecal =
 [
     [ "~BSTempEffectGeometryDecal", "classRE_1_1BSTempEffectGeometryDecal.html#aec75f257bdb62b0730a875eba1fda589", null ],
     [ "Attach", "classRE_1_1BSTempEffectGeometryDecal.html#a169931ebeb9536039a0e2387f77af52a", null ],
-    [ "Get3D", "classRE_1_1BSTempEffectGeometryDecal.html#a227cb8d37ae4f204bfe321392abec3d4", null ],
-    [ "GetRTTI", "classRE_1_1BSTempEffectGeometryDecal.html#a1cc0a4a2867ef749b144b32e642c3bc2", null ],
+    [ "Get3D", "classRE_1_1BSTempEffectGeometryDecal.html#a9db113e8f928a7178937cc9c3c9b98e0", null ],
+    [ "GetRTTI", "classRE_1_1BSTempEffectGeometryDecal.html#afab8f8377b9b3a83e651ea36d65203ed", null ],
     [ "GetType", "classRE_1_1BSTempEffectGeometryDecal.html#a03256f1ce90d3e3d4951aaf641647fa7", null ],
     [ "Initialize", "classRE_1_1BSTempEffectGeometryDecal.html#a95026f11f0953fe293abca4c1a09050d", null ],
     [ "Update", "classRE_1_1BSTempEffectGeometryDecal.html#a4ce2a4ade15f3b2011f5d77ad0ca5817", null ],

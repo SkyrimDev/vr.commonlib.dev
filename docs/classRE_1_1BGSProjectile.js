@@ -4,7 +4,7 @@ var classRE_1_1BGSProjectile =
     [ "~BGSProjectile", "classRE_1_1BGSProjectile.html#a804504f0cc2ae8202fed77e74ffca9dd", null ],
     [ "Activate", "classRE_1_1BGSProjectile.html#ad6ba1e05c414ca838b55baa3b6402fc4", null ],
     [ "ClearData", "classRE_1_1BGSProjectile.html#a8c2cca6c5d680a9dcb241f280e80b949", null ],
-    [ "Clone3D", "classRE_1_1BGSProjectile.html#a51b4deb96424f642a3a24f18a09d2382", null ],
+    [ "Clone3D", "classRE_1_1BGSProjectile.html#af1faa3e82a0693fb6481a49ac231bd4d", null ],
     [ "GetActivateText", "classRE_1_1BGSProjectile.html#a12586fc436fa92fdc8481f0e12f14e99", null ],
     [ "InitializeData", "classRE_1_1BGSProjectile.html#ab89adb4be2e2da014f3b546603998710", null ],
     [ "InitItemImpl", "classRE_1_1BGSProjectile.html#ad4f4a881c94719afdd91f8e0cf2c7f50", null ],

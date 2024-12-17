@@ -2,7 +2,7 @@ var classRE_1_1MenuTopicManager =
 [
     [ "Dialogue", "structRE_1_1MenuTopicManager_1_1Dialogue.html", "structRE_1_1MenuTopicManager_1_1Dialogue" ],
     [ "~MenuTopicManager", "classRE_1_1MenuTopicManager.html#ad6c7d840078f56c11f8ceb605154fbde", null ],
-    [ "GetSingleton", "classRE_1_1MenuTopicManager.html#aa5bb76a1033b56fc0071986406d1a011", null ],
+    [ "GetSingleton", "classRE_1_1MenuTopicManager.html#a4976f55dab080ef6cdbb9dd0ede82b9a", null ],
     [ "ProcessEvent", "classRE_1_1MenuTopicManager.html#a2b859306ec9ca5552c305f1e5c4470cf", null ],
     [ "ProcessEvent", "classRE_1_1MenuTopicManager.html#a6682d3215973abdc611fb12b940584dc", null ],
     [ "blockingBranches", "classRE_1_1MenuTopicManager.html#a813809918efff2745357abd1d4c14346", null ],

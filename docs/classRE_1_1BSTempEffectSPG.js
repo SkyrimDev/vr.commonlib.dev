@@ -3,7 +3,7 @@ var classRE_1_1BSTempEffectSPG =
     [ "~BSTempEffectSPG", "classRE_1_1BSTempEffectSPG.html#a2fa41bf10aa460eca431eac98a3c1009", null ],
     [ "Detach", "classRE_1_1BSTempEffectSPG.html#a0907f60bc879a0e41acd5bcb005811bd", null ],
     [ "FinishLoadGame", "classRE_1_1BSTempEffectSPG.html#a55a682f5e18d71b73572a09ea856b22f", null ],
-    [ "GetRTTI", "classRE_1_1BSTempEffectSPG.html#ac0b9f9e58abd35f7a130a48374b456a7", null ],
+    [ "GetRTTI", "classRE_1_1BSTempEffectSPG.html#adde1abcfc6bc444d00a13bcb73251204", null ],
     [ "GetType", "classRE_1_1BSTempEffectSPG.html#a56e03e958da74be3a87c11e8eec99df5", null ],
     [ "LoadGame", "classRE_1_1BSTempEffectSPG.html#a06aa2851df9124163d84bbca5f25cda0", null ],
     [ "SaveGame", "classRE_1_1BSTempEffectSPG.html#aeb7dd9ccfcc978808bd223b8082b66fa", null ],

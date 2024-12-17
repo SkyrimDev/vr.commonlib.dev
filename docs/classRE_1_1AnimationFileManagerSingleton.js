@@ -4,7 +4,7 @@ var classRE_1_1AnimationFileManagerSingleton =
     [ "LoadedAnimation", "structRE_1_1AnimationFileManagerSingleton_1_1LoadedAnimation.html", "structRE_1_1AnimationFileManagerSingleton_1_1LoadedAnimation" ],
     [ "QueuedAnimation", "structRE_1_1AnimationFileManagerSingleton_1_1QueuedAnimation.html", "structRE_1_1AnimationFileManagerSingleton_1_1QueuedAnimation" ],
     [ "~AnimationFileManagerSingleton", "classRE_1_1AnimationFileManagerSingleton.html#aa63b3ac651a4a8b0388f2b597b6755bf", null ],
-    [ "GetSingleton", "classRE_1_1AnimationFileManagerSingleton.html#af58454f141676c70961a9bd2d170d3cd", null ],
+    [ "GetSingleton", "classRE_1_1AnimationFileManagerSingleton.html#a826c5d46825a76d012fc6dd52e10402a", null ],
     [ "Load", "classRE_1_1AnimationFileManagerSingleton.html#ad647f2628819d7f2e068a8fe4e67e516", null ],
     [ "Queue", "classRE_1_1AnimationFileManagerSingleton.html#a851fa69424b40ab52169db7a8159c074", null ],
     [ "Unk_04", "classRE_1_1AnimationFileManagerSingleton.html#a97edcac32103833f26ef2df2111bdecd", null ],

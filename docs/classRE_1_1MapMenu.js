@@ -17,7 +17,7 @@ var classRE_1_1MapMenu =
     [ "mapMarkers", "classRE_1_1MapMenu.html#a695fd5526663d2f7205c9f46e6e8f0d8", null ],
     [ "mapMovie", "classRE_1_1MapMenu.html#a7f90e61e004c01cefaba3a211f5b0b05", null ],
     [ "markerData", "classRE_1_1MapMenu.html#a22853c57546f1dead410efb29a0389e0", null ],
-    [ "MENU_NAME", "classRE_1_1MapMenu.html#a2eec8d0c2e9a1b81234b2daa1cd735f7", null ],
+    [ "MENU_NAME", "classRE_1_1MapMenu.html#a9be6af43c0e6396c2c166a8c9a6dcbcb", null ],
     [ "moveHandler", "classRE_1_1MapMenu.html#af75f9a45e7f380419683212f7689992e", null ],
     [ "playerMarkerPosition", "classRE_1_1MapMenu.html#a52598852a2657a4c10c99fd1a3db7f2c", null ],
     [ "RTTI", "classRE_1_1MapMenu.html#ae2d81e802c24d46032209114edee66c4", null ],

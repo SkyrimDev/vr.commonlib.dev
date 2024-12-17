@@ -8,7 +8,7 @@ var structRE_1_1BGSHazardData =
       [ "kInheritRadius", "structRE_1_1BGSHazardData.html#abd5f85db5734b40800dc7f20ff9b55f8a7251d3e18bf5129033253859160b1dcd", null ],
       [ "kDropToGround", "structRE_1_1BGSHazardData.html#abd5f85db5734b40800dc7f20ff9b55f8afb2c1136d3d1c2d9d4d56b1e3882734e", null ]
     ] ],
-    [ "flags", "structRE_1_1BGSHazardData.html#a3af2649b30e075b5796b75b0d79be792", null ],
+    [ "flags", "structRE_1_1BGSHazardData.html#ae5b42ecbc54227dcfe819db81a953445", null ],
     [ "imageSpaceRadius", "structRE_1_1BGSHazardData.html#a83c7685cf62ab7ec98ffb78c61205f9d", null ],
     [ "impactDataSet", "structRE_1_1BGSHazardData.html#a4abb3d1ec802a165bacb6b9bb115f0ec", null ],
     [ "lifetime", "structRE_1_1BGSHazardData.html#a6bdd3f2c2e8825270599dae8051abb3e", null ],

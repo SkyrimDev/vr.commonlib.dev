@@ -11,7 +11,7 @@ var structRE_1_1DestructibleObjectStage =
     [ "debris", "structRE_1_1DestructibleObjectStage.html#a54c7f0ffef4a4cc5ffa3c076f88e6612", null ],
     [ "debrisCount", "structRE_1_1DestructibleObjectStage.html#a5debdbfdf224d9d33b015d87de219eb6", null ],
     [ "explosion", "structRE_1_1DestructibleObjectStage.html#a100d4dc91eb6f1e39f299e2c3a759d70", null ],
-    [ "flags", "structRE_1_1DestructibleObjectStage.html#a1850dc7f3b4abe420ee747f9127e4ac6", null ],
+    [ "flags", "structRE_1_1DestructibleObjectStage.html#ae625db9a16e0a20f50f3e6f47e9220a4", null ],
     [ "healthPercentage", "structRE_1_1DestructibleObjectStage.html#a2aab64d4714df54f021df127d74c2df5", null ],
     [ "modelDamageStage", "structRE_1_1DestructibleObjectStage.html#a75d362387a09e6b7c180a8a1d202fc20", null ],
     [ "pad03", "structRE_1_1DestructibleObjectStage.html#a39f5832893ff366bfdebe8b890b8ddc0", null ],

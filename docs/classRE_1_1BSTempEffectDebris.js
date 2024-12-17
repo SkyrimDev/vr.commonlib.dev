@@ -1,8 +1,8 @@
 var classRE_1_1BSTempEffectDebris =
 [
     [ "~BSTempEffectDebris", "classRE_1_1BSTempEffectDebris.html#afa08dd2ced6fffed08aa9a832a8395bc", null ],
-    [ "Get3D", "classRE_1_1BSTempEffectDebris.html#af6f46efe24ff80c3411fbc31e5ad725d", null ],
-    [ "GetRTTI", "classRE_1_1BSTempEffectDebris.html#ac0725077cdb94f79650406d7441b864f", null ],
+    [ "Get3D", "classRE_1_1BSTempEffectDebris.html#a7e46d0acdc494ed0d5d56192fb27591f", null ],
+    [ "GetRTTI", "classRE_1_1BSTempEffectDebris.html#ae3d573269f472c3d0dcf4204045a83d4", null ],
     [ "GetType", "classRE_1_1BSTempEffectDebris.html#a7d92d716548e0513746841711c9513aa", null ],
     [ "Update", "classRE_1_1BSTempEffectDebris.html#a961d0b68e45f92cc34680fbbbc8d7841", null ],
     [ "debris3D", "classRE_1_1BSTempEffectDebris.html#a17ec19638002d93dfac7d742f96b8ec0", null ],

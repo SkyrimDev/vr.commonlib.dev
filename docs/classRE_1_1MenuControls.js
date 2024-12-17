@@ -3,7 +3,7 @@ var classRE_1_1MenuControls =
     [ "QueuedReg", "structRE_1_1MenuControls_1_1QueuedReg.html", "structRE_1_1MenuControls_1_1QueuedReg" ],
     [ "~MenuControls", "classRE_1_1MenuControls.html#ae5f2a5b808cb1268e15f04d1f6977145", null ],
     [ "AddHandler", "classRE_1_1MenuControls.html#ad320f1fcfa2b5928ec712674b0931797", null ],
-    [ "GetSingleton", "classRE_1_1MenuControls.html#af49a2a85de64aa05362df76aa5f09b7d", null ],
+    [ "GetSingleton", "classRE_1_1MenuControls.html#a37b7b0b5f93bcbd4495262e7304c43ed", null ],
     [ "InBeastForm", "classRE_1_1MenuControls.html#aeef7f99f22d6f6ed1524f47d709ed073", null ],
     [ "ProcessEvent", "classRE_1_1MenuControls.html#a50965973fc97d8d6891e5d1a76b47571", null ],
     [ "ProcessEvent", "classRE_1_1MenuControls.html#aeddd0220423c8b7272917c07687f2a1b", null ],

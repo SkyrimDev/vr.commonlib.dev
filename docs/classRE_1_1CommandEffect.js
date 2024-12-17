@@ -4,7 +4,7 @@ var classRE_1_1CommandEffect =
     [ "ClearTargetImpl", "classRE_1_1CommandEffect.html#a546cd091cf820fd0646b4b319b1fd777", null ],
     [ "Finish", "classRE_1_1CommandEffect.html#afbe4ce0edce7ddd38cdf1c89eac63e00", null ],
     [ "FinishLoadGame", "classRE_1_1CommandEffect.html#aa21dabcf7565766b416c1400a622fec8", null ],
-    [ "GetVisualsTarget", "classRE_1_1CommandEffect.html#a3bb4bb17c9b1b647b7324e765d041a41", null ],
+    [ "GetVisualsTarget", "classRE_1_1CommandEffect.html#a47ba58a8fe594c31bc9df870ff84470b", null ],
     [ "LoadGame", "classRE_1_1CommandEffect.html#aaa736905843dbfebf2395b36d32f5305", null ],
     [ "OnAdd", "classRE_1_1CommandEffect.html#afeaf42d7e541ff112396a8495c7b6c44", null ],
     [ "SaveGame", "classRE_1_1CommandEffect.html#ac9798ed7fddf3132a0765eba305a0b11", null ],

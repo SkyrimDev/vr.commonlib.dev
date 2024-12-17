@@ -1,9 +1,9 @@
 var classRE_1_1NiPointLight =
 [
     [ "~NiPointLight", "classRE_1_1NiPointLight.html#a978e23ca50d72f7aff44ba740f17777a", null ],
-    [ "Create", "classRE_1_1NiPointLight.html#a57d0b10298d384ed92df46aafb5f1562", null ],
-    [ "CreateClone", "classRE_1_1NiPointLight.html#ac1674355193b94e2a6d9ec0cdbd9dc63", null ],
-    [ "GetRTTI", "classRE_1_1NiPointLight.html#ac42b2fbba2f3c3804a2936253eb8f251", null ],
+    [ "Create", "classRE_1_1NiPointLight.html#abaff3955e9235139a8aa5c69427547ae", null ],
+    [ "CreateClone", "classRE_1_1NiPointLight.html#a8ecdb0b5401540a2086a32a4381c4b45", null ],
+    [ "GetRTTI", "classRE_1_1NiPointLight.html#a8d6dcf285e46d6f6057e851c8e192b01", null ],
     [ "IsEqual", "classRE_1_1NiPointLight.html#a32da83c82b01faa297c723197ee7c4c8", null ],
     [ "LoadBinary", "classRE_1_1NiPointLight.html#ad11e682152da59bb76d24e2958398ca9", null ],
     [ "SaveBinary", "classRE_1_1NiPointLight.html#aba7b76f29208bb45a2348ef5d3c490db", null ],

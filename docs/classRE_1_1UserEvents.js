@@ -18,7 +18,7 @@ var classRE_1_1UserEvents =
       [ "kVATS", "classRE_1_1UserEvents.html#aca3bc7c8dfa81539af2a932b5d8b743da2200ca339e6d3c09bbdfc2b1e298398f", null ],
       [ "kInvalid", "classRE_1_1UserEvents.html#aca3bc7c8dfa81539af2a932b5d8b743dab10913c938482a8aa4ba85b7a1116cb4", null ]
     ] ],
-    [ "GetSingleton", "classRE_1_1UserEvents.html#a6424e3372749d34e43c83995b8147adb", null ],
+    [ "GetSingleton", "classRE_1_1UserEvents.html#ad63277964d4dcf7ce20df6ea56777fdd", null ],
     [ "accept", "classRE_1_1UserEvents.html#a7f191c52aa09c31493f40850a4914c78", null ],
     [ "activate", "classRE_1_1UserEvents.html#a0dbdd42ba7381d3054adea142191f584", null ],
     [ "attackPowerStart", "classRE_1_1UserEvents.html#af6519acce20e0c2e6d6a739caaed207e", null ],

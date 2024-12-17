@@ -1,9 +1,9 @@
 var TESAIForm_8h =
 [
-    [ "ACTOR_AGGRO_RADIUS", "structRE_1_1ACTOR__AGGRO__RADIUS.html", null ],
-    [ "AIDATA_GAME", "structRE_1_1AIDATA__GAME.html", "structRE_1_1AIDATA__GAME" ],
-    [ "PackageList", "structRE_1_1PackageList.html", "structRE_1_1PackageList" ],
-    [ "TESAIForm", "classRE_1_1TESAIForm.html", "classRE_1_1TESAIForm" ],
+    [ "RE::ACTOR_AGGRO_RADIUS", "structRE_1_1ACTOR__AGGRO__RADIUS.html", null ],
+    [ "RE::AIDATA_GAME", "structRE_1_1AIDATA__GAME.html", "structRE_1_1AIDATA__GAME" ],
+    [ "RE::PackageList", "structRE_1_1PackageList.html", "structRE_1_1PackageList" ],
+    [ "RE::TESAIForm", "classRE_1_1TESAIForm.html", "classRE_1_1TESAIForm" ],
     [ "ACTOR_AGGRESSION", "TESAIForm_8h.html#a20a0f151b7f247c17cf81f5ab5970290", null ],
     [ "ACTOR_ASSISTANCE", "TESAIForm_8h.html#a21fd257fca1975dc8bb371c57e0c0b9e", [
       [ "kHelpsNobody", "TESAIForm_8h.html#a21fd257fca1975dc8bb371c57e0c0b9eac9e9bd5e82f3fba2e80bbf10825812e9", null ],

@@ -17,7 +17,7 @@ var classRE_1_1NiFile =
     [ "bufferReadSize", "classRE_1_1NiFile.html#a75bf6b39d33ee42c5e9ca78a9ea7fb7e", null ],
     [ "file", "classRE_1_1NiFile.html#a66e5a35ae3b0a9556d17b6fd897941b6", null ],
     [ "isGood", "classRE_1_1NiFile.html#a1ed53a93a8259c550d2e73145f69f0d5", null ],
-    [ "mode", "classRE_1_1NiFile.html#ac16454b2869f6a72ab1dd3b3e11b5ffb", null ],
+    [ "mode", "classRE_1_1NiFile.html#ac78e6009cfdff9de674399d459b77761", null ],
     [ "pad45", "classRE_1_1NiFile.html#ab73d3425402b8e6fedaa2fd92a3f5e09", null ],
     [ "pad46", "classRE_1_1NiFile.html#a33c25b598fe9f103935a7681604a6228", null ],
     [ "pos", "classRE_1_1NiFile.html#a1e14136f4ae0ac6cb59b261ae9f94fe7", null ],

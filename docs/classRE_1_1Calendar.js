@@ -16,7 +16,7 @@ var classRE_1_1Calendar =
     [ "GetMonth", "classRE_1_1Calendar.html#a17f61a307f25273970b6b9c3876df3ee", null ],
     [ "GetMonthName", "classRE_1_1Calendar.html#afa3e457c0523f622f806b4f748e01ab2", null ],
     [ "GetOrdinalSuffix", "classRE_1_1Calendar.html#a581841d32faee25aea8544ce87c7ae3b", null ],
-    [ "GetSingleton", "classRE_1_1Calendar.html#ae89bb88c2d2a5d2ab31aad34ee78fa50", null ],
+    [ "GetSingleton", "classRE_1_1Calendar.html#aed9707d806a87f64e64ea3b74b8c930b", null ],
     [ "GetTime", "classRE_1_1Calendar.html#a66a606ec0ef7aa41084a61c5b8dfd158", null ],
     [ "GetTimeDateString", "classRE_1_1Calendar.html#a2f460aae12ad89d7cc73a91f154b5959", null ],
     [ "GetTimescale", "classRE_1_1Calendar.html#ac60ea9d2d14f57d665eae8043f43f23f", null ],

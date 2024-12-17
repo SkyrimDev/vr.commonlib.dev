@@ -3,7 +3,7 @@ var classRE_1_1BSSceneGraph =
     [ "~BSSceneGraph", "classRE_1_1BSSceneGraph.html#afd6b0c742979ccb438616b81b84943b7", null ],
     [ "GetFarDistance", "classRE_1_1BSSceneGraph.html#acfceef5b6390b1c8fdab2c41a07b31de", null ],
     [ "GetNearDistance", "classRE_1_1BSSceneGraph.html#aeb0645f3e692f96e0e1a9b76887f3c12", null ],
-    [ "GetRTTI", "classRE_1_1BSSceneGraph.html#a83056a202b8ecf2d2e129edafd07299f", null ],
+    [ "GetRTTI", "classRE_1_1BSSceneGraph.html#ad149b35a39455574e73c7d9b6fa7d0cb", null ],
     [ "SetViewDistanceBasedOnFrameRate", "classRE_1_1BSSceneGraph.html#a401418c9dbc7b8e1812496b171dfc477", null ],
     [ "camera", "classRE_1_1BSSceneGraph.html#ac357bc7b367b478867341753d07172ae", null ],
     [ "cameraFOV", "classRE_1_1BSSceneGraph.html#a2459151a1baa92658810421012865ebc", null ],

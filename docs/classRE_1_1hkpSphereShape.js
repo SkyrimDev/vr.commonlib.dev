@@ -6,7 +6,7 @@ var classRE_1_1hkpSphereShape =
     [ "CastRayImpl", "classRE_1_1hkpSphereShape.html#aed8e78ea9337800cd917d8dcebf34a66", null ],
     [ "GetAabbImpl", "classRE_1_1hkpSphereShape.html#a499e314b3630f1dd4d6653688abc3d7a", null ],
     [ "GetCentreImpl", "classRE_1_1hkpSphereShape.html#ae43cccd6294af3d8e81c58033610174e", null ],
-    [ "GetCollisionSpheresImpl", "classRE_1_1hkpSphereShape.html#a42c170f993b7163a05924b94203a513d", null ],
+    [ "GetCollisionSpheresImpl", "classRE_1_1hkpSphereShape.html#af2eece0684523f5b70a52cdc23bb4270", null ],
     [ "GetNumCollisionSpheresImpl", "classRE_1_1hkpSphereShape.html#a56282c47b056778621cd6517023bb677", null ],
     [ "Unk_0E", "classRE_1_1hkpSphereShape.html#ad9a42fdf0531fcc14b233818f14d9a3c", null ],
     [ "Unk_0F", "classRE_1_1hkpSphereShape.html#a7ba257d8cac154010c4fe797e5e959dd", null ],

@@ -1,8 +1,8 @@
 var classRE_1_1BSMultiBound =
 [
     [ "~BSMultiBound", "classRE_1_1BSMultiBound.html#a61ac6daeaf4cbbd47efacb9ae1c3be53", null ],
-    [ "CreateClone", "classRE_1_1BSMultiBound.html#acee307f52d7d17a6e7d0bc43fc981f21", null ],
-    [ "GetRTTI", "classRE_1_1BSMultiBound.html#ae0ad70089c97650ea47c61017a2f8729", null ],
+    [ "CreateClone", "classRE_1_1BSMultiBound.html#a217ee929861af61c1a3196371c8507e5", null ],
+    [ "GetRTTI", "classRE_1_1BSMultiBound.html#a445aa98cf8529abbd99c28acc95335c3", null ],
     [ "IsEqual", "classRE_1_1BSMultiBound.html#a6114237af2c303affb793b9603127b57", null ],
     [ "LinkObject", "classRE_1_1BSMultiBound.html#a42a2166951d5bd23e4a98694f6f05771", null ],
     [ "LoadBinary", "classRE_1_1BSMultiBound.html#aa36dc73ad55c0551b674bfc0c3c0bc80", null ],

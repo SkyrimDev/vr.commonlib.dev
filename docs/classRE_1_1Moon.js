@@ -24,7 +24,7 @@ var classRE_1_1Moon =
     [ "stateTextures", "classRE_1_1Moon.html#a04a18543675e4be28d1ecf50d6f478e7", null ],
     [ "unkCC", "classRE_1_1Moon.html#a2c978f8e446f48bfc506ada8c839232e", null ],
     [ "unkD0", "classRE_1_1Moon.html#afacba0091004c19d5e915113aa4642c9", null ],
-    [ "updateMoonTexture", "classRE_1_1Moon.html#aa0716976066af9512aedc0ad2606d26b", null ],
+    [ "updateMoonTexture", "classRE_1_1Moon.html#a9434c8fd0307514ac6438fdcdcaadeb1", null ],
     [ "VTABLE", "classRE_1_1Moon.html#a58836c7459a31a1495017a6256f7f0f5", null ],
     [ "zOffset", "classRE_1_1Moon.html#ae2a149ac3181907f11ecc4e88feacbda", null ]
 ];

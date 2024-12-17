@@ -72,7 +72,7 @@ var structRE_1_1EffectShaderData =
     [ "fillTextureEffectTextureAnimationSpeedV", "structRE_1_1EffectShaderData.html#aafd368955430c7f31e732f2d5575005b", null ],
     [ "fillTextureEffectTextureScaleU", "structRE_1_1EffectShaderData.html#a6e306c8256db464d824766999397eabe", null ],
     [ "fillTextureEffectTextureScaleV", "structRE_1_1EffectShaderData.html#af1718033d430776f7c8dfcd5238e3d95", null ],
-    [ "flags", "structRE_1_1EffectShaderData.html#a61126386d1ea887f013bc6bba79f184d", null ],
+    [ "flags", "structRE_1_1EffectShaderData.html#ad211d64da429c17553aa2add8df982cb", null ],
     [ "holesEndTime", "structRE_1_1EffectShaderData.html#a14d38758ae93ec3a44c1ebd142e6609c", null ],
     [ "holesEndVal", "structRE_1_1EffectShaderData.html#a5c7fce6e3535cf2c8ee4de0f4fb786e6", null ],
     [ "holesStartTime", "structRE_1_1EffectShaderData.html#a0020acf474951c5dce213af3f8c4fe96", null ],

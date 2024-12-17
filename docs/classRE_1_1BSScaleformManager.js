@@ -2,7 +2,7 @@ var classRE_1_1BSScaleformManager =
 [
     [ "ScaleModeType", "classRE_1_1BSScaleformManager.html#a49c9f208fedba2eebeeece8960f3d6fa", null ],
     [ "FileExists", "classRE_1_1BSScaleformManager.html#a0f070a0bbd550d863f492575d332dd9a", null ],
-    [ "GetSingleton", "classRE_1_1BSScaleformManager.html#a8ccb0c47b3bce49382e8a50dc539f12f", null ],
+    [ "GetSingleton", "classRE_1_1BSScaleformManager.html#a03242f1808697537f8f98355d4e94c6f", null ],
     [ "IsValidName", "classRE_1_1BSScaleformManager.html#a9f2240d0407b4e1b28b6347cf3ca9f17", null ],
     [ "LoadMovie", "classRE_1_1BSScaleformManager.html#a857333b5ed11bfbaadb69475964f5873", null ],
     [ "LoadMovie_Impl", "classRE_1_1BSScaleformManager.html#a2a27e0b5a07e1a7986e9af379c511140", null ],

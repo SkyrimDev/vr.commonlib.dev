@@ -11,6 +11,6 @@ var classRE_1_1ExtraSoul =
     [ "pad12", "classRE_1_1ExtraSoul.html#acb0f4cf3a6fc32579d603f952a4c8d0e", null ],
     [ "pad14", "classRE_1_1ExtraSoul.html#ab3d26bdcf77400e3532891eea53896f2", null ],
     [ "RTTI", "classRE_1_1ExtraSoul.html#a4f0da5d742610ce9b3be6dbdd3543d6f", null ],
-    [ "soul", "classRE_1_1ExtraSoul.html#a06cf2835394ea330382972b2c90c3c69", null ],
+    [ "soul", "classRE_1_1ExtraSoul.html#abe6640b3ee5b0fa7e0de081d11c644f6", null ],
     [ "VTABLE", "classRE_1_1ExtraSoul.html#a48a72626398563d7e6ee22ef3e56fb18", null ]
 ];

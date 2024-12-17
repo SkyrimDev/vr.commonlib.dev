@@ -10,7 +10,7 @@ var classRE_1_1BGSMusicType =
     [ "DoPlay", "classRE_1_1BGSMusicType.html#adad9a9ba7daf821e18092665ffe9b68f", null ],
     [ "DoPrepare", "classRE_1_1BGSMusicType.html#a9fbb35773f0c7fb95726a374ceae9b78", null ],
     [ "DoUpdate", "classRE_1_1BGSMusicType.html#ad999c89e6aa9edd1751ae054b92ff0e5", null ],
-    [ "GetFormEditorID", "classRE_1_1BGSMusicType.html#a9a8ac2b2f543158db58346500781d4c0", null ],
+    [ "GetFormEditorID", "classRE_1_1BGSMusicType.html#a45c6173306101ae885905facaf542397", null ],
     [ "InitItemImpl", "classRE_1_1BGSMusicType.html#af46bc3f7823fd28d4ea57ed13f50bdf4", null ],
     [ "Load", "classRE_1_1BGSMusicType.html#ad26e82de332d558b3aa18c71ee2ccdc3", null ],
     [ "SetFormEditorID", "classRE_1_1BGSMusicType.html#a44c6e8a274bf9777b65523cd7cddaedb", null ],

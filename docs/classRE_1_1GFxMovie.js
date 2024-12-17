@@ -25,7 +25,7 @@ var classRE_1_1GFxMovie =
     [ "GetCurrentFrame", "classRE_1_1GFxMovie.html#a16ae657ad5f8a6a55b23475a065c5933", null ],
     [ "GetFrameCount", "classRE_1_1GFxMovie.html#a4f9937cdb1c8e5c16298a16ecb2a4770", null ],
     [ "GetFrameRate", "classRE_1_1GFxMovie.html#a6d967aafd60802bf1fa76c70c0c26aa7", null ],
-    [ "GetMovieDef", "classRE_1_1GFxMovie.html#ac7a74ad2a220d2a878f053a371649c37", null ],
+    [ "GetMovieDef", "classRE_1_1GFxMovie.html#ab88994bf00641278ae74213cd6a61fa3", null ],
     [ "GetPlayState", "classRE_1_1GFxMovie.html#a6cb9ade28a6baa5deea73b141439b3da", null ],
     [ "GetRenderPixelScale", "classRE_1_1GFxMovie.html#aaae726015d5648e80ca33e06509bc2ca", null ],
     [ "GetVariable", "classRE_1_1GFxMovie.html#aeed737a4f63fa3678c7d8ec0a7621306", null ],

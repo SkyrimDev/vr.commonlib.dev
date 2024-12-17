@@ -42,7 +42,7 @@ var structRE_1_1ACTOR__BASE__DATA =
       [ "kKeywords", "structRE_1_1ACTOR__BASE__DATA.html#a8c182009d8c983e14e108ebf4e978820afad4da13b42085e0e6e94b5f25394bdb", null ],
       [ "kCopiedTemplate", "structRE_1_1ACTOR__BASE__DATA.html#a8c182009d8c983e14e108ebf4e978820a7c634993c000c2dcd1ad37d160de7ca6", null ]
     ] ],
-    [ "actorBaseFlags", "structRE_1_1ACTOR__BASE__DATA.html#a1baba6283cf02c1eba4a095522fb56c4", null ],
+    [ "actorBaseFlags", "structRE_1_1ACTOR__BASE__DATA.html#aab837b9e823e6d4d10184f51f565f78f", null ],
     [ "baseDisposition", "structRE_1_1ACTOR__BASE__DATA.html#a4438beb0499f241df4910465b7089eb6", null ],
     [ "bleedoutOverride", "structRE_1_1ACTOR__BASE__DATA.html#a5e45ec2c34e83f738890c1f3dcec4fc9", null ],
     [ "calcLevelMax", "structRE_1_1ACTOR__BASE__DATA.html#aa6b24ec1eabdf7a8d5464fea017df01b", null ],
@@ -52,5 +52,5 @@ var structRE_1_1ACTOR__BASE__DATA =
     [ "magickaOffset", "structRE_1_1ACTOR__BASE__DATA.html#ae211943ad370c49e8f443c0978a37931", null ],
     [ "speedMult", "structRE_1_1ACTOR__BASE__DATA.html#ae4f1fc5e3259a96eb2840274a00e01c6", null ],
     [ "staminaOffset", "structRE_1_1ACTOR__BASE__DATA.html#a504eacdce5c1b0ce43c6cf025f8bc67b", null ],
-    [ "templateUseFlags", "structRE_1_1ACTOR__BASE__DATA.html#a12db227863f2bd643c4ff3b5694bc62a", null ]
+    [ "templateUseFlags", "structRE_1_1ACTOR__BASE__DATA.html#a2d4c8ec9983f10d9dfe3784d7bcbed63", null ]
 ];

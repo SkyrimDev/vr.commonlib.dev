@@ -14,7 +14,7 @@ var classRE_1_1NiPSysModifier =
       [ "kBSStripUpdate", "classRE_1_1NiPSysModifier.html#a2a72e3f60d89506be6bcbf799e0ebea6aa0c7a7c2dc7a69941266a5791690db48", null ]
     ] ],
     [ "~NiPSysModifier", "classRE_1_1NiPSysModifier.html#a66aadcd28d9310c60a64766c54997bcd", null ],
-    [ "GetRTTI", "classRE_1_1NiPSysModifier.html#af8158d31a767fb63bf6431b143daf29b", null ],
+    [ "GetRTTI", "classRE_1_1NiPSysModifier.html#a62a1139f2c576e13bbae330d1f8d1c3d", null ],
     [ "HandleReset", "classRE_1_1NiPSysModifier.html#a113e49ac2a4a280fb2c4f7183a08e4fb", null ],
     [ "Initialize", "classRE_1_1NiPSysModifier.html#a71179fb70ba15002867bf6319a26a8a8", null ],
     [ "IsEqual", "classRE_1_1NiPSysModifier.html#af458b21195d1bef5b52bdb71e603448b", null ],
@@ -29,7 +29,7 @@ var classRE_1_1NiPSysModifier =
     [ "active", "classRE_1_1NiPSysModifier.html#a55079685636fbeec80587f53648b6050", null ],
     [ "name", "classRE_1_1NiPSysModifier.html#a365af12c2343cfc420412b1050d8ed62", null ],
     [ "Ni_RTTI", "classRE_1_1NiPSysModifier.html#a58e00eb9fa0acec9d371c0ce1bceffb2", null ],
-    [ "order", "classRE_1_1NiPSysModifier.html#ab83db895245d223b436661c23f3705d6", null ],
+    [ "order", "classRE_1_1NiPSysModifier.html#a3c41676bd68b18b2229e90d373e39f79", null ],
     [ "pad1C", "classRE_1_1NiPSysModifier.html#a84c2bf9d316634eff2856a6e6732d6d1", null ],
     [ "pad29", "classRE_1_1NiPSysModifier.html#abf5465cb20c970ba369dfc77c3af62d7", null ],
     [ "pad2A", "classRE_1_1NiPSysModifier.html#a9e33a0e4c329f359948bb7b1410f6a87", null ],

@@ -1,6 +1,6 @@
 var BSTempEffect_8h =
 [
-    [ "BSTempEffect", "classRE_1_1BSTempEffect.html", "classRE_1_1BSTempEffect" ],
+    [ "RE::BSTempEffect", "classRE_1_1BSTempEffect.html", "classRE_1_1BSTempEffect" ],
     [ "TEMP_EFFECT_TYPE", "BSTempEffect_8h.html#a0ccf8989c5bb0da937481634223e2576", [
       [ "kTerrain", "BSTempEffect_8h.html#a0ccf8989c5bb0da937481634223e2576a1e6eb3dba961988ea9608e80f4408c7a", null ],
       [ "kWeaponBlood", "BSTempEffect_8h.html#a0ccf8989c5bb0da937481634223e2576a8e3aa5b11b7fc4addfc11aa1d60e4949", null ],

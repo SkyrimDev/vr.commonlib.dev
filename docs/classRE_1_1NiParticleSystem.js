@@ -2,9 +2,9 @@ var classRE_1_1NiParticleSystem =
 [
     [ "~NiParticleSystem", "classRE_1_1NiParticleSystem.html#adf79441bcf0e5367ed2cea288a15f774", null ],
     [ "AddModifier", "classRE_1_1NiParticleSystem.html#ae2a8ee20e78678ef0b063b46523eb276", null ],
-    [ "CreateClone", "classRE_1_1NiParticleSystem.html#abbf765078086371f3f9de674a9a3ea33", null ],
+    [ "CreateClone", "classRE_1_1NiParticleSystem.html#aff998cb1f360cc353924e7432bd978a7", null ],
     [ "Do_UpdateSystem", "classRE_1_1NiParticleSystem.html#ab66375314a8125dbc41c5b4781d907dc", null ],
-    [ "GetRTTI", "classRE_1_1NiParticleSystem.html#a44bb7cb830ed2ec4dd305abc6f7e25ad", null ],
+    [ "GetRTTI", "classRE_1_1NiParticleSystem.html#a1c75d2e30241dc05c73640b4928b26b3", null ],
     [ "IsEqual", "classRE_1_1NiParticleSystem.html#a7ac3d0b6b0a78cf4ebc942631b9332fc", null ],
     [ "LinkObject", "classRE_1_1NiParticleSystem.html#aeceb9c56449541ff99273b616444e91b", null ],
     [ "LoadBinary", "classRE_1_1NiParticleSystem.html#ae6fc4364b36523eca920ccb63bdf6acb", null ],

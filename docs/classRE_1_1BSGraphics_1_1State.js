@@ -1,6 +1,6 @@
 var classRE_1_1BSGraphics_1_1State =
 [
-    [ "GetSingleton", "classRE_1_1BSGraphics_1_1State.html#a87bf2d83d942163ab199488dd642c887", null ],
+    [ "GetSingleton", "classRE_1_1BSGraphics_1_1State.html#a068b2f6675fb9222e8929b7982bf98ec", null ],
     [ "cameraDataCache", "classRE_1_1BSGraphics_1_1State.html#a8c8f7c94b020b0403778fa509eb3de3b", null ],
     [ "canChangeDynamicResolution", "classRE_1_1BSGraphics_1_1State.html#a44e4cd871548c9494a8e9a94be596b73", null ],
     [ "canDecreaseDynamicResolution", "classRE_1_1BSGraphics_1_1State.html#a5e1fed8eeec424272e67bec6c6feb2ff", null ],

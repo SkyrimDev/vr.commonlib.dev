@@ -25,6 +25,6 @@ var classRE_1_1BSIMusicTrack =
     [ "TestCanPlay", "classRE_1_1BSIMusicTrack.html#a2d1eb7a44b09a552508b6fe4a8ad3c40", null ],
     [ "pad0C", "classRE_1_1BSIMusicTrack.html#ada7c998fd22823eafec080b93456be55", null ],
     [ "RTTI", "classRE_1_1BSIMusicTrack.html#a2313b42279908aa51c60afcc97e1f574", null ],
-    [ "trackStatus", "classRE_1_1BSIMusicTrack.html#accb9afa6e8b29b6b5854cb2d8d2abc9a", null ],
+    [ "trackStatus", "classRE_1_1BSIMusicTrack.html#ad8e039ff3c9e16ac2b092b19bcaa4008", null ],
     [ "VTABLE", "classRE_1_1BSIMusicTrack.html#aa681c4cfa25cb8ba800412c9d151e6d1", null ]
 ];

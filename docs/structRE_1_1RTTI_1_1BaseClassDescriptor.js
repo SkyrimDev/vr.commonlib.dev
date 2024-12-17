@@ -10,7 +10,7 @@ var structRE_1_1RTTI_1_1BaseClassDescriptor =
       [ "kNonPolymorphic", "structRE_1_1RTTI_1_1BaseClassDescriptor.html#a470b335bbc99a0bafd94ea9a5058be10a87052cf7e2b0b9ce1887e385ef5020a4", null ],
       [ "kHasHierarchyDescriptor", "structRE_1_1RTTI_1_1BaseClassDescriptor.html#a470b335bbc99a0bafd94ea9a5058be10a8f3dc98fb5169456ed82d0b239391917", null ]
     ] ],
-    [ "attributes", "structRE_1_1RTTI_1_1BaseClassDescriptor.html#a8bad90510c540041b54eb1b83c0d1cbb", null ],
+    [ "attributes", "structRE_1_1RTTI_1_1BaseClassDescriptor.html#af3355b94246853283963b780e23800f5", null ],
     [ "numContainedBases", "structRE_1_1RTTI_1_1BaseClassDescriptor.html#a3df7edc171e49f6bedf7c18283705c2c", null ],
     [ "pmd", "structRE_1_1RTTI_1_1BaseClassDescriptor.html#af6c2beb0eaccde0c8789974f1e5d2ae0", null ],
     [ "typeDescriptor", "structRE_1_1RTTI_1_1BaseClassDescriptor.html#a29199e9ce2750d970f6675e540ee427e", null ]

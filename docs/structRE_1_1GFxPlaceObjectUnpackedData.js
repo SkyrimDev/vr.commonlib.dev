@@ -15,13 +15,13 @@ var structRE_1_1GFxPlaceObjectUnpackedData =
       [ "kFlag_HideObject", "structRE_1_1GFxPlaceObjectUnpackedData.html#a112ba0987f235ce226a497c124ddf0f0acdea4f7b8daa9f5b620e024773c354e3", null ],
       [ "kFlag_FineBlur", "structRE_1_1GFxPlaceObjectUnpackedData.html#a112ba0987f235ce226a497c124ddf0f0a8a0258022619888a8d1d48928cec326c", null ]
     ] ],
-    [ "blendMode", "structRE_1_1GFxPlaceObjectUnpackedData.html#ad1d01cc1f2c27780790a30ae22dd1dd1", null ],
+    [ "blendMode", "structRE_1_1GFxPlaceObjectUnpackedData.html#aea43b4af0ba62cf443c7944d3edb5d0a", null ],
     [ "characterId", "structRE_1_1GFxPlaceObjectUnpackedData.html#aa928a5f13cbba2bef32563aa8f28f210", null ],
     [ "clipDepth", "structRE_1_1GFxPlaceObjectUnpackedData.html#ae9136a0a340f2f2590d93815e47e452a", null ],
     [ "colorTransform", "structRE_1_1GFxPlaceObjectUnpackedData.html#a644a4ea11576b44292cb68176c7742f6", null ],
     [ "depth", "structRE_1_1GFxPlaceObjectUnpackedData.html#a397bc3ba5b671649304fc0f82042cdcb", null ],
     [ "filterList", "structRE_1_1GFxPlaceObjectUnpackedData.html#a357a46d45c3844e3f035b94945efb5a8", null ],
     [ "matrix", "structRE_1_1GFxPlaceObjectUnpackedData.html#aa43e5ecbc26a6d81600659fb91465a04", null ],
-    [ "placeFlags", "structRE_1_1GFxPlaceObjectUnpackedData.html#abe90332026839fd778bcec410ae652ca", null ],
+    [ "placeFlags", "structRE_1_1GFxPlaceObjectUnpackedData.html#ac4fbd6b4802ba3065abe509468cb9136", null ],
     [ "ratio", "structRE_1_1GFxPlaceObjectUnpackedData.html#aaeb54c1d12ffd4a575deeb93cba175a6", null ]
 ];

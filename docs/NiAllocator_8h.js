@@ -1,6 +1,6 @@
 var NiAllocator_8h =
 [
-    [ "NiAllocator", "classRE_1_1NiAllocator.html", "classRE_1_1NiAllocator" ],
+    [ "RE::NiAllocator", "classRE_1_1NiAllocator.html", "classRE_1_1NiAllocator" ],
     [ "NiMemEventType", "NiAllocator_8h.html#a03e0c50448af9c82aee11485007cc1a4", [
       [ "kUnknown", "NiAllocator_8h.html#a03e0c50448af9c82aee11485007cc1a4a25c2dc47991b3df171ed5192bcf70390", null ],
       [ "kOperNew", "NiAllocator_8h.html#a03e0c50448af9c82aee11485007cc1a4a934033585ebfdb91baf9edc0e72d6a24", null ],

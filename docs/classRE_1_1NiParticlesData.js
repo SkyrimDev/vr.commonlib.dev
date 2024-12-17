@@ -3,7 +3,7 @@ var classRE_1_1NiParticlesData =
     [ "~NiParticlesData", "classRE_1_1NiParticlesData.html#aa52ed5f69531259cc2482c1cb395be48", null ],
     [ "CalculateNormals", "classRE_1_1NiParticlesData.html#a4f5c6236e06ebe74278e8acb2ccb07b1", null ],
     [ "GetActiveVertexCount", "classRE_1_1NiParticlesData.html#a4f0c2c32d2d4d5861c4b67ee7e11ace8", null ],
-    [ "GetRTTI", "classRE_1_1NiParticlesData.html#ae9e594bad68e3052d77ce5e7d4e10ec1", null ],
+    [ "GetRTTI", "classRE_1_1NiParticlesData.html#ad29b66ad01aed7b9abcbf2f06c372b50", null ],
     [ "IsEqual", "classRE_1_1NiParticlesData.html#a88316d34fcab499190c3a5407b1ea30a", null ],
     [ "LinkObject", "classRE_1_1NiParticlesData.html#a70e82b60cb2900facc54339c04414121", null ],
     [ "LoadBinary", "classRE_1_1NiParticlesData.html#a539c0ceb162dc909f20d04a99c2b6bc4", null ],

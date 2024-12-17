@@ -4,7 +4,7 @@ var structRE_1_1DestructibleObjectData =
       [ "kNone", "structRE_1_1DestructibleObjectData.html#a083b7893afdc942a95ba35f05fca2433a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kVatsTargetable", "structRE_1_1DestructibleObjectData.html#a083b7893afdc942a95ba35f05fca2433aebaa6e649467fc3b45efe5725cbb2e0b", null ]
     ] ],
-    [ "flags", "structRE_1_1DestructibleObjectData.html#a0ad789414500266383076b32fe907619", null ],
+    [ "flags", "structRE_1_1DestructibleObjectData.html#ab8683526c0568b30a897e780b0b78201", null ],
     [ "health", "structRE_1_1DestructibleObjectData.html#a6952e4a9819359241b36f992ad239e95", null ],
     [ "numStages", "structRE_1_1DestructibleObjectData.html#ae5388ba554adb1783612335683b5a89e", null ],
     [ "pad06", "structRE_1_1DestructibleObjectData.html#a3dae9c726fee7ab2befa6b3bfe2c48d1", null ],

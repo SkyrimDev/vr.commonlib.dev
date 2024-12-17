@@ -2,7 +2,7 @@ var classRE_1_1BSWin32SaveDataSystemUtility =
 [
     [ "~BSWin32SaveDataSystemUtility", "classRE_1_1BSWin32SaveDataSystemUtility.html#a63417909d11fc387131ee15baad56f9b", null ],
     [ "CreateSaveDirectory", "classRE_1_1BSWin32SaveDataSystemUtility.html#a793e7e9f230bf7b50e980416856a1e01", null ],
-    [ "GetSingleton", "classRE_1_1BSWin32SaveDataSystemUtility.html#aab4de1c3777cf2f2b0ea60a1167ceffe", null ],
+    [ "GetSingleton", "classRE_1_1BSWin32SaveDataSystemUtility.html#a595ac454c6eb9fcc1bece9da71ff2e2f", null ],
     [ "PrepareFileSavePath", "classRE_1_1BSWin32SaveDataSystemUtility.html#a7b0adb215fdc2df2cd83ad570164fd82", null ],
     [ "Unk_05", "classRE_1_1BSWin32SaveDataSystemUtility.html#acb6c5500366f8053bcf1e01d51980275", null ],
     [ "Unk_06", "classRE_1_1BSWin32SaveDataSystemUtility.html#a23762c0b3f079db0859042f00c1cdec9", null ],

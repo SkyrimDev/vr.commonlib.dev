@@ -6,7 +6,7 @@ var classRE_1_1hkpBoxShape =
     [ "CastRayImpl", "classRE_1_1hkpBoxShape.html#a9f6bf0f3af7d65e5cd5bb2b8e385098f", null ],
     [ "GetAabbImpl", "classRE_1_1hkpBoxShape.html#a8bb9173cef316e84d80f1cf333da15cc", null ],
     [ "GetCentreImpl", "classRE_1_1hkpBoxShape.html#a9d03f29dc7b7b0d5ce0868c9d34aea62", null ],
-    [ "GetCollisionSpheresImpl", "classRE_1_1hkpBoxShape.html#ac3c6a831c3163a8f12fbe9e2dc067f4e", null ],
+    [ "GetCollisionSpheresImpl", "classRE_1_1hkpBoxShape.html#aabf60276830c3aa8eff4a95d0e3e3a3d", null ],
     [ "GetNumCollisionSpheresImpl", "classRE_1_1hkpBoxShape.html#a02888eeaf3342ac09db786e12bef7ba3", null ],
     [ "Unk_0E", "classRE_1_1hkpBoxShape.html#a542d0af62c51c52c51005e6d11f8ec55", null ],
     [ "Unk_0F", "classRE_1_1hkpBoxShape.html#a445a104b9ca37d055ebfb4558facfccc", null ],

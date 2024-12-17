@@ -10,7 +10,7 @@ var structRE_1_1TESClimate_1_1Timing =
     [ "GetPhaseLength", "structRE_1_1TESClimate_1_1Timing.html#a2ad12c8d9b034edfc87b264e2f89e141", null ],
     [ "IncludesMasser", "structRE_1_1TESClimate_1_1Timing.html#a2f07160feff6a645688cb4eb49b38b42", null ],
     [ "IncludesSecunda", "structRE_1_1TESClimate_1_1Timing.html#a9fff144b379b308b2505b58fb06cd7b5", null ],
-    [ "moonPhaseLength", "structRE_1_1TESClimate_1_1Timing.html#a0c92b0787112d583de9e9b7289dff376", null ],
+    [ "moonPhaseLength", "structRE_1_1TESClimate_1_1Timing.html#a257bdecbd0f0e60c6443a1a33d80ed57", null ],
     [ "sunrise", "structRE_1_1TESClimate_1_1Timing.html#a59347a8bf345d16bc691239a75f43028", null ],
     [ "sunset", "structRE_1_1TESClimate_1_1Timing.html#ab79d97370c3995231befda8baf6a0ae3", null ],
     [ "unk6", "structRE_1_1TESClimate_1_1Timing.html#a3162848531e5de6621a2887d3dcd32d7", null ],

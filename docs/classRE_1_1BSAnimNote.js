@@ -6,8 +6,8 @@ var classRE_1_1BSAnimNote =
       [ "kLookIK", "classRE_1_1BSAnimNote.html#a3a79c2751dd516d7744895083041e655af5c787184d330497fa267a8f8aaaaf46", null ]
     ] ],
     [ "~BSAnimNote", "classRE_1_1BSAnimNote.html#a1106a363a638b37e8a1120df1b9661be", null ],
-    [ "CreateClone", "classRE_1_1BSAnimNote.html#a851c0c4d672f4993c8a6d4f6a8fad875", null ],
-    [ "GetRTTI", "classRE_1_1BSAnimNote.html#aa1c9f726738c5e11cb7c4de500c2fb50", null ],
+    [ "CreateClone", "classRE_1_1BSAnimNote.html#a57b8d59389a8b87f7aac9622c68746c7", null ],
+    [ "GetRTTI", "classRE_1_1BSAnimNote.html#a2aab2592ba3d74cde154d6d3e0418f2c", null ],
     [ "IsEqual", "classRE_1_1BSAnimNote.html#a71b849fd93e16db618ab3a6798a95973", null ],
     [ "LinkObject", "classRE_1_1BSAnimNote.html#a226104de31372587384ea07b66a05b49", null ],
     [ "LoadBinary", "classRE_1_1BSAnimNote.html#a5d8176c7f2911f87e66344723187ef14", null ],

@@ -1,9 +1,9 @@
 var classRE_1_1NiParticles =
 [
     [ "~NiParticles", "classRE_1_1NiParticles.html#a21bf91c7c3c92ad884c7dc9ec1cc1ee9", null ],
-    [ "AsParticlesGeom", "classRE_1_1NiParticles.html#aa778b6626dd84a00ef503154e4ab3f3d", null ],
-    [ "CreateClone", "classRE_1_1NiParticles.html#ada528c0418179e75d1ee3ba4efe48d02", null ],
-    [ "GetRTTI", "classRE_1_1NiParticles.html#a86571284b3f4fc31108980a44d816921", null ],
+    [ "AsParticlesGeom", "classRE_1_1NiParticles.html#a5b48cff97f67c6e5fd50e7b9d49d6d32", null ],
+    [ "CreateClone", "classRE_1_1NiParticles.html#a99a0552635cf49f1e27813258eae7d0d", null ],
+    [ "GetRTTI", "classRE_1_1NiParticles.html#ac986f6a14286d8c9ce0e1186f5a229ee", null ],
     [ "IsEqual", "classRE_1_1NiParticles.html#a3bc484769db2782d2c5bff58cb1b2496", null ],
     [ "LinkObject", "classRE_1_1NiParticles.html#aae7d35960120ba9b0a6907b1372cf048", null ],
     [ "LoadBinary", "classRE_1_1NiParticles.html#ae8b876349a32c20ac4a0fce7a481816d", null ],

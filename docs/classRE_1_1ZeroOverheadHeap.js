@@ -1,13 +1,13 @@
 var classRE_1_1ZeroOverheadHeap =
 [
     [ "~ZeroOverheadHeap", "classRE_1_1ZeroOverheadHeap.html#a5deedd7172c5ad3a15cf3344b41eb186", null ],
-    [ "Allocate", "classRE_1_1ZeroOverheadHeap.html#a4870dd0783757c5d227fa4cfbc75626d", null ],
-    [ "AllocateAlignImpl", "classRE_1_1ZeroOverheadHeap.html#a4e51ad949fad42d5c1c5104b5ffb1365", null ],
+    [ "Allocate", "classRE_1_1ZeroOverheadHeap.html#af5c804174d0f2b8dffe08f0e4f6b7c82", null ],
+    [ "AllocateAlignImpl", "classRE_1_1ZeroOverheadHeap.html#a485e87aeb6874ede3be092c32dc1b8ea", null ],
     [ "ContainsBlockImpl", "classRE_1_1ZeroOverheadHeap.html#a416b87fe3f24901187393c38319320c5", null ],
     [ "Deallocate", "classRE_1_1ZeroOverheadHeap.html#a163d722e3deaabfac7e6a22955c5443d", null ],
     [ "GetHeapStats", "classRE_1_1ZeroOverheadHeap.html#a3e1df208558ae0b465f8c107d4883dca", null ],
     [ "GetMemoryStats", "classRE_1_1ZeroOverheadHeap.html#a6ba5339f400f7f720a45d77aaf8209ab", null ],
-    [ "GetName", "classRE_1_1ZeroOverheadHeap.html#a58cdd9e8f5c2655336ddd951d015ea5b", null ],
+    [ "GetName", "classRE_1_1ZeroOverheadHeap.html#aeca522a357dae3e4eba79f7a7af6c70e", null ],
     [ "GetPageSize", "classRE_1_1ZeroOverheadHeap.html#a883dfd02009078ec00c39635e23dba8c", null ],
     [ "PointerInHeap", "classRE_1_1ZeroOverheadHeap.html#ad8dcbb7e3b49856188c400bc5fcd4579", null ],
     [ "ShouldTrySmallBlockPools", "classRE_1_1ZeroOverheadHeap.html#affc962f91ed1a7b9f62bae7c1092d362", null ],

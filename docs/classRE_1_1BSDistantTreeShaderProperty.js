@@ -2,9 +2,9 @@ var classRE_1_1BSDistantTreeShaderProperty =
 [
     [ "~BSDistantTreeShaderProperty", "classRE_1_1BSDistantTreeShaderProperty.html#a487e24a37745e6e54d10de1243b7e9cd", null ],
     [ "ForEachTexture", "classRE_1_1BSDistantTreeShaderProperty.html#a662fdb8399d49cf3366a35b7d9028a5e", null ],
-    [ "GetBaseTexture", "classRE_1_1BSDistantTreeShaderProperty.html#a20c47d66057aece715287639b97c190e", null ],
-    [ "GetRenderPasses", "classRE_1_1BSDistantTreeShaderProperty.html#acd592fd74e61f5994da1d89684fa3714", null ],
-    [ "GetRTTI", "classRE_1_1BSDistantTreeShaderProperty.html#a01881e7ecaa5da2b85f2f5df0c3cf352", null ],
+    [ "GetBaseTexture", "classRE_1_1BSDistantTreeShaderProperty.html#a9b50f1871b13505fad68e27212965126", null ],
+    [ "GetRenderPasses", "classRE_1_1BSDistantTreeShaderProperty.html#aac8d57476df4068e3571bde08a3baff8", null ],
+    [ "GetRTTI", "classRE_1_1BSDistantTreeShaderProperty.html#a382e8a8dacecfdd37b4cf50f16a5677c", null ],
     [ "Unk_2B", "classRE_1_1BSDistantTreeShaderProperty.html#a674bdc95a47b2fe879fede69d2a365f5", null ],
     [ "Unk_2F", "classRE_1_1BSDistantTreeShaderProperty.html#a2b7a8a3d3d5db72abbeed6f57df04fdb", null ],
     [ "Ni_RTTI", "classRE_1_1BSDistantTreeShaderProperty.html#af23da3c1c1ac47e7923299f51f617bbb", null ],

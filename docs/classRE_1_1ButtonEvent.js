@@ -1,7 +1,7 @@
 var classRE_1_1ButtonEvent =
 [
     [ "~ButtonEvent", "classRE_1_1ButtonEvent.html#a9a2ea327c666cd9c25cb089374bbe798", null ],
-    [ "Create", "classRE_1_1ButtonEvent.html#a82f0ac3b217b6fd5fe7119a7ad198875", null ],
+    [ "Create", "classRE_1_1ButtonEvent.html#a3fc5e8af4731a6e7b2f5bc1258f5cdb9", null ],
     [ "HeldDuration", "classRE_1_1ButtonEvent.html#adaebf97d3fafdc70081ab7358db463f4", null ],
     [ "Init", "classRE_1_1ButtonEvent.html#a2b6e71c68622de4b3e85b898000c53c6", null ],
     [ "Init", "classRE_1_1ButtonEvent.html#a949d7e1efaa6c23e3deb6cc7c927ae72", null ],

@@ -10,7 +10,7 @@ var structRE_1_1PART__DATA =
       [ "kIKData_HeadTracking", "structRE_1_1PART__DATA.html#a0ae54ee850a3a5c3e7ef06ba7d6c901fa44c707cfd9710209acdbb5ac50491dbc", null ],
       [ "kToHitChance_Absolute", "structRE_1_1PART__DATA.html#a0ae54ee850a3a5c3e7ef06ba7d6c901faacfc3bbf986be42a5d9e715522841e99", null ]
     ] ],
-    [ "actorValue", "structRE_1_1PART__DATA.html#ad5126f991c4ce51f30b2f66525d4edc3", null ],
+    [ "actorValue", "structRE_1_1PART__DATA.html#ab6ca6ea24696f6269baecc64f09011c7", null ],
     [ "damageMult", "structRE_1_1PART__DATA.html#a9d29a18f9bf8f363e8f2ef81bdf5da66", null ],
     [ "dismemberDecalCount", "structRE_1_1PART__DATA.html#afbe3071f258ec41a49c09bd9502e4868", null ],
     [ "dismemberExplosion", "structRE_1_1PART__DATA.html#a3887e7b293cb6b1794bb8d7e3adf6d57", null ],
@@ -26,7 +26,7 @@ var structRE_1_1PART__DATA =
     [ "explosionGenericDebrisScale", "structRE_1_1PART__DATA.html#a45a75222d16223418364ccade35219c9", null ],
     [ "explosionImpactDataSet", "structRE_1_1PART__DATA.html#afe9d7058c3e7be6af95e3673b985731a", null ],
     [ "explosionSpecialDebrisScale", "structRE_1_1PART__DATA.html#a6ca182ae1ae9f9aacaa370a9b2c7ca94", null ],
-    [ "flags", "structRE_1_1PART__DATA.html#af131c3e652edb865e6cc80f8f3bd8fe4", null ],
+    [ "flags", "structRE_1_1PART__DATA.html#a244acbce50ed786bad0e909d9fe4017a", null ],
     [ "goreRotate", "structRE_1_1PART__DATA.html#ac268e31469f3e3af06ffaa1efb269fe9", null ],
     [ "goreTranslate", "structRE_1_1PART__DATA.html#ad1380b972ebb7eb0460e75cee889cee3", null ],
     [ "healthPercent", "structRE_1_1PART__DATA.html#a7da94772c95c96f55a349163d3f5efc9", null ],
@@ -36,7 +36,7 @@ var structRE_1_1PART__DATA =
     [ "pad72", "structRE_1_1PART__DATA.html#a8b40a87dddd80f93c78deef2825d815a", null ],
     [ "toHitChance", "structRE_1_1PART__DATA.html#a0718fd9bcdeaf65b38e1038561d38278", null ],
     [ "trackingMaxAngle", "structRE_1_1PART__DATA.html#aedc3045d2a770ed17429ee7f161f6a7f", null ],
-    [ "type", "structRE_1_1PART__DATA.html#ae32e23884cc944a159c5064d4222fcbb", null ],
+    [ "type", "structRE_1_1PART__DATA.html#a3f0e9b6a3072c656c361ad8302fc4fc2", null ],
     [ "unk29", "structRE_1_1PART__DATA.html#a9fc3dcfe160478a4211dbd02e579ba7f", null ],
     [ "unk2A", "structRE_1_1PART__DATA.html#a5e1162a08aacec6b6d116a23d8da8328", null ],
     [ "unk2C", "structRE_1_1PART__DATA.html#a499555e6c80aff6d1e709eb38439f925", null ]

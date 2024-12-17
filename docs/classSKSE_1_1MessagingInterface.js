@@ -11,8 +11,8 @@ var classSKSE_1_1MessagingInterface =
       [ "kTotal", "classSKSE_1_1MessagingInterface.html#a05b60fcc34e1f9472abc9d057f689788ac5773fa6682ca4cde48ab9f265398de3", null ]
     ] ],
     [ "Dispatch", "classSKSE_1_1MessagingInterface.html#a6918599a957a4a94ada7e9f666edee41", null ],
-    [ "GetEventDispatcher", "classSKSE_1_1MessagingInterface.html#a5b16a48a72f6fd800b4e9f24b09376a7", null ],
-    [ "GetProxy", "classSKSE_1_1MessagingInterface.html#ad6d921cef77a056e78c4648e56d4e771", null ],
+    [ "GetEventDispatcher", "classSKSE_1_1MessagingInterface.html#a2c304ea385d8a7237c3e9199c1304f4c", null ],
+    [ "GetProxy", "classSKSE_1_1MessagingInterface.html#a58918e1b2618c0179521d2278c18d35d", null ],
     [ "RegisterListener", "classSKSE_1_1MessagingInterface.html#a69386a74d043864cee4da97c3c9d2824", null ],
     [ "RegisterListener", "classSKSE_1_1MessagingInterface.html#adf455c2a9fc2903aa250115c063a434a", null ],
     [ "Version", "classSKSE_1_1MessagingInterface.html#a400663336cc72d1233070cac6990fcbf", null ]

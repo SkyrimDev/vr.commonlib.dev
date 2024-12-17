@@ -15,8 +15,8 @@ var classRE_1_1hkpCollidable =
       [ "kShapeUnchecked", "classRE_1_1hkpCollidable.html#a9ed4a6393eb9cdf1af33de1680268f19a76654845751c960854b945c4d12e24a1", null ]
     ] ],
     [ "GetCollisionLayer", "classRE_1_1hkpCollidable.html#a2e1e228c19ff81a8e84816052b9affa9", null ],
-    [ "GetOwner", "classRE_1_1hkpCollidable.html#a7d05a30a7947605cce7922c7c5814777", null ],
-    [ "GetOwner", "classRE_1_1hkpCollidable.html#aa9e26aab7cd435d740ccef77cab88884", null ],
+    [ "GetOwner", "classRE_1_1hkpCollidable.html#a1ec76b0593912c1d6a6d9b030666196d", null ],
+    [ "GetOwner", "classRE_1_1hkpCollidable.html#ac7acf762cef46160bd57c040a44d7f8f", null ],
     [ "allowedPenetrationDepth", "classRE_1_1hkpCollidable.html#a46316576fd48ba7d4adf9031c5390535", null ],
     [ "boundingVolumeData", "classRE_1_1hkpCollidable.html#ac5068e28fc9530c7c4f2eadd93b6dffa", null ],
     [ "broadPhaseHandle", "classRE_1_1hkpCollidable.html#a51d80480183d0e8ab587d75425a4e3d7", null ],

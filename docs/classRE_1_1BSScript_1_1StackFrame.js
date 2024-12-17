@@ -1,7 +1,7 @@
 var classRE_1_1BSScript_1_1StackFrame =
 [
     [ "GetPageForFrame", "classRE_1_1BSScript_1_1StackFrame.html#a042cbef840e06cccba1736980740c772", null ],
-    [ "GetStackFrameVariable", "classRE_1_1BSScript_1_1StackFrame.html#ad75878ffac04666403c6872e757bbec7", null ],
+    [ "GetStackFrameVariable", "classRE_1_1BSScript_1_1StackFrame.html#a4972f8b9f4de6c862671fbebcbc27486", null ],
     [ "instructionPointer", "classRE_1_1BSScript_1_1StackFrame.html#af09962a66dd8813c1da9a1d2fdca1ee7", null ],
     [ "instructionsValid", "classRE_1_1BSScript_1_1StackFrame.html#ad60ec48def7c756770eae2692ed2e4ac", null ],
     [ "owningFunction", "classRE_1_1BSScript_1_1StackFrame.html#adb54e001b315c3aac8aa211cc44f4b99", null ],

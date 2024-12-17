@@ -11,7 +11,7 @@ var classRE_1_1hkpMaterial =
     [ "SetResponseType", "classRE_1_1hkpMaterial.html#a87f5831590599e66753282f6aadf0920", null ],
     [ "friction", "classRE_1_1hkpMaterial.html#af345ba0f8c52c9e96ab398e4db3fbadf", null ],
     [ "pad01", "classRE_1_1hkpMaterial.html#ab8c8910533ff49a626191ccedde8ff43", null ],
-    [ "responseType", "classRE_1_1hkpMaterial.html#acf24eb66d943b0eb53c117bcc987fd66", null ],
+    [ "responseType", "classRE_1_1hkpMaterial.html#ac31364dbf5e277caf486ea407ecbfd02", null ],
     [ "restitution", "classRE_1_1hkpMaterial.html#ad4bd2eadb88d077f5d63af93e1deec4b", null ],
     [ "rollingFrictionMultiplier", "classRE_1_1hkpMaterial.html#a8a69d80619b2303def2eadf56425989f", null ]
 ];

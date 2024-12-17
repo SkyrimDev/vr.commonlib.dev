@@ -27,7 +27,7 @@ var classRE_1_1NiTMapBase =
     [ "hash_function", "classRE_1_1NiTMapBase.html#a3cf041c63b6e2cce13c1df628d6160cd", null ],
     [ "insert_or_assign", "classRE_1_1NiTMapBase.html#a22cfe8f450db2d67f48b231231e87a91", null ],
     [ "key_eq", "classRE_1_1NiTMapBase.html#ac7ec7c297e2d7b2d217e0bad74f0f1f2", null ],
-    [ "malloc_value", "classRE_1_1NiTMapBase.html#a6e88cc84710d0a4dd50b2042b1ae1b22", null ],
+    [ "malloc_value", "classRE_1_1NiTMapBase.html#a3064d78bd34f02e3ce88058d817d8087", null ],
     [ "size", "classRE_1_1NiTMapBase.html#a62ec8f47c7de9ae6c5d1b60def73ecee", null ],
     [ "iterator_base", "classRE_1_1NiTMapBase.html#ab1930cc139d6cbbc031a52082e142122", null ],
     [ "_allocator", "classRE_1_1NiTMapBase.html#a836d98cb11c9be04b674f1c43b46fecd", null ],

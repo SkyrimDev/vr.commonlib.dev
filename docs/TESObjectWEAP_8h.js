@@ -1,12 +1,12 @@
 var TESObjectWEAP_8h =
 [
-    [ "WeaponTypes", "structRE_1_1WeaponTypes.html", "structRE_1_1WeaponTypes" ],
-    [ "TESObjectWEAP", "classRE_1_1TESObjectWEAP.html", "classRE_1_1TESObjectWEAP" ],
-    [ "RecordFlags", "structRE_1_1TESObjectWEAP_1_1RecordFlags.html", "structRE_1_1TESObjectWEAP_1_1RecordFlags" ],
-    [ "RangedData", "structRE_1_1TESObjectWEAP_1_1RangedData.html", "structRE_1_1TESObjectWEAP_1_1RangedData" ],
-    [ "Data", "structRE_1_1TESObjectWEAP_1_1Data.html", "structRE_1_1TESObjectWEAP_1_1Data" ],
-    [ "CriticalData", "structRE_1_1TESObjectWEAP_1_1CriticalData.html", "structRE_1_1TESObjectWEAP_1_1CriticalData" ],
-    [ "Unk1B8", "structRE_1_1TESObjectWEAP_1_1Unk1B8.html", "structRE_1_1TESObjectWEAP_1_1Unk1B8" ],
+    [ "RE::WeaponTypes", "structRE_1_1WeaponTypes.html", "structRE_1_1WeaponTypes" ],
+    [ "RE::TESObjectWEAP", "classRE_1_1TESObjectWEAP.html", "classRE_1_1TESObjectWEAP" ],
+    [ "RE::TESObjectWEAP::RecordFlags", "structRE_1_1TESObjectWEAP_1_1RecordFlags.html", "structRE_1_1TESObjectWEAP_1_1RecordFlags" ],
+    [ "RE::TESObjectWEAP::RangedData", "structRE_1_1TESObjectWEAP_1_1RangedData.html", "structRE_1_1TESObjectWEAP_1_1RangedData" ],
+    [ "RE::TESObjectWEAP::Data", "structRE_1_1TESObjectWEAP_1_1Data.html", "structRE_1_1TESObjectWEAP_1_1Data" ],
+    [ "RE::TESObjectWEAP::CriticalData", "structRE_1_1TESObjectWEAP_1_1CriticalData.html", "structRE_1_1TESObjectWEAP_1_1CriticalData" ],
+    [ "RE::TESObjectWEAP::ScopeArt", "structRE_1_1TESObjectWEAP_1_1ScopeArt.html", "structRE_1_1TESObjectWEAP_1_1ScopeArt" ],
     [ "WEAPON_TYPE", "TESObjectWEAP_8h.html#a8e27fa9dae1b332b70031fc1009ce927", null ],
     [ "WEAPON_RUMBLE_PATTERN", "TESObjectWEAP_8h.html#a5c27bb4d3e1c051ab987c4f8733e139d", [
       [ "kConstant", "TESObjectWEAP_8h.html#a5c27bb4d3e1c051ab987c4f8733e139da043b62a71551e8b511099802b2b59a98", null ],

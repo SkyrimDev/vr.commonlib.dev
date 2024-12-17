@@ -1,6 +1,6 @@
 var classRE_1_1MenuCursor =
 [
-    [ "GetSingleton", "classRE_1_1MenuCursor.html#aa88f4e9117ab1d89bc7c81ac900682be", null ],
+    [ "GetSingleton", "classRE_1_1MenuCursor.html#a8fd897d93dd41efcc64aa02c3f0e4484", null ],
     [ "SetCursorVisibility", "classRE_1_1MenuCursor.html#a4b8d2f3c3c6c3e48d81fa000299142be", null ],
     [ "cursorPosX", "classRE_1_1MenuCursor.html#a9830a330cdd95177bc8d6e78f0395d6d", null ],
     [ "cursorPosY", "classRE_1_1MenuCursor.html#a9707547e97dbece053f10097662de3d4", null ],

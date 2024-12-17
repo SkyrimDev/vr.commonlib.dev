@@ -1,5 +1,5 @@
 var TLSData_8h =
 [
-    [ "TLSData", "structRE_1_1TLSData.html", "structRE_1_1TLSData" ],
-    [ "GetStaticTLSData", "TLSData_8h.html#a46d572d7dadfa8063b980a164e320024", null ]
+    [ "RE::TLSData", "structRE_1_1TLSData.html", "structRE_1_1TLSData" ],
+    [ "GetStaticTLSData", "TLSData_8h.html#ae7f743d27d9f8975f3d9d65c5ece1fb8", null ]
 ];

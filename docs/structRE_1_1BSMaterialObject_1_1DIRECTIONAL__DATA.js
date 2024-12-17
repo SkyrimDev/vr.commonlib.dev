@@ -6,7 +6,7 @@ var structRE_1_1BSMaterialObject_1_1DIRECTIONAL__DATA =
     ] ],
     [ "falloffBias", "structRE_1_1BSMaterialObject_1_1DIRECTIONAL__DATA.html#a277b05f276176662ee88b7dd0d54cd00", null ],
     [ "falloffScale", "structRE_1_1BSMaterialObject_1_1DIRECTIONAL__DATA.html#a0a2b3c8fc836a48aa45eeebcd18ad4e6", null ],
-    [ "flags", "structRE_1_1BSMaterialObject_1_1DIRECTIONAL__DATA.html#aad347d2fc0de165fd81ac8b5a16bdca2", null ],
+    [ "flags", "structRE_1_1BSMaterialObject_1_1DIRECTIONAL__DATA.html#af278e2cb366f77b6d27648e2d9edc428", null ],
     [ "materialUVScale", "structRE_1_1BSMaterialObject_1_1DIRECTIONAL__DATA.html#ad1dd9e90475259467c97ed92907f5a19", null ],
     [ "noiseUVScale", "structRE_1_1BSMaterialObject_1_1DIRECTIONAL__DATA.html#ad5009bb3af5b194838ac18dd5e7ab990", null ],
     [ "normalDampener", "structRE_1_1BSMaterialObject_1_1DIRECTIONAL__DATA.html#a54a1bff7286ed3a747b87f1df3f41d00", null ],

@@ -31,5 +31,5 @@ var structRE_1_1BSSoundHandle =
     [ "pad05", "structRE_1_1BSSoundHandle.html#a211cce0f6c77e6b970053ac15ded568c", null ],
     [ "pad06", "structRE_1_1BSSoundHandle.html#a4a7d1bfddc91488ff403068d9effb5b0", null ],
     [ "soundID", "structRE_1_1BSSoundHandle.html#a951a22513de939c4b7280de033ac57e4", null ],
-    [ "state", "structRE_1_1BSSoundHandle.html#af17aa2bcba8b56f9cd0c94f55d6e8751", null ]
+    [ "state", "structRE_1_1BSSoundHandle.html#a91d8eb264a5c4d514c5ef8e5b32e0e1f", null ]
 ];

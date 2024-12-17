@@ -1,8 +1,8 @@
 var classRE_1_1BSValueNode =
 [
     [ "~BSValueNode", "classRE_1_1BSValueNode.html#aaf92c3c69a989d84c1ad3e77b4dd5df9", null ],
-    [ "CreateClone", "classRE_1_1BSValueNode.html#a50318d4e348f162882a3d432b1146a5b", null ],
-    [ "GetRTTI", "classRE_1_1BSValueNode.html#a9a23577f7cb063ba6907e235945c68cf", null ],
+    [ "CreateClone", "classRE_1_1BSValueNode.html#a7580160f1d334c457afb2f967252827c", null ],
+    [ "GetRTTI", "classRE_1_1BSValueNode.html#ae866c179554d579011021ed7601b42a7", null ],
     [ "IsEqual", "classRE_1_1BSValueNode.html#a70d1b4a5ea8ab5267f1f56a1d6254482", null ],
     [ "LinkObject", "classRE_1_1BSValueNode.html#a7c874b156a81b5e73901df5a417c6803", null ],
     [ "LoadBinary", "classRE_1_1BSValueNode.html#a4c4985477aa5d82fa4292e3089cadf52", null ],

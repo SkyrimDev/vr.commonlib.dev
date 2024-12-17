@@ -2,8 +2,8 @@ var classRE_1_1PlayerControls =
 [
     [ "PlayerControls", "classRE_1_1PlayerControls.html#a2d333233b5d23c01c2ef7a17ad3a1a72", null ],
     [ "~PlayerControls", "classRE_1_1PlayerControls.html#a241abe98f6a22f1d806298c5dacba0cb", null ],
-    [ "GetActivateHandler", "classRE_1_1PlayerControls.html#abf4a3d5944d5d44f07f13179a753419a", null ],
-    [ "GetSingleton", "classRE_1_1PlayerControls.html#aa039ee3bb88028113dd97aae326058b6", null ],
+    [ "GetActivateHandler", "classRE_1_1PlayerControls.html#a6b429845d780da564c1f672909ba8239", null ],
+    [ "GetSingleton", "classRE_1_1PlayerControls.html#a01fb59a3ddf0274d7ffdc590827d9c92", null ],
     [ "actionInterestedActor", "classRE_1_1PlayerControls.html#a0d36c95c3bea63a8118818ff007c3146", null ],
     [ "activateHandler", "classRE_1_1PlayerControls.html#af19aa58ba659db1682350485bfc8792c", null ],
     [ "actorArrayLock", "classRE_1_1PlayerControls.html#a05936f519609f3a369a6e7a5a33ece46", null ],

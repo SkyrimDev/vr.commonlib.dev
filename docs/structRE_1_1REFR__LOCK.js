@@ -9,7 +9,7 @@ var structRE_1_1REFR__LOCK =
     [ "IsLocked", "structRE_1_1REFR__LOCK.html#aaccd37950d30109622e3e32b58e7361c", null ],
     [ "SetLocked", "structRE_1_1REFR__LOCK.html#a4ab64c579ee86f0d06841392043221e6", null ],
     [ "baseLevel", "structRE_1_1REFR__LOCK.html#aa9af2bebc9b4382e6427efda98c39efd", null ],
-    [ "flags", "structRE_1_1REFR__LOCK.html#a7ed71c23bf638e571758694b3cb44ad5", null ],
+    [ "flags", "structRE_1_1REFR__LOCK.html#a4461254ec7772ef1747793a186858f6e", null ],
     [ "key", "structRE_1_1REFR__LOCK.html#a3bb7624b8b03acd263e982a3f839def5", null ],
     [ "numTries", "structRE_1_1REFR__LOCK.html#a039c8f25c0f5382e4dd34bc12e1faa77", null ],
     [ "pad01", "structRE_1_1REFR__LOCK.html#a8e0b962f3c4ee743a2820246f10b23f5", null ],

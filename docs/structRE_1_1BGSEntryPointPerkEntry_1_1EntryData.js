@@ -17,8 +17,8 @@ var structRE_1_1BGSEntryPointPerkEntry_1_1EntryData =
       [ "kMultiply1PlusActorValueMult", "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a26e77c4fcec60916cb82377ed0c168ccae5e37a8a8576cbdd63a868c564d771a3", null ],
       [ "kSetText", "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a26e77c4fcec60916cb82377ed0c168ccaca2607fa53b307b958efb71c102d2281", null ]
     ] ],
-    [ "entryPoint", "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#afc8aad6c950d589c2518ceaaed046dff", null ],
-    [ "function", "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a340411b95ca03b1f4be94d40755259d2", null ],
+    [ "entryPoint", "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a1dc63973ac1589bc9e70146611e38706", null ],
+    [ "function", "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#af2232e2d8ac13e4d475e9958f9917507", null ],
     [ "numArgs", "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a959d8837ef71b9291a007065e8023aeb", null ],
     [ "unk3", "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a3a7bd798d978d44aed0f3c0ec3423f72", null ],
     [ "unk4", "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a98f345bab64df5b7f1c481af02682814", null ]

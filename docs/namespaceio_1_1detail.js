@@ -1,9 +1,9 @@
 var namespaceio_1_1detail =
 [
-    [ "OwningStdIOByteSourceBase", "classio_1_1detail_1_1OwningStdIOByteSourceBase.html", "classio_1_1detail_1_1OwningStdIOByteSourceBase" ],
+    [ "AsynchronousReader", "classio_1_1detail_1_1AsynchronousReader.html", "classio_1_1detail_1_1AsynchronousReader" ],
     [ "NonOwningIStreamByteSource", "classio_1_1detail_1_1NonOwningIStreamByteSource.html", "classio_1_1detail_1_1NonOwningIStreamByteSource" ],
     [ "NonOwningStringByteSource", "classio_1_1detail_1_1NonOwningStringByteSource.html", "classio_1_1detail_1_1NonOwningStringByteSource" ],
-    [ "AsynchronousReader", "classio_1_1detail_1_1AsynchronousReader.html", "classio_1_1detail_1_1AsynchronousReader" ],
+    [ "OwningStdIOByteSourceBase", "classio_1_1detail_1_1OwningStdIOByteSourceBase.html", "classio_1_1detail_1_1OwningStdIOByteSourceBase" ],
     [ "SynchronousReader", "classio_1_1detail_1_1SynchronousReader.html", "classio_1_1detail_1_1SynchronousReader" ],
     [ "chop_next_column", "namespaceio_1_1detail.html#a5656f385aea8d6ee5814a2abc20f5191", null ],
     [ "parse", "namespaceio_1_1detail.html#a2109437c5cfde706232ff352a06a8c9f", null ],

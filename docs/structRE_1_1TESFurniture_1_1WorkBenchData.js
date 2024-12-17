@@ -10,6 +10,6 @@ var structRE_1_1TESFurniture_1_1WorkBenchData =
       [ "kAlchemyExperiment", "structRE_1_1TESFurniture_1_1WorkBenchData.html#a03570f8effea882f13bf56a1f70c44f9a3e95417eba7c058f50c4e10adada8eeb", null ],
       [ "kSmithingArmor", "structRE_1_1TESFurniture_1_1WorkBenchData.html#a03570f8effea882f13bf56a1f70c44f9a4b5a78925d56cbd1d49a4ee6460607ac", null ]
     ] ],
-    [ "benchType", "structRE_1_1TESFurniture_1_1WorkBenchData.html#ac4c333ec9e21ccb701f786da01e49eb7", null ],
-    [ "usesSkill", "structRE_1_1TESFurniture_1_1WorkBenchData.html#a7b0907f40fb9faf223b1ad65e26abfda", null ]
+    [ "benchType", "structRE_1_1TESFurniture_1_1WorkBenchData.html#a30a77368110a67a5ca5aae9769097e8a", null ],
+    [ "usesSkill", "structRE_1_1TESFurniture_1_1WorkBenchData.html#a735e7cdb114579eb3fe4d423cb35def9", null ]
 ];

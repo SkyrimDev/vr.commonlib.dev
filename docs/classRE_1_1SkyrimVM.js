@@ -7,7 +7,7 @@ var classRE_1_1SkyrimVM =
     [ "UpdateDataEvent", "structRE_1_1SkyrimVM_1_1UpdateDataEvent.html", "structRE_1_1SkyrimVM_1_1UpdateDataEvent" ],
     [ "WaitCall", "structRE_1_1SkyrimVM_1_1WaitCall.html", "structRE_1_1SkyrimVM_1_1WaitCall" ],
     [ "~SkyrimVM", "classRE_1_1SkyrimVM.html#a2a6e4d2e324e8c35a68c1a245bdcfdf9", null ],
-    [ "GetSingleton", "classRE_1_1SkyrimVM.html#aa23510a25f0793620dd91d48b92bf747", null ],
+    [ "GetSingleton", "classRE_1_1SkyrimVM.html#aea0e291a729b90ef483d0d06d5c8ec54", null ],
     [ "QueuePostRenderCall", "classRE_1_1SkyrimVM.html#a075783acfb2a6518dc207ab850e85e8b", null ],
     [ "RelayEvent", "classRE_1_1SkyrimVM.html#a1406730014dc61d7c60220cc2a4b6e75", null ],
     [ "SendAndRelayEvent", "classRE_1_1SkyrimVM.html#ae6a71598c129cbabefb16c4af004b1ec", null ],

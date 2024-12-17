@@ -7,8 +7,8 @@ var classRE_1_1BSTArrayBase =
     [ "BSTArrayBase", "classRE_1_1BSTArrayBase.html#a5c3ba3a8d7ce5153e62ee6ab6f733598", null ],
     [ "~BSTArrayBase", "classRE_1_1BSTArrayBase.html#a5ca1b15ec5c6dd4ff2a11a63d4f876f0", null ],
     [ "empty", "classRE_1_1BSTArrayBase.html#a1feae1841b843dcab1d3c38650229a4e", null ],
-    [ "operator=", "classRE_1_1BSTArrayBase.html#a427d0de6fa1877f71be2c5edacbec24b", null ],
-    [ "operator=", "classRE_1_1BSTArrayBase.html#a77362329af048a476da0a770694942dd", null ],
+    [ "operator=", "classRE_1_1BSTArrayBase.html#a03c00488e521dc613e4c8d72046d014c", null ],
+    [ "operator=", "classRE_1_1BSTArrayBase.html#aa5afa0a9c3bd53a6037beeed7e8fc950", null ],
     [ "set_size", "classRE_1_1BSTArrayBase.html#a1cef799ad672b67c4aabc159606d8504", null ],
     [ "size", "classRE_1_1BSTArrayBase.html#a0734d4faf4a804e0a588c377954f5c2f", null ]
 ];

@@ -39,5 +39,5 @@ var structRE_1_1hkpConstraintAtom =
       [ "kStabilized", "structRE_1_1hkpConstraintAtom.html#a7941627f21a118b0aa36f666f6c57860aa1329b8a3bdf3889d787feb105ec7369", null ],
       [ "kOld", "structRE_1_1hkpConstraintAtom.html#a7941627f21a118b0aa36f666f6c57860a7b9379949270f00e8e68c4d19ac80b0c", null ]
     ] ],
-    [ "type", "structRE_1_1hkpConstraintAtom.html#a8a4f0f86feb5b32b9b2b25762dec2c1c", null ]
+    [ "type", "structRE_1_1hkpConstraintAtom.html#a2ea4d4143d1704f651b925fa89c65c50", null ]
 ];

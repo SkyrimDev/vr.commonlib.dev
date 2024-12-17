@@ -15,7 +15,7 @@ var structRE_1_1AttackData =
     [ "attackSpell", "structRE_1_1AttackData.html#a04a5fd6732b3dc29d34e7b60a38ba1bb", null ],
     [ "attackType", "structRE_1_1AttackData.html#a7e0adf87c467a75ada19e7348a53022b", null ],
     [ "damageMult", "structRE_1_1AttackData.html#a1dec1d6be3711d3aa0b5a69166616788", null ],
-    [ "flags", "structRE_1_1AttackData.html#ac7d4775fdf644436ec3526d797a7c9d6", null ],
+    [ "flags", "structRE_1_1AttackData.html#a0403278d7194b836026e5633810dff69", null ],
     [ "knockDown", "structRE_1_1AttackData.html#add027c5ad3d3380ac0be6130bf326aef", null ],
     [ "pad34", "structRE_1_1AttackData.html#ad35395b6f974372c13e4b7509063492c", null ],
     [ "recoveryTime", "structRE_1_1AttackData.html#a9a53d7d2139c4b66f18f8a36735b0a83", null ],

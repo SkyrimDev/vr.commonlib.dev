@@ -10,7 +10,7 @@ var structRE_1_1BGSDebrisData =
     [ "TES_HEAP_REDEFINE_NEW", "structRE_1_1BGSDebrisData.html#a44473cd9ffcfee3f5f54f0528aee5c9f", null ],
     [ "addons", "structRE_1_1BGSDebrisData.html#a95916f4a86a2b29d799fd51298d9fdbc", null ],
     [ "fileName", "structRE_1_1BGSDebrisData.html#af88f31c1209af29506b320b7173c6531", null ],
-    [ "flags", "structRE_1_1BGSDebrisData.html#a569751cf9a7ad1ab6f88abd60e1ed633", null ],
+    [ "flags", "structRE_1_1BGSDebrisData.html#a590f2596420113450e550afddaf785ac", null ],
     [ "pad02", "structRE_1_1BGSDebrisData.html#a7b08a48117233835a431f8434d10624d", null ],
     [ "pad04", "structRE_1_1BGSDebrisData.html#a2bcdf8f10af8bc28b23e6b3af3b4f272", null ],
     [ "percentage", "structRE_1_1BGSDebrisData.html#abb83ca9967ae9e61600197371ae3e0ad", null ],

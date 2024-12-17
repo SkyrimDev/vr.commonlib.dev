@@ -1,8 +1,8 @@
 var classRE_1_1BSOrderedNode =
 [
     [ "~BSOrderedNode", "classRE_1_1BSOrderedNode.html#a01b65d8163695fd3e8b80907284f6a52", null ],
-    [ "CreateClone", "classRE_1_1BSOrderedNode.html#a3d5f5140f6e0906548cdcf80b45ab6db", null ],
-    [ "GetRTTI", "classRE_1_1BSOrderedNode.html#a1cccfa6a14bdced75f8c78dd7cbc4503", null ],
+    [ "CreateClone", "classRE_1_1BSOrderedNode.html#acc4f068db185dfae6f143838fb6066c7", null ],
+    [ "GetRTTI", "classRE_1_1BSOrderedNode.html#ab200571b41e5bbc710a588ee76c68b31", null ],
     [ "IsEqual", "classRE_1_1BSOrderedNode.html#ab99abd4de8c512b5b04701abc5986f91", null ],
     [ "LinkObject", "classRE_1_1BSOrderedNode.html#a3db8a5024b1478256b16567666161287", null ],
     [ "LoadBinary", "classRE_1_1BSOrderedNode.html#a77d0126f6e65cae4956eecebcdd86b92", null ],

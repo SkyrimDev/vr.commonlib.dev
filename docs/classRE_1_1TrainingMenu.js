@@ -5,7 +5,7 @@ var classRE_1_1TrainingMenu =
     [ "ProcessEvent", "classRE_1_1TrainingMenu.html#a6027d057c191f7c094649ebc4956a789", null ],
     [ "ProcessMessage", "classRE_1_1TrainingMenu.html#a630e28c05af07d2328c522c9e15c4315", null ],
     [ "currentGold", "classRE_1_1TrainingMenu.html#ad36095f1ec8a6e14843c522bab185b9e", null ],
-    [ "MENU_NAME", "classRE_1_1TrainingMenu.html#a3ffa5d11c4e1c3961f5c088a2c016b1f", null ],
+    [ "MENU_NAME", "classRE_1_1TrainingMenu.html#a16d6171b902388eea144a42bb5b5eedb", null ],
     [ "RTTI", "classRE_1_1TrainingMenu.html#a03311acdcc0d9a3453ddbbda9b518877", null ],
     [ "skill", "classRE_1_1TrainingMenu.html#a42bed88ea5ae99db065d45eba1fb7def", null ],
     [ "skillMeter", "classRE_1_1TrainingMenu.html#a732d3667c94f603c00bc0108469b38c7", null ],

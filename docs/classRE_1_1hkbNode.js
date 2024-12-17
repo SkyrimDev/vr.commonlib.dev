@@ -31,7 +31,7 @@ var classRE_1_1hkbNode =
     [ "Unk_15", "classRE_1_1hkbNode.html#a481f2def186389822a03876a777d160b", null ],
     [ "Unk_16", "classRE_1_1hkbNode.html#a3d03d1945799f6759c950a456a5f2709", null ],
     [ "Update", "classRE_1_1hkbNode.html#aba1294f33a7a952f2b39d60e7c91fb80", null ],
-    [ "cloneState", "classRE_1_1hkbNode.html#a8c9527582c54d233c3b25f18c4279b0f", null ],
+    [ "cloneState", "classRE_1_1hkbNode.html#aadc5ce6418b2bc1f75f3b2145b34c3b3", null ],
     [ "id", "classRE_1_1hkbNode.html#a9a0ff2b438a11548c757ccf771a13a80", null ],
     [ "name", "classRE_1_1hkbNode.html#a5ebc91e27172f36021c432518297d275", null ],
     [ "pad43", "classRE_1_1hkbNode.html#abdb090c1113cc275007559c639d70801", null ],

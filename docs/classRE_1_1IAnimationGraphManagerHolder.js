@@ -2,7 +2,7 @@ var classRE_1_1IAnimationGraphManagerHolder =
 [
     [ "~IAnimationGraphManagerHolder", "classRE_1_1IAnimationGraphManagerHolder.html#a86481e27f9e5b6107de8604d92f87103", null ],
     [ "ConstructAnimationGraph", "classRE_1_1IAnimationGraphManagerHolder.html#ad80ae3e8421f542e340c6ce8201227bf", null ],
-    [ "CreateAnimationChannels", "classRE_1_1IAnimationGraphManagerHolder.html#aa1e6ed80b19722c08f82e65eea833d86", null ],
+    [ "CreateAnimationChannels", "classRE_1_1IAnimationGraphManagerHolder.html#ac0a8f79bef1c6c01d42b276ec1dd01a1", null ],
     [ "GetAnimationGraphManager", "classRE_1_1IAnimationGraphManagerHolder.html#ab8acc3ec70f2f099e4a097f374a26ad4", null ],
     [ "GetAnimationGraphManagerImpl", "classRE_1_1IAnimationGraphManagerHolder.html#a767d0320d5f04e97e3e9ec8dc4e04664", null ],
     [ "GetGraphVariableBool", "classRE_1_1IAnimationGraphManagerHolder.html#a38cd4d8c3e7e6076300d47111c6debb6", null ],

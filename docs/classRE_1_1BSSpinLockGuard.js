@@ -5,6 +5,6 @@ var classRE_1_1BSSpinLockGuard =
     [ "BSSpinLockGuard", "classRE_1_1BSSpinLockGuard.html#a90648c8bc7a46cc0ec415f2d7d4d6109", null ],
     [ "BSSpinLockGuard", "classRE_1_1BSSpinLockGuard.html#a4bfc4d0d53c1e7c9a10c346e15f28744", null ],
     [ "~BSSpinLockGuard", "classRE_1_1BSSpinLockGuard.html#af6b7ce7959e5a7a192bf8456b75cd030", null ],
-    [ "operator=", "classRE_1_1BSSpinLockGuard.html#ab1c6469fe5018eaddfb9d3ee91079b44", null ],
-    [ "operator=", "classRE_1_1BSSpinLockGuard.html#addb502edb3851cc49137d927bccf0011", null ]
+    [ "operator=", "classRE_1_1BSSpinLockGuard.html#ab9d7ed18b9df6b62aa0c95aa98c3ba70", null ],
+    [ "operator=", "classRE_1_1BSSpinLockGuard.html#af203a0713902262802b40ba570fa055e", null ]
 ];

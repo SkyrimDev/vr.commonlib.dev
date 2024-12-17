@@ -8,5 +8,5 @@ var structRE_1_1PATH__DATA =
       [ "kRandomPaths", "structRE_1_1PATH__DATA.html#a49acaca1736e06e4ef9b79d237d8f926ae361b930256c59f35cef64779f9af754", null ],
       [ "kAllowNoShots", "structRE_1_1PATH__DATA.html#a49acaca1736e06e4ef9b79d237d8f926a4b7f98e8ce19859a5d14e1f7d98de788", null ]
     ] ],
-    [ "flags", "structRE_1_1PATH__DATA.html#aad5dcf24a5791a707e0743eff6b10162", null ]
+    [ "flags", "structRE_1_1PATH__DATA.html#ab0d638ed3f6c07604228c7e930404012", null ]
 ];

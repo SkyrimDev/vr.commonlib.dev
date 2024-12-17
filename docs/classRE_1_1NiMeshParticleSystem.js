@@ -1,8 +1,8 @@
 var classRE_1_1NiMeshParticleSystem =
 [
     [ "~NiMeshParticleSystem", "classRE_1_1NiMeshParticleSystem.html#ac74904e41fa86296d118e0d5d30b6f86", null ],
-    [ "CreateClone", "classRE_1_1NiMeshParticleSystem.html#a2598824e869c38baec81bbde1c199e4a", null ],
-    [ "GetRTTI", "classRE_1_1NiMeshParticleSystem.html#a88bff83028438b6e2d739b74d71dbd9d", null ],
+    [ "CreateClone", "classRE_1_1NiMeshParticleSystem.html#ab70237637b8c232bd1e78654058f358a", null ],
+    [ "GetRTTI", "classRE_1_1NiMeshParticleSystem.html#a73e606b5351c9252587684c2d62df4d7", null ],
     [ "IsEqual", "classRE_1_1NiMeshParticleSystem.html#a19fae83dec58ed5746bff3d687595ce3", null ],
     [ "LinkObject", "classRE_1_1NiMeshParticleSystem.html#a117298adb6a2c5c35ad409de8a3e63a2", null ],
     [ "LoadBinary", "classRE_1_1NiMeshParticleSystem.html#a93958582fbe54f5d7bf88b34a4964198", null ],

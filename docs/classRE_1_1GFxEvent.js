@@ -18,5 +18,5 @@ var classRE_1_1GFxEvent =
       [ "kIMEEvent", "classRE_1_1GFxEvent.html#a622208ce28a144b36b5e272d6343244aa58d6848abe573a3f0611154383f1c0a2", null ]
     ] ],
     [ "GFxEvent", "classRE_1_1GFxEvent.html#a38ea972cdffe04ad4db9d57aff19cf59", null ],
-    [ "type", "classRE_1_1GFxEvent.html#a647e51fb9c328e5db8454f73b35783bf", null ]
+    [ "type", "classRE_1_1GFxEvent.html#a3d2658fffc4d9a537fb2b39c3b7ee0a4", null ]
 ];

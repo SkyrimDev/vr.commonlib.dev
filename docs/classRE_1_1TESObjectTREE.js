@@ -23,6 +23,6 @@ var classRE_1_1TESObjectTREE =
     [ "FORMTYPE", "classRE_1_1TESObjectTREE.html#ae8ea4e9961c28c4a1552124620941bef", null ],
     [ "padC4", "classRE_1_1TESObjectTREE.html#ab30920491d632b7fe032da2280758463", null ],
     [ "RTTI", "classRE_1_1TESObjectTREE.html#ab4c0f48219d76bc35b84071594b9fd80", null ],
-    [ "type", "classRE_1_1TESObjectTREE.html#a8cf8af60181719d007cfdcaa7dee6e60", null ],
+    [ "type", "classRE_1_1TESObjectTREE.html#adf8a47acc6532e7beb68658af2a4ea65", null ],
     [ "VTABLE", "classRE_1_1TESObjectTREE.html#a50c01f9b592e186e088183c5ac41edba", null ]
 ];

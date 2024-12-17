@@ -4,8 +4,8 @@ var hierarchy =
       [ "RE::BSTArray< RE::BSScript::Stack::MemoryPageData, 3 >", "classRE_1_1BSTArray.html", null ]
     ] ],
     [ "4", null, [
-      [ "RE::BSTArray< RE::hkRefPtr< RE::bhkMouseSpringAction >, 4 >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< std::uint32_t, 4 >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::hkRefPtr< RE::bhkMouseSpringAction >, 4 >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< void *, 4 >", "classRE_1_1BSTArray.html", null ]
     ] ],
     [ "7", null, [
@@ -128,160 +128,211 @@ var hierarchy =
     [ "RE::BSTStaticHashMapBase< N >::Allocator< S, A >", "structRE_1_1BSTStaticHashMapBase_1_1Allocator.html", null ],
     [ "RE::GFxMovieDataDef::Allocator", "classRE_1_1GFxMovieDataDef_1_1Allocator.html", null ],
     [ "Traits::Allocator", null, [
-      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< T, BSTSingletonSDMOpStaticBuffer< T > > >", "structRE_1_1BSTSingletonSDMBase.html", [
-        [ "RE::BSTSingletonSDM< T, Singleton >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSTObjectDictionary< BSTSmartPointer< AnimResponse >, BSFixedString, ResponseDefinitionMissPolicy, PreloadResponsesInitializationPolicy >", "classRE_1_1BSTObjectDictionary.html", [
-            [ "RE::ResponseDictionary", "classRE_1_1ResponseDictionary.html", null ]
-          ] ],
-          [ "RE::BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy >", "classRE_1_1BSTObjectDictionary.html", [
-            [ "RE::HandlerDictionary", "classRE_1_1HandlerDictionary.html", null ]
-          ] ]
-        ] ]
-      ] ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ActorEquipManager, BSTSingletonSDMOpStaticBuffer< ActorEquipManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< AnimationFileManagerSingleton, BSTSingletonSDMOpStaticBuffer< AnimationFileManagerSingleton > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< AnimationObjects, BSTSingletonSDMOpStaticBuffer< AnimationObjects > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSCreatedObjectManager, BSTSingletonSDMOpStaticBuffer< BGSCreatedObjectManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSFootstepManager, BSTSingletonSDMOpStaticBuffer< BGSFootstepManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSGrassManager, BSTSingletonSDMOpStaticBuffer< BGSGrassManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSImpactManager, BSTSingletonSDMOpStaticBuffer< BGSImpactManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSStoryTeller, BSTSingletonSDMOpStaticBuffer< BGSStoryTeller > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSDirectInputManager, BSTSingletonSDMOpStaticBuffer< BSDirectInputManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSFaceGenManager, BSTSingletonSDMOpStaticBuffer< BSFaceGenManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSInputDeviceManager, BSTSingletonSDMOpStaticBuffer< BSInputDeviceManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSInputEventQueue, BSTSingletonSDMOpStaticBuffer< BSInputEventQueue > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSMusicManager, BSTSingletonSDMOpStaticBuffer< BSMusicManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< DevNull, BSTSingletonSDMOpStaticBuffer< DevNull > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< EntryDB< T_DBTraits >, BSTSingletonSDMOpStaticBuffer< EntryDB< T_DBTraits > > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< GlobalLocations, BSTSingletonSDMOpStaticBuffer< GlobalLocations > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< GlobalPaths, BSTSingletonSDMOpStaticBuffer< GlobalPaths > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSScaleformManager, BSTSingletonSDMOpStaticBuffer< BSScaleformManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy > > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< T, BSTSingletonSDMOpStaticBuffer< T > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTreeManager, BSTSingletonSDMOpStaticBuffer< BSTreeManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< Calendar, BSTSingletonSDMOpStaticBuffer< Calendar > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ConsoleLog, BSTSingletonSDMOpStaticBuffer< ConsoleLog > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ControlMap, BSTSingletonSDMOpStaticBuffer< ControlMap > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< FOCollisionListener, BSTSingletonSDMOpStaticBuffer< FOCollisionListener > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< GarbageCollector, BSTSingletonSDMOpStaticBuffer< GarbageCollector > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy > > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< InterfaceStrings, BSTSingletonSDMOpStaticBuffer< InterfaceStrings > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< Inventory3DManager, BSTSingletonSDMOpStaticBuffer< Inventory3DManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MagicFavorites, BSTSingletonSDMOpStaticBuffer< MagicFavorites > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MenuControls, BSTSingletonSDMOpStaticBuffer< MenuControls > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MenuCursor, BSTSingletonSDMOpStaticBuffer< MenuCursor > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MenuTopicManager, BSTSingletonSDMOpStaticBuffer< MenuTopicManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< PlayerCamera, BSTSingletonSDMOpStaticBuffer< PlayerCamera > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< PlayerControls, BSTSingletonSDMOpStaticBuffer< PlayerControls > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ProcessLists, BSTSingletonSDMOpStaticBuffer< ProcessLists > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< Manager, BSTSingletonSDMOpStaticBuffer< Manager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTObjectDictionary< BSTSmartPointer< AnimResponse >, BSFixedString, ResponseDefinitionMissPolicy, PreloadResponsesInitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< BSTSmartPointer< AnimResponse >, BSFixedString, ResponseDefinitionMissPolicy, PreloadResponsesInitializationPolicy > > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ScreenSplatter, BSTSingletonSDMOpStaticBuffer< ScreenSplatter > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< SkyrimVM, BSTSingletonSDMOpStaticBuffer< SkyrimVM > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< SubtitleManager, BSTSingletonSDMOpStaticBuffer< SubtitleManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< TESDataHandler, BSTSingletonSDMOpStaticBuffer< TESDataHandler > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< TESWaterSystem, BSTSingletonSDMOpStaticBuffer< TESWaterSystem > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< UI, BSTSingletonSDMOpStaticBuffer< UI > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< UI3DSceneManager, BSTSingletonSDMOpStaticBuffer< UI3DSceneManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< UIBlurManager, BSTSingletonSDMOpStaticBuffer< UIBlurManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< UIMessageQueue, BSTSingletonSDMOpStaticBuffer< UIMessageQueue > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< UISaveLoadManager, BSTSingletonSDMOpStaticBuffer< UISaveLoadManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< UserEvents, BSTSingletonSDMOpStaticBuffer< UserEvents > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< VATS, BSTSingletonSDMOpStaticBuffer< VATS > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< bhkTelekinesisListener, BSTSingletonSDMOpStaticBuffer< bhkTelekinesisListener > > >", "structRE_1_1BSTSingletonSDMBase.html", null ],
       [ "RE::BSTSingletonSDMBase< Traits >", "structRE_1_1BSTSingletonSDMBase.html", [
         [ "RE::BSTSingletonSDM< ActorEquipManager >", "structRE_1_1BSTSingletonSDM.html", [
           [ "RE::ActorEquipManager", "classRE_1_1ActorEquipManager.html", null ]
         ] ],
-        [ "RE::BSTSingletonSDM< GlobalLocations >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSResource::GlobalLocations", "classRE_1_1BSResource_1_1GlobalLocations.html", null ]
+        [ "RE::BSTSingletonSDM< AnimationFileManagerSingleton >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::AnimationFileManagerSingleton", "classRE_1_1AnimationFileManagerSingleton.html", null ]
         ] ],
-        [ "RE::BSTSingletonSDM< BSInputDeviceManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSInputDeviceManager", "classRE_1_1BSInputDeviceManager.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< UserEvents >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::UserEvents", "classRE_1_1UserEvents.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< UISaveLoadManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::UISaveLoadManager", "classRE_1_1UISaveLoadManager.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< ProcessLists >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::ProcessLists", "classRE_1_1ProcessLists.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< PlayerCamera >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::PlayerCamera", "classRE_1_1PlayerCamera.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< InterfaceStrings >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::InterfaceStrings", "classRE_1_1InterfaceStrings.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< ControlMap >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::ControlMap", "classRE_1_1ControlMap.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< Calendar >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::Calendar", "classRE_1_1Calendar.html", null ]
+        [ "RE::BSTSingletonSDM< AnimationObjects >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::AnimationObjects", "classRE_1_1AnimationObjects.html", null ]
         ] ],
         [ "RE::BSTSingletonSDM< BGSCreatedObjectManager >", "structRE_1_1BSTSingletonSDM.html", [
           [ "RE::BGSCreatedObjectManager", "classRE_1_1BGSCreatedObjectManager.html", null ]
         ] ],
-        [ "RE::BSTSingletonSDM< Manager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::Projectile::Manager", "classRE_1_1Projectile_1_1Manager.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< PlayerControls >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::PlayerControls", "classRE_1_1PlayerControls.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< BSTreeManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSTreeManager", "classRE_1_1BSTreeManager.html", null ]
-        ] ],
         [ "RE::BSTSingletonSDM< BGSFootstepManager >", "structRE_1_1BSTSingletonSDM.html", [
           [ "RE::BGSFootstepManager", "classRE_1_1BGSFootstepManager.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< AnimationFileManagerSingleton >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::AnimationFileManagerSingleton", "classRE_1_1AnimationFileManagerSingleton.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< SkyrimVM >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::SkyrimVM", "classRE_1_1SkyrimVM.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< EntryDB< T_DBTraits > >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSResource::EntryDB< T_DBTraits >", "classRE_1_1BSResource_1_1EntryDB.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< BSDirectInputManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSDirectInputManager", "classRE_1_1BSDirectInputManager.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< bhkTelekinesisListener >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::bhkTelekinesisListener", "classRE_1_1bhkTelekinesisListener.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< MenuCursor >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::MenuCursor", "classRE_1_1MenuCursor.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< UI >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::UI", "classRE_1_1UI.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< TESDataHandler >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::TESDataHandler", "classRE_1_1TESDataHandler.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< MagicFavorites >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::MagicFavorites", "classRE_1_1MagicFavorites.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< BSScaleformManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSScaleformManager", "classRE_1_1BSScaleformManager.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< TESWaterSystem >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::TESWaterSystem", "classRE_1_1TESWaterSystem.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< ConsoleLog >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::ConsoleLog", "classRE_1_1ConsoleLog.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< DevNull >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSResource::DevNull", "classRE_1_1BSResource_1_1DevNull.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< BSFaceGenManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSFaceGenManager", "classRE_1_1BSFaceGenManager.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< SubtitleManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::SubtitleManager", "classRE_1_1SubtitleManager.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< GarbageCollector >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::GarbageCollector", "classRE_1_1GarbageCollector.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< BSMusicManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSMusicManager", "classRE_1_1BSMusicManager.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< BGSImpactManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BGSImpactManager", "classRE_1_1BGSImpactManager.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< BSInputEventQueue >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSInputEventQueue", "classRE_1_1BSInputEventQueue.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< MenuControls >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::MenuControls", "classRE_1_1MenuControls.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< BGSStoryTeller >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BGSStoryTeller", "classRE_1_1BGSStoryTeller.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< UIMessageQueue >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::UIMessageQueue", "classRE_1_1UIMessageQueue.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy > >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy >", "classRE_1_1BSTObjectDictionary.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< UI3DSceneManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::UI3DSceneManager", "classRE_1_1UI3DSceneManager.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< GlobalPaths >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::BSResource::GlobalPaths", "classRE_1_1BSResource_1_1GlobalPaths.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< ScreenSplatter >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::ScreenSplatter", "classRE_1_1ScreenSplatter.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< MenuTopicManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::MenuTopicManager", "classRE_1_1MenuTopicManager.html", null ]
-        ] ],
-        [ "RE::BSTSingletonSDM< Inventory3DManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::Inventory3DManager", "classRE_1_1Inventory3DManager.html", null ]
         ] ],
         [ "RE::BSTSingletonSDM< BGSGrassManager >", "structRE_1_1BSTSingletonSDM.html", [
           [ "RE::BGSGrassManager", "classRE_1_1BGSGrassManager.html", null ]
         ] ],
-        [ "RE::BSTSingletonSDM< VATS >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::VATS", "classRE_1_1VATS.html", null ]
+        [ "RE::BSTSingletonSDM< BGSImpactManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BGSImpactManager", "classRE_1_1BGSImpactManager.html", null ]
         ] ],
-        [ "RE::BSTSingletonSDM< UIBlurManager >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::UIBlurManager", "classRE_1_1UIBlurManager.html", null ]
+        [ "RE::BSTSingletonSDM< BGSStoryTeller >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BGSStoryTeller", "classRE_1_1BGSStoryTeller.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< BSDirectInputManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSDirectInputManager", "classRE_1_1BSDirectInputManager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< BSFaceGenManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSFaceGenManager", "classRE_1_1BSFaceGenManager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< BSInputDeviceManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSInputDeviceManager", "classRE_1_1BSInputDeviceManager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< BSInputEventQueue >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSInputEventQueue", "classRE_1_1BSInputEventQueue.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< BSMusicManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSMusicManager", "classRE_1_1BSMusicManager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< DevNull >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSResource::DevNull", "classRE_1_1BSResource_1_1DevNull.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< EntryDB< T_DBTraits > >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSResource::EntryDB< T_DBTraits >", "classRE_1_1BSResource_1_1EntryDB.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< GlobalLocations >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSResource::GlobalLocations", "classRE_1_1BSResource_1_1GlobalLocations.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< GlobalPaths >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSResource::GlobalPaths", "classRE_1_1BSResource_1_1GlobalPaths.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< BSScaleformManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSScaleformManager", "classRE_1_1BSScaleformManager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy > >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy >", "classRE_1_1BSTObjectDictionary.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< BSTreeManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSTreeManager", "classRE_1_1BSTreeManager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< Calendar >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::Calendar", "classRE_1_1Calendar.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< ConsoleLog >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::ConsoleLog", "classRE_1_1ConsoleLog.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< ControlMap >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::ControlMap", "classRE_1_1ControlMap.html", null ]
         ] ],
         [ "RE::BSTSingletonSDM< FOCollisionListener >", "structRE_1_1BSTSingletonSDM.html", [
           [ "RE::FOCollisionListener", "classRE_1_1FOCollisionListener.html", null ]
         ] ],
-        [ "RE::BSTSingletonSDM< AnimationObjects >", "structRE_1_1BSTSingletonSDM.html", [
-          [ "RE::AnimationObjects", "classRE_1_1AnimationObjects.html", null ]
+        [ "RE::BSTSingletonSDM< GarbageCollector >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::GarbageCollector", "classRE_1_1GarbageCollector.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy > >", "structRE_1_1BSTSingletonSDM.html", null ],
+        [ "RE::BSTSingletonSDM< InterfaceStrings >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::InterfaceStrings", "classRE_1_1InterfaceStrings.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< Inventory3DManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::Inventory3DManager", "classRE_1_1Inventory3DManager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< MagicFavorites >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::MagicFavorites", "classRE_1_1MagicFavorites.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< MenuControls >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::MenuControls", "classRE_1_1MenuControls.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< MenuCursor >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::MenuCursor", "classRE_1_1MenuCursor.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< MenuTopicManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::MenuTopicManager", "classRE_1_1MenuTopicManager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< PlayerCamera >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::PlayerCamera", "classRE_1_1PlayerCamera.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< PlayerControls >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::PlayerControls", "classRE_1_1PlayerControls.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< ProcessLists >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::ProcessLists", "classRE_1_1ProcessLists.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< Manager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::Projectile::Manager", "classRE_1_1Projectile_1_1Manager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< BSTObjectDictionary< BSTSmartPointer< AnimResponse >, BSFixedString, ResponseDefinitionMissPolicy, PreloadResponsesInitializationPolicy > >", "structRE_1_1BSTSingletonSDM.html", null ],
+        [ "RE::BSTSingletonSDM< ScreenSplatter >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::ScreenSplatter", "classRE_1_1ScreenSplatter.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< SkyrimVM >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::SkyrimVM", "classRE_1_1SkyrimVM.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< SubtitleManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::SubtitleManager", "classRE_1_1SubtitleManager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< TESDataHandler >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::TESDataHandler", "classRE_1_1TESDataHandler.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< TESWaterSystem >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::TESWaterSystem", "classRE_1_1TESWaterSystem.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< UI >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::UI", "classRE_1_1UI.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< UI3DSceneManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::UI3DSceneManager", "classRE_1_1UI3DSceneManager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< UIBlurManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::UIBlurManager", "classRE_1_1UIBlurManager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< UIMessageQueue >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::UIMessageQueue", "classRE_1_1UIMessageQueue.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< UISaveLoadManager >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::UISaveLoadManager", "classRE_1_1UISaveLoadManager.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< UserEvents >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::UserEvents", "classRE_1_1UserEvents.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< VATS >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::VATS", "classRE_1_1VATS.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< bhkTelekinesisListener >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::bhkTelekinesisListener", "classRE_1_1bhkTelekinesisListener.html", null ]
+        ] ],
+        [ "RE::BSTSingletonSDM< T, Singleton >", "structRE_1_1BSTSingletonSDM.html", [
+          [ "RE::BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy >", "classRE_1_1BSTObjectDictionary.html", [
+            [ "RE::HandlerDictionary", "classRE_1_1HandlerDictionary.html", null ]
+          ] ],
+          [ "RE::BSTObjectDictionary< BSTSmartPointer< AnimResponse >, BSFixedString, ResponseDefinitionMissPolicy, PreloadResponsesInitializationPolicy >", "classRE_1_1BSTObjectDictionary.html", [
+            [ "RE::ResponseDictionary", "classRE_1_1ResponseDictionary.html", null ]
+          ] ]
         ] ]
       ] ]
     ] ],
@@ -874,6 +925,7 @@ var hierarchy =
     [ "RE::BSBitFieldHeapAllocator", "classRE_1_1BSBitFieldHeapAllocator.html", [
       [ "RE::BSBitField< Allocator >", "classRE_1_1BSBitField.html", null ]
     ] ],
+    [ "RE::BSCompoundFrustum", "classRE_1_1BSCompoundFrustum.html", null ],
     [ "RE::detail::BSCRC32< class, bool >", "structRE_1_1detail_1_1BSCRC32.html", [
       [ "RE::BSCRC32_< std::remove_cv_t< T > >", "structRE_1_1BSCRC32__.html", [
         [ "RE::BSCRC32< T >", "structRE_1_1BSCRC32.html", null ]
@@ -884,6 +936,7 @@ var hierarchy =
       [ "RE::BSCRC32_< Key >", "structRE_1_1BSCRC32__.html", null ]
     ] ],
     [ "RE::detail::BSCRC32< Key, true >", "structRE_1_1detail_1_1BSCRC32_3_01Key_00_01true_01_4.html", null ],
+    [ "RE::detail::BSCRC32< std::remove_cv_t< T >, std::disjunction_v< std::is_arithmetic< std::remove_cv_t< T > >, std::is_enum< std::remove_cv_t< T > >, std::is_pointer< std::remove_cv_t< T > > > >", "structRE_1_1detail_1_1BSCRC32.html", null ],
     [ "RE::BSCRC32_< CellID >", "structRE_1_1BSCRC32___3_01CellID_01_4.html", null ],
     [ "RE::BSCRC32_< detail::BSFixedString< CharT > >", "structRE_1_1BSCRC32___3_01detail_1_1BSFixedString_3_01CharT_01_4_01_4.html", null ],
     [ "RE::BSCRC32_< NiPointer< T > >", "structRE_1_1BSCRC32___3_01NiPointer_3_01T_01_4_01_4.html", null ],
@@ -1132,12 +1185,13 @@ var hierarchy =
           [ "RE::BSScript::NativeFunction< true, R(BSScript::IVirtualMachine *, Int, Cls, Args...), R, Cls, Args... >", "classRE_1_1BSScript_1_1NativeFunction.html", [
             [ "RE::NativeFunction< R(BSScript::IVirtualMachine *, Int, Cls, Args...), std::enable_if_t< BSScript::is_valid_long_sig_v< Int, R, Cls, Args... > > >", "classRE_1_1NativeFunction_3_01R_07BSScript_1_1IVirtualMachine_01_5_00_01Int_00_01Cls_00_01Args_87712f907b209121e23ad69d6004c86bb.html", null ]
           ] ],
-          [ "RE::BSScript::NativeFunction< false, R(Cls, Args...), R, Cls, Args... >", "classRE_1_1BSScript_1_1NativeFunction.html", [
-            [ "RE::NativeFunction< R(Cls, Args...), std::enable_if_t< BSScript::is_valid_short_sig_v< R, Cls, Args... > > >", "classRE_1_1NativeFunction_3_01R_07Cls_00_01Args_8_8_8_08_00_01std_1_1enable__if__t_3_01BSScript_592b5541f0d6d89105d03b5efd80a6dd.html", null ]
-          ] ],
           [ "RE::BSScript::NativeFunction< true, R(BSScript::Internal::VirtualMachine *, Int, Cls, Args...), R, Cls, Args... >", "classRE_1_1BSScript_1_1NativeFunction.html", [
             [ "RE::NativeFunction< R(BSScript::Internal::VirtualMachine *, Int, Cls, Args...), std::enable_if_t< BSScript::is_valid_long_sig_v< Int, R, Cls, Args... > > >", "classRE_1_1NativeFunction_3_01R_07BSScript_1_1Internal_1_1VirtualMachine_01_5_00_01Int_00_01Cls_83bbae58548d10aefed39cfd1f9f87af.html", null ]
           ] ],
+          [ "RE::BSScript::NativeFunction< false, R(Cls, Args...), R, Cls, Args... >", "classRE_1_1BSScript_1_1NativeFunction.html", [
+            [ "RE::NativeFunction< R(Cls, Args...), std::enable_if_t< BSScript::is_valid_short_sig_v< R, Cls, Args... > > >", "classRE_1_1NativeFunction_3_01R_07Cls_00_01Args_8_8_8_08_00_01std_1_1enable__if__t_3_01BSScript_592b5541f0d6d89105d03b5efd80a6dd.html", null ]
+          ] ],
+          [ "RE::BSScript::NativeFunction< IS_LONG, F(BSScript::Internal::VirtualMachine *, Int, Cls, Args...), std::underlying_type_t< F >, Cls, Args... >", "classRE_1_1BSScript_1_1NativeFunction.html", null ],
           [ "RE::BSScript::NativeFunction< IS_LONG, F, R, Base, Args >", "classRE_1_1BSScript_1_1NativeFunction.html", [
             [ "RE::BSScript::NativeLatentFunction< true, F(BSScript::Internal::VirtualMachine *, Int, Cls, Args...), F, R, Cls, Args... >", "classRE_1_1BSScript_1_1NativeLatentFunction.html", [
               [ "RE::NativeLatentFunction< R, F(BSScript::Internal::VirtualMachine *, Int, Cls, Args...), std::enable_if_t< BSScript::is_valid_latent_long_sig_v< R, Int, F, Cls, Args... > > >", "classRE_1_1NativeLatentFunction_3_01R_00_01F_07BSScript_1_1Internal_1_1VirtualMachine_01_5_00_01aead3b36f5411e8a1729e53d9dfefecc.html", null ]
@@ -1209,6 +1263,7 @@ var hierarchy =
         [ "RE::CraftingSubMenus::SmithingMenu::SmithingConfirmCallback", "classRE_1_1CraftingSubMenus_1_1SmithingMenu_1_1SmithingConfirmCallback.html", null ],
         [ "RE::FastTravelConfirmCallback", "classRE_1_1FastTravelConfirmCallback.html", null ],
         [ "RE::LegendarySkillResetConfirmCallback", "classRE_1_1LegendarySkillResetConfirmCallback.html", null ],
+        [ "RE::LevelUpMenu::ConfirmLevelUpAttributeCallback", "classRE_1_1LevelUpMenu_1_1ConfirmLevelUpAttributeCallback.html", null ],
         [ "RE::OldMessageBoxCallback", "classRE_1_1OldMessageBoxCallback.html", null ]
       ] ],
       [ "RE::MenuEventHandler", "classRE_1_1MenuEventHandler.html", [
@@ -1380,6 +1435,7 @@ var hierarchy =
     [ "RE::BSSimpleList< RE::TESRegionData * >", "classRE_1_1BSSimpleList.html", null ],
     [ "RE::BSSimpleList< RE::TESRegionPointList * >", "classRE_1_1BSSimpleList.html", null ],
     [ "RE::BSSimpleList< RE::WeatherType * >", "classRE_1_1BSSimpleList.html", null ],
+    [ "RE::BSSimpleList< Setting * >", "classRE_1_1BSSimpleList.html", null ],
     [ "RE::BSSimpleList< SkySound * >", "classRE_1_1BSSimpleList.html", null ],
     [ "RE::BSSimpleList< std::uint64_t * >", "classRE_1_1BSSimpleList.html", null ],
     [ "RE::BSSimpleList< T * >", "classRE_1_1BSSimpleList.html", null ],
@@ -1404,443 +1460,453 @@ var hierarchy =
     [ "RE::BSResource::BSSystemDir", "structRE_1_1BSResource_1_1BSSystemDir.html", null ],
     [ "RE::BSResource::BSSystemFile", "classRE_1_1BSResource_1_1BSSystemFile.html", null ],
     [ "RE::BSTArrayBase", "classRE_1_1BSTArrayBase.html", [
-      [ "RE::BSTArray< RE::BGSScene * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSBaseAlias * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< TintMask * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::MenuControls::QueuedReg >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::NavMesh > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CraftingSubMenus::SmithingMenu::SmithingItemEntry >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::Stack::MemoryPageData, 3 >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::DetectionListener > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::PlayerInputHandler * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::MenuEventHandler * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSSoundHandle >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::HighProcessData::Data190::Data >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ExtraLinkedRefChildren::LinkedRefChild >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiMatrix3 >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BoneData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Object > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSPackageDataNameMap::NameMapData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSLocation::KEYWORD_DATA >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSHeadPart * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESRegionDataSound::Sound * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESRace::FaceRelatedData::TintAsset * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::NiTexture > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ShaderReferenceEffect::ParticleShader >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::PlayerCharacter::TeleportPath::Unk00Data >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiObjectGroup >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTTuple< FormID, RE::NiPointer< RE::ActorKnowledge > > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CraftingSubMenus::AlchemyMenu::UsableEffectMap >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CombatEquippedItem >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< CombatAimController * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSNavmeshEdgeExtraInfo >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSSkillPerkTreeNode * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::MenuLight * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TweenMenu::PerkData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::SkyrimVM::LOSDataEvent > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RHandleType< BSResource::Entry< NiPointer< NiNode >, BSResource::EntryDBTraits< BSModelDB::DBTraits, BSResource::EntryDB< BSModelDB::DBTraits > >::CArgs >, BSResource::EntryDB< BSModelDB::DBTraits > > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::hkRefPtr< RE::bhkMouseSpringAction >, 4 >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESTopic * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< QueuedDialogueType * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ExtraGuardedRefData::GuardInfo >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSRefAliasInstanceData * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CraftingSubMenus::ConstructibleObjectMenu::ItemEntry >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BShkbAnimationGraph::BoneNodeEntry >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< std::uint16_t >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSNavmeshTriangleDoorPortal >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSNavmeshVertex >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::AnimVariableCacheInfo >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::TESImageSpaceModifier > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSQuestInstanceText * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::PerkRankData * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::FACTION_RANK >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CombatSearchLocation >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< CombatTargetSelectorStandard * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScaleformExternalTexture >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BSTEventSink * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< SKSE::stl::enumeration< BehaviourFlag, std::uint32_t > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< float >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BSPointerHandle< TESObjectREFR > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESObjectARMO * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::GPtr< RE::IMenu > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSTextureSet * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSIntrusiveRefCounted > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< ActorValue >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ShaderReferenceEffect::TextureRequest >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< MagicSystem::CastingSource >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::SyncQueueObj > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::AITimeStamp >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::DialogueMenu::Data >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ControlMap::LinkedMapping >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::UnlinkedTypes::FunctionDebugInfo * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSNavmeshClosedDoorInfo >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::NiAVObject > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESObjectSTAT * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterNormals > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESNPC * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESObjectREFR * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESRace * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESFurniture::EntryPointData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::SkyrimVM::UpdateDataEvent > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSInstancedQuestObjective >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::HUDObject * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::FOCollisionListener::ObjectDamageImpactData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ExtraLinkedRef::LinkedRef >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::EffectSetting::SoundPair >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CraftingSubMenus::AlchemyMenu::MenuIngredientEntry >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::BSParticleShaderEmitter > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< BSLensFlareSpriteRenderData > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESQuest * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterDisplacement > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESObjectARMA * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESNPC::Layer * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ExtraFollower::FollowerInfo >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CachedValueData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::ObjectTypeInfo > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSNavmeshCoverEdge >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSAnimationGraphChannel > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSQuestInstanceText::StringData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESForm * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSCollisionLayer * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::AIProcess::EquippedObject >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTTuple< RE::NiPoint3, RE::AITimeStamp > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BSStringT< char, static_cast< std::uint32_t >(-1), DynamicMemoryManagementPol > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::MapMenuMarker >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< QueuedFile > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BipedAnim > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::CategoryListEntry > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< BSTreeNode > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSNavmeshTriangle >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiParticles * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSStoryManagerNodeBase * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSQuestInstanceText::GlobalValueData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::UniqueNPCData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::AnimationFileManagerSingleton::LoadedAnimation >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSColorForm * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::SubtitleInfo >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSShadowLight * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSDialogueBranch * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::LoadedInventoryModel, 7 >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::EnchantmentEntry > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< CombatThreat > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BSTreeNode * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::ReadableStringTable::StringEntry >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::Internal::FunctionMessage >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::Variable >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSStoryEvent >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSRegisteredStoryEvent >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSSaveLoadFileEntry * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESPackage * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::SpecialRefData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::detail::BSFixedString >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< std::uint32_t >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::AnimationFileManagerSingleton::QueuedAnimation >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::VATSCommand > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< INTERFACE_LIGHT_SCHEME >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::BSLight > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSPerk * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::Effect * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< std::uint64_t >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< std::uint32_t, 4 >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTerrainEffect::BoneAdjustment >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< BSNavmeshObstacleUndoData > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BSAnimationGraphManagerPtr >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSCreatedObjectManager::CreatedMagicItemData >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSPerkEntry * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::FavoritesMenu::Entry >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::MarkerUsedData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CellGrassData * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< InputContextID >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::CombatInventoryItem > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< std::uint8_t >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< SKSE::stl::enumeration< SCENE_ACTOR_FLAG, std::uint32_t > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSProcedureTreeConditionalItem * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::BGSDecalEmitter > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< void * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::Projectile::WobbleControl >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::PlayerCharacter::TeleportPath::Unk18Data >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::HUDNotifications::Notification >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CombatSearchDoor >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CombatMember >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BShkFloatController * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTArray< const BSNavmeshInfo * > * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSFurnitureMarker >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSDistantTreeBlock::InstanceData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::BGSDecalNode > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::SkyrimVM::WaitCall >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BSPointerHandle< Actor > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSLight * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Array > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::Internal::SuspendedStack >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSIMusicType * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::NiProperty > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BShkbAnimationGraph > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSSceneAction * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSMaterialObject::FILE_DATA >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterReflections > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSRelationship * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::Sky::SkyStaticRefData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSPointerHandle >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESCameraState *, CameraStates::kTotal >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::GFxValue >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESLoadScreen * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::DismemberedLimb * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::Effect >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< BSLeafAnimNode > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::Internal::VirtualMachine::QueuedUnbindRefs >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::Internal::CodeTasklet * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSStoryManagerTreeForm * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSScenePhase * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESFile * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSStoryEventMember >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSIMusicTrack * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::BSTempEffect > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::DECAL_CREATION_DATA * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSResource::ID >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESGlobal * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BGSWaterCollisionManager::BGSWaterUpdateI * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::StatsNode * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< void *, 4 >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::UnloadedRefData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CommandedActorData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESBoundObject * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTTuple< BSPointerHandle< TESObjectREFR >, std::uint32_t > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ExtraAttachedArrows3D::DataItem >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ControlMap::UserEventMapping >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CombatTarget >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BarrierProjectile::CollisionData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< FormID >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSDistantTreeBlock::TreeGroup * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::TESObjectREFR > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterObject > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::BSMultiBoundAABB > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ItemList::Item * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< BSCloneReserver > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSAnimationGraphManager > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::UnreachableLocation >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< CombatAreaStandard * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::SETTING_VALUE >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSFootstep * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSEquipSlot * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::AnimationObject > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::AIProcess::EquippedObject >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::SpellItem * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::DetectionListener > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::AnimationFileManagerSingleton::QueuedAnimation >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::AnimationFileManagerSingleton::LoadedAnimation >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< void * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::AnimationObject > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESObjectARMO * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSCollisionLayer * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSCreatedObjectManager::CreatedMagicItemData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSResource::ID >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< std::uint32_t >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::DECAL_CREATION_DATA * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::BSTempEffect > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::BGSDecalEmitter > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::BGSDecalNode > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSDistantTreeBlock::TreeGroup * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSDistantTreeBlock::InstanceData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSEquipSlot * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::detail::BSFixedString >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSFootstep * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSHeadPart * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESForm * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< FormID >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::SpecialRefData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::UniqueNPCData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BSPointerHandle< TESObjectREFR > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSLocation::KEYWORD_DATA >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSMaterialObject::FILE_DATA >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSIMusicTrack * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< float >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSPackageDataNameMap::NameMapData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSProcedureTreeConditionalItem * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSQuestInstanceText::StringData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSQuestInstanceText::GlobalValueData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESPackage * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSStoryEventMember >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESFile * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSSaveLoadManager::SaveEntry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSSaveLoadFileEntry * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSScenePhase * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< REX::EnumSet< SCENE_ACTOR_FLAG, std::uint32_t > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< REX::EnumSet< BehaviourFlag, std::uint32_t > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSSceneAction * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::SETTING_VALUE >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSSkillPerkTreeNode * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSRegisteredStoryEvent >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSStoryEvent >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSStoryManagerNodeBase * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESQuest * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSStoryManagerTreeForm * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSAnimationGraphChannel > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BShkbAnimationGraph > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BSAnimationGraphManagerPtr >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::AnimVariableCacheInfo >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::NiAVObject > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSFurnitureMarker >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSLensFlareSpriteRenderData > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BSMultiBoundRoom * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSPortal * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSPortalSharedNode * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiParticles * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::NiProperty > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSIMusicType * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSNavmeshVertex >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSNavmeshTriangle >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSNavmeshEdgeExtraInfo >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSNavmeshTriangleDoorPortal >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSNavmeshClosedDoorInfo >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSNavmeshCoverEdge >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSNavmeshObstacleUndoData > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::BSParticleShaderEmitter > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSMultiBoundRoom > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSLight * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTArray< const BSNavmeshInfo * > * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::Variable >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::ObjectTypeInfo > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::Internal::FunctionMessage >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::Internal::CodeTasklet * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::Internal::SuspendedStack >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Object > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Array > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::Internal::VirtualMachine::QueuedUnbindRefs >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::ReadableStringTable::StringEntry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::Stack::MemoryPageData, 3 >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< std::uint16_t >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::UnlinkedTypes::FunctionDebugInfo * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTerrainEffect::BoneAdjustment >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSTreeNode > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BSTreeNode * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSLeafAnimNode > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BShkbAnimationGraph::BoneNodeEntry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BShkFloatController * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< std::uint8_t >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BarrierProjectile::CollisionData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BoneData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiMatrix3 >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScaleformExternalTexture >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CachedValueData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< CombatAimController * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< CombatAreaStandard * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< CombatTargetSelectorStandard * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::CombatInventoryItem > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CombatTarget >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CombatMember >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CombatSearchLocation >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CombatSearchDoor >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CombatEquippedItem >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< CombatThreat > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::UnreachableLocation >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ControlMap::LinkedMapping >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< InputContextID >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ControlMap::UserEventMapping >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CraftingSubMenus::AlchemyMenu::MenuIngredientEntry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< std::uint32_t, 4 >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CraftingSubMenus::AlchemyMenu::UsableEffectMap >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CraftingSubMenus::ConstructibleObjectMenu::ItemEntry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::CategoryListEntry > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::Effect >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::EnchantmentEntry > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CraftingSubMenus::SmithingMenu::SmithingItemEntry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BSPointerHandle< Actor > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::DialogueMenu::Data >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::EffectSetting::SoundPair >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSRefAliasInstanceData * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ExtraAttachedArrows3D::DataItem >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CellGrassData * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::DismemberedLimb * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::FACTION_RANK >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ExtraFollower::FollowerInfo >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::AITimeStamp >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ExtraGuardedRefData::GuardInfo >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ExtraLinkedRef::LinkedRef >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ExtraLinkedRefChildren::LinkedRefChild >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::MarkerUsedData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTTuple< BSPointerHandle< TESObjectREFR >, std::uint32_t > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::FOCollisionListener::ObjectDamageImpactData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::FavoritesMenu::Entry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSAnimationGraphManager > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESBoundObject * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BipedAnim > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< QueuedFile > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSCloneReserver > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::NavMesh > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::HUDObject * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::HUDNotifications::Notification >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTTuple< FormID, RE::NiPointer< RE::ActorKnowledge > > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< QueuedDialogueType * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< std::uint64_t >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::HighProcessData::Data190::Data >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::LoadedInventoryModel, 7 >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ItemList::Item * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESLoadScreen * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::MapMenuMarker >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSSoundHandle >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::Effect * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::GFxValue >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::MenuEventHandler * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::MenuControls::QueuedReg >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSDialogueBranch * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESTopic * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BSStringT< char, static_cast< std::uint32_t >(-1), DynamicMemoryManagementPol > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CommandedActorData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiObjectGroup >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::UnloadedRefData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESCameraState *, CameraStates::kTotal >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::PerkRankData * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSPerk * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTTuple< RE::NiPoint3, RE::AITimeStamp > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSPointerHandle >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSInstancedQuestObjective >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::hkRefPtr< RE::bhkMouseSpringAction >, 4 >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< TintMask * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< void *, 4 >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::PlayerCharacter::TeleportPath::Unk00Data >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::PlayerCharacter::TeleportPath::Unk18Data >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::PlayerInputHandler * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::SyncQueueObj > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::Projectile::WobbleControl >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< MagicSystem::CastingSource >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ShaderReferenceEffect::TextureRequest >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RHandleType< BSResource::Entry< NiPointer< NiNode >, BSResource::EntryDBTraits< BSModelDB::DBTraits, BSResource::EntryDB< BSModelDB::DBTraits > >::CArgs >, BSResource::EntryDB< BSModelDB::DBTraits > > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ShaderReferenceEffect::ParticleShader >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::BSLight > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSShadowLight * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::NiTexture > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::Sky::SkyStaticRefData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::SkyrimVM::WaitCall >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::SkyrimVM::LOSDataEvent > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::SkyrimVM::UpdateDataEvent > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< ActorValue >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::StatsNode * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSIntrusiveRefCounted > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::SubtitleInfo >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESFurniture::EntryPointData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSRelationship * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESNPC::Layer * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESRace * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESObjectARMA * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESObjectREFR * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BGSWaterCollisionManager::BGSWaterUpdateI * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSQuestInstanceText * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSBaseAlias * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSScene * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESGlobal * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESRace::FaceRelatedData::TintAsset * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSTextureSet * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESNPC * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSColorForm * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESRegionDataSound::Sound * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::BSMultiBoundAABB > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterObject > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterReflections > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterDisplacement > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterNormals > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESObjectSTAT * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::TESObjectREFR > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TweenMenu::PerkData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::GPtr< RE::IMenu > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::MenuLight * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< INTERFACE_LIGHT_SCHEME >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::TESImageSpaceModifier > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::VATSCommand > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< T, Allocator >", "classRE_1_1BSTArray.html", null ]
     ] ],
     [ "RE::BSTArrayHeapAllocator", "classRE_1_1BSTArrayHeapAllocator.html", [
-      [ "RE::BSTArray< RE::BGSScene * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSBaseAlias * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< TintMask * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::MenuControls::QueuedReg >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::NavMesh > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CraftingSubMenus::SmithingMenu::SmithingItemEntry >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::DetectionListener > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::PlayerInputHandler * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::MenuEventHandler * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSSoundHandle >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::HighProcessData::Data190::Data >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ExtraLinkedRefChildren::LinkedRefChild >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiMatrix3 >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BoneData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Object > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSPackageDataNameMap::NameMapData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSLocation::KEYWORD_DATA >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSHeadPart * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESRegionDataSound::Sound * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESRace::FaceRelatedData::TintAsset * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::NiTexture > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ShaderReferenceEffect::ParticleShader >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::PlayerCharacter::TeleportPath::Unk00Data >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiObjectGroup >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTTuple< FormID, RE::NiPointer< RE::ActorKnowledge > > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CraftingSubMenus::AlchemyMenu::UsableEffectMap >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CombatEquippedItem >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< CombatAimController * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSNavmeshEdgeExtraInfo >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSSkillPerkTreeNode * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::MenuLight * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TweenMenu::PerkData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::SkyrimVM::LOSDataEvent > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RHandleType< BSResource::Entry< NiPointer< NiNode >, BSResource::EntryDBTraits< BSModelDB::DBTraits, BSResource::EntryDB< BSModelDB::DBTraits > >::CArgs >, BSResource::EntryDB< BSModelDB::DBTraits > > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESTopic * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< QueuedDialogueType * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ExtraGuardedRefData::GuardInfo >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSRefAliasInstanceData * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CraftingSubMenus::ConstructibleObjectMenu::ItemEntry >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BShkbAnimationGraph::BoneNodeEntry >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< std::uint16_t >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSNavmeshTriangleDoorPortal >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSNavmeshVertex >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::AnimVariableCacheInfo >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::TESImageSpaceModifier > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSQuestInstanceText * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::PerkRankData * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::FACTION_RANK >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CombatSearchLocation >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< CombatTargetSelectorStandard * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScaleformExternalTexture >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BSTEventSink * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< SKSE::stl::enumeration< BehaviourFlag, std::uint32_t > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< float >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BSPointerHandle< TESObjectREFR > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESObjectARMO * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::GPtr< RE::IMenu > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSTextureSet * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSIntrusiveRefCounted > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< ActorValue >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ShaderReferenceEffect::TextureRequest >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< MagicSystem::CastingSource >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::SyncQueueObj > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::AITimeStamp >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::DialogueMenu::Data >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ControlMap::LinkedMapping >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::UnlinkedTypes::FunctionDebugInfo * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSNavmeshClosedDoorInfo >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::NiAVObject > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESObjectSTAT * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterNormals > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESNPC * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESObjectREFR * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESRace * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESFurniture::EntryPointData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::SkyrimVM::UpdateDataEvent > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSInstancedQuestObjective >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::HUDObject * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::FOCollisionListener::ObjectDamageImpactData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ExtraLinkedRef::LinkedRef >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::EffectSetting::SoundPair >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CraftingSubMenus::AlchemyMenu::MenuIngredientEntry >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::BSParticleShaderEmitter > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< BSLensFlareSpriteRenderData > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESQuest * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterDisplacement > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESObjectARMA * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESNPC::Layer * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ExtraFollower::FollowerInfo >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CachedValueData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::ObjectTypeInfo > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSNavmeshCoverEdge >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSAnimationGraphChannel > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSQuestInstanceText::StringData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESForm * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSCollisionLayer * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::AIProcess::EquippedObject >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTTuple< RE::NiPoint3, RE::AITimeStamp > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BSStringT< char, static_cast< std::uint32_t >(-1), DynamicMemoryManagementPol > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::MapMenuMarker >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< QueuedFile > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BipedAnim > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::CategoryListEntry > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< BSTreeNode > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSNavmeshTriangle >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiParticles * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSStoryManagerNodeBase * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSQuestInstanceText::GlobalValueData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::UniqueNPCData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::AnimationFileManagerSingleton::LoadedAnimation >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSColorForm * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::SubtitleInfo >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSShadowLight * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSDialogueBranch * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::EnchantmentEntry > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< CombatThreat > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BSTreeNode * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::ReadableStringTable::StringEntry >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::Internal::FunctionMessage >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::Variable >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSStoryEvent >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSRegisteredStoryEvent >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSSaveLoadFileEntry * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESPackage * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::SpecialRefData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::detail::BSFixedString >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< std::uint32_t >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::AnimationFileManagerSingleton::QueuedAnimation >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::VATSCommand > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< INTERFACE_LIGHT_SCHEME >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::BSLight > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSPerk * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::Effect * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< std::uint64_t >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTerrainEffect::BoneAdjustment >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< BSNavmeshObstacleUndoData > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BSAnimationGraphManagerPtr >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSCreatedObjectManager::CreatedMagicItemData >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSPerkEntry * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::FavoritesMenu::Entry >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::MarkerUsedData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CellGrassData * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< InputContextID >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::CombatInventoryItem > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< std::uint8_t >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< SKSE::stl::enumeration< SCENE_ACTOR_FLAG, std::uint32_t > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSProcedureTreeConditionalItem * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::BGSDecalEmitter > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< void * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::Projectile::WobbleControl >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::PlayerCharacter::TeleportPath::Unk18Data >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::HUDNotifications::Notification >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CombatSearchDoor >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CombatMember >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BShkFloatController * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTArray< const BSNavmeshInfo * > * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSFurnitureMarker >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSDistantTreeBlock::InstanceData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::BGSDecalNode > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::SkyrimVM::WaitCall >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BSPointerHandle< Actor > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSLight * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Array > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::Internal::SuspendedStack >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSIMusicType * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::NiProperty > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BShkbAnimationGraph > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSSceneAction * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSMaterialObject::FILE_DATA >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterReflections > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSRelationship * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::Sky::SkyStaticRefData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSPointerHandle >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::GFxValue >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESLoadScreen * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::DismemberedLimb * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::Effect >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< BSLeafAnimNode > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::Internal::VirtualMachine::QueuedUnbindRefs >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSScript::Internal::CodeTasklet * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSStoryManagerTreeForm * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSScenePhase * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESFile * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSStoryEventMember >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSIMusicTrack * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::BSTempEffect > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::DECAL_CREATION_DATA * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSResource::ID >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESGlobal * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< BGSWaterCollisionManager::BGSWaterUpdateI * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::StatsNode * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::UnloadedRefData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CommandedActorData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::TESBoundObject * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTTuple< BSPointerHandle< TESObjectREFR >, std::uint32_t > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ExtraAttachedArrows3D::DataItem >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ControlMap::UserEventMapping >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::CombatTarget >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BarrierProjectile::CollisionData >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< FormID >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSDistantTreeBlock::TreeGroup * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::TESObjectREFR > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterObject > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< RE::BSMultiBoundAABB > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::ItemList::Item * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::NiPointer< BSCloneReserver > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSAnimationGraphManager > >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::UnreachableLocation >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< CombatAreaStandard * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::SETTING_VALUE >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSFootstep * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BGSEquipSlot * >", "classRE_1_1BSTArray.html", null ],
-      [ "RE::BSTArray< RE::BSTSmartPointer< RE::AnimationObject > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::AIProcess::EquippedObject >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::SpellItem * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::DetectionListener > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::AnimationFileManagerSingleton::QueuedAnimation >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::AnimationFileManagerSingleton::LoadedAnimation >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< void * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::AnimationObject > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESObjectARMO * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSCollisionLayer * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSCreatedObjectManager::CreatedMagicItemData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSResource::ID >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< std::uint32_t >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::DECAL_CREATION_DATA * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::BSTempEffect > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::BGSDecalEmitter > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::BGSDecalNode > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSDistantTreeBlock::TreeGroup * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSDistantTreeBlock::InstanceData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSEquipSlot * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::detail::BSFixedString >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSFootstep * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSHeadPart * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESForm * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< FormID >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::SpecialRefData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::UniqueNPCData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BSPointerHandle< TESObjectREFR > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSLocation::KEYWORD_DATA >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSMaterialObject::FILE_DATA >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSIMusicTrack * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< float >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSPackageDataNameMap::NameMapData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSProcedureTreeConditionalItem * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSQuestInstanceText::StringData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSQuestInstanceText::GlobalValueData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESPackage * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSStoryEventMember >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESFile * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSSaveLoadManager::SaveEntry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSSaveLoadFileEntry * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSScenePhase * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< REX::EnumSet< SCENE_ACTOR_FLAG, std::uint32_t > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< REX::EnumSet< BehaviourFlag, std::uint32_t > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSSceneAction * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::SETTING_VALUE >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSSkillPerkTreeNode * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSRegisteredStoryEvent >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSStoryEvent >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSStoryManagerNodeBase * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESQuest * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSStoryManagerTreeForm * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSAnimationGraphChannel > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BShkbAnimationGraph > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BSAnimationGraphManagerPtr >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::AnimVariableCacheInfo >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::NiAVObject > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSFurnitureMarker >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSLensFlareSpriteRenderData > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BSMultiBoundRoom * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSPortal * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSPortalSharedNode * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiParticles * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::NiProperty > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSIMusicType * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSNavmeshVertex >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSNavmeshTriangle >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSNavmeshEdgeExtraInfo >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSNavmeshTriangleDoorPortal >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSNavmeshClosedDoorInfo >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSNavmeshCoverEdge >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSNavmeshObstacleUndoData > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::BSParticleShaderEmitter > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSMultiBoundRoom > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSLight * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTArray< const BSNavmeshInfo * > * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::Variable >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::ObjectTypeInfo > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::Internal::FunctionMessage >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::Internal::CodeTasklet * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::Internal::SuspendedStack >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Object > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSScript::Array > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::Internal::VirtualMachine::QueuedUnbindRefs >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::ReadableStringTable::StringEntry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< std::uint16_t >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScript::UnlinkedTypes::FunctionDebugInfo * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTerrainEffect::BoneAdjustment >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSTreeNode > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BSTreeNode * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSLeafAnimNode > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BShkbAnimationGraph::BoneNodeEntry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BShkFloatController * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< std::uint8_t >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BarrierProjectile::CollisionData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BoneData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiMatrix3 >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSScaleformExternalTexture >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CachedValueData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< CombatAimController * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< CombatAreaStandard * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< CombatTargetSelectorStandard * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::CombatInventoryItem > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CombatTarget >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CombatMember >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CombatSearchLocation >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CombatSearchDoor >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CombatEquippedItem >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< CombatThreat > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::UnreachableLocation >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ControlMap::LinkedMapping >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< InputContextID >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ControlMap::UserEventMapping >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CraftingSubMenus::AlchemyMenu::MenuIngredientEntry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CraftingSubMenus::AlchemyMenu::UsableEffectMap >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CraftingSubMenus::ConstructibleObjectMenu::ItemEntry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::CategoryListEntry > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::Effect >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::CraftingSubMenus::EnchantConstructMenu::EnchantmentEntry > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CraftingSubMenus::SmithingMenu::SmithingItemEntry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BSPointerHandle< Actor > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::DialogueMenu::Data >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::EffectSetting::SoundPair >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSRefAliasInstanceData * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ExtraAttachedArrows3D::DataItem >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CellGrassData * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::DismemberedLimb * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::FACTION_RANK >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ExtraFollower::FollowerInfo >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::AITimeStamp >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ExtraGuardedRefData::GuardInfo >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ExtraLinkedRef::LinkedRef >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ExtraLinkedRefChildren::LinkedRefChild >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::MarkerUsedData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTTuple< BSPointerHandle< TESObjectREFR >, std::uint32_t > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::FOCollisionListener::ObjectDamageImpactData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::FavoritesMenu::Entry >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSAnimationGraphManager > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESBoundObject * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BipedAnim > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< QueuedFile > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< BSCloneReserver > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::NavMesh > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::HUDObject * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::HUDNotifications::Notification >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTTuple< FormID, RE::NiPointer< RE::ActorKnowledge > > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< QueuedDialogueType * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< std::uint64_t >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::HighProcessData::Data190::Data >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ItemList::Item * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESLoadScreen * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::MapMenuMarker >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSSoundHandle >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::Effect * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::GFxValue >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::MenuEventHandler * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::MenuControls::QueuedReg >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSDialogueBranch * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESTopic * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BSStringT< char, static_cast< std::uint32_t >(-1), DynamicMemoryManagementPol > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::CommandedActorData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiObjectGroup >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::UnloadedRefData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::PerkRankData * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSPerk * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTTuple< RE::NiPoint3, RE::AITimeStamp > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSPointerHandle >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSInstancedQuestObjective >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< TintMask * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::PlayerCharacter::TeleportPath::Unk00Data >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::PlayerCharacter::TeleportPath::Unk18Data >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::PlayerInputHandler * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::SyncQueueObj > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::Projectile::WobbleControl >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< MagicSystem::CastingSource >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ShaderReferenceEffect::TextureRequest >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RHandleType< BSResource::Entry< NiPointer< NiNode >, BSResource::EntryDBTraits< BSModelDB::DBTraits, BSResource::EntryDB< BSModelDB::DBTraits > >::CArgs >, BSResource::EntryDB< BSModelDB::DBTraits > > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::ShaderReferenceEffect::ParticleShader >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::BSLight > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSShadowLight * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::NiTexture > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::Sky::SkyStaticRefData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::SkyrimVM::WaitCall >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::SkyrimVM::LOSDataEvent > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::SkyrimVM::UpdateDataEvent > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< ActorValue >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::StatsNode * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::BSIntrusiveRefCounted > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::SubtitleInfo >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESFurniture::EntryPointData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSRelationship * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESNPC::Layer * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESRace * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESObjectARMA * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESObjectREFR * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< BGSWaterCollisionManager::BGSWaterUpdateI * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSQuestInstanceText * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSBaseAlias * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSScene * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESGlobal * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESRace::FaceRelatedData::TintAsset * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSTextureSet * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESNPC * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BGSColorForm * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESRegionDataSound::Sound * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::BSMultiBoundAABB > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterObject > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterReflections > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterDisplacement > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::TESWaterNormals > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TESObjectSTAT * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::TESObjectREFR > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::TweenMenu::PerkData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::GPtr< RE::IMenu > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::MenuLight * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< INTERFACE_LIGHT_SCHEME >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< RE::TESImageSpaceModifier > >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSTSmartPointer< RE::VATSCommand > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< T, Allocator >", "classRE_1_1BSTArray.html", null ]
     ] ],
     [ "RE::BSTAtomicValue< T >", "classRE_1_1BSTAtomicValue.html", null ],
@@ -2348,7 +2414,11 @@ var hierarchy =
       [ "RE::BSTStaticFreeList< RE::BSTSmartPointer< RE::SkyrimScript::DelayFunctor >, 512 >", "classRE_1_1BSTStaticFreeList.html", null ],
       [ "RE::BSTStaticFreeList< T, SIZE >", "classRE_1_1BSTStaticFreeList.html", null ]
     ] ],
+    [ "RE::BSTFreeList< RE::BSScript::Internal::FunctionMessage >", "classRE_1_1BSTFreeList.html", null ],
+    [ "RE::BSTFreeList< RE::BSTSmartPointer< RE::SkyrimScript::DelayFunctor > >", "classRE_1_1BSTFreeList.html", null ],
     [ "RE::BSTFreeListElem< T >", "structRE_1_1BSTFreeListElem.html", null ],
+    [ "RE::BSTFreeListElem< RE::BSScript::Internal::FunctionMessage >", "structRE_1_1BSTFreeListElem.html", null ],
+    [ "RE::BSTFreeListElem< RE::BSTSmartPointer< RE::SkyrimScript::DelayFunctor > >", "structRE_1_1BSTFreeListElem.html", null ],
     [ "RE::BSThread", "classRE_1_1BSThread.html", [
       [ "RE::BGSSaveLoadManager::Thread", "classRE_1_1BGSSaveLoadManager_1_1Thread.html", null ],
       [ "RE::BSAudioManagerThread", "classRE_1_1BSAudioManagerThread.html", null ]
@@ -2357,32 +2427,47 @@ var hierarchy =
     [ "RE::BSTimer", "classRE_1_1BSTimer.html", null ],
     [ "RE::BSTLocklessQueue", "structRE_1_1BSTLocklessQueue.html", null ],
     [ "RE::BSTMessageQueue< T >", "classRE_1_1BSTMessageQueue.html", [
+      [ "RE::BSTCommonMessageQueue< RE::BSTSmartPointer< RE::bgs::saveload::Request > >", "classRE_1_1BSTCommonMessageQueue.html", null ],
+      [ "RE::BSTCommonMessageQueue< BSPackedTask >", "classRE_1_1BSTCommonMessageQueue.html", null ],
+      [ "RE::BSTCommonMessageQueue< RE::BSScript::Internal::FunctionMessage >", "classRE_1_1BSTCommonMessageQueue.html", null ],
+      [ "RE::BSTCommonMessageQueue< RE::BSScript::Internal::SuspendedStack >", "classRE_1_1BSTCommonMessageQueue.html", null ],
+      [ "RE::BSTCommonMessageQueue< RE::BSTSmartPointer< RE::SkyrimScript::DelayFunctor > >", "classRE_1_1BSTCommonMessageQueue.html", null ],
+      [ "RE::BSTCommonMessageQueue< RE::UIMessage * >", "classRE_1_1BSTCommonMessageQueue.html", null ],
       [ "RE::BSTCommonMessageQueue< T >", "classRE_1_1BSTCommonMessageQueue.html", [
-        [ "RE::BSTCommonLLMessageQueue< RE::BSTSmartPointer< RE::SkyrimScript::DelayFunctor > >", "classRE_1_1BSTCommonLLMessageQueue.html", null ],
         [ "RE::BSTCommonLLMessageQueue< RE::BSScript::Internal::FunctionMessage >", "classRE_1_1BSTCommonLLMessageQueue.html", null ],
+        [ "RE::BSTCommonLLMessageQueue< RE::BSTSmartPointer< RE::SkyrimScript::DelayFunctor > >", "classRE_1_1BSTCommonLLMessageQueue.html", null ],
         [ "RE::BSTCommonScrapHeapMessageQueue< BSPackedTask >", "classRE_1_1BSTCommonScrapHeapMessageQueue.html", null ],
-        [ "RE::BSTCommonStaticMessageQueue< RE::UIMessage *, 100 >", "classRE_1_1BSTCommonStaticMessageQueue.html", null ],
-        [ "RE::BSTCommonStaticMessageQueue< RE::BSScript::Internal::SuspendedStack, 128 >", "classRE_1_1BSTCommonStaticMessageQueue.html", null ],
         [ "RE::BSTCommonStaticMessageQueue< RE::BSTSmartPointer< RE::bgs::saveload::Request >, 8 >", "classRE_1_1BSTCommonStaticMessageQueue.html", null ],
+        [ "RE::BSTCommonStaticMessageQueue< RE::BSScript::Internal::SuspendedStack, 128 >", "classRE_1_1BSTCommonStaticMessageQueue.html", null ],
+        [ "RE::BSTCommonStaticMessageQueue< RE::UIMessage *, 100 >", "classRE_1_1BSTCommonStaticMessageQueue.html", null ],
         [ "RE::BSTCommonLLMessageQueue< T >", "classRE_1_1BSTCommonLLMessageQueue.html", null ],
         [ "RE::BSTCommonScrapHeapMessageQueue< T >", "classRE_1_1BSTCommonScrapHeapMessageQueue.html", null ],
         [ "RE::BSTCommonStaticMessageQueue< T, SIZE >", "classRE_1_1BSTCommonStaticMessageQueue.html", null ]
       ] ]
     ] ],
+    [ "RE::BSTMessageQueue< BSPackedTask >", "classRE_1_1BSTMessageQueue.html", null ],
+    [ "RE::BSTMessageQueue< RE::BSScript::Internal::FunctionMessage >", "classRE_1_1BSTMessageQueue.html", null ],
+    [ "RE::BSTMessageQueue< RE::BSScript::Internal::SuspendedStack >", "classRE_1_1BSTMessageQueue.html", null ],
+    [ "RE::BSTMessageQueue< RE::BSTSmartPointer< RE::bgs::saveload::Request > >", "classRE_1_1BSTMessageQueue.html", null ],
+    [ "RE::BSTMessageQueue< RE::BSTSmartPointer< RE::SkyrimScript::DelayFunctor > >", "classRE_1_1BSTMessageQueue.html", null ],
+    [ "RE::BSTMessageQueue< RE::UIMessage * >", "classRE_1_1BSTMessageQueue.html", null ],
     [ "RE::BSTPoint2Base< T >", "classRE_1_1BSTPoint2Base.html", [
       [ "RE::BSTPoint2< float >", "classRE_1_1BSTPoint2.html", null ],
       [ "RE::BSTPoint2< T, Ops >", "classRE_1_1BSTPoint2.html", null ]
     ] ],
+    [ "RE::BSTPoint2Base< float >", "classRE_1_1BSTPoint2Base.html", null ],
     [ "RE::BSTPoint3Base< T >", "classRE_1_1BSTPoint3Base.html", [
       [ "RE::BSTPoint3< float >", "classRE_1_1BSTPoint3.html", null ],
       [ "RE::BSTPoint3< T, Ops >", "classRE_1_1BSTPoint3.html", null ]
     ] ],
+    [ "RE::BSTPoint3Base< float >", "classRE_1_1BSTPoint3Base.html", null ],
     [ "RE::BSTPointDefaultOps< T >", "classRE_1_1BSTPointDefaultOps.html", [
       [ "RE::BSTPoint2< float >", "classRE_1_1BSTPoint2.html", null ],
       [ "RE::BSTPoint3< float >", "classRE_1_1BSTPoint3.html", null ],
       [ "RE::BSTPoint2< T, Ops >", "classRE_1_1BSTPoint2.html", null ],
       [ "RE::BSTPoint3< T, Ops >", "classRE_1_1BSTPoint3.html", null ]
     ] ],
+    [ "RE::BSTPointDefaultOps< float >", "classRE_1_1BSTPointDefaultOps.html", null ],
     [ "RE::BSTPointerAndFlags< T, MASK >", "classRE_1_1BSTPointerAndFlags.html", null ],
     [ "RE::BSTPointerAndFlags< BSTSmartPointer< Object >, 1 >", "classRE_1_1BSTPointerAndFlags.html", [
       [ "RE::BSScript::Internal::AttachedScript", "classRE_1_1BSScript_1_1Internal_1_1AttachedScript.html", null ]
@@ -2391,6 +2476,9 @@ var hierarchy =
     [ "RE::BSTScatterTable< Hash, KeyEqual, Traits, Allocator >", "classRE_1_1BSTScatterTable.html", [
       [ "RE::AttackAnimationArrayMap", "classRE_1_1AttackAnimationArrayMap.html", null ]
     ] ],
+    [ "RE::BSTScatterTable< BSFixedString, BSTSmartPointer< AnimHandler > >", "classRE_1_1BSTScatterTable.html", null ],
+    [ "RE::BSTScatterTable< BSFixedString, BSTSmartPointer< AnimResponse > >", "classRE_1_1BSTScatterTable.html", null ],
+    [ "RE::BSTScatterTable< BSFixedString, const IBSTCreator< IUIMessageData > *, SIZE >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< BSPointerHandle< Actor >, std::uint64_t >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< BSPointerHandle< TESObjectREFR >, BSCurrent::Action * >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< const BSNavmeshInfo *, std::uint32_t >", "classRE_1_1BSTScatterTable.html", null ],
@@ -2408,6 +2496,7 @@ var hierarchy =
     [ "RE::BSTScatterTable< FormID, RE::BGSLocation * >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< FormID, RE::BSTArray< FormID > >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< FormID, RE::CellID >", "classRE_1_1BSTScatterTable.html", null ],
+    [ "RE::BSTScatterTable< Key, const IBSTCreator< T > *, SIZE >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< Key, const T *, SIZE >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< Key, T >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< RE::BGSDialogueBranch *, RE::BSTArray< RE::TESTopic * > * >", "classRE_1_1BSTScatterTable.html", null ],
@@ -2431,6 +2520,7 @@ var hierarchy =
     [ "RE::BSTScatterTable< RE::detail::BSFixedString, VariableData >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< RE::detail::BSFixedString, VMTypeID >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< RE::MagicItem * >", "classRE_1_1BSTScatterTable.html", null ],
+    [ "RE::BSTScatterTable< RE::NiNode *, RE::BSCompoundFrustum * >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< RE::NiObject *, bool >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< RE::NiObject *, RE::NiObject * >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< RE::NiPointer< RE::bhkRigidBody >, RE::DamageImpactData * >", "classRE_1_1BSTScatterTable.html", null ],
@@ -2452,6 +2542,7 @@ var hierarchy =
     [ "RE::BSTScatterTable< std::uint32_t, RE::BSTArray< RE::BSTTuple< std::uint32_t, std::uint32_t > > * >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< std::uint32_t, RE::BSTArray< RE::NiPointer< RE::TESObjectREFR > > >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< std::uint32_t, RE::BSXAudio2GameSound * >", "classRE_1_1BSTScatterTable.html", null ],
+    [ "RE::BSTScatterTable< std::uint32_t, RE::detail::BSFixedString >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< std::uint32_t, RE::NiPointer< CombatThreat > >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< std::uint32_t, std::uint32_t >", "classRE_1_1BSTScatterTable.html", null ],
     [ "RE::BSTScatterTable< std::uint64_t, RE::BSTArray< BSNavmeshInfo * > * >", "classRE_1_1BSTScatterTable.html", null ],
@@ -2470,8 +2561,159 @@ var hierarchy =
     [ "RE::BSTScatterTableHeapAllocator< S, A >", "structRE_1_1BSTScatterTableHeapAllocator.html", null ],
     [ "RE::BSTScatterTableScrapAllocator< S, A >", "classRE_1_1BSTScatterTableScrapAllocator.html", null ],
     [ "RE::BSTScatterTableTraits< Key, T >", "classRE_1_1BSTScatterTableTraits.html", null ],
-    [ "RE::BSTSDMTraits< T, Alloc >", "structRE_1_1BSTSDMTraits.html", [
+    [ "RE::BSTSDMTraits< T, Alloc >", "structRE_1_1BSTSDMTraits.html", null ],
+    [ "RE::BSTSDMTraits< ActorEquipManager, BSTSingletonSDMOpStaticBuffer< ActorEquipManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ActorEquipManager, BSTSingletonSDMOpStaticBuffer< ActorEquipManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< AnimationFileManagerSingleton, BSTSingletonSDMOpStaticBuffer< AnimationFileManagerSingleton > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< AnimationFileManagerSingleton, BSTSingletonSDMOpStaticBuffer< AnimationFileManagerSingleton > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< AnimationObjects, BSTSingletonSDMOpStaticBuffer< AnimationObjects > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< AnimationObjects, BSTSingletonSDMOpStaticBuffer< AnimationObjects > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BGSCreatedObjectManager, BSTSingletonSDMOpStaticBuffer< BGSCreatedObjectManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSCreatedObjectManager, BSTSingletonSDMOpStaticBuffer< BGSCreatedObjectManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BGSFootstepManager, BSTSingletonSDMOpStaticBuffer< BGSFootstepManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSFootstepManager, BSTSingletonSDMOpStaticBuffer< BGSFootstepManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BGSGrassManager, BSTSingletonSDMOpStaticBuffer< BGSGrassManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSGrassManager, BSTSingletonSDMOpStaticBuffer< BGSGrassManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BGSImpactManager, BSTSingletonSDMOpStaticBuffer< BGSImpactManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSImpactManager, BSTSingletonSDMOpStaticBuffer< BGSImpactManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BGSStoryTeller, BSTSingletonSDMOpStaticBuffer< BGSStoryTeller > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BGSStoryTeller, BSTSingletonSDMOpStaticBuffer< BGSStoryTeller > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< bhkTelekinesisListener, BSTSingletonSDMOpStaticBuffer< bhkTelekinesisListener > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< bhkTelekinesisListener, BSTSingletonSDMOpStaticBuffer< bhkTelekinesisListener > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BSDirectInputManager, BSTSingletonSDMOpStaticBuffer< BSDirectInputManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSDirectInputManager, BSTSingletonSDMOpStaticBuffer< BSDirectInputManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BSFaceGenManager, BSTSingletonSDMOpStaticBuffer< BSFaceGenManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSFaceGenManager, BSTSingletonSDMOpStaticBuffer< BSFaceGenManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BSInputDeviceManager, BSTSingletonSDMOpStaticBuffer< BSInputDeviceManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSInputDeviceManager, BSTSingletonSDMOpStaticBuffer< BSInputDeviceManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BSInputEventQueue, BSTSingletonSDMOpStaticBuffer< BSInputEventQueue > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSInputEventQueue, BSTSingletonSDMOpStaticBuffer< BSInputEventQueue > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BSMusicManager, BSTSingletonSDMOpStaticBuffer< BSMusicManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSMusicManager, BSTSingletonSDMOpStaticBuffer< BSMusicManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BSScaleformManager, BSTSingletonSDMOpStaticBuffer< BSScaleformManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSScaleformManager, BSTSingletonSDMOpStaticBuffer< BSScaleformManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy > > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy > > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BSTObjectDictionary< BSTSmartPointer< AnimResponse >, BSFixedString, ResponseDefinitionMissPolicy, PreloadResponsesInitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< BSTSmartPointer< AnimResponse >, BSFixedString, ResponseDefinitionMissPolicy, PreloadResponsesInitializationPolicy > > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTObjectDictionary< BSTSmartPointer< AnimResponse >, BSFixedString, ResponseDefinitionMissPolicy, PreloadResponsesInitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< BSTSmartPointer< AnimResponse >, BSFixedString, ResponseDefinitionMissPolicy, PreloadResponsesInitializationPolicy > > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy > > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy >, BSTSingletonSDMOpStaticBuffer< BSTObjectDictionary< T, Key, MissPolicy, InitializationPolicy > > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< BSTreeManager, BSTSingletonSDMOpStaticBuffer< BSTreeManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< BSTreeManager, BSTSingletonSDMOpStaticBuffer< BSTreeManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< Calendar, BSTSingletonSDMOpStaticBuffer< Calendar > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< Calendar, BSTSingletonSDMOpStaticBuffer< Calendar > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< ConsoleLog, BSTSingletonSDMOpStaticBuffer< ConsoleLog > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ConsoleLog, BSTSingletonSDMOpStaticBuffer< ConsoleLog > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< ControlMap, BSTSingletonSDMOpStaticBuffer< ControlMap > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ControlMap, BSTSingletonSDMOpStaticBuffer< ControlMap > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< DevNull, BSTSingletonSDMOpStaticBuffer< DevNull > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< DevNull, BSTSingletonSDMOpStaticBuffer< DevNull > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< EntryDB< T_DBTraits >, BSTSingletonSDMOpStaticBuffer< EntryDB< T_DBTraits > > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< EntryDB< T_DBTraits >, BSTSingletonSDMOpStaticBuffer< EntryDB< T_DBTraits > > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< FOCollisionListener, BSTSingletonSDMOpStaticBuffer< FOCollisionListener > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< FOCollisionListener, BSTSingletonSDMOpStaticBuffer< FOCollisionListener > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< GarbageCollector, BSTSingletonSDMOpStaticBuffer< GarbageCollector > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< GarbageCollector, BSTSingletonSDMOpStaticBuffer< GarbageCollector > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< GlobalLocations, BSTSingletonSDMOpStaticBuffer< GlobalLocations > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< GlobalLocations, BSTSingletonSDMOpStaticBuffer< GlobalLocations > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< GlobalPaths, BSTSingletonSDMOpStaticBuffer< GlobalPaths > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< GlobalPaths, BSTSingletonSDMOpStaticBuffer< GlobalPaths > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< InterfaceStrings, BSTSingletonSDMOpStaticBuffer< InterfaceStrings > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< InterfaceStrings, BSTSingletonSDMOpStaticBuffer< InterfaceStrings > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< Inventory3DManager, BSTSingletonSDMOpStaticBuffer< Inventory3DManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< Inventory3DManager, BSTSingletonSDMOpStaticBuffer< Inventory3DManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< MagicFavorites, BSTSingletonSDMOpStaticBuffer< MagicFavorites > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MagicFavorites, BSTSingletonSDMOpStaticBuffer< MagicFavorites > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< Manager, BSTSingletonSDMOpStaticBuffer< Manager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< Manager, BSTSingletonSDMOpStaticBuffer< Manager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< MenuControls, BSTSingletonSDMOpStaticBuffer< MenuControls > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MenuControls, BSTSingletonSDMOpStaticBuffer< MenuControls > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< MenuCursor, BSTSingletonSDMOpStaticBuffer< MenuCursor > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MenuCursor, BSTSingletonSDMOpStaticBuffer< MenuCursor > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< MenuTopicManager, BSTSingletonSDMOpStaticBuffer< MenuTopicManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< MenuTopicManager, BSTSingletonSDMOpStaticBuffer< MenuTopicManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< PlayerCamera, BSTSingletonSDMOpStaticBuffer< PlayerCamera > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< PlayerCamera, BSTSingletonSDMOpStaticBuffer< PlayerCamera > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< PlayerControls, BSTSingletonSDMOpStaticBuffer< PlayerControls > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< PlayerControls, BSTSingletonSDMOpStaticBuffer< PlayerControls > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< ProcessLists, BSTSingletonSDMOpStaticBuffer< ProcessLists > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ProcessLists, BSTSingletonSDMOpStaticBuffer< ProcessLists > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< ScreenSplatter, BSTSingletonSDMOpStaticBuffer< ScreenSplatter > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< ScreenSplatter, BSTSingletonSDMOpStaticBuffer< ScreenSplatter > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< SkyrimVM, BSTSingletonSDMOpStaticBuffer< SkyrimVM > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< SkyrimVM, BSTSingletonSDMOpStaticBuffer< SkyrimVM > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< SubtitleManager, BSTSingletonSDMOpStaticBuffer< SubtitleManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< SubtitleManager, BSTSingletonSDMOpStaticBuffer< SubtitleManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< T, BSTSingletonSDMOpStaticBuffer< T > >", "structRE_1_1BSTSDMTraits.html", [
       [ "RE::BSTSingletonSDMBase< BSTSDMTraits< T, BSTSingletonSDMOpStaticBuffer< T > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< TESDataHandler, BSTSingletonSDMOpStaticBuffer< TESDataHandler > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< TESDataHandler, BSTSingletonSDMOpStaticBuffer< TESDataHandler > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< TESWaterSystem, BSTSingletonSDMOpStaticBuffer< TESWaterSystem > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< TESWaterSystem, BSTSingletonSDMOpStaticBuffer< TESWaterSystem > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< UI, BSTSingletonSDMOpStaticBuffer< UI > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< UI, BSTSingletonSDMOpStaticBuffer< UI > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< UI3DSceneManager, BSTSingletonSDMOpStaticBuffer< UI3DSceneManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< UI3DSceneManager, BSTSingletonSDMOpStaticBuffer< UI3DSceneManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< UIBlurManager, BSTSingletonSDMOpStaticBuffer< UIBlurManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< UIBlurManager, BSTSingletonSDMOpStaticBuffer< UIBlurManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< UIMessageQueue, BSTSingletonSDMOpStaticBuffer< UIMessageQueue > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< UIMessageQueue, BSTSingletonSDMOpStaticBuffer< UIMessageQueue > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< UISaveLoadManager, BSTSingletonSDMOpStaticBuffer< UISaveLoadManager > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< UISaveLoadManager, BSTSingletonSDMOpStaticBuffer< UISaveLoadManager > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< UserEvents, BSTSingletonSDMOpStaticBuffer< UserEvents > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< UserEvents, BSTSingletonSDMOpStaticBuffer< UserEvents > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
+    ] ],
+    [ "RE::BSTSDMTraits< VATS, BSTSingletonSDMOpStaticBuffer< VATS > >", "structRE_1_1BSTSDMTraits.html", [
+      [ "RE::BSTSingletonSDMBase< BSTSDMTraits< VATS, BSTSingletonSDMOpStaticBuffer< VATS > > >", "structRE_1_1BSTSingletonSDMBase.html", null ]
     ] ],
     [ "RE::BSTSetTraits< Key >", "classRE_1_1BSTSetTraits.html", null ],
     [ "RE::BSTSingletonExplicit< T >", "structRE_1_1BSTSingletonExplicit.html", null ],
@@ -2495,11 +2737,13 @@ var hierarchy =
     [ "RE::BSTSingletonExplicit< ICellAttachDetachEventSource >", "structRE_1_1BSTSingletonExplicit.html", [
       [ "RE::ICellAttachDetachEventSource", "classRE_1_1ICellAttachDetachEventSource.html", null ]
     ] ],
-    [ "RE::BSTSingletonImplicit< T >", "structRE_1_1BSTSingletonImplicit.html", [
+    [ "BSTSingletonImplicit", null, [
       [ "RE::BSTFactoryManager< Key, IBSTCreator< T >, SIZE, BSTSingletonImplicit >", "classRE_1_1BSTFactoryManager.html", [
         [ "RE::BSTCreateFactoryManager< Key, T, SIZE >", "classRE_1_1BSTCreateFactoryManager.html", null ]
-      ] ]
+      ] ],
+      [ "RE::BSTFactoryManager< BSFixedString, IBSTCreator< IUIMessageData >, SIZE, BSTSingletonImplicit >", "classRE_1_1BSTFactoryManager.html", null ]
     ] ],
+    [ "RE::BSTSingletonImplicit< T >", "structRE_1_1BSTSingletonImplicit.html", null ],
     [ "RE::BSTSingletonImplicit< BGSDefaultObjectManager >", "structRE_1_1BSTSingletonImplicit.html", [
       [ "RE::BGSDefaultObjectManager", "classRE_1_1BGSDefaultObjectManager.html", null ]
     ] ],
@@ -2717,7 +2961,6 @@ var hierarchy =
       [ "RE::BSScript::is_valid_parameter< T >", "structRE_1_1BSScript_1_1is__valid__parameter.html", null ],
       [ "RE::BSScript::is_valid_return< T >", "structRE_1_1BSScript_1_1is__valid__return.html", null ],
       [ "RE::BSScript::is_valid_short_sig< R, Cls, Args >", "structRE_1_1BSScript_1_1is__valid__short__sig.html", null ],
-      [ "RE::Ni_Impl::cast_is_valid< To, From >", "structRE_1_1Ni__Impl_1_1cast__is__valid.html", null ],
       [ "RE::detail::cast_is_valid< To, From >", "structRE_1_1detail_1_1cast__is__valid.html", null ],
       [ "RE::detail::types_are_compat< To, const From * >", "structRE_1_1detail_1_1types__are__compat_3_01To_00_01const_01From_01_5_01_4.html", null ],
       [ "RE::detail::types_are_compat< To, const volatile From * >", "structRE_1_1detail_1_1types__are__compat_3_01To_00_01const_01volatile_01From_01_5_01_4.html", null ],
@@ -3014,9 +3257,10 @@ var hierarchy =
     [ "REX::W32::DXGI_SWAP_CHAIN_DESC", "structREX_1_1W32_1_1DXGI__SWAP__CHAIN__DESC.html", null ],
     [ "REX::W32::DXGI_SWAP_CHAIN_DESC1", "structREX_1_1W32_1_1DXGI__SWAP__CHAIN__DESC1.html", null ],
     [ "REX::W32::DXGI_SWAP_CHAIN_FULLSCREEN_DESC", "structREX_1_1W32_1_1DXGI__SWAP__CHAIN__FULLSCREEN__DESC.html", null ],
-    [ "RE::DynamicMemoryManagementPol< T, N >", "classRE_1_1DynamicMemoryManagementPol.html", [
+    [ "DynamicMemoryManagementPol", null, [
       [ "RE::BSStringT< char, static_cast< std::uint32_t >(-1), DynamicMemoryManagementPol >", "classRE_1_1BSStringT.html", null ]
     ] ],
+    [ "RE::DynamicMemoryManagementPol< T, N >", "classRE_1_1DynamicMemoryManagementPol.html", null ],
     [ "RE::Effect", "structRE_1_1Effect.html", null ],
     [ "RE::EffectArchetypes", "structRE_1_1EffectArchetypes.html", null ],
     [ "RE::Effect::EffectItem", "structRE_1_1Effect_1_1EffectItem.html", null ],
@@ -3032,6 +3276,8 @@ var hierarchy =
     [ "RE::BSStringPool::Entry", "classRE_1_1BSStringPool_1_1Entry.html", null ],
     [ "RE::ExtraMissingLinkedRefIDs::Entry", "structRE_1_1ExtraMissingLinkedRefIDs_1_1Entry.html", null ],
     [ "RE::FavoritesMenu::Entry", "structRE_1_1FavoritesMenu_1_1Entry.html", null ],
+    [ "RE::BSResource::Entry< NiPointer< NiNode >, BSResource::EntryDBTraits< BSModelDB::DBTraits, BSResource::EntryDB< BSModelDB::DBTraits > >::CArgs >", "classRE_1_1BSResource_1_1Entry.html", null ],
+    [ "RE::BSResource::Entry< typename T_EntryDBTraits::U_DBTraits::U_Type, typename T_EntryDBTraits::CArgs >", "classRE_1_1BSResource_1_1Entry.html", null ],
     [ "RE::BGSEntryPointFunction::ENTRY_POINT_FUNCTION_TYPES", "structRE_1_1BGSEntryPointFunction_1_1ENTRY__POINT__FUNCTION__TYPES.html", null ],
     [ "RE::BGSEntryPointFunction::ENTRY_POINT_FUNCTIONS", "structRE_1_1BGSEntryPointFunction_1_1ENTRY__POINT__FUNCTIONS.html", null ],
     [ "RE::BGSEntryPoint::ENTRY_POINTS", "structRE_1_1BGSEntryPoint_1_1ENTRY__POINTS.html", null ],
@@ -3048,256 +3294,263 @@ var hierarchy =
     [ "RE::BGSEntryPoint::EntryPointParameter", "structRE_1_1BGSEntryPoint_1_1EntryPointParameter.html", null ],
     [ "RE::BGSEntryPoint::EntryPointParameters", "structRE_1_1BGSEntryPoint_1_1EntryPointParameters.html", null ],
     [ "RE::BSResource::EntryQueue< T >", "classRE_1_1BSResource_1_1EntryQueue.html", null ],
-    [ "SKSE::stl::enumeration< Enum, Underlying >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ActiFlags, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ActionControlFlags, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ActiveMarker, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ActivePlane, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ACTOR_COMBAT_STATE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ACTOR_CRITICAL_STAGE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ACTOR_PACKAGE_FLAG, std::int8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ActorValue, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ActorValue, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< AlchemyFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Alignment, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< AlphaFormat, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< AnimationType, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< AnimationType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< AnimState, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< AQUIRE_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ArmorType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ArtType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< AssumedState, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< AtomType, uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< AttackAnimation, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< AttackFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Attribute, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BenchType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BGSBodyPartDefs::LIMB_ENUM, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BGSBodyPartDefs::LIMB_ENUM, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BGSDebrisDataFlags, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BGSHazardFlags, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BGSProjectileFlags, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BIPED_OBJECT, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BipedObjectSlot, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BitmapSampleMode, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BitmapWrapMode, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BlendHint, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BlendType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BOOL_BITS, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BOOL_FLAGS, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BooleanValue, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BREADCRUMB_STATE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BreakInfoFlags, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BroadPhaseBorderBehaviour, std::int8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BroadPhaseType, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BSAnimNote::AnimNoteType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BSGraphics::TextureAddressMode, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BuildType, std::int8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< BvTreeType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ByCharGenFlag, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< CallbackType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< CAM_ACTION, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< CAM_OBJECT, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Capabilities, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< CapacityAndFlags, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Category, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< CellFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< CellState, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ChangeType, std::int32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< CHARACTER_FLAGS, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< CharacterType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< CloneState, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< COL_LAYER, std::int32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< CollectionType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< CompressFlag, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< CONDITIONITEMOBJECT, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ConditionStatus, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ConstraintPriority, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ContactPointGeneration, std::int8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Context, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Create, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< DATA_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< DataFlag, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< DataType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< DayOfWeek, std::int8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< DEFAULT_OBJECT, std::int32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< DEFAULT_OBJECT_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< DESTRUCTIBLE_OBJECT_STAGE_FLAGS, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< DIALOGUE_TYPE, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< DirtyFlag, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< DisabledPoint, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Discovery, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< DisplayDataType, std::int32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< EDGE_EXTRA_INFO_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< EMITTER_TYPE, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< EmotionType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< EnchantmentFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< EntryPoint, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< EntryProperties, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< EquipmentFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Error, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< EShaderPropertyFlag, std::uint64_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< etTreeType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< EVENT_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< EventType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FADE_STATE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FavorLevel, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FIGHT_REACTION, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FILL_TYPE, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FilterFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FilterType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Flag, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FLAG, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Flag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Flag, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Flag2, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Flag2, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Flags, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FLAGS, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Flags, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Flags, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ForceType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Format, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FormType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FreezeState, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Function, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FunctionID, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FunctionType, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< FurnitureEventType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< GeneralFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< GFxPlaceFlags, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< GrabbingType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< GRASS_WATER_STATE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< HeadPartType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< HeapFlags, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< HeapType, UPInt >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< hkpAgentNnTrackType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< hkpCompressedMeshShape::MaterialType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< hkpConstraintInstance::ConstraintPriority, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< hkpFilterType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< hkpWeldingUtility::WeldingType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< hkpWorldCinfo::ContactPointGeneration, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< hkpWorldCinfo::SimulationType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Hotkey, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< IdleFlags, std::int8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ImageFormat, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ImpactResult, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< InGameFormFlag, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< IngredientFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Inherit, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< INPUT_DEVICE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< INPUT_EVENT_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< InterruptFlag, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< KeepFlag, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< LandHideFlag, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< LEV_CREA_MODIFIER, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Level, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Looping, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< LowProcessFlags, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< MagicSystem::CastingType, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< MARKER_TYPE, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< MaterialType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< MessageFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< MipFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Mode, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Mode, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< MoonPhaseLength, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< MotionType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< MotorType, uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< MST, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< MUSIC_MESSAGE_TYPE, std::int32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< MUSIC_STATUS, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< NEARFILLTYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< NiTimeController::CycleType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< NodeFlag, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< OBJECT_ACTION, std::int8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< OnDestructionRemapInfo, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< OpenMode, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ORDER, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ORIENTATION, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PACK_EVENT_ACTION_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PACK_INTERRUPT_TARGET, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PACK_INTERRUPT_TARGET, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PACKAGE_OBJECT_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PACKAGE_PROCEDURE_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PACKAGE_TYPE, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ParentUseFlag, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PATH_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PathFlags, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PC_GAMEPAD_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Permissions, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PixelLayout, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PlaybackMode, uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PLAYER_ACTION, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PreferredSpeed, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< PROCESS_TYPE, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Quality, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< QUEST_OBJECTIVE_FLAGS, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< QUEST_OBJECTIVE_STATE, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< QuestFlag, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< RACE_SIZE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< RawType, std::size_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< RecordFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< RELATIONSHIP_LEVEL, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< RenderCapBits, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< RenderFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< RESET_3D_FLAGS, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ResponseType, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ResumeReason, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SaveType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SCRIPT_ERROR, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SCRIPT_OUTPUT, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SCRIPT_PARAM_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SEX, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Signature, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SimulationType, std::int8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Skill, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SkinTone, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SkyBlurRadius, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SkyObject, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Slot, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SOUL_LEVEL, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SOUND_LEVEL, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SOUND_LEVEL, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SoundType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SpellFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SpuCollisionCallbackEventFilter, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< StackType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< StartStateMode, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< State, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< StateMachineSelfTransitionMode, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< StereoDisplay, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< StringIndexSize, std::int32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Subtype, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< SupportedState, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< TEMPLATE_USE_FLAG, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< TES_LIGHT_FLAGS, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< TOPIC_INFO_FLAGS, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< TopicFlag, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< TopicInfoEventType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< TraversalFlag, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< TreeUpdateType, std::int8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< TriangleFlag, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Type, std::int8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Type, std::uint16_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Type, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< Type, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< UEFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< UI_MENU_FLAGS, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< UI_MESSAGE_TYPE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< UpdateStatus, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< UserDataPropertyFlag, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< ValueType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< VariableMode, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< VertexFormat, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< VOICE_STATE, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< WaterFlag, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< WEAPON_RUMBLE_PATTERN, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< WEAPON_TYPE, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< WEAPONHITBEHAVIOR, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< WeatherDataFlag, std::uint8_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
-    [ "SKSE::stl::enumeration< WordWrappingType, std::uint32_t >", "classSKSE_1_1stl_1_1enumeration.html", null ],
+    [ "RE::BSResource::EntryQueue< RE::BSResource::Entry< typename T_EntryDBTraits::U_DBTraits::U_Type, typename T_EntryDBTraits::CArgs > >", "classRE_1_1BSResource_1_1EntryQueue.html", null ],
+    [ "RE::BSResource::EntryQueue< RE::BSResource::IEntryDB::PostFlushNotify >", "classRE_1_1BSResource_1_1EntryQueue.html", null ],
+    [ "REX::Enum< E, U >", "classREX_1_1Enum.html", null ],
+    [ "REX::EnumSet< E, U >", "classREX_1_1EnumSet.html", [
+      [ "SKSE::stl::enumeration< E, U >", "classSKSE_1_1stl_1_1enumeration.html", null ]
+    ] ],
+    [ "REX::EnumSet< ActiFlags, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ActionControlFlags, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ActiveMarker, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ActivePlane, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ACTOR_COMBAT_STATE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ACTOR_CRITICAL_STAGE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ACTOR_PACKAGE_FLAG, std::int8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ActorValue, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ActorValue, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ActorValueFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< AlchemyFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Alignment, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< AlphaFormat, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< AnimationType, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< AnimationType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< AnimState, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< AQUIRE_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ArmorType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ArtType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< AssumedState, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< AtomType, uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< AttackAnimation, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< AttackFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Attribute, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BenchType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BGSBodyPartDefs::LIMB_ENUM, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BGSBodyPartDefs::LIMB_ENUM, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BGSDebrisDataFlags, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BGSHazardFlags, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BGSProjectileFlags, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BIPED_OBJECT, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BipedObjectSlot, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BitmapSampleMode, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BitmapWrapMode, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BlendHint, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BlendType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BOOL_BITS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BOOL_FLAGS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BooleanValue, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BREADCRUMB_STATE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BreakInfoFlags, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BroadPhaseBorderBehaviour, std::int8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BroadPhaseType, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BSAnimNote::AnimNoteType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BSGraphics::TextureAddressMode, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BuildType, std::int8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< BvTreeType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ByCharGenFlag, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< CallbackType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< CAM_ACTION, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< CAM_OBJECT, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Capabilities, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< CapacityAndFlags, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Category, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< CellFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< CellState, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ChangeType, std::int32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< CHARACTER_FLAGS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< CharacterType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< CloneState, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< COL_LAYER, std::int32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< CollectionType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< CompressFlag, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< CONDITIONITEMOBJECT, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ConditionStatus, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ConstraintPriority, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ContactPointGeneration, std::int8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Context, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Create, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< DATA_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< DataFlag, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< DataType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< DayOfWeek, std::int8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< DEFAULT_OBJECT, std::int32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< DEFAULT_OBJECT_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< DESTRUCTIBLE_OBJECT_STAGE_FLAGS, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< DIALOGUE_TYPE, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< DirtyFlag, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< DisabledPoint, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Discovery, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< DisplayDataType, std::int32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< E, std::underlying_type_t< E > >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< EDGE_EXTRA_INFO_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< EMITTER_TYPE, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< EmotionType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< EnchantmentFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< EntryPoint, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< EntryProperties, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< EquipmentFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Error, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< EShaderPropertyFlag, std::uint64_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< etTreeType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< EVENT_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< EventType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FADE_STATE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FavorLevel, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FIGHT_REACTION, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FILL_TYPE, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FilterFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FilterType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Flag, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Flag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FLAG, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Flag, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Flag2, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Flag2, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Flags, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Flags, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FLAGS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Flags, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ForceType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Format, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FormType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FreezeState, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Function, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FunctionID, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FunctionType, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FurnitureEventType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< GeneralFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< GFxPlaceFlags, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< GrabbingType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< GRASS_WATER_STATE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< HeadPartType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< HeapFlags, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< HeapType, UPInt >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< hkpAgentNnTrackType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< hkpCompressedMeshShape::MaterialType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< hkpConstraintInstance::ConstraintPriority, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< hkpFilterType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< hkpWeldingUtility::WeldingType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< hkpWorldCinfo::ContactPointGeneration, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< hkpWorldCinfo::SimulationType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Hotkey, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< IdleFlags, std::int8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ImageFormat, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ImpactResult, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< InGameFormFlag, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< IngredientFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Inherit, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< INPUT_DEVICE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< INPUT_EVENT_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< InterruptFlag, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< KeepFlag, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< LandHideFlag, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< LEV_CREA_MODIFIER, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Level, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Looping, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< LowProcessFlags, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< MagicSystem::CastingType, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< MARKER_TYPE, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< MaterialType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< MessageFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< MipFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Mode, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Mode, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< MoonPhaseLength, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< MotionType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< MotorType, uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< MST, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< MUSIC_MESSAGE_TYPE, std::int32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< MUSIC_STATUS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< NEARFILLTYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< NiTimeController::CycleType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< NodeFlag, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< OBJECT_ACTION, std::int8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< OnDestructionRemapInfo, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< OpenMode, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ORDER, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ORIENTATION, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PACK_EVENT_ACTION_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PACK_INTERRUPT_TARGET, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PACK_INTERRUPT_TARGET, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PACKAGE_OBJECT_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PACKAGE_PROCEDURE_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PACKAGE_TYPE, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ParentUseFlag, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PATH_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PathFlags, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PC_GAMEPAD_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Permissions, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PixelLayout, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PlaybackMode, uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PLAYER_ACTION, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PreferredSpeed, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< PROCESS_TYPE, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Quality, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< QUEST_OBJECTIVE_FLAGS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< QUEST_OBJECTIVE_STATE, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< QuestFlag, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< RACE_SIZE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< RawType, std::size_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< RecordFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< RELATIONSHIP_LEVEL, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< RenderCapBits, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< RenderFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< RESET_3D_FLAGS, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ResponseType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ResumeReason, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SaveType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SCRIPT_ERROR, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SCRIPT_OUTPUT, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SCRIPT_PARAM_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SEX, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Signature, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SimulationType, std::int8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Skill, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SkinTone, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SkyBlurRadius, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SkyObject, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Slot, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SOUL_LEVEL, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SOUND_LEVEL, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SOUND_LEVEL, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SoundType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SpellFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SpuCollisionCallbackEventFilter, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< StackType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< StartStateMode, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< State, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< StateMachineSelfTransitionMode, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< StereoDisplay, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< StringIndexSize, std::int32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Subtype, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< SupportedState, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< TEMPLATE_USE_FLAG, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< TES_LIGHT_FLAGS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< TOPIC_INFO_FLAGS, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< TopicFlag, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< TopicInfoEventType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< TraversalFlag, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< TreeUpdateType, std::int8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< TriangleFlag, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Type, std::int8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Type, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Type, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Type, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< UEFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< UI_MENU_FLAGS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< UI_MESSAGE_TYPE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< UpdateStatus, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< UserDataPropertyFlag, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< ValueType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< VariableMode, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< VertexFormat, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< VOICE_STATE, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< WaterFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< WEAPON_RUMBLE_PATTERN, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< WEAPON_TYPE, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< WEAPONHITBEHAVIOR, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< WeatherDataFlag, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< WordWrappingType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "RE::AIProcess::EquippedObject", "structRE_1_1AIProcess_1_1EquippedObject.html", null ],
     [ "RE::ActorKill::Event", "structRE_1_1ActorKill_1_1Event.html", null ],
     [ "RE::BooksRead::Event", "structRE_1_1BooksRead_1_1Event.html", null ],
@@ -3358,9 +3611,6 @@ var hierarchy =
       [ "RE::BSScript::_is_reference_wrapper< std::remove_cv_t< T > >", "structRE_1_1BSScript_1_1__is__reference__wrapper.html", [
         [ "RE::BSScript::is_reference_wrapper< T >", "structRE_1_1BSScript_1_1is__reference__wrapper.html", null ]
       ] ],
-      [ "RE::Ni_Impl::_has_rtti< remove_cvpr_t< T > >", "structRE_1_1Ni__Impl_1_1__has__rtti.html", [
-        [ "RE::Ni_Impl::has_rtti< T >", "structRE_1_1Ni__Impl_1_1has__rtti.html", null ]
-      ] ],
       [ "RE::UIImpl::_has_menu_name< std::remove_cv_t< T > >", "structRE_1_1UIImpl_1_1__has__menu__name.html", [
         [ "RE::UIImpl::has_menu_name< T >", "structRE_1_1UIImpl_1_1has__menu__name.html", null ]
       ] ],
@@ -3374,8 +3624,6 @@ var hierarchy =
       [ "RE::BSScript::implements_push_back< class, class >", "structRE_1_1BSScript_1_1implements__push__back.html", null ],
       [ "RE::BSScript::implements_size< class, class >", "structRE_1_1BSScript_1_1implements__size.html", null ],
       [ "RE::GFxValueImpl::_is_integer< class >", "structRE_1_1GFxValueImpl_1_1__is__integer.html", null ],
-      [ "RE::Ni_Impl::_has_rtti< T, Enable >", "structRE_1_1Ni__Impl_1_1__has__rtti.html", null ],
-      [ "RE::Ni_Impl::types_are_compat< To, From >", "structRE_1_1Ni__Impl_1_1types__are__compat.html", null ],
       [ "RE::UIImpl::_has_menu_name< class, class >", "structRE_1_1UIImpl_1_1__has__menu__name.html", null ],
       [ "RE::detail::implements_rtti< class, class >", "structRE_1_1detail_1_1implements__rtti.html", null ],
       [ "RE::detail::types_are_compat< class, class >", "structRE_1_1detail_1_1types__are__compat.html", null ],
@@ -3390,11 +3638,12 @@ var hierarchy =
     [ "REX::W32::FILETIME", "structREX_1_1W32_1_1FILETIME.html", null ],
     [ "RE::GRenderer::FillTexture", "structRE_1_1GRenderer_1_1FillTexture.html", null ],
     [ "RE::GFxPlaceObjectUnpackedData::Filter", "structRE_1_1GFxPlaceObjectUnpackedData_1_1Filter.html", null ],
-    [ "RE::FixedLengthMemoryManagementPol< T, N >", "classRE_1_1FixedLengthMemoryManagementPol.html", [
+    [ "FixedLengthMemoryManagementPol", null, [
       [ "RE::BSStringT< char, N, FixedLengthMemoryManagementPol >", "classRE_1_1BSStringT.html", [
         [ "RE::BSStaticStringT< N >", "classRE_1_1BSStaticStringT.html", null ]
       ] ]
     ] ],
+    [ "RE::FixedLengthMemoryManagementPol< T, N >", "classRE_1_1FixedLengthMemoryManagementPol.html", null ],
     [ "RE::FixedStrings", "classRE_1_1FixedStrings.html", null ],
     [ "RE::GString::FlagConstants", "structRE_1_1GString_1_1FlagConstants.html", null ],
     [ "RE::BGSStoryManagerNodeBase::Flags", "structRE_1_1BGSStoryManagerNodeBase_1_1Flags.html", null ],
@@ -3438,39 +3687,63 @@ var hierarchy =
       [ "RE::GEvent", "classRE_1_1GEvent.html", null ],
       [ "RE::GMutex", "classRE_1_1GMutex.html", null ]
     ] ],
-    [ "RE::GAllocatorBaseGH< SID >", "classRE_1_1GAllocatorBaseGH.html", null ],
-    [ "RE::GAllocatorBaseGH< GStatGroup::kGStat_Default_Mem >", "classRE_1_1GAllocatorBaseGH.html", [
+    [ "RE::GAllocatorBaseGH< SID >", "classRE_1_1GAllocatorBaseGH.html", [
       [ "RE::GAllocatorGH< T, SID >", "structRE_1_1GAllocatorGH.html", null ]
     ] ],
-    [ "RE::GAllocatorBaseLH< SID >", "classRE_1_1GAllocatorBaseLH.html", null ],
-    [ "RE::GAllocatorBaseLH< GStatGroup::kGStat_Default_Mem >", "classRE_1_1GAllocatorBaseLH.html", [
+    [ "RE::GAllocatorBaseGH< GStatGroup::kGStat_Default_Mem >", "classRE_1_1GAllocatorBaseGH.html", null ],
+    [ "RE::GAllocatorBaseLH< SID >", "classRE_1_1GAllocatorBaseLH.html", [
       [ "RE::GAllocatorLH< T, SID >", "structRE_1_1GAllocatorLH.html", null ]
     ] ],
+    [ "RE::GAllocatorBaseLH< GStatGroup::kGStat_Default_Mem >", "classRE_1_1GAllocatorBaseLH.html", null ],
     [ "RE::IngredientItem::GameData", "structRE_1_1IngredientItem_1_1GameData.html", null ],
     [ "RE::BSPCOrbisGamepadDevice::GamepadData", "structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html", null ],
     [ "RE::GarbageCollection", "structRE_1_1GarbageCollection.html", null ],
     [ "RE::GArrayBase< T >", "classRE_1_1GArrayBase.html", [
-      [ "RE::GArray< RE::GFxPlaceObjectUnpackedData::Filter >", "classRE_1_1GArray.html", null ],
       [ "RE::GArray< RE::GFxImportNode::ImportAssetInfo >", "classRE_1_1GArray.html", null ],
-      [ "RE::GArray< RE::GColor >", "classRE_1_1GArray.html", null ],
       [ "RE::GArray< RE::GASExecuteTag * >", "classRE_1_1GArray.html", null ],
-      [ "RE::GArray< void * >", "classRE_1_1GArray.html", null ],
-      [ "RE::GArray< HandlerStruct, GStatGroups::kGStat_Default_Mem, SizePolicyType >", "classRE_1_1GArray.html", null ],
       [ "RE::GArray< RE::GFxMovieDef * >", "classRE_1_1GArray.html", null ],
-      [ "RE::GArrayLH< ExecuteTagList >", "classRE_1_1GArrayLH.html", null ]
-    ] ],
-    [ "RE::GArrayBase< GArrayData< T, GAllocatorGH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "classRE_1_1GArrayBase.html", [
-      [ "RE::GArray< T, SID, SizePolicy >", "classRE_1_1GArray.html", null ]
-    ] ],
-    [ "RE::GArrayBase< GArrayData< T, GAllocatorLH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "classRE_1_1GArrayBase.html", [
+      [ "RE::GArray< RE::GFxPlaceObjectUnpackedData::Filter >", "classRE_1_1GArray.html", null ],
+      [ "RE::GArray< void * >", "classRE_1_1GArray.html", null ],
+      [ "RE::GArray< RE::GColor >", "classRE_1_1GArray.html", null ],
+      [ "RE::GArray< HandlerStruct, GStatGroups::kGStat_Default_Mem, SizePolicyType >", "classRE_1_1GArray.html", null ],
+      [ "RE::GArrayLH< ExecuteTagList >", "classRE_1_1GArrayLH.html", null ],
+      [ "RE::GArray< T, SID, SizePolicy >", "classRE_1_1GArray.html", null ],
       [ "RE::GArrayLH< T, SID, SizePolicy >", "classRE_1_1GArrayLH.html", null ]
     ] ],
+    [ "RE::GArrayBase< GArrayData< ExecuteTagList, GAllocatorLH< ExecuteTagList, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "classRE_1_1GArrayBase.html", null ],
+    [ "RE::GArrayBase< GArrayData< HandlerStruct, GAllocatorGH< HandlerStruct, SID >, SizePolicyType > >", "classRE_1_1GArrayBase.html", null ],
+    [ "RE::GArrayBase< GArrayData< RE::GASExecuteTag *, GAllocatorGH< RE::GASExecuteTag *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "classRE_1_1GArrayBase.html", null ],
+    [ "RE::GArrayBase< GArrayData< RE::GColor, GAllocatorGH< RE::GColor, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "classRE_1_1GArrayBase.html", null ],
+    [ "RE::GArrayBase< GArrayData< RE::GFxImportNode::ImportAssetInfo, GAllocatorGH< RE::GFxImportNode::ImportAssetInfo, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "classRE_1_1GArrayBase.html", null ],
+    [ "RE::GArrayBase< GArrayData< RE::GFxMovieDef *, GAllocatorGH< RE::GFxMovieDef *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "classRE_1_1GArrayBase.html", null ],
+    [ "RE::GArrayBase< GArrayData< RE::GFxPlaceObjectUnpackedData::Filter, GAllocatorGH< RE::GFxPlaceObjectUnpackedData::Filter, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "classRE_1_1GArrayBase.html", null ],
+    [ "RE::GArrayBase< GArrayData< T, GAllocatorGH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "classRE_1_1GArrayBase.html", null ],
+    [ "RE::GArrayBase< GArrayData< T, GAllocatorLH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "classRE_1_1GArrayBase.html", null ],
+    [ "RE::GArrayBase< GArrayData< void *, GAllocatorGH< void *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy > >", "classRE_1_1GArrayBase.html", null ],
     [ "RE::GArrayConstPolicy< MinCapacity, Granularity, NeverShrink >", "structRE_1_1GArrayConstPolicy.html", null ],
     [ "RE::GArrayDataBase< T, Allocator, SizePolicy >", "structRE_1_1GArrayDataBase.html", [
-      [ "RE::GArrayData< T, GAllocatorLH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayData.html", null ],
       [ "RE::GArrayData< T, GAllocatorGH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayData.html", null ],
+      [ "RE::GArrayData< T, GAllocatorLH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayData.html", null ],
+      [ "RE::GArrayData< RE::GFxImportNode::ImportAssetInfo, GAllocatorGH< RE::GFxImportNode::ImportAssetInfo, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayData.html", null ],
+      [ "RE::GArrayData< RE::GASExecuteTag *, GAllocatorGH< RE::GASExecuteTag *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayData.html", null ],
+      [ "RE::GArrayData< ExecuteTagList, GAllocatorLH< ExecuteTagList, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayData.html", null ],
+      [ "RE::GArrayData< RE::GFxMovieDef *, GAllocatorGH< RE::GFxMovieDef *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayData.html", null ],
+      [ "RE::GArrayData< RE::GFxPlaceObjectUnpackedData::Filter, GAllocatorGH< RE::GFxPlaceObjectUnpackedData::Filter, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayData.html", null ],
+      [ "RE::GArrayData< void *, GAllocatorGH< void *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayData.html", null ],
+      [ "RE::GArrayData< RE::GColor, GAllocatorGH< RE::GColor, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayData.html", null ],
+      [ "RE::GArrayData< HandlerStruct, GAllocatorGH< HandlerStruct, SID >, SizePolicyType >", "structRE_1_1GArrayData.html", null ],
       [ "RE::GArrayData< T, Allocator, SizePolicy >", "structRE_1_1GArrayData.html", null ]
     ] ],
+    [ "RE::GArrayDataBase< ExecuteTagList, GAllocatorLH< ExecuteTagList, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayDataBase.html", null ],
+    [ "RE::GArrayDataBase< HandlerStruct, GAllocatorGH< HandlerStruct, SID >, SizePolicyType >", "structRE_1_1GArrayDataBase.html", null ],
+    [ "RE::GArrayDataBase< RE::GASExecuteTag *, GAllocatorGH< RE::GASExecuteTag *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayDataBase.html", null ],
+    [ "RE::GArrayDataBase< RE::GColor, GAllocatorGH< RE::GColor, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayDataBase.html", null ],
+    [ "RE::GArrayDataBase< RE::GFxImportNode::ImportAssetInfo, GAllocatorGH< RE::GFxImportNode::ImportAssetInfo, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayDataBase.html", null ],
+    [ "RE::GArrayDataBase< RE::GFxMovieDef *, GAllocatorGH< RE::GFxMovieDef *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayDataBase.html", null ],
+    [ "RE::GArrayDataBase< RE::GFxPlaceObjectUnpackedData::Filter, GAllocatorGH< RE::GFxPlaceObjectUnpackedData::Filter, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayDataBase.html", null ],
+    [ "RE::GArrayDataBase< T, GAllocatorGH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayDataBase.html", null ],
+    [ "RE::GArrayDataBase< T, GAllocatorLH< T, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayDataBase.html", null ],
+    [ "RE::GArrayDataBase< void *, GAllocatorGH< void *, GStatGroup::kGStat_Default_Mem >, GArrayDefaultPolicy >", "structRE_1_1GArrayDataBase.html", null ],
     [ "RE::GArrayDefaultPolicy", "structRE_1_1GArrayDefaultPolicy.html", null ],
     [ "RE::GASExecuteTag", "classRE_1_1GASExecuteTag.html", [
       [ "RE::GASDoAction", "classRE_1_1GASDoAction.html", [
@@ -3508,6 +3781,7 @@ var hierarchy =
       [ "RE::GAtomicInt< std::int32_t >", "classRE_1_1GAtomicInt.html", null ],
       [ "RE::GAtomicInt< T >", "classRE_1_1GAtomicInt.html", null ]
     ] ],
+    [ "RE::GAtomicValueBase< std::int32_t >", "classRE_1_1GAtomicValueBase.html", null ],
     [ "RE::GColor", "classRE_1_1GColor.html", null ],
     [ "RE::GConstructorMov< T >", "classRE_1_1GConstructorMov.html", [
       [ "RE::GAllocatorGH< T, SID >", "structRE_1_1GAllocatorGH.html", null ],
@@ -3541,30 +3815,30 @@ var hierarchy =
     [ "RE::GFxImportNode", "structRE_1_1GFxImportNode.html", null ],
     [ "RE::GFxKey", "classRE_1_1GFxKey.html", null ],
     [ "RE::GFxLogConstants", "classRE_1_1GFxLogConstants.html", [
-      [ "RE::GFxLogBase< GFxLoaderImpl >", "classRE_1_1GFxLogBase.html", [
-        [ "RE::GFxLoaderImpl", "classRE_1_1GFxLoaderImpl.html", null ]
-      ] ],
       [ "RE::GFxLogBase< GASEnvironment >", "classRE_1_1GFxLogBase.html", [
         [ "RE::GASEnvironment", "classRE_1_1GASEnvironment.html", null ]
+      ] ],
+      [ "RE::GFxLogBase< GFxCharacter >", "classRE_1_1GFxLogBase.html", [
+        [ "RE::GFxCharacter", "classRE_1_1GFxCharacter.html", [
+          [ "RE::GFxASCharacter", "classRE_1_1GFxASCharacter.html", null ]
+        ] ]
       ] ],
       [ "RE::GFxLogBase< GFxLoadProcess >", "classRE_1_1GFxLogBase.html", [
         [ "RE::GFxLoadProcess", "classRE_1_1GFxLoadProcess.html", null ]
       ] ],
-      [ "RE::GFxLogBase< GFxStream >", "classRE_1_1GFxLogBase.html", [
-        [ "RE::GFxStream", "classRE_1_1GFxStream.html", null ]
-      ] ],
-      [ "RE::GFxLogBase< GFxStateBagImpl >", "classRE_1_1GFxLogBase.html", [
-        [ "RE::GFxStateBagImpl", "classRE_1_1GFxStateBagImpl.html", null ]
+      [ "RE::GFxLogBase< GFxLoaderImpl >", "classRE_1_1GFxLogBase.html", [
+        [ "RE::GFxLoaderImpl", "classRE_1_1GFxLoaderImpl.html", null ]
       ] ],
       [ "RE::GFxLogBase< GFxLog >", "classRE_1_1GFxLogBase.html", [
         [ "RE::GFxLog", "classRE_1_1GFxLog.html", [
           [ "RE::LoggingDisabler", "classRE_1_1LoggingDisabler.html", null ]
         ] ]
       ] ],
-      [ "RE::GFxLogBase< GFxCharacter >", "classRE_1_1GFxLogBase.html", [
-        [ "RE::GFxCharacter", "classRE_1_1GFxCharacter.html", [
-          [ "RE::GFxASCharacter", "classRE_1_1GFxASCharacter.html", null ]
-        ] ]
+      [ "RE::GFxLogBase< GFxStateBagImpl >", "classRE_1_1GFxLogBase.html", [
+        [ "RE::GFxStateBagImpl", "classRE_1_1GFxStateBagImpl.html", null ]
+      ] ],
+      [ "RE::GFxLogBase< GFxStream >", "classRE_1_1GFxLogBase.html", [
+        [ "RE::GFxStream", "classRE_1_1GFxStream.html", null ]
       ] ],
       [ "RE::GFxLogBase< Derived >", "classRE_1_1GFxLogBase.html", null ]
     ] ],
@@ -3590,27 +3864,43 @@ var hierarchy =
     [ "RE::GHash< C, U, HashF, Allocator, HashNode, Entry, Container >", "classRE_1_1GHash.html", [
       [ "RE::GHashUncached< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >", "classRE_1_1GHashUncached.html", null ],
       [ "RE::GStringHash< RE::GASString >", "classRE_1_1GStringHash.html", null ],
-      [ "RE::GStringHash< std::int32_t >", "classRE_1_1GStringHash.html", null ]
-    ] ],
-    [ "RE::GHash< C, U, GFixedSizeHash< C >, GAllocatorGH< C >, GHashNode< C, U, GFixedSizeHash< C > >, GHashsetNodeEntry< GHashNode< C, U, GFixedSizeHash< C > >, GHashNode< C, U, GFixedSizeHash< C > >::NodeHashF > >", "classRE_1_1GHash.html", [
-      [ "RE::GHashUncached< C, U, HashF, Allocator >", "classRE_1_1GHashUncached.html", null ]
-    ] ],
-    [ "RE::GHash< GString, CallbackDefn, CallbackHashFunctor >", "classRE_1_1GHash.html", null ],
-    [ "RE::GHash< GString, U, GString::NoCaseHashFunctor, GAllocatorGH< U > >", "classRE_1_1GHash.html", [
+      [ "RE::GStringHash< std::int32_t >", "classRE_1_1GStringHash.html", null ],
+      [ "RE::GHashUncached< C, U, HashF, Allocator >", "classRE_1_1GHashUncached.html", null ],
       [ "RE::GStringHash< U, Allocator >", "classRE_1_1GStringHash.html", null ]
     ] ],
+    [ "RE::GHash< C, U, GFixedSizeHash< C >, GAllocatorGH< C >, GHashNode< C, U, GFixedSizeHash< C > >, GHashsetNodeEntry< GHashNode< C, U, GFixedSizeHash< C > >, GHashNode< C, U, GFixedSizeHash< C > >::NodeHashF > >", "classRE_1_1GHash.html", null ],
+    [ "RE::GHash< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp, GAllocatorGH< GFxResourceID >, GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >, GHashsetNodeEntry< GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >, GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >::NodeHashF > >", "classRE_1_1GHash.html", null ],
+    [ "RE::GHash< GString, CallbackDefn, CallbackHashFunctor >", "classRE_1_1GHash.html", null ],
+    [ "RE::GHash< GString, RE::GASString, GString::NoCaseHashFunctor, GAllocatorGH< RE::GASString > >", "classRE_1_1GHash.html", null ],
+    [ "RE::GHash< GString, std::int32_t, GString::NoCaseHashFunctor, GAllocatorGH< std::int32_t > >", "classRE_1_1GHash.html", null ],
+    [ "RE::GHash< GString, U, GString::NoCaseHashFunctor, GAllocatorGH< U > >", "classRE_1_1GHash.html", null ],
     [ "RE::GHashNode< C, U, Hash >", "structRE_1_1GHashNode.html", null ],
     [ "RE::GHashSetBase< C, HashF, AltHashF, Allocator, Entry >", "classRE_1_1GHashSetBase.html", [
-      [ "RE::GHashSet< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< C >, GHashsetCachedNodeEntry< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF > >", "classRE_1_1GHashSet.html", null ],
-      [ "RE::GHashSet< C, GFixedSizeHash< C >, GFixedSizeHash< C >, GAllocatorGH< C >, GHashsetEntry< C, GFixedSizeHash< C > > >", "classRE_1_1GHashSet.html", [
-        [ "RE::GHashSetUncached< C, HashF, AltHashF, Allocator >", "classRE_1_1GHashSetUncached.html", null ]
-      ] ],
+      [ "RE::GHashSet< C, GFixedSizeHash< C >, GFixedSizeHash< C >, GAllocatorGH< C >, GHashsetEntry< C, GFixedSizeHash< C > > >", "classRE_1_1GHashSet.html", null ],
+      [ "RE::GHashSet< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< C >, GHashsetNodeEntry< GHashNode< C, U, GFixedSizeHash< C > >, GHashNode< C, U, GFixedSizeHash< C > >::NodeHashF > >", "classRE_1_1GHashSet.html", null ],
+      [ "RE::GHashSet< GHashNode< GString, U, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< U >, GHashsetCachedNodeEntry< GHashNode< GString, U, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF > >", "classRE_1_1GHashSet.html", null ],
+      [ "RE::GHashSet< GHashNode< GString, CallbackDefn, CallbackHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< GString >, GHashsetCachedNodeEntry< GHashNode< GString, CallbackDefn, CallbackHashFunctor >, typename HashNode::NodeHashF > >", "classRE_1_1GHashSet.html", null ],
+      [ "RE::GHashSet< GHashNode< GString, RE::GASString, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< RE::GASString >, GHashsetCachedNodeEntry< GHashNode< GString, RE::GASString, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF > >", "classRE_1_1GHashSet.html", null ],
+      [ "RE::GHashSet< GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< GFxResourceID >, GHashsetNodeEntry< GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >, GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >::NodeHashF > >", "classRE_1_1GHashSet.html", null ],
+      [ "RE::GHashSet< GHashNode< GString, std::int32_t, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< std::int32_t >, GHashsetCachedNodeEntry< GHashNode< GString, std::int32_t, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF > >", "classRE_1_1GHashSet.html", null ],
+      [ "RE::GHashSet< GFxResource *, GFxResourcePtrHashFunc >", "classRE_1_1GHashSet.html", null ],
       [ "RE::GHashSet< RE::GFxResourceWeakLib::ResourceNode, RE::GFxResourceWeakLib::ResourceNode::HashOp >", "classRE_1_1GHashSet.html", null ],
-      [ "RE::GHashSet< GFxResource *, GFxResourcePtrHashFunc >", "classRE_1_1GHashSet.html", null ]
+      [ "RE::GHashSet< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< C >, GHashsetCachedNodeEntry< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF > >", "classRE_1_1GHashSet.html", null ],
+      [ "RE::GHashSet< C, HashF, AltHashF, Allocator, Entry >", "classRE_1_1GHashSet.html", [
+        [ "RE::GHashSetUncached< C, HashF, AltHashF, Allocator >", "classRE_1_1GHashSetUncached.html", null ]
+      ] ]
     ] ],
-    [ "RE::GHashSetBase< C, GFixedSizeHash< C >, GFixedSizeHash< C >, GAllocatorGH< C >, GHashsetCachedEntry< C, GFixedSizeHash< C > > >", "classRE_1_1GHashSetBase.html", [
-      [ "RE::GHashSet< C, HashF, AltHashF, Allocator, Entry >", "classRE_1_1GHashSet.html", null ]
-    ] ],
+    [ "RE::GHashSetBase< C, GFixedSizeHash< C >, GFixedSizeHash< C >, GAllocatorGH< C >, GHashsetCachedEntry< C, GFixedSizeHash< C > > >", "classRE_1_1GHashSetBase.html", null ],
+    [ "RE::GHashSetBase< C, GFixedSizeHash< C >, GFixedSizeHash< C >, GAllocatorGH< C >, GHashsetEntry< C, GFixedSizeHash< C > > >", "classRE_1_1GHashSetBase.html", null ],
+    [ "RE::GHashSetBase< GFxResource *, GFxResourcePtrHashFunc, GFxResourcePtrHashFunc, GAllocatorGH< GFxResource * >, GHashsetCachedEntry< GFxResource *, GFxResourcePtrHashFunc > >", "classRE_1_1GHashSetBase.html", null ],
+    [ "RE::GHashSetBase< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< C >, GHashsetCachedNodeEntry< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF > >", "classRE_1_1GHashSetBase.html", null ],
+    [ "RE::GHashSetBase< GHashNode< C, U, GFixedSizeHash< C > >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< C >, GHashsetNodeEntry< GHashNode< C, U, GFixedSizeHash< C > >, GHashNode< C, U, GFixedSizeHash< C > >::NodeHashF > >", "classRE_1_1GHashSetBase.html", null ],
+    [ "RE::GHashSetBase< GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< GFxResourceID >, GHashsetNodeEntry< GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >, GHashNode< GFxResourceID, GFxResourceSource, GFxResourceID::HashOp >::NodeHashF > >", "classRE_1_1GHashSetBase.html", null ],
+    [ "RE::GHashSetBase< GHashNode< GString, CallbackDefn, CallbackHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< GString >, GHashsetCachedNodeEntry< GHashNode< GString, CallbackDefn, CallbackHashFunctor >, typename HashNode::NodeHashF > >", "classRE_1_1GHashSetBase.html", null ],
+    [ "RE::GHashSetBase< GHashNode< GString, RE::GASString, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< RE::GASString >, GHashsetCachedNodeEntry< GHashNode< GString, RE::GASString, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF > >", "classRE_1_1GHashSetBase.html", null ],
+    [ "RE::GHashSetBase< GHashNode< GString, std::int32_t, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< std::int32_t >, GHashsetCachedNodeEntry< GHashNode< GString, std::int32_t, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF > >", "classRE_1_1GHashSetBase.html", null ],
+    [ "RE::GHashSetBase< GHashNode< GString, U, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF, typename HashNode::NodeAltHashF, GAllocatorGH< U >, GHashsetCachedNodeEntry< GHashNode< GString, U, GString::NoCaseHashFunctor >, typename HashNode::NodeHashF > >", "classRE_1_1GHashSetBase.html", null ],
+    [ "RE::GHashSetBase< RE::GFxResourceWeakLib::ResourceNode, RE::GFxResourceWeakLib::ResourceNode::HashOp, RE::GFxResourceWeakLib::ResourceNode::HashOp, GAllocatorGH< RE::GFxResourceWeakLib::ResourceNode >, GHashsetCachedEntry< RE::GFxResourceWeakLib::ResourceNode, RE::GFxResourceWeakLib::ResourceNode::HashOp > >", "classRE_1_1GHashSetBase.html", null ],
     [ "RE::GHashsetCachedEntry< T, Hash >", "classRE_1_1GHashsetCachedEntry.html", null ],
     [ "RE::GHashsetCachedNodeEntry< T, Hash >", "classRE_1_1GHashsetCachedNodeEntry.html", null ],
     [ "RE::GHashsetEntry< T, HashF >", "classRE_1_1GHashsetEntry.html", null ],
@@ -3738,58 +4028,6 @@ var hierarchy =
     [ "RE::GRefCountImplCore", "classRE_1_1GRefCountImplCore.html", [
       [ "RE::GRefCountImpl", "classRE_1_1GRefCountImpl.html", [
         [ "RE::GRefCountBaseStatImpl< GRefCountImpl, STAT >", "classRE_1_1GRefCountBaseStatImpl.html", [
-          [ "RE::GRefCountBase< GFxFunctionHandler, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxFunctionHandler", "classRE_1_1GFxFunctionHandler.html", [
-              [ "RE::CreationClubMenu", "classRE_1_1CreationClubMenu.html", null ],
-              [ "RE::CreditsMenu", "classRE_1_1CreditsMenu.html", null ],
-              [ "RE::MainMenu", "classRE_1_1MainMenu.html", null ],
-              [ "RE::ModManagerMenu", "classRE_1_1ModManagerMenu.html", null ]
-            ] ]
-          ] ],
-          [ "RE::GRefCountBase< GFxStateBagImpl, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxStateBagImpl", "classRE_1_1GFxStateBagImpl.html", null ]
-          ] ],
-          [ "RE::GRefCountBase< GFxState, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxState", "classRE_1_1GFxState.html", [
-              [ "RE::GFxActionControl", "classRE_1_1GFxActionControl.html", null ],
-              [ "RE::GFxExternalInterface", "classRE_1_1GFxExternalInterface.html", [
-                [ "RE::FxDelegate", "classRE_1_1FxDelegate.html", null ]
-              ] ],
-              [ "RE::GFxImageLoader", "classRE_1_1GFxImageLoader.html", [
-                [ "RE::BSScaleformImageLoader", "classRE_1_1BSScaleformImageLoader.html", null ]
-              ] ],
-              [ "RE::GFxLog", "classRE_1_1GFxLog.html", null ],
-              [ "RE::GFxRenderConfig", "classRE_1_1GFxRenderConfig.html", null ],
-              [ "RE::GFxTranslator", "classRE_1_1GFxTranslator.html", [
-                [ "RE::BSScaleformTranslator", "classRE_1_1BSScaleformTranslator.html", null ]
-              ] ]
-            ] ]
-          ] ],
-          [ "RE::GRefCountBase< GFxLoadUpdateSync, GFxStatMovieData::kGFxStatMD_Other_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxLoadUpdateSync", "classRE_1_1GFxLoadUpdateSync.html", null ]
-          ] ],
-          [ "RE::GRefCountBase< GFxTask, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxTask", "classRE_1_1GFxTask.html", [
-              [ "RE::GFxLoaderTask", "classRE_1_1GFxLoaderTask.html", [
-                [ "RE::GFxLoadProcess", "classRE_1_1GFxLoadProcess.html", null ],
-                [ "RE::GFxMovieBindProcess", "classRE_1_1GFxMovieBindProcess.html", null ],
-                [ "RE::GFxMovieImageLoadTask", "classRE_1_1GFxMovieImageLoadTask.html", null ]
-              ] ]
-            ] ]
-          ] ],
-          [ "RE::GRefCountBase< ResourceSlot, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxResourceLib::ResourceSlot", "classRE_1_1GFxResourceLib_1_1ResourceSlot.html", null ]
-          ] ],
-          [ "RE::GRefCountBase< LoadTaskDataBase, GFxStatMovieData::kGFxStatMD_Other_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxMovieDataDef::LoadTaskDataBase", "classRE_1_1GFxMovieDataDef_1_1LoadTaskDataBase.html", [
-              [ "RE::GFxMovieDataDef::LoadTaskData", "classRE_1_1GFxMovieDataDef_1_1LoadTaskData.html", null ]
-            ] ]
-          ] ],
-          [ "RE::GRefCountBase< MemoryContext, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxMovieDef::MemoryContext", "classRE_1_1GFxMovieDef_1_1MemoryContext.html", [
-              [ "RE::GFxMovieDef::MemoryContextImpl", "classRE_1_1GFxMovieDef_1_1MemoryContextImpl.html", null ]
-            ] ]
-          ] ],
           [ "RE::GRefCountBase< FxDelegateHandler, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
             [ "RE::FxDelegateHandler", "classRE_1_1FxDelegateHandler.html", [
               [ "RE::CraftingSubMenus::CraftingSubMenu", "classRE_1_1CraftingSubMenus_1_1CraftingSubMenu.html", null ],
@@ -3837,16 +4075,91 @@ var hierarchy =
               ] ]
             ] ]
           ] ],
+          [ "RE::GRefCountBase< GASActionBufferData, GFxStatMovieData::kGFxStatMD_ActionOps_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GASActionBufferData", "classRE_1_1GASActionBufferData.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GASStringManager, GFxStatMovieViews::kGFxStatMV_ActionScript_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GASStringManager", "classRE_1_1GASStringManager.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GFxFunctionHandler, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxFunctionHandler", "classRE_1_1GFxFunctionHandler.html", [
+              [ "RE::CreationClubMenu", "classRE_1_1CreationClubMenu.html", null ],
+              [ "RE::CreditsMenu", "classRE_1_1CreditsMenu.html", null ],
+              [ "RE::MainMenu", "classRE_1_1MainMenu.html", null ],
+              [ "RE::ModManagerMenu", "classRE_1_1ModManagerMenu.html", null ]
+            ] ]
+          ] ],
           [ "RE::GRefCountBase< GFxLoadStates, GStatGroup::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
             [ "RE::GFxLoadStates", "classRE_1_1GFxLoadStates.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GFxLoadUpdateSync, GFxStatMovieData::kGFxStatMD_Other_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxLoadUpdateSync", "classRE_1_1GFxLoadUpdateSync.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GFxLoaderImpl, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxLoaderImpl", "classRE_1_1GFxLoaderImpl.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GFxMovie, GFxStatMovieViews::kGFxStatMV_Other_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxMovie", "classRE_1_1GFxMovie.html", [
+              [ "RE::GFxMovieView", "classRE_1_1GFxMovieView.html", null ]
+            ] ]
+          ] ],
+          [ "RE::GRefCountBase< LoadTaskDataBase, GFxStatMovieData::kGFxStatMD_Other_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxMovieDataDef::LoadTaskDataBase", "classRE_1_1GFxMovieDataDef_1_1LoadTaskDataBase.html", [
+              [ "RE::GFxMovieDataDef::LoadTaskData", "classRE_1_1GFxMovieDataDef_1_1LoadTaskData.html", null ]
+            ] ]
+          ] ],
+          [ "RE::GRefCountBase< MemoryContext, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxMovieDef::MemoryContext", "classRE_1_1GFxMovieDef_1_1MemoryContext.html", [
+              [ "RE::GFxMovieDef::MemoryContextImpl", "classRE_1_1GFxMovieDef_1_1MemoryContextImpl.html", null ]
+            ] ]
+          ] ],
+          [ "RE::GRefCountBase< GFxMovieDefBindStates, GStatGroup::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxMovieDefBindStates", "classRE_1_1GFxMovieDefBindStates.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< BindTaskData, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxMovieDefImpl::BindTaskData", "classRE_1_1GFxMovieDefImpl_1_1BindTaskData.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GFxResourceLib, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxResourceLib", "classRE_1_1GFxResourceLib.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< ResourceSlot, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxResourceLib::ResourceSlot", "classRE_1_1GFxResourceLib_1_1ResourceSlot.html", null ]
           ] ],
           [ "RE::GRefCountBase< GFxResourceLibBase, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
             [ "RE::GFxResourceLibBase", "classRE_1_1GFxResourceLibBase.html", [
               [ "RE::GFxResourceWeakLib", "classRE_1_1GFxResourceWeakLib.html", null ]
             ] ]
           ] ],
-          [ "RE::GRefCountBase< GASStringManager, GFxStatMovieViews::kGFxStatMV_ActionScript_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GASStringManager", "classRE_1_1GASStringManager.html", null ]
+          [ "RE::GRefCountBase< GFxState, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxState", "classRE_1_1GFxState.html", [
+              [ "RE::GFxActionControl", "classRE_1_1GFxActionControl.html", null ],
+              [ "RE::GFxExternalInterface", "classRE_1_1GFxExternalInterface.html", [
+                [ "RE::FxDelegate", "classRE_1_1FxDelegate.html", null ]
+              ] ],
+              [ "RE::GFxImageLoader", "classRE_1_1GFxImageLoader.html", [
+                [ "RE::BSScaleformImageLoader", "classRE_1_1BSScaleformImageLoader.html", null ]
+              ] ],
+              [ "RE::GFxLog", "classRE_1_1GFxLog.html", null ],
+              [ "RE::GFxRenderConfig", "classRE_1_1GFxRenderConfig.html", null ],
+              [ "RE::GFxTranslator", "classRE_1_1GFxTranslator.html", [
+                [ "RE::BSScaleformTranslator", "classRE_1_1BSScaleformTranslator.html", null ]
+              ] ]
+            ] ]
+          ] ],
+          [ "RE::GRefCountBase< GFxStateBagImpl, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxStateBagImpl", "classRE_1_1GFxStateBagImpl.html", null ]
+          ] ],
+          [ "RE::GRefCountBase< GFxTask, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GFxTask", "classRE_1_1GFxTask.html", [
+              [ "RE::GFxLoaderTask", "classRE_1_1GFxLoaderTask.html", [
+                [ "RE::GFxLoadProcess", "classRE_1_1GFxLoadProcess.html", null ],
+                [ "RE::GFxMovieBindProcess", "classRE_1_1GFxMovieBindProcess.html", null ],
+                [ "RE::GFxMovieImageLoadTask", "classRE_1_1GFxMovieImageLoadTask.html", null ]
+              ] ]
+            ] ]
+          ] ],
+          [ "RE::GRefCountBase< GRenderer, GStatRenderer::kMem >", "classRE_1_1GRefCountBase.html", [
+            [ "RE::GRenderer", "classRE_1_1GRenderer.html", null ]
           ] ],
           [ "RE::GRefCountBase< GWaitable, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
             [ "RE::GWaitable", "classRE_1_1GWaitable.html", [
@@ -3854,36 +4167,13 @@ var hierarchy =
               [ "RE::GMutex", "classRE_1_1GMutex.html", null ]
             ] ]
           ] ],
-          [ "RE::GRefCountBase< BindTaskData, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxMovieDefImpl::BindTaskData", "classRE_1_1GFxMovieDefImpl_1_1BindTaskData.html", null ]
-          ] ],
-          [ "RE::GRefCountBase< GRenderer, GStatRenderer::kMem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GRenderer", "classRE_1_1GRenderer.html", null ]
-          ] ],
-          [ "RE::GRefCountBase< GFxResourceLib, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxResourceLib", "classRE_1_1GFxResourceLib.html", null ]
-          ] ],
-          [ "RE::GRefCountBase< GFxMovie, GFxStatMovieViews::kGFxStatMV_Other_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxMovie", "classRE_1_1GFxMovie.html", [
-              [ "RE::GFxMovieView", "classRE_1_1GFxMovieView.html", null ]
-            ] ]
-          ] ],
-          [ "RE::GRefCountBase< GFxLoaderImpl, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxLoaderImpl", "classRE_1_1GFxLoaderImpl.html", null ]
-          ] ],
-          [ "RE::GRefCountBase< GFxMovieDefBindStates, GStatGroup::kGStat_Default_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GFxMovieDefBindStates", "classRE_1_1GFxMovieDefBindStates.html", null ]
-          ] ],
-          [ "RE::GRefCountBase< GASActionBufferData, GFxStatMovieData::kGFxStatMD_ActionOps_Mem >", "classRE_1_1GRefCountBase.html", [
-            [ "RE::GASActionBufferData", "classRE_1_1GASActionBufferData.html", null ]
-          ] ],
           [ "RE::GRefCountBase< T, STAT >", "classRE_1_1GRefCountBase.html", null ]
         ] ]
       ] ],
       [ "RE::GRefCountNTSImpl", "classRE_1_1GRefCountNTSImpl.html", [
         [ "RE::GRefCountBaseStatImpl< GRefCountNTSImpl, Stat >", "classRE_1_1GRefCountBaseStatImpl.html", [
-          [ "RE::GRefCountBaseNTS< GImageInfoBase, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBaseNTS.html", [
-            [ "RE::GImageInfoBase", "classRE_1_1GImageInfoBase.html", null ]
+          [ "RE::GRefCountBaseNTS< GASGlobalContext, GFxStatMovieViews::kGFxStatMV_ActionScript_Mem >", "classRE_1_1GRefCountBaseNTS.html", [
+            [ "RE::GASGlobalContext", "classRE_1_1GASGlobalContext.html", null ]
           ] ],
           [ "RE::GRefCountBaseNTS< GFxKeyboardState, GFxStatMovieViews::kGFxStatMV_Other_Mem >", "classRE_1_1GRefCountBaseNTS.html", [
             [ "RE::GFxKeyboardState", "classRE_1_1GFxKeyboardState.html", null ]
@@ -3891,8 +4181,8 @@ var hierarchy =
           [ "RE::GRefCountBaseNTS< GImage, GStatGroup::kGStat_Image_Mem >", "classRE_1_1GRefCountBaseNTS.html", [
             [ "RE::GImage", "classRE_1_1GImage.html", null ]
           ] ],
-          [ "RE::GRefCountBaseNTS< GASGlobalContext, GFxStatMovieViews::kGFxStatMV_ActionScript_Mem >", "classRE_1_1GRefCountBaseNTS.html", [
-            [ "RE::GASGlobalContext", "classRE_1_1GASGlobalContext.html", null ]
+          [ "RE::GRefCountBaseNTS< GImageInfoBase, GStatGroups::kGStat_Default_Mem >", "classRE_1_1GRefCountBaseNTS.html", [
+            [ "RE::GImageInfoBase", "classRE_1_1GImageInfoBase.html", null ]
           ] ],
           [ "RE::GRefCountBaseNTS< C, Stat >", "classRE_1_1GRefCountBaseNTS.html", null ]
         ] ],
@@ -3922,9 +4212,10 @@ var hierarchy =
     [ "REX::W32::GUID", "structREX_1_1W32_1_1GUID.html", null ],
     [ "RE::GViewport", "classRE_1_1GViewport.html", null ],
     [ "RE::GWaitCondition", "classRE_1_1GWaitCondition.html", null ],
-    [ "RE::HandlerCreationMissPolicy< T, Key >", "classRE_1_1HandlerCreationMissPolicy.html", [
+    [ "HandlerCreationMissPolicy", null, [
       [ "RE::BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy >", "classRE_1_1BSTObjectDictionary.html", null ]
     ] ],
+    [ "RE::HandlerCreationMissPolicy< T, Key >", "classRE_1_1HandlerCreationMissPolicy.html", null ],
     [ "RE::GWaitable::HandlerStruct", "classRE_1_1GWaitable_1_1HandlerStruct.html", null ],
     [ "RE::AIProcess::Hands", "structRE_1_1AIProcess_1_1Hands.html", null ],
     [ "RE::GString::HashFunctor", "classRE_1_1GString_1_1HashFunctor.html", null ],
@@ -3954,78 +4245,144 @@ var hierarchy =
     [ "RE::hkAabb", "classRE_1_1hkAabb.html", null ],
     [ "RE::hkaAnnotationTrack", "classRE_1_1hkaAnnotationTrack.html", null ],
     [ "RE::hkArrayBase< T >", "classRE_1_1hkArrayBase.html", [
-      [ "RE::hkArray< hkpConstraintListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkpIslandActivationListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpListShape::ChildInfo >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkbAssetBundleStringData >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkStringPtr >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkpActionListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkbCharacterStringData::FileNameMeshNamePair >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkaAnnotationTrack::Annotation >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkpIslandPostCollideListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkp3AxisSweep::hkpBpEndPoint >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< std::uint16_t >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpLinkedCollidable::CollisionEntry >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpEntity * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< float >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpProperty >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkbStateMachine::StateInfo * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< int >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpEntityListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpPhantom * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkp3AxisSweep::hkpBpNode >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkbCharacter * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkbVariableInfo >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkbAnimationBindingWithTriggers * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkaDefaultAnimationControlListener >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpCompressedMeshShape::ConvexPiece >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpCompressedMeshShape::BigTriangle >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpContactListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkpTriggerVolume * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpRigidBody * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< std::int16_t >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkpWorldPostIntegrateListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< int32_t >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::bhkMeshMaterial >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkpIslandPostIntegrateListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< T, void >", "classRE_1_1hkArray.html", null ],
       [ "RE::hkArray< std::uint32_t >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpSimulationIsland * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpPhantomListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkVector4 >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< T, void >", "classRE_1_1hkArray.html", [
-        [ "RE::hkInplaceArray< T, N, Allocator >", "classRE_1_1hkInplaceArray.html", null ]
-      ] ],
-      [ "RE::hkArray< hkpWorldPostCollideListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkpWorldDeletionListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpRootCdPoint >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkbVariableBounds >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkaAnimationControlListener >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< std::uint16_t >", "classRE_1_1hkArray.html", null ],
       [ "RE::hkArray< std::uint8_t >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpWorldPostSimulationListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpCachingShapePhantom::CollisionDetail >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkaAnnotationTrack >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkpContactImpulseLimitBreachedListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpAction * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkpPhantomOverlapListener * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< MouseSpringAppliedCallback * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< BpInt >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< std::int32_t >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkRefVariant >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkRefPtr< hkbAssetBundle > >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkQsTransform >", "classRE_1_1hkArray.html", null ],
       [ "RE::hkArray< hkpNamedMeshMaterial >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< hkpWorldExtension * >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkClipTrigger >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkRefPtr< const hkaSkeletonMapper > >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::bhkMeshMaterial >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkQsTransform >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpCompressedMeshShape::BigTriangle >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkVector4 >", "classRE_1_1hkArray.html", null ],
       [ "RE::hkArray< RE::hkpCompressedMeshShape::Chunk >", "classRE_1_1hkArray.html", null ],
-      [ "RE::hkArray< RE::hkpCharacterProxyListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpCompressedMeshShape::ConvexPiece >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkaAnnotationTrack >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< std::int16_t >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkaAnimationControlListener >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkaAnnotationTrack::Annotation >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkaDefaultAnimationControlListener >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpRigidBody * >", "classRE_1_1hkArray.html", null ],
       [ "RE::hkArray< RE::hkpConstraintInstance * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< int >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkbAnimationBindingWithTriggers * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkRefPtr< hkbAssetBundle > >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkStringPtr >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkRefVariant >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< float >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkbVariableInfo >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkbVariableBounds >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkbCharacter * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< std::int32_t >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkRefPtr< const hkaSkeletonMapper > >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkbCharacterStringData::FileNameMeshNamePair >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkbAssetBundleStringData >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkClipTrigger >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< int32_t >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkbStateMachine::StateInfo * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkp3AxisSweep::hkpBpNode >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkp3AxisSweep::hkpBpEndPoint >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< BpInt >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpAgentNnSector *, void >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpRootCdPoint, void >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpEntity * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpCachingShapePhantom::CollisionDetail >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpRootCdPoint >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpPhantom * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpTriggerVolume * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpCharacterProxyListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpLinkedCollidable::CollisionEntry >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpListShape::ChildInfo >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< MouseSpringAppliedCallback * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpPhantomOverlapListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpPhantomListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpAction * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpEntity *, void >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpSimulationIsland * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpActionListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpEntityListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpConstraintListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpWorldDeletionListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpIslandActivationListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpWorldPostSimulationListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpWorldPostIntegrateListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpWorldPostCollideListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpIslandPostIntegrateListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpIslandPostCollideListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpContactListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpContactImpulseLimitBreachedListener * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< hkpWorldExtension * >", "classRE_1_1hkArray.html", null ],
+      [ "RE::hkArray< RE::hkpProperty >", "classRE_1_1hkArray.html", null ],
       [ "RE::hkArray< T, Allocator >", "classRE_1_1hkArray.html", [
-        [ "RE::hkInplaceArray< RE::hkpEntity *, 1 >", "classRE_1_1hkInplaceArray.html", null ],
+        [ "RE::hkInplaceArray< hkpAgentNnSector *, 1 >", "classRE_1_1hkInplaceArray.html", null ],
         [ "RE::hkInplaceArray< RE::hkpRootCdPoint, 8 >", "classRE_1_1hkInplaceArray.html", null ],
-        [ "RE::hkInplaceArray< hkpAgentNnSector *, 1 >", "classRE_1_1hkInplaceArray.html", null ]
+        [ "RE::hkInplaceArray< RE::hkpEntity *, 1 >", "classRE_1_1hkInplaceArray.html", null ],
+        [ "RE::hkInplaceArray< T, N, Allocator >", "classRE_1_1hkInplaceArray.html", null ]
       ] ]
     ] ],
+    [ "RE::hkArrayBase< BpInt >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< float >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkaAnimationControlListener >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkaDefaultAnimationControlListener >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkbAnimationBindingWithTriggers * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkbVariableBounds >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkbVariableInfo >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpActionListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpAgentNnSector * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpConstraintListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpContactImpulseLimitBreachedListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpIslandActivationListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpIslandPostCollideListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpIslandPostIntegrateListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpNamedMeshMaterial >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpPhantomOverlapListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpTriggerVolume * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpWorldDeletionListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpWorldExtension * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpWorldPostCollideListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< hkpWorldPostIntegrateListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< int >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< int32_t >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< MouseSpringAppliedCallback * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::bhkMeshMaterial >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkaAnnotationTrack >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkaAnnotationTrack::Annotation >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkbAssetBundleStringData >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkbCharacter * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkbCharacterStringData::FileNameMeshNamePair >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkbStateMachine::StateInfo * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkClipTrigger >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkp3AxisSweep::hkpBpEndPoint >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkp3AxisSweep::hkpBpNode >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpAction * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpCachingShapePhantom::CollisionDetail >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpCharacterProxyListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpCompressedMeshShape::BigTriangle >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpCompressedMeshShape::Chunk >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpCompressedMeshShape::ConvexPiece >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpConstraintInstance * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpContactListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpEntity * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpEntityListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpLinkedCollidable::CollisionEntry >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpListShape::ChildInfo >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpPhantom * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpPhantomListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpProperty >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpRigidBody * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpRootCdPoint >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpSimulationIsland * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkpWorldPostSimulationListener * >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkQsTransform >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkRefPtr< const hkaSkeletonMapper > >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkRefPtr< hkbAssetBundle > >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkRefVariant >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkStringPtr >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< RE::hkVector4 >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< std::int16_t >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< std::int32_t >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< std::uint16_t >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< std::uint32_t >", "classRE_1_1hkArrayBase.html", null ],
+    [ "RE::hkArrayBase< std::uint8_t >", "classRE_1_1hkArrayBase.html", null ],
     [ "RE::hkBaseObject", "classRE_1_1hkBaseObject.html", [
       [ "RE::hkReferencedObject", "classRE_1_1hkReferencedObject.html", [
         [ "RE::hkaAnimatedReferenceFrame", "classRE_1_1hkaAnimatedReferenceFrame.html", null ],
@@ -4289,6 +4646,7 @@ var hierarchy =
     [ "RE::hkRefPtr< const hkaSkeleton >", "classRE_1_1hkRefPtr.html", null ],
     [ "RE::hkRefPtr< const hkaSkeletonMapper >", "classRE_1_1hkRefPtr.html", null ],
     [ "RE::hkRefPtr< hkaMirroredSkeleton >", "classRE_1_1hkRefPtr.html", null ],
+    [ "RE::hkRefPtr< hkbAssetBundle >", "classRE_1_1hkRefPtr.html", null ],
     [ "RE::hkRefPtr< hkbEventPayload >", "classRE_1_1hkRefPtr.html", null ],
     [ "RE::hkRefPtr< hkbFootIkDriverInfo >", "classRE_1_1hkRefPtr.html", null ],
     [ "RE::hkRefPtr< hkbGeneratorOutputListener >", "classRE_1_1hkRefPtr.html", null ],
@@ -4348,7 +4706,9 @@ var hierarchy =
       [ "RE::StealthMeter", "classRE_1_1StealthMeter.html", null ]
     ] ],
     [ "RE::IAIWorldLocationHandle", "classRE_1_1IAIWorldLocationHandle.html", [
-      [ "RE::IPackageDataAIWorldLocationHandle", "classRE_1_1IPackageDataAIWorldLocationHandle.html", null ],
+      [ "RE::IPackageDataAIWorldLocationHandle", "classRE_1_1IPackageDataAIWorldLocationHandle.html", [
+        [ "RE::BGSNamedPackageData< IPackageDataAIWorldLocationHandle >", "classRE_1_1BGSNamedPackageData.html", null ]
+      ] ],
       [ "RE::PackageLocation", "classRE_1_1PackageLocation.html", null ]
     ] ],
     [ "RE::BSTArrayBase::IAllocatorFunctor", "classRE_1_1BSTArrayBase_1_1IAllocatorFunctor.html", null ],
@@ -4370,13 +4730,16 @@ var hierarchy =
     [ "RE::IAnimationSetCallbackFunctor", "classRE_1_1IAnimationSetCallbackFunctor.html", [
       [ "RE::MovementControllerNPC", "classRE_1_1MovementControllerNPC.html", null ]
     ] ],
-    [ "RE::IBSTCreator< T >", "structRE_1_1IBSTCreator.html", null ],
-    [ "RE::IBSTCreator< Parent >", "structRE_1_1IBSTCreator.html", [
-      [ "RE::BSTDerivedCreator< Derived, Parent >", "structRE_1_1BSTDerivedCreator.html", [
+    [ "RE::IBSTCreator< T >", "structRE_1_1IBSTCreator.html", [
+      [ "RE::BSTDerivedCreator< Derived, Manager::mapped_type >", "structRE_1_1BSTDerivedCreator.html", [
         [ "RE::AutoRegisterFactory< BSTDerivedCreator< Derived, Manager::mapped_type >, Manager >", "classRE_1_1AutoRegisterFactory.html", [
           [ "RE::AutoRegisterCreator< Derived, Manager >", "structRE_1_1AutoRegisterCreator.html", null ]
         ] ]
       ] ]
+    ] ],
+    [ "RE::IBSTCreator< Manager::mapped_type >", "structRE_1_1IBSTCreator.html", null ],
+    [ "RE::IBSTCreator< Parent >", "structRE_1_1IBSTCreator.html", [
+      [ "RE::BSTDerivedCreator< Derived, Parent >", "structRE_1_1BSTDerivedCreator.html", null ]
     ] ],
     [ "REL::ID", "classREL_1_1ID.html", null ],
     [ "REL::IDDatabase", "classREL_1_1IDDatabase.html", null ],
@@ -4521,20 +4884,20 @@ var hierarchy =
     [ "RE::BSScript::ByteCode::InstructionDefinition", "structRE_1_1BSScript_1_1ByteCode_1_1InstructionDefinition.html", null ],
     [ "RE::BSScript::UnlinkedTypes::InstructionStream", "classRE_1_1BSScript_1_1UnlinkedTypes_1_1InstructionStream.html", null ],
     [ "std::integral_constant", null, [
-      [ "RE::BSScript::vm_type_constant< TypeInfo::RawType::kInt >", "structRE_1_1BSScript_1_1vm__type__constant.html", [
-        [ "RE::BSScript::_vm_type< T, std::enable_if_t< is_integral_convertible_v< T > > >", "structRE_1_1BSScript_1_1__vm__type_3_01T_00_01std_1_1enable__if__t_3_01is__integral__convertible__v_3_01T_01_4_01_4_01_4.html", null ]
+      [ "RE::BSScript::vm_type_constant< TypeInfo::RawType::kBool >", "structRE_1_1BSScript_1_1vm__type__constant.html", [
+        [ "RE::BSScript::_vm_type< T, std::enable_if_t< is_boolean_v< T > > >", "structRE_1_1BSScript_1_1__vm__type_3_01T_00_01std_1_1enable__if__t_3_01is__boolean__v_3_01T_01_4_01_4_01_4.html", null ]
       ] ],
       [ "RE::BSScript::vm_type_constant< TypeInfo::RawType::kFloat >", "structRE_1_1BSScript_1_1vm__type__constant.html", [
         [ "RE::BSScript::_vm_type< T, std::enable_if_t< is_floating_point_convertible_v< T > > >", "structRE_1_1BSScript_1_1__vm__type_3_01T_00_01std_1_1enable__if__t_3_01is__floating__point__convertible__v_3_01T_01_4_01_4_01_4.html", null ]
       ] ],
-      [ "RE::BSScript::vm_type_constant< TypeInfo::RawType::kNone >", "structRE_1_1BSScript_1_1vm__type__constant.html", [
-        [ "RE::BSScript::_vm_type< void >", "structRE_1_1BSScript_1_1__vm__type_3_01void_01_4.html", null ]
-      ] ],
-      [ "RE::BSScript::vm_type_constant< TypeInfo::RawType::kBool >", "structRE_1_1BSScript_1_1vm__type__constant.html", [
-        [ "RE::BSScript::_vm_type< T, std::enable_if_t< is_boolean_v< T > > >", "structRE_1_1BSScript_1_1__vm__type_3_01T_00_01std_1_1enable__if__t_3_01is__boolean__v_3_01T_01_4_01_4_01_4.html", null ]
+      [ "RE::BSScript::vm_type_constant< TypeInfo::RawType::kInt >", "structRE_1_1BSScript_1_1vm__type__constant.html", [
+        [ "RE::BSScript::_vm_type< T, std::enable_if_t< is_integral_convertible_v< T > > >", "structRE_1_1BSScript_1_1__vm__type_3_01T_00_01std_1_1enable__if__t_3_01is__integral__convertible__v_3_01T_01_4_01_4_01_4.html", null ]
       ] ],
       [ "RE::BSScript::vm_type_constant< TypeInfo::RawType::kString >", "structRE_1_1BSScript_1_1vm__type__constant.html", [
         [ "RE::BSScript::_vm_type< T, std::enable_if_t< is_string_convertible_v< T > > >", "structRE_1_1BSScript_1_1__vm__type_3_01T_00_01std_1_1enable__if__t_3_01is__string__convertible__v_3_01T_01_4_01_4_01_4.html", null ]
+      ] ],
+      [ "RE::BSScript::vm_type_constant< TypeInfo::RawType::kNone >", "structRE_1_1BSScript_1_1vm__type__constant.html", [
+        [ "RE::BSScript::_vm_type< void >", "structRE_1_1BSScript_1_1__vm__type_3_01void_01_4.html", null ]
       ] ],
       [ "RE::BSScript::vm_type_constant< V >", "structRE_1_1BSScript_1_1vm__type__constant.html", null ]
     ] ],
@@ -4578,8 +4941,7 @@ var hierarchy =
     [ "std::is_base_of", null, [
       [ "RE::BSScript::is_active_effect< T >", "structRE_1_1BSScript_1_1is__active__effect.html", null ],
       [ "RE::BSScript::is_alias< T >", "structRE_1_1BSScript_1_1is__alias.html", null ],
-      [ "RE::BSScript::is_form< T >", "structRE_1_1BSScript_1_1is__form.html", null ],
-      [ "RE::Ni_Impl::is_base_of_no_cvpr< Base, Derived >", "structRE_1_1Ni__Impl_1_1is__base__of__no__cvpr.html", null ]
+      [ "RE::BSScript::is_form< T >", "structRE_1_1BSScript_1_1is__form.html", null ]
     ] ],
     [ "std::is_convertible", null, [
       [ "RE::BSScript::is_string_convertible< T >", "structRE_1_1BSScript_1_1is__string__convertible.html", null ],
@@ -4594,11 +4956,7 @@ var hierarchy =
       ] ],
       [ "RE::BSScript::_is_integer< T >", "structRE_1_1BSScript_1_1__is__integer.html", null ]
     ] ],
-    [ "std::is_lvalue_reference", null, [
-      [ "RE::Ni_Impl::types_are_compat< To &, From >", "structRE_1_1Ni__Impl_1_1types__are__compat_3_01To_01_6_00_01From_01_4.html", null ]
-    ] ],
     [ "std::is_pointer", null, [
-      [ "RE::Ni_Impl::types_are_compat< To *, From >", "structRE_1_1Ni__Impl_1_1types__are__compat_3_01To_01_5_00_01From_01_4.html", null ],
       [ "RE::detail::types_are_compat< To, From * >", "structRE_1_1detail_1_1types__are__compat_3_01To_00_01From_01_5_01_4.html", null ]
     ] ],
     [ "std::is_same", null, [
@@ -4620,6 +4978,12 @@ var hierarchy =
       [ "RE::SkyrimScript::SavePatcher", "classRE_1_1SkyrimScript_1_1SavePatcher.html", null ]
     ] ],
     [ "RE::SkyrimVM::ISendEventFilter", "structRE_1_1SkyrimVM_1_1ISendEventFilter.html", null ],
+    [ "REX::ISetting", "classREX_1_1ISetting.html", [
+      [ "REX::TSetting< T, Store >", "classREX_1_1TSetting.html", null ]
+    ] ],
+    [ "REX::ISettingStore", "classREX_1_1ISettingStore.html", [
+      [ "REX::TSettingStore< T >", "classREX_1_1TSettingStore.html", null ]
+    ] ],
     [ "RE::BSScript::IStackCallbackSaveInterface", "classRE_1_1BSScript_1_1IStackCallbackSaveInterface.html", [
       [ "RE::SkyrimVM", "classRE_1_1SkyrimVM.html", null ]
     ] ],
@@ -4669,6 +5033,7 @@ var hierarchy =
     [ "CameraStates::kTotal", null, [
       [ "RE::BSTArray< RE::TESCameraState *, CameraStates::kTotal >", "classRE_1_1BSTArray.html", null ]
     ] ],
+    [ "REX::W32::LARGE_INTEGER", "unionREX_1_1W32_1_1LARGE__INTEGER.html", null ],
     [ "RE::Projectile::LaunchData", "structRE_1_1Projectile_1_1LaunchData.html", null ],
     [ "RE::TESNPC::Layer", "structRE_1_1TESNPC_1_1Layer.html", null ],
     [ "RE::BGSStandardSoundDef::LengthCharacteristics", "structRE_1_1BGSStandardSoundDef_1_1LengthCharacteristics.html", null ],
@@ -4684,6 +5049,13 @@ var hierarchy =
     [ "RE::ControlMap::LinkedMapping", "structRE_1_1ControlMap_1_1LinkedMapping.html", null ],
     [ "RE::ExtraLinkedRef::LinkedRef", "structRE_1_1ExtraLinkedRef_1_1LinkedRef.html", null ],
     [ "RE::ExtraLinkedRefChildren::LinkedRefChild", "structRE_1_1ExtraLinkedRefChildren_1_1LinkedRefChild.html", null ],
+    [ "RE::BSPortalGraph::List< T >", "structRE_1_1BSPortalGraph_1_1List.html", null ],
+    [ "RE::BSPortalGraph::List< RE::BSOcclusionShape >", "structRE_1_1BSPortalGraph_1_1List.html", null ],
+    [ "RE::BSPortalGraph::List< RE::BSPortal >", "structRE_1_1BSPortalGraph_1_1List.html", null ],
+    [ "REX::W32::LIST_ENTRY", "structREX_1_1W32_1_1LIST__ENTRY.html", null ],
+    [ "RE::BSPortalGraph::ListEntry< T >", "structRE_1_1BSPortalGraph_1_1ListEntry.html", null ],
+    [ "RE::BSPortalGraph::ListEntry< RE::BSOcclusionShape >", "structRE_1_1BSPortalGraph_1_1ListEntry.html", null ],
+    [ "RE::BSPortalGraph::ListEntry< RE::BSPortal >", "structRE_1_1BSPortalGraph_1_1ListEntry.html", null ],
     [ "RE::LOADED_CELL_DATA", "structRE_1_1LOADED__CELL__DATA.html", null ],
     [ "RE::LOADED_REF_DATA", "structRE_1_1LOADED__REF__DATA.html", null ],
     [ "RE::AnimationFileManagerSingleton::LoadedAnimation", "structRE_1_1AnimationFileManagerSingleton_1_1LoadedAnimation.html", null ],
@@ -4722,7 +5094,10 @@ var hierarchy =
     ] ],
     [ "RE::MagicItemTraversalFunctor", "classRE_1_1MagicItemTraversalFunctor.html", [
       [ "RE::CraftingSubMenus::EnchantConstructMenu::CreateEffectFunctor", "classRE_1_1CraftingSubMenus_1_1EnchantConstructMenu_1_1CreateEffectFunctor.html", null ],
-      [ "RE::MagicItemDataCollector", "classRE_1_1MagicItemDataCollector.html", null ]
+      [ "RE::MagicItemDataCollector", "classRE_1_1MagicItemDataCollector.html", null ],
+      [ "RE::MagicItemFindFunctor", "classRE_1_1MagicItemFindFunctor.html", [
+        [ "RE::MagicItemFindKeywordFunctor", "classRE_1_1MagicItemFindKeywordFunctor.html", null ]
+      ] ]
     ] ],
     [ "RE::MagicTarget", "classRE_1_1MagicTarget.html", [
       [ "RE::Actor", "classRE_1_1Actor.html", null ],
@@ -4826,7 +5201,9 @@ var hierarchy =
     [ "RE::NiColor", "classRE_1_1NiColor.html", null ],
     [ "RE::NiColorA", "classRE_1_1NiColorA.html", null ],
     [ "RE::NiCullingProcess", "classRE_1_1NiCullingProcess.html", [
-      [ "RE::BSCullingProcess", "classRE_1_1BSCullingProcess.html", null ]
+      [ "RE::BSCullingProcess", "classRE_1_1BSCullingProcess.html", [
+        [ "RE::BSParabolicCullingProcess", "classRE_1_1BSParabolicCullingProcess.html", null ]
+      ] ]
     ] ],
     [ "RE::NiFrustum", "classRE_1_1NiFrustum.html", null ],
     [ "RE::NiFrustumPlanes", "classRE_1_1NiFrustumPlanes.html", null ],
@@ -4851,15 +5228,14 @@ var hierarchy =
     [ "RE::NiPointer< BSLines >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< BSMultiBoundRoom >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< BSNodeReferences >", "classRE_1_1NiPointer.html", null ],
-    [ "RE::NiPointer< BSOcclusionShape >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< BSParticleShaderGeometry >", "classRE_1_1NiPointer.html", null ],
-    [ "RE::NiPointer< BSPortal >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< BSShaderAccumulator >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< CellMopp >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< CombatProjectileAimController >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiAdditionalGeometryData >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiAVObjectPalette >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiDirectionalLight >", "classRE_1_1NiPointer.html", null ],
+    [ "RE::NiPointer< NiNode >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiStringPalette >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiTextKeyExtraData >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< QueuedAnimationObject >", "classRE_1_1NiPointer.html", null ],
@@ -4892,9 +5268,12 @@ var hierarchy =
     [ "RE::NiPointer< RE::BSMultiBoundNode >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::BSMultiBoundShape >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::BSMultiStreamInstanceTriShape >", "classRE_1_1NiPointer.html", null ],
+    [ "RE::NiPointer< RE::BSOcclusionShape >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::BSParticleShaderObjectEmitter >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::BSParticleShaderProperty >", "classRE_1_1NiPointer.html", null ],
+    [ "RE::NiPointer< RE::BSPortal >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::BSPortalGraph >", "classRE_1_1NiPointer.html", null ],
+    [ "RE::NiPointer< RE::BSPortalSharedNode >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::BSShaderProperty >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::BSTempEffectParticle >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::BSTextureSet >", "classRE_1_1NiPointer.html", null ],
@@ -4917,9 +5296,11 @@ var hierarchy =
     [ "RE::NiPointer< RE::NiInterpolator >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiLight >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiNode >", "classRE_1_1NiPointer.html", null ],
+    [ "RE::NiPointer< RE::NiObject >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiParticlesData >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiPointLight >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiProperty >", "classRE_1_1NiPointer.html", null ],
+    [ "RE::NiPointer< RE::NiPSysModifier >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiRefObject >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiSkinData >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiSkinInstance >", "classRE_1_1NiPointer.html", null ],
@@ -4964,6 +5345,7 @@ var hierarchy =
         [ "RE::BSParticleShaderObjectEmitter", "classRE_1_1BSParticleShaderObjectEmitter.html", null ]
       ] ],
       [ "RE::BSPortalGraph", "classRE_1_1BSPortalGraph.html", null ],
+      [ "RE::BSPortalGraphEntry", "classRE_1_1BSPortalGraphEntry.html", null ],
       [ "RE::BSShader", "classRE_1_1BSShader.html", null ],
       [ "RE::CombatObject", "classRE_1_1CombatObject.html", [
         [ "RE::CombatInventoryItem", "classRE_1_1CombatInventoryItem.html", [
@@ -5002,6 +5384,12 @@ var hierarchy =
         [ "RE::BSMultiBoundShape", "classRE_1_1BSMultiBoundShape.html", [
           [ "RE::BSMultiBoundAABB", "classRE_1_1BSMultiBoundAABB.html", [
             [ "RE::BSMultiBoundOBB", "classRE_1_1BSMultiBoundOBB.html", null ]
+          ] ]
+        ] ],
+        [ "RE::BSOcclusionShape", "classRE_1_1BSOcclusionShape.html", [
+          [ "RE::BSOcclusionBox", "classRE_1_1BSOcclusionBox.html", null ],
+          [ "RE::BSOcclusionPlane", "classRE_1_1BSOcclusionPlane.html", [
+            [ "RE::BSPortal", "classRE_1_1BSPortal.html", null ]
           ] ]
         ] ],
         [ "RE::BSTempEffect", "classRE_1_1BSTempEffect.html", [
@@ -5096,6 +5484,7 @@ var hierarchy =
                 [ "RE::BSOrderedNode", "classRE_1_1BSOrderedNode.html", null ],
                 [ "RE::BSValueNode", "classRE_1_1BSValueNode.html", null ]
               ] ],
+              [ "RE::BSPortalSharedNode", "classRE_1_1BSPortalSharedNode.html", null ],
               [ "RE::BSSceneGraph", "classRE_1_1BSSceneGraph.html", [
                 [ "RE::SceneGraph", "classRE_1_1SceneGraph.html", null ]
               ] ],
@@ -5183,20 +5572,34 @@ var hierarchy =
     ] ],
     [ "RE::NiTArray< T, Allocator >", "classRE_1_1NiTArray.html", [
       [ "RE::NiTObjectArray< RE::NiPointer< RE::NiTexture > >", "classRE_1_1NiTObjectArray.html", null ],
-      [ "RE::NiTObjectArray< RE::NiPointer< RE::NiAVObject > >", "classRE_1_1NiTObjectArray.html", null ],
       [ "RE::NiTObjectArray< RE::NiPointer< RE::NiControllerSequence > >", "classRE_1_1NiTObjectArray.html", null ],
-      [ "RE::NiTPrimitiveArray< BSGraphics::TextureFilterMode >", "classRE_1_1NiTPrimitiveArray.html", null ],
+      [ "RE::NiTObjectArray< RE::NiPointer< RE::NiAVObject > >", "classRE_1_1NiTObjectArray.html", null ],
       [ "RE::NiTPrimitiveArray< RE::BSAnimNoteListener::BSAnimReceiverType * >", "classRE_1_1NiTPrimitiveArray.html", null ],
       [ "RE::NiTPrimitiveArray< RE::CombatGroup * >", "classRE_1_1NiTPrimitiveArray.html", null ],
-      [ "RE::NiTPrimitiveArray< RE::BGSAddonNode * >", "classRE_1_1NiTPrimitiveArray.html", null ],
-      [ "RE::NiTPrimitiveArray< ImageSpaceEffect::EffectInput * >", "classRE_1_1NiTPrimitiveArray.html", null ],
-      [ "RE::NiTPrimitiveArray< RE::ImageSpaceTexture * >", "classRE_1_1NiTPrimitiveArray.html", null ],
-      [ "RE::NiTPrimitiveArray< bool >", "classRE_1_1NiTPrimitiveArray.html", null ],
-      [ "RE::NiTPrimitiveArray< RE::TESObjectCELL * >", "classRE_1_1NiTPrimitiveArray.html", null ],
-      [ "RE::NiTPrimitiveArray< std::int32_t >", "classRE_1_1NiTPrimitiveArray.html", null ],
+      [ "RE::NiTPrimitiveArray< RE::ImageSpaceEffect * >", "classRE_1_1NiTPrimitiveArray.html", null ],
       [ "RE::NiTPrimitiveArray< RE::ImageSpaceEffectParam * >", "classRE_1_1NiTPrimitiveArray.html", null ],
-      [ "RE::NiTPrimitiveArray< RE::ImageSpaceEffect * >", "classRE_1_1NiTPrimitiveArray.html", null ]
+      [ "RE::NiTPrimitiveArray< RE::ImageSpaceTexture * >", "classRE_1_1NiTPrimitiveArray.html", null ],
+      [ "RE::NiTPrimitiveArray< ImageSpaceEffect::EffectInput * >", "classRE_1_1NiTPrimitiveArray.html", null ],
+      [ "RE::NiTPrimitiveArray< std::int32_t >", "classRE_1_1NiTPrimitiveArray.html", null ],
+      [ "RE::NiTPrimitiveArray< bool >", "classRE_1_1NiTPrimitiveArray.html", null ],
+      [ "RE::NiTPrimitiveArray< BSGraphics::TextureFilterMode >", "classRE_1_1NiTPrimitiveArray.html", null ],
+      [ "RE::NiTPrimitiveArray< RE::TESObjectCELL * >", "classRE_1_1NiTPrimitiveArray.html", null ],
+      [ "RE::NiTPrimitiveArray< RE::BGSAddonNode * >", "classRE_1_1NiTPrimitiveArray.html", null ]
     ] ],
+    [ "RE::NiTArray< bool, NiTMallocInterface< bool > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< BSGraphics::TextureFilterMode, NiTMallocInterface< BSGraphics::TextureFilterMode > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< ImageSpaceEffect::EffectInput *, NiTMallocInterface< ImageSpaceEffect::EffectInput * > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< RE::BGSAddonNode *, NiTMallocInterface< RE::BGSAddonNode * > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< RE::BSAnimNoteListener::BSAnimReceiverType *, NiTMallocInterface< RE::BSAnimNoteListener::BSAnimReceiverType * > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< RE::CombatGroup *, NiTMallocInterface< RE::CombatGroup * > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< RE::ImageSpaceEffect *, NiTMallocInterface< RE::ImageSpaceEffect * > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< RE::ImageSpaceEffectParam *, NiTMallocInterface< RE::ImageSpaceEffectParam * > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< RE::ImageSpaceTexture *, NiTMallocInterface< RE::ImageSpaceTexture * > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< RE::NiPointer< RE::NiAVObject >, NiTNewInterface< RE::NiPointer< RE::NiAVObject > > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< RE::NiPointer< RE::NiControllerSequence >, NiTNewInterface< RE::NiPointer< RE::NiControllerSequence > > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< RE::NiPointer< RE::NiTexture >, NiTNewInterface< RE::NiPointer< RE::NiTexture > > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< RE::TESObjectCELL *, NiTMallocInterface< RE::TESObjectCELL * > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< std::int32_t, NiTMallocInterface< std::int32_t > >", "classRE_1_1NiTArray.html", null ],
     [ "RE::NiTArray< T, NiTMallocInterface< T > >", "classRE_1_1NiTArray.html", [
       [ "RE::NiTPrimitiveArray< T >", "classRE_1_1NiTPrimitiveArray.html", null ]
     ] ],
@@ -5207,54 +5610,85 @@ var hierarchy =
     [ "RE::NiTLargeArray< T, Allocator >", "classRE_1_1NiTLargeArray.html", [
       [ "RE::NiTLargeObjectArray< RE::NiPointer< RE::NiObject > >", "classRE_1_1NiTLargeObjectArray.html", null ],
       [ "RE::NiTLargeObjectArray< RE::detail::BSFixedString >", "classRE_1_1NiTLargeObjectArray.html", null ],
-      [ "RE::NiTLargePrimitiveArray< std::uint32_t >", "classRE_1_1NiTLargePrimitiveArray.html", null ],
       [ "RE::NiTLargePrimitiveArray< TESForm * >", "classRE_1_1NiTLargePrimitiveArray.html", [
         [ "RE::NiFormArray", "classRE_1_1NiFormArray.html", null ]
-      ] ]
+      ] ],
+      [ "RE::NiTLargePrimitiveArray< std::uint32_t >", "classRE_1_1NiTLargePrimitiveArray.html", null ]
     ] ],
+    [ "RE::NiTLargeArray< RE::detail::BSFixedString, NiTNewInterface< RE::detail::BSFixedString > >", "classRE_1_1NiTLargeArray.html", null ],
+    [ "RE::NiTLargeArray< RE::NiPointer< RE::NiObject >, NiTNewInterface< RE::NiPointer< RE::NiObject > > >", "classRE_1_1NiTLargeArray.html", null ],
+    [ "RE::NiTLargeArray< std::uint32_t, NiTMallocInterface< std::uint32_t > >", "classRE_1_1NiTLargeArray.html", null ],
     [ "RE::NiTLargeArray< T, NiTMallocInterface< T > >", "classRE_1_1NiTLargeArray.html", [
       [ "RE::NiTLargePrimitiveArray< T >", "classRE_1_1NiTLargePrimitiveArray.html", null ]
     ] ],
     [ "RE::NiTLargeArray< T, NiTNewInterface< T > >", "classRE_1_1NiTLargeArray.html", [
       [ "RE::NiTLargeObjectArray< T >", "classRE_1_1NiTLargeObjectArray.html", null ]
     ] ],
+    [ "RE::NiTLargeArray< TESForm *, NiTMallocInterface< TESForm * > >", "classRE_1_1NiTLargeArray.html", null ],
     [ "RE::NiTListBase< Allocator, T >", "classRE_1_1NiTListBase.html", [
-      [ "RE::NiTPointerListBase< NiTPointerAllocator< std::uintptr_t >, T >", "classRE_1_1NiTPointerListBase.html", [
-        [ "RE::NiTPointerList< T >", "classRE_1_1NiTPointerList.html", null ]
-      ] ],
       [ "RE::NiTPointerListBase< NiTDefaultAllocator< T >, T >", "classRE_1_1NiTPointerListBase.html", [
         [ "RE::NiTList< T >", "classRE_1_1NiTList.html", null ]
       ] ],
+      [ "RE::NiTPointerListBase< NiTPointerAllocator< std::uintptr_t >, T >", "classRE_1_1NiTPointerListBase.html", [
+        [ "RE::NiTPointerList< T >", "classRE_1_1NiTPointerList.html", null ]
+      ] ],
+      [ "RE::NiTPointerListBase< NiTPointerAllocator< std::uintptr_t >, RE::NiPointer< RE::NiPSysModifier > >", "classRE_1_1NiTPointerListBase.html", null ],
+      [ "RE::NiTPointerListBase< NiTDefaultAllocator< RE::TESForm * >, RE::TESForm * >", "classRE_1_1NiTPointerListBase.html", null ],
       [ "RE::NiTPointerListBase< Allocator, T >", "classRE_1_1NiTPointerListBase.html", [
         [ "RE::NiTList< RE::TESForm * >", "classRE_1_1NiTList.html", null ],
         [ "RE::NiTPointerList< RE::NiPointer< RE::NiPSysModifier > >", "classRE_1_1NiTPointerList.html", null ]
       ] ]
     ] ],
+    [ "RE::NiTListBase< NiTDefaultAllocator< RE::TESForm * >, RE::TESForm * >", "classRE_1_1NiTListBase.html", null ],
+    [ "RE::NiTListBase< NiTDefaultAllocator< T >, T >", "classRE_1_1NiTListBase.html", null ],
+    [ "RE::NiTListBase< NiTPointerAllocator< std::uintptr_t >, RE::NiPointer< RE::NiPSysModifier > >", "classRE_1_1NiTListBase.html", null ],
+    [ "RE::NiTListBase< NiTPointerAllocator< std::uintptr_t >, T >", "classRE_1_1NiTListBase.html", null ],
     [ "RE::NiTListItem< T >", "classRE_1_1NiTListItem.html", null ],
+    [ "RE::NiTListItem< RE::NiPointer< RE::NiPSysModifier > >", "classRE_1_1NiTListItem.html", null ],
+    [ "RE::NiTListItem< RE::TESForm * >", "classRE_1_1NiTListItem.html", null ],
     [ "RE::NiTMallocInterface< T >", "classRE_1_1NiTMallocInterface.html", null ],
     [ "RE::NiTMapBase< Allocator, Key, T >", "classRE_1_1NiTMapBase.html", [
-      [ "RE::NiTMap< std::uint32_t, std::uint8_t >", "classRE_1_1NiTMap.html", null ],
-      [ "RE::NiTMap< RE::BSMultiBoundNode *, BSPointerHandle< TESObjectREFR > >", "classRE_1_1NiTMap.html", null ],
-      [ "RE::NiTMap< RE::TESForm *, BSPointerHandle< TESObjectREFR > >", "classRE_1_1NiTMap.html", null ],
-      [ "RE::NiTMap< BSPointerHandle< TESObjectREFR >, RE::NiNode * >", "classRE_1_1NiTMap.html", null ],
-      [ "RE::NiTMap< BSPointerHandle< TESObjectREFR >, RE::NiPointer< RE::BSMultiBoundNode > >", "classRE_1_1NiTMap.html", null ],
-      [ "RE::NiTPointerMap< std::uint32_t, RE::BSSimpleList< RE::TESObjectREFR * > * >", "classRE_1_1NiTPointerMap.html", null ],
-      [ "RE::NiTPointerMap< BSPointerHandle< Actor >, WadingWaterData * >", "classRE_1_1NiTPointerMap.html", null ],
-      [ "RE::NiTPointerMap< RE::NiObject const *, std::uint32_t >", "classRE_1_1NiTPointerMap.html", null ]
-    ] ],
-    [ "RE::NiTMapBase< NiTDefaultAllocator< NiTMapItem< Key, T > >, Key, T >", "classRE_1_1NiTMapBase.html", [
-      [ "RE::NiTMap< Key, T >", "classRE_1_1NiTMap.html", [
+      [ "RE::NiTMap< const char *, Setting * >", "classRE_1_1NiTMap.html", [
+        [ "RE::NiTStringTemplateMap< NiTMap< const char *, Setting * >, Setting * >", "classRE_1_1NiTStringTemplateMap.html", null ]
+      ] ],
+      [ "RE::NiTMap< const char *, T >", "classRE_1_1NiTMap.html", [
         [ "RE::NiTStringTemplateMap< NiTMap< const char *, T >, T >", "classRE_1_1NiTStringTemplateMap.html", [
           [ "RE::NiTStringMap< T >", "classRE_1_1NiTStringMap.html", [
+            [ "RE::BSTCaseInsensitiveStringMap< Setting * >", "classRE_1_1BSTCaseInsensitiveStringMap.html", null ],
             [ "RE::BSTCaseInsensitiveStringMap< T * >", "classRE_1_1BSTCaseInsensitiveStringMap.html", null ],
             [ "RE::BSTCaseInsensitiveStringMap< T >", "classRE_1_1BSTCaseInsensitiveStringMap.html", null ]
           ] ]
         ] ]
-      ] ]
+      ] ],
+      [ "RE::NiTMap< RE::TESForm *, BSPointerHandle< TESObjectREFR > >", "classRE_1_1NiTMap.html", null ],
+      [ "RE::NiTMap< BSPointerHandle< TESObjectREFR >, RE::NiNode * >", "classRE_1_1NiTMap.html", null ],
+      [ "RE::NiTMap< BSPointerHandle< TESObjectREFR >, RE::NiPointer< RE::BSMultiBoundNode > >", "classRE_1_1NiTMap.html", null ],
+      [ "RE::NiTMap< RE::BSMultiBoundNode *, BSPointerHandle< TESObjectREFR > >", "classRE_1_1NiTMap.html", null ],
+      [ "RE::NiTMap< std::uint32_t, std::uint8_t >", "classRE_1_1NiTMap.html", null ],
+      [ "RE::NiTMap< const char *, T * >", "classRE_1_1NiTMap.html", [
+        [ "RE::NiTStringTemplateMap< NiTMap< const char *, T * >, T * >", "classRE_1_1NiTStringTemplateMap.html", null ]
+      ] ],
+      [ "RE::NiTPointerMap< RE::NiObject const *, std::uint32_t >", "classRE_1_1NiTPointerMap.html", null ],
+      [ "RE::NiTPointerMap< BSPointerHandle< Actor >, WadingWaterData * >", "classRE_1_1NiTPointerMap.html", null ],
+      [ "RE::NiTPointerMap< std::uint32_t, RE::BSSimpleList< RE::TESObjectREFR * > * >", "classRE_1_1NiTPointerMap.html", null ]
     ] ],
+    [ "RE::NiTMapBase< NiTDefaultAllocator< NiTMapItem< BSPointerHandle< TESObjectREFR >, RE::NiNode * > >, BSPointerHandle< TESObjectREFR >, RE::NiNode * >", "classRE_1_1NiTMapBase.html", null ],
+    [ "RE::NiTMapBase< NiTDefaultAllocator< NiTMapItem< BSPointerHandle< TESObjectREFR >, RE::NiPointer< RE::BSMultiBoundNode > > >, BSPointerHandle< TESObjectREFR >, RE::NiPointer< RE::BSMultiBoundNode > >", "classRE_1_1NiTMapBase.html", null ],
+    [ "RE::NiTMapBase< NiTDefaultAllocator< NiTMapItem< const char *, Setting * > >, const char *, Setting * >", "classRE_1_1NiTMapBase.html", null ],
+    [ "RE::NiTMapBase< NiTDefaultAllocator< NiTMapItem< const char *, T * > >, const char *, T * >", "classRE_1_1NiTMapBase.html", null ],
+    [ "RE::NiTMapBase< NiTDefaultAllocator< NiTMapItem< const char *, T > >, const char *, T >", "classRE_1_1NiTMapBase.html", null ],
+    [ "RE::NiTMapBase< NiTDefaultAllocator< NiTMapItem< Key, T > >, Key, T >", "classRE_1_1NiTMapBase.html", [
+      [ "RE::NiTMap< Key, T >", "classRE_1_1NiTMap.html", null ]
+    ] ],
+    [ "RE::NiTMapBase< NiTDefaultAllocator< NiTMapItem< RE::BSMultiBoundNode *, BSPointerHandle< TESObjectREFR > > >, RE::BSMultiBoundNode *, BSPointerHandle< TESObjectREFR > >", "classRE_1_1NiTMapBase.html", null ],
+    [ "RE::NiTMapBase< NiTDefaultAllocator< NiTMapItem< RE::TESForm *, BSPointerHandle< TESObjectREFR > > >, RE::TESForm *, BSPointerHandle< TESObjectREFR > >", "classRE_1_1NiTMapBase.html", null ],
+    [ "RE::NiTMapBase< NiTDefaultAllocator< NiTMapItem< std::uint32_t, std::uint8_t > >, std::uint32_t, std::uint8_t >", "classRE_1_1NiTMapBase.html", null ],
+    [ "RE::NiTMapBase< NiTPointerAllocator< std::uintptr_t >, BSPointerHandle< Actor >, WadingWaterData * >", "classRE_1_1NiTMapBase.html", null ],
     [ "RE::NiTMapBase< NiTPointerAllocator< std::uintptr_t >, Key, T >", "classRE_1_1NiTMapBase.html", [
       [ "RE::NiTPointerMap< Key, T >", "classRE_1_1NiTPointerMap.html", null ]
     ] ],
+    [ "RE::NiTMapBase< NiTPointerAllocator< std::uintptr_t >, RE::NiObject const *, std::uint32_t >", "classRE_1_1NiTMapBase.html", null ],
+    [ "RE::NiTMapBase< NiTPointerAllocator< std::uintptr_t >, std::uint32_t, RE::BSSimpleList< RE::TESObjectREFR * > * >", "classRE_1_1NiTMapBase.html", null ],
     [ "RE::NiTMapItem< Key, T >", "classRE_1_1NiTMapItem.html", null ],
     [ "RE::NiTNewInterface< T >", "classRE_1_1NiTNewInterface.html", null ],
     [ "RE::NiTPointerAllocator< T >", "classRE_1_1NiTPointerAllocator.html", null ],
@@ -5263,6 +5697,8 @@ var hierarchy =
       [ "RE::NiTObjectSet< RE::NiPointer< RE::NiControllerSequence > >", "classRE_1_1NiTObjectSet.html", null ],
       [ "RE::NiTPrimitiveSet< RE::NiControllerSequence * >", "classRE_1_1NiTPrimitiveSet.html", null ]
     ] ],
+    [ "RE::NiTSet< RE::NiControllerSequence *, NiTMallocInterface< RE::NiControllerSequence * > >", "classRE_1_1NiTSet.html", null ],
+    [ "RE::NiTSet< RE::NiPointer< RE::NiControllerSequence >, NiTNewInterface< RE::NiPointer< RE::NiControllerSequence > > >", "classRE_1_1NiTSet.html", null ],
     [ "RE::NiTSet< T, NiTMallocInterface< T > >", "classRE_1_1NiTSet.html", [
       [ "RE::NiTPrimitiveSet< T >", "classRE_1_1NiTPrimitiveSet.html", null ]
     ] ],
@@ -5278,11 +5714,13 @@ var hierarchy =
     [ "RE::GHashNode< C, U, Hash >::NodeAltHashF", "structRE_1_1GHashNode_1_1NodeAltHashF.html", null ],
     [ "RE::GHashNode< C, U, Hash >::NodeHashF", "structRE_1_1GHashNode_1_1NodeHashF.html", null ],
     [ "RE::GHashNode< C, U, Hash >::NodeRef", "structRE_1_1GHashNode_1_1NodeRef.html", null ],
-    [ "RE::NoInitializationPolicy< T, Key >", "classRE_1_1NoInitializationPolicy.html", [
+    [ "NoInitializationPolicy", null, [
       [ "RE::BSTObjectDictionary< BSTSmartPointer< AnimHandler >, BSFixedString, HandlerCreationMissPolicy, NoInitializationPolicy >", "classRE_1_1BSTObjectDictionary.html", null ]
     ] ],
+    [ "RE::NoInitializationPolicy< T, Key >", "classRE_1_1NoInitializationPolicy.html", null ],
     [ "RE::HUDNotifications::Notification", "structRE_1_1HUDNotifications_1_1Notification.html", null ],
     [ "RE::BSResource::IEntryDB::NotifyLoadDone", "classRE_1_1BSResource_1_1IEntryDB_1_1NotifyLoadDone.html", null ],
+    [ "REX::W32::NT_TIB", "structREX_1_1W32_1_1NT__TIB.html", null ],
     [ "RE::OBJ_ARMA", "structRE_1_1OBJ__ARMA.html", null ],
     [ "RE::OBJ_BOOK", "structRE_1_1OBJ__BOOK.html", null ],
     [ "RE::OBJ_LAND", "structRE_1_1OBJ__LAND.html", null ],
@@ -5302,6 +5740,7 @@ var hierarchy =
     [ "RE::BSTLocklessQueue::ObjQueueBase< QueueContainer, T, SIZE, UNKNOWN >", "structRE_1_1BSTLocklessQueue_1_1ObjQueueBase.html", [
       [ "RE::BSTLocklessQueue::ObjMultiProdCons< RE::BSCullingProcess::Data, 4096, 0 >", "classRE_1_1BSTLocklessQueue_1_1ObjMultiProdCons.html", null ]
     ] ],
+    [ "RE::BSTLocklessQueue::ObjQueueBase< PtrMultiProdCons< RE::BSCullingProcess::Data, SIZE *2, UNKNOWN >, RE::BSCullingProcess::Data, SIZE, UNKNOWN >", "structRE_1_1BSTLocklessQueue_1_1ObjQueueBase.html", null ],
     [ "RE::BSTLocklessQueue::ObjQueueBase< PtrMultiProdCons< T, SIZE *2, UNKNOWN >, T, SIZE, UNKNOWN >", "structRE_1_1BSTLocklessQueue_1_1ObjQueueBase.html", [
       [ "RE::BSTLocklessQueue::ObjMultiProdCons< T, SIZE, UNKNOWN >", "classRE_1_1BSTLocklessQueue_1_1ObjMultiProdCons.html", null ]
     ] ],
@@ -5333,7 +5772,10 @@ var hierarchy =
       ] ],
       [ "RE::BGSTypedItem< Child, Parent >", "classRE_1_1BGSTypedItem.html", null ],
       [ "RE::BSResponse< Type, Handler, Parameter, Parent >", "classRE_1_1BSResponse.html", null ],
-      [ "RE::NiTStringTemplateMap< Parent, T >", "classRE_1_1NiTStringTemplateMap.html", null ]
+      [ "RE::NiTStringTemplateMap< Parent, T >", "classRE_1_1NiTStringTemplateMap.html", [
+        [ "RE::NiTStringMap< Setting * >", "classRE_1_1NiTStringMap.html", null ],
+        [ "RE::NiTStringMap< T * >", "classRE_1_1NiTStringMap.html", null ]
+      ] ]
     ] ],
     [ "RE::PART_DATA", "structRE_1_1PART__DATA.html", null ],
     [ "RE::BSParticleShaderEmitter::ParticleData", "structRE_1_1BSParticleShaderEmitter_1_1ParticleData.html", null ],
@@ -5344,6 +5786,8 @@ var hierarchy =
     [ "RE::PATH_DATA", "structRE_1_1PATH__DATA.html", null ],
     [ "RE::PatrolRefData", "structRE_1_1PatrolRefData.html", null ],
     [ "REL::detail::PatternMatcher< Rules >", "classREL_1_1detail_1_1PatternMatcher.html", null ],
+    [ "REX::W32::PEB", "structREX_1_1W32_1_1PEB.html", null ],
+    [ "REX::W32::PEB_LDR_DATA", "structREX_1_1W32_1_1PEB__LDR__DATA.html", null ],
     [ "RE::PerformOpFunc", "classRE_1_1PerformOpFunc.html", null ],
     [ "RE::PerkData", "structRE_1_1PerkData.html", null ],
     [ "RE::TweenMenu::PerkData", "structRE_1_1TweenMenu_1_1PerkData.html", null ],
@@ -5400,9 +5844,10 @@ var hierarchy =
     [ "RE::CraftingSubMenus::AlchemyMenu::PotionCreationData", "classRE_1_1CraftingSubMenus_1_1AlchemyMenu_1_1PotionCreationData.html", null ],
     [ "RE::Precipitation", "classRE_1_1Precipitation.html", null ],
     [ "RE::MagicItem::PreloadableVisitor", "classRE_1_1MagicItem_1_1PreloadableVisitor.html", null ],
-    [ "RE::PreloadResponsesInitializationPolicy< T, Key >", "classRE_1_1PreloadResponsesInitializationPolicy.html", [
+    [ "PreloadResponsesInitializationPolicy", null, [
       [ "RE::BSTObjectDictionary< BSTSmartPointer< AnimResponse >, BSFixedString, ResponseDefinitionMissPolicy, PreloadResponsesInitializationPolicy >", "classRE_1_1BSTObjectDictionary.html", null ]
     ] ],
+    [ "RE::PreloadResponsesInitializationPolicy< T, Key >", "classRE_1_1PreloadResponsesInitializationPolicy.html", null ],
     [ "RE::BaseExtraList::PresenceBitfield", "structRE_1_1BaseExtraList_1_1PresenceBitfield.html", null ],
     [ "RE::TESRace::FaceRelatedData::TintAsset::Presets", "structRE_1_1TESRace_1_1FaceRelatedData_1_1TintAsset_1_1Presets.html", null ],
     [ "RE::PlayerCharacter::PreTransformationData", "structRE_1_1PlayerCharacter_1_1PreTransformationData.html", null ],
@@ -5412,6 +5857,8 @@ var hierarchy =
     [ "RE::BSScript::ObjectTypeInfo::PropertyInfo", "structRE_1_1BSScript_1_1ObjectTypeInfo_1_1PropertyInfo.html", null ],
     [ "RE::BSScript::PropertyTypeInfo", "structRE_1_1BSScript_1_1PropertyTypeInfo.html", null ],
     [ "RE::BSTLocklessQueue::PtrMultiProdCons< T, SIZE, UNKNOWN >", "classRE_1_1BSTLocklessQueue_1_1PtrMultiProdCons.html", null ],
+    [ "RE::BSTLocklessQueue::PtrMultiProdCons< RE::BSCullingProcess::Data, SIZE *2, UNKNOWN >", "classRE_1_1BSTLocklessQueue_1_1PtrMultiProdCons.html", null ],
+    [ "RE::BSTLocklessQueue::PtrMultiProdCons< T, SIZE *2, UNKNOWN >", "classRE_1_1BSTLocklessQueue_1_1PtrMultiProdCons.html", null ],
     [ "SKSE::QueryInterface", "classSKSE_1_1QueryInterface.html", [
       [ "SKSE::LoadInterface", "classSKSE_1_1LoadInterface.html", null ]
     ] ],
@@ -5568,7 +6015,8 @@ var hierarchy =
     [ "RE::BSScript::reference_array< T, std::enable_if_t< std::disjunction_v< is_builtin_convertible< T >, is_form_pointer< T > > > >", "classRE_1_1BSScript_1_1reference__array_3_01T_00_01std_1_1enable__if__t_3_01std_1_1disjunction__23d79d9a27cfca2e97d3ae8cde9853d7.html", null ],
     [ "RE::ReferenceEffectController", "classRE_1_1ReferenceEffectController.html", [
       [ "RE::ActiveEffectReferenceEffectController", "classRE_1_1ActiveEffectReferenceEffectController.html", null ],
-      [ "RE::SkyEffectController", "classRE_1_1SkyEffectController.html", null ]
+      [ "RE::SkyEffectController", "classRE_1_1SkyEffectController.html", null ],
+      [ "RE::WeaponEnchantmentController", "classRE_1_1WeaponEnchantmentController.html", null ]
     ] ],
     [ "RE::REFR_LIGHT", "structRE_1_1REFR__LIGHT.html", null ],
     [ "RE::REFR_LOCK", "structRE_1_1REFR__LOCK.html", null ],
@@ -5616,7 +6064,8 @@ var hierarchy =
     [ "RE::GFxResourceWeakLib::ResourceNode", "structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html", null ],
     [ "RE::GFxResourceSource::ResourceUnion", "unionRE_1_1GFxResourceSource_1_1ResourceUnion.html", null ],
     [ "RE::TESTopicInfo::ResponseData", "structRE_1_1TESTopicInfo_1_1ResponseData.html", null ],
-    [ "RE::ResponseDefinitionMissPolicy< T, Key >", "classRE_1_1ResponseDefinitionMissPolicy.html", [
+    [ "RE::ResponseDefinitionMissPolicy< T, Key >", "classRE_1_1ResponseDefinitionMissPolicy.html", null ],
+    [ "ResponseDefinitionMissPolicy", null, [
       [ "RE::BSTObjectDictionary< BSTSmartPointer< AnimResponse >, BSFixedString, ResponseDefinitionMissPolicy, PreloadResponsesInitializationPolicy >", "classRE_1_1BSTObjectDictionary.html", null ]
     ] ],
     [ "RE::ReticuleController", "structRE_1_1ReticuleController.html", null ],
@@ -5628,6 +6077,7 @@ var hierarchy =
     [ "RE::GMemoryHeap::RootHeapParameters", "structRE_1_1GMemoryHeap_1_1RootHeapParameters.html", null ],
     [ "RE::GMemoryHeap::RootStats", "structRE_1_1GMemoryHeap_1_1RootStats.html", null ],
     [ "RE::bhkThreadMemorySource::Row", "structRE_1_1bhkThreadMemorySource_1_1Row.html", null ],
+    [ "REX::W32::RTL_USER_PROCESS_PARAMETERS", "structREX_1_1W32_1_1RTL__USER__PROCESS__PARAMETERS.html", null ],
     [ "RE::Rumble", "classRE_1_1Rumble.html", null ],
     [ "RE::RunOncePackage", "structRE_1_1RunOncePackage.html", null ],
     [ "RE::hkpLimitedHingeConstraintData::Runtime", "structRE_1_1hkpLimitedHingeConstraintData_1_1Runtime.html", null ],
@@ -5638,9 +6088,12 @@ var hierarchy =
     [ "RE::RTTI::RVA< RE::RTTI::ClassHierarchyDescriptor >", "classRE_1_1RTTI_1_1RVA.html", null ],
     [ "RE::RTTI::RVA< TypeDescriptor >", "classRE_1_1RTTI_1_1RVA.html", null ],
     [ "RE::BSVolumetricLightingRenderData::SamplingRepartition", "structRE_1_1BSVolumetricLightingRenderData_1_1SamplingRepartition.html", null ],
+    [ "RE::BGSSaveLoadManager::SaveEntry", "structRE_1_1BGSSaveLoadManager_1_1SaveEntry.html", null ],
     [ "RE::SayOnceTopicInfos", "structRE_1_1SayOnceTopicInfos.html", null ],
     [ "SKSE::ScaleformInterface", "classSKSE_1_1ScaleformInterface.html", null ],
     [ "RE::TESRegionPointList::ScaleResult", "structRE_1_1TESRegionPointList_1_1ScaleResult.html", null ],
+    [ "SKSE::stl::scope_exit< EF >", "classSKSE_1_1stl_1_1scope__exit.html", null ],
+    [ "RE::TESObjectWEAP::ScopeArt", "structRE_1_1TESObjectWEAP_1_1ScopeArt.html", null ],
     [ "RE::BSGraphics::ScreenSize", "structRE_1_1BSGraphics_1_1ScreenSize.html", null ],
     [ "RE::SCRIPT_EFFECT_DATA", "structRE_1_1SCRIPT__EFFECT__DATA.html", null ],
     [ "RE::SCRIPT_FUNCTION", "structRE_1_1SCRIPT__FUNCTION.html", null ],
@@ -5678,6 +6131,7 @@ var hierarchy =
       [ "RE::SettingCollectionList< T >", "classRE_1_1SettingCollectionList.html", null ],
       [ "RE::SettingCollectionMap< T >", "classRE_1_1SettingCollectionMap.html", null ]
     ] ],
+    [ "RE::SettingCollection< Setting >", "classRE_1_1SettingCollection.html", null ],
     [ "RE::BGSAssociationType::Sexes", "structRE_1_1BGSAssociationType_1_1Sexes.html", null ],
     [ "RE::SEXES", "structRE_1_1SEXES.html", null ],
     [ "RE::TESBipedModelForm::Sexes", "structRE_1_1TESBipedModelForm_1_1Sexes.html", null ],
@@ -5699,6 +6153,9 @@ var hierarchy =
     [ "RE::hkpWeldingUtility::SinCosTableEntry", "structRE_1_1hkpWeldingUtility_1_1SinCosTableEntry.html", null ],
     [ "io::single_and_empty_line_comment< comment_start_char_list >", "structio_1_1single__and__empty__line__comment.html", null ],
     [ "io::single_line_comment< comment_start_char_list >", "structio_1_1single__line__comment.html", null ],
+    [ "REX::Singleton< T >", "classREX_1_1Singleton.html", [
+      [ "REX::TSettingStore< T >", "classREX_1_1TSettingStore.html", null ]
+    ] ],
     [ "Singleton", null, [
       [ "RE::BSTFactoryManager< Key, T, SIZE, Singleton >", "classRE_1_1BSTFactoryManager.html", [
         [ "RE::BSTCreateFactoryManager< BSFixedString, IUIMessageData, 16 >", "classRE_1_1BSTCreateFactoryManager.html", [
@@ -5782,6 +6239,7 @@ var hierarchy =
     [ "SKSE::TaskInterface", "classSKSE_1_1TaskInterface.html", null ],
     [ "RE::TaskQueueInterface", "classRE_1_1TaskQueueInterface.html", null ],
     [ "RE::OBJ_BOOK::Teaches", "unionRE_1_1OBJ__BOOK_1_1Teaches.html", null ],
+    [ "REX::W32::TEB", "structREX_1_1W32_1_1TEB.html", null ],
     [ "RE::PlayerCharacter::TeleportPath", "structRE_1_1PlayerCharacter_1_1TeleportPath.html", null ],
     [ "RE::TESActivateEvent", "structRE_1_1TESActivateEvent.html", null ],
     [ "RE::TESActiveEffectApplyRemoveEvent", "structRE_1_1TESActiveEffectApplyRemoveEvent.html", null ],
@@ -5906,7 +6364,6 @@ var hierarchy =
       [ "RE::GFxValueImpl::_is_integer< unsigned long >", "structRE_1_1GFxValueImpl_1_1__is__integer_3_01unsigned_01long_01_4.html", null ],
       [ "RE::GFxValueImpl::_is_integer< unsigned long long >", "structRE_1_1GFxValueImpl_1_1__is__integer_3_01unsigned_01long_01long_01_4.html", null ],
       [ "RE::GFxValueImpl::_is_integer< unsigned short >", "structRE_1_1GFxValueImpl_1_1__is__integer_3_01unsigned_01short_01_4.html", null ],
-      [ "RE::Ni_Impl::_has_rtti< T, std::void_t< decltype(T::Ni_RTTI)> >", "structRE_1_1Ni__Impl_1_1__has__rtti_3_01T_00_01std_1_1void__t_3_01decltype_07T_1_1Ni__RTTI_08_4_01_4.html", null ],
       [ "RE::UIImpl::_has_menu_name< T, std::void_t< decltype(T::MENU_NAME)> >", "structRE_1_1UIImpl_1_1__has__menu__name_3_01T_00_01std_1_1void__t_3_01decltype_07T_1_1MENU__NAME_08_4_01_4.html", null ],
       [ "RE::detail::implements_rtti< T, std::void_t< decltype(remove_cvpr_t< T >::RTTI)> >", "structRE_1_1detail_1_1implements__rtti_3_01T_00_01std_1_1void__t_3_01decltype_07remove__cvpr__t_3_01T_01_4_1_1RTTI_08_4_01_4.html", null ],
       [ "REL::detail::is_x64_pod< T, class >", "structREL_1_1detail_1_1is__x64__pod.html", null ]
@@ -5925,12 +6382,12 @@ var hierarchy =
     [ "RE::UI::UIMenuEntry", "structRE_1_1UI_1_1UIMenuEntry.html", null ],
     [ "RE::UIMessage", "classRE_1_1UIMessage.html", null ],
     [ "REX::W32::ULARGE_INTEGER", "unionREX_1_1W32_1_1ULARGE__INTEGER.html", null ],
+    [ "REX::W32::UNICODE_STRING", "structREX_1_1W32_1_1UNICODE__STRING.html", null ],
     [ "RE::BGSRefAlias::UniqueActorFillData", "structRE_1_1BGSRefAlias_1_1UniqueActorFillData.html", null ],
     [ "RE::UniqueNPCData", "structRE_1_1UniqueNPCData.html", null ],
     [ "RE::PlayerCharacter::TeleportPath::Unk00Data", "structRE_1_1PlayerCharacter_1_1TeleportPath_1_1Unk00Data.html", null ],
     [ "RE::PlayerCamera::Unk120", "structRE_1_1PlayerCamera_1_1Unk120.html", null ],
     [ "RE::PlayerCharacter::TeleportPath::Unk18Data", "structRE_1_1PlayerCharacter_1_1TeleportPath_1_1Unk18Data.html", null ],
-    [ "RE::TESObjectWEAP::Unk1B8", "structRE_1_1TESObjectWEAP_1_1Unk1B8.html", null ],
     [ "RE::BSStorage::UnkData", "structRE_1_1BSStorage_1_1UnkData.html", null ],
     [ "RE::HighProcessData::Data190::Data::UnkData", "structRE_1_1HighProcessData_1_1Data190_1_1Data_1_1UnkData.html", null ],
     [ "RE::StatsMenu::UnkData", "structRE_1_1StatsMenu_1_1UnkData.html", null ],

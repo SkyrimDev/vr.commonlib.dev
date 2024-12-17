@@ -1,9 +1,9 @@
 var classRE_1_1BSMultiIndexTriShape =
 [
     [ "~BSMultiIndexTriShape", "classRE_1_1BSMultiIndexTriShape.html#aed98ae99b3b5088a12191760026d468a", null ],
-    [ "AsMultiIndexTriShape", "classRE_1_1BSMultiIndexTriShape.html#a2e92dee21d9e781b25a11a52b5d69dfc", null ],
-    [ "CreateClone", "classRE_1_1BSMultiIndexTriShape.html#ac0bd7485609b0c657052f08ad8125e7c", null ],
-    [ "GetRTTI", "classRE_1_1BSMultiIndexTriShape.html#ac075b729f9ea25e63dc89d5dceeaf009", null ],
+    [ "AsMultiIndexTriShape", "classRE_1_1BSMultiIndexTriShape.html#aa0a779927b07705a6f533652c90b17de", null ],
+    [ "CreateClone", "classRE_1_1BSMultiIndexTriShape.html#a28e50fd900fee8a3cf9afe561ebe26ae", null ],
+    [ "GetRTTI", "classRE_1_1BSMultiIndexTriShape.html#a1c343f791702c48d20fb461c760f233a", null ],
     [ "additionalShaderProperty", "classRE_1_1BSMultiIndexTriShape.html#a2afac263e038762503f5e8c71b2ae6cb", null ],
     [ "altIndexBuffer", "classRE_1_1BSMultiIndexTriShape.html#af8b6f5542400fc45403a6df3ebf7bad3", null ],
     [ "altPrimCount", "classRE_1_1BSMultiIndexTriShape.html#a5cbd060dffcaab219224466c54f8dcb7", null ],

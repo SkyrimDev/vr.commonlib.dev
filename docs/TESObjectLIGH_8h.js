@@ -1,8 +1,8 @@
 var TESObjectLIGH_8h =
 [
-    [ "OBJ_LIGH", "structRE_1_1OBJ__LIGH.html", "structRE_1_1OBJ__LIGH" ],
-    [ "TESObjectLIGH", "classRE_1_1TESObjectLIGH.html", "classRE_1_1TESObjectLIGH" ],
-    [ "RecordFlags", "structRE_1_1TESObjectLIGH_1_1RecordFlags.html", "structRE_1_1TESObjectLIGH_1_1RecordFlags" ],
+    [ "RE::OBJ_LIGH", "structRE_1_1OBJ__LIGH.html", "structRE_1_1OBJ__LIGH" ],
+    [ "RE::TESObjectLIGH", "classRE_1_1TESObjectLIGH.html", "classRE_1_1TESObjectLIGH" ],
+    [ "RE::TESObjectLIGH::RecordFlags", "structRE_1_1TESObjectLIGH_1_1RecordFlags.html", "structRE_1_1TESObjectLIGH_1_1RecordFlags" ],
     [ "TES_LIGHT_FLAGS", "TESObjectLIGH_8h.html#aa6bb0179b516689e2ba81435a50bf638", [
       [ "kNone", "TESObjectLIGH_8h.html#aa6bb0179b516689e2ba81435a50bf638a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kDynamic", "TESObjectLIGH_8h.html#aa6bb0179b516689e2ba81435a50bf638a31e8689e4043726d9a175c783872c06c", null ],

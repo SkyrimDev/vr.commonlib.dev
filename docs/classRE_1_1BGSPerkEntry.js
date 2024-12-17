@@ -7,7 +7,7 @@ var classRE_1_1BGSPerkEntry =
     [ "CheckConditionFilters", "classRE_1_1BGSPerkEntry.html#a220dda39d55c82ac0aae6e05f0e9b32b", null ],
     [ "ClearData", "classRE_1_1BGSPerkEntry.html#a587c39f5e596526f75ba87fc579eeff4", null ],
     [ "GetFunction", "classRE_1_1BGSPerkEntry.html#a3a8e4c1737b9aa288aaf542020aa966c", null ],
-    [ "GetFunctionData", "classRE_1_1BGSPerkEntry.html#a2f0c5c9fd23c3c95b0bf17ad8385999f", null ],
+    [ "GetFunctionData", "classRE_1_1BGSPerkEntry.html#ab10e2b0e1c281d2cc4af987cbe96fdaf", null ],
     [ "GetID", "classRE_1_1BGSPerkEntry.html#acd75ebbbb1d4a936bf968987dc358f3b", null ],
     [ "GetPriority", "classRE_1_1BGSPerkEntry.html#aa281849a0e909c8d1aa6dcb54d2abab5", null ],
     [ "GetRank", "classRE_1_1BGSPerkEntry.html#a9866036e292286b0de7623320101e976", null ],

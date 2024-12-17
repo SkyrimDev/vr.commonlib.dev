@@ -37,11 +37,11 @@ var structRE_1_1PACKAGE__DATA =
       [ "kRun", "structRE_1_1PACKAGE__DATA.html#a93d4fb078e499611aa3a0c2cf4487e26ac1f0a0a6528c3d1ea0c0ee22f5ac4d77", null ],
       [ "kFastWalk", "structRE_1_1PACKAGE__DATA.html#a93d4fb078e499611aa3a0c2cf4487e26a366af997d802aeb3da2514c29a7ec8b5", null ]
     ] ],
-    [ "foBehaviorFlags", "structRE_1_1PACKAGE__DATA.html#a55a2cd1c855db3486e23d181edfdacba", null ],
-    [ "interruptOverrideType", "structRE_1_1PACKAGE__DATA.html#ac56958c78d5045868622addaa616b262", null ],
-    [ "maxSpeed", "structRE_1_1PACKAGE__DATA.html#afaa0179712f5a6d723106ef831cfea5d", null ],
+    [ "foBehaviorFlags", "structRE_1_1PACKAGE__DATA.html#a79d674e20707236296738f0b1f62d688", null ],
+    [ "interruptOverrideType", "structRE_1_1PACKAGE__DATA.html#a38e8c925f98288c23b3cc1e48998d240", null ],
+    [ "maxSpeed", "structRE_1_1PACKAGE__DATA.html#a4503bb9293f0fd4f93a09158c177b9b3", null ],
     [ "packageSpecificFlags", "structRE_1_1PACKAGE__DATA.html#a91163620804e0931d2b0dd0e945d4511", null ],
-    [ "packFlags", "structRE_1_1PACKAGE__DATA.html#a6edd1c0fccf0f6c2398afa986daa9a9b", null ],
-    [ "packType", "structRE_1_1PACKAGE__DATA.html#a7d16b5da6274e462958230d4782a7c20", null ],
+    [ "packFlags", "structRE_1_1PACKAGE__DATA.html#a5611019b98d6661b5a60c1c71687fda4", null ],
+    [ "packType", "structRE_1_1PACKAGE__DATA.html#ac26947f4361ee49e525cf9aed5e47945", null ],
     [ "pad7", "structRE_1_1PACKAGE__DATA.html#adb8aede3f4800a1e465e5b58a17208fd", null ]
 ];

@@ -5,7 +5,7 @@ var classRE_1_1LoadingMenu =
     [ "ProcessMessage", "classRE_1_1LoadingMenu.html#a3f02b67fc4320a05c58ee26a329a6fd9", null ],
     [ "currentLocation", "classRE_1_1LoadingMenu.html#aea5816115bc99272b613ac7d050ce035", null ],
     [ "loadScreens", "classRE_1_1LoadingMenu.html#a5e582853a3e3c6a03f70ab718963fad0", null ],
-    [ "MENU_NAME", "classRE_1_1LoadingMenu.html#a83132bc42e32f49ce28e0ab7d1f40417", null ],
+    [ "MENU_NAME", "classRE_1_1LoadingMenu.html#aa228b1446af68bfe4cfd74da4ed17a0e", null ],
     [ "pad52", "classRE_1_1LoadingMenu.html#ad77d343ddc11806cf11dde96e9171b18", null ],
     [ "pad54", "classRE_1_1LoadingMenu.html#adacb0a391896be842dc70e7ef5826bce", null ],
     [ "pad74", "classRE_1_1LoadingMenu.html#abd31b2b6f7d3a21cb6e811f6ac1920ee", null ],

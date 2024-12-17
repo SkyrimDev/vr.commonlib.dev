@@ -9,7 +9,7 @@ var classRE_1_1hkbBehaviorGraph =
     [ "CalcContentStatistics", "classRE_1_1hkbBehaviorGraph.html#aecd54171f3dc5713d84361575301e36c", null ],
     [ "Deactivate", "classRE_1_1hkbBehaviorGraph.html#a8d262fecee3abed7dfe51c7cb1339afe", null ],
     [ "Generate", "classRE_1_1hkbBehaviorGraph.html#a6f7e47d44daf5499aa735bed6d3b7e2e", null ],
-    [ "GetClassType", "classRE_1_1hkbBehaviorGraph.html#abbfd1a5f40541d9529506f6013888a65", null ],
+    [ "GetClassType", "classRE_1_1hkbBehaviorGraph.html#a8a72154b049e20680ae206c3f2cef34a", null ],
     [ "Unk_06", "classRE_1_1hkbBehaviorGraph.html#a5e8715dde77c18b84a7353af4243129c", null ],
     [ "Unk_09", "classRE_1_1hkbBehaviorGraph.html#aa616b0989c842c33cea75f02f81f04e1", null ],
     [ "Unk_0C", "classRE_1_1hkbBehaviorGraph.html#aae80d1db6077431cb06f853b4b66105c", null ],
@@ -50,7 +50,7 @@ var classRE_1_1hkbBehaviorGraph =
     [ "uniqueIDPool", "classRE_1_1hkbBehaviorGraph.html#ac835c5b382da00f35c36f22f76f16d22", null ],
     [ "updateActiveNodes", "classRE_1_1hkbBehaviorGraph.html#afd3e6b0038f9b15141b8c30108fcfe44", null ],
     [ "variableIDMap", "classRE_1_1hkbBehaviorGraph.html#aa5d83224f578f903d141977ccd9c4a4f", null ],
-    [ "variableMode", "classRE_1_1hkbBehaviorGraph.html#aa6df412f5cfcc4b17a2831510fe64cb4", null ],
+    [ "variableMode", "classRE_1_1hkbBehaviorGraph.html#ab44f08d99343216fabe1409e417a99a4", null ],
     [ "variableValueSet", "classRE_1_1hkbBehaviorGraph.html#a92a2faf28f08a807fd98e0358562621d", null ],
     [ "VTABLE", "classRE_1_1hkbBehaviorGraph.html#a816e34e74e814640c465ad698b6a1ce9", null ]
 ];

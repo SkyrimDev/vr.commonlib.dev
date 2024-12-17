@@ -2,7 +2,7 @@ var classRE_1_1BGSVoiceType =
 [
     [ "RecordFlags", "structRE_1_1BGSVoiceType_1_1RecordFlags.html", "structRE_1_1BGSVoiceType_1_1RecordFlags" ],
     [ "~BGSVoiceType", "classRE_1_1BGSVoiceType.html#a91b1148b141d96128a45fc2dc5ce2107", null ],
-    [ "GetFormEditorID", "classRE_1_1BGSVoiceType.html#aadb8ac96319e55dbf0a9adca5ba5367e", null ],
+    [ "GetFormEditorID", "classRE_1_1BGSVoiceType.html#a5c1706b916b0226352688e6e9ce0800e", null ],
     [ "Load", "classRE_1_1BGSVoiceType.html#a15c140c1771a128d48717aff2b7c664f", null ],
     [ "SetFormEditorID", "classRE_1_1BGSVoiceType.html#a9bc3cab459b2b08dc7016a916763389a", null ],
     [ "data", "classRE_1_1BGSVoiceType.html#a1f772db84e8c529ea4c4f761b2db1c1f", null ],

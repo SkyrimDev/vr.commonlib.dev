@@ -10,7 +10,7 @@ var structRE_1_1hkpSurfaceInfo =
     [ "pad35", "structRE_1_1hkpSurfaceInfo.html#a4c91843f373ea8b551479a003188ee44", null ],
     [ "pad36", "structRE_1_1hkpSurfaceInfo.html#af73761e3d9450fe1cffcc313a274fd40", null ],
     [ "pad38", "structRE_1_1hkpSurfaceInfo.html#aedce39e73700c3f7380b5570c5419510", null ],
-    [ "supportedState", "structRE_1_1hkpSurfaceInfo.html#aa7adc826f03279ab720df01eb4cb185f", null ],
+    [ "supportedState", "structRE_1_1hkpSurfaceInfo.html#a00a0fe1be20fd08e7319a0d8ee3f6daf", null ],
     [ "surfaceDistanceExcess", "structRE_1_1hkpSurfaceInfo.html#aee6a364066a28680b46849b7267b83b7", null ],
     [ "surfaceIsDynamic", "structRE_1_1hkpSurfaceInfo.html#a1d8e4b4cc481293da13c403181f44625", null ],
     [ "surfaceNormal", "structRE_1_1hkpSurfaceInfo.html#ac78249c5225a28745107fc9f3d8aa39f", null ],

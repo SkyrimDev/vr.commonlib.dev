@@ -13,7 +13,7 @@ var classRE_1_1BGSEntryPointFunctionData =
     [ "~BGSEntryPointFunctionData", "classRE_1_1BGSEntryPointFunctionData.html#a2ae61f631259e4f3b6999c95c6a19f2f", null ],
     [ "ApplyOnAdd", "classRE_1_1BGSEntryPointFunctionData.html#a63988e3d60a41d59c05196857b74cd7d", null ],
     [ "GetID", "classRE_1_1BGSEntryPointFunctionData.html#a09d59c9c8bde971800f3644ccc005308", null ],
-    [ "GetParentPerk", "classRE_1_1BGSEntryPointFunctionData.html#a49f00f6918f4e36b52d10d0b30695867", null ],
+    [ "GetParentPerk", "classRE_1_1BGSEntryPointFunctionData.html#a410bfdb3e2d1e05c8416f08b30ba6e52", null ],
     [ "GetType", "classRE_1_1BGSEntryPointFunctionData.html#a8c7dfb3b8e39c4b7c9bd05371b45953e", null ],
     [ "InitItem", "classRE_1_1BGSEntryPointFunctionData.html#af7fc6c20d0ddfd95f131c5801a999514", null ],
     [ "LoadImpl", "classRE_1_1BGSEntryPointFunctionData.html#a99fba12ee3381ac1c2b473dbefcdc2de", null ],

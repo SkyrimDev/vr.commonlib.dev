@@ -7,7 +7,7 @@ var classRE_1_1InventoryMenu =
     [ "bottomBar", "classRE_1_1InventoryMenu.html#ab14cb9971476b2436b410bb140e7aa49", null ],
     [ "itemCard", "classRE_1_1InventoryMenu.html#a80eff48f7c145c8a1a132ad507af8620", null ],
     [ "itemList", "classRE_1_1InventoryMenu.html#af5c617f09757085ba4f7f3d032ae1c59", null ],
-    [ "MENU_NAME", "classRE_1_1InventoryMenu.html#a7b4c440979c93e9ed19552fb12a66428", null ],
+    [ "MENU_NAME", "classRE_1_1InventoryMenu.html#a7c2c477d9d9828edcf189837909bad6d", null ],
     [ "pad79", "classRE_1_1InventoryMenu.html#abb136a67df1a738c112094a76bf1ecfa", null ],
     [ "pad7A", "classRE_1_1InventoryMenu.html#a623d74d29d3da372d589a26f277ea4af", null ],
     [ "pad82", "classRE_1_1InventoryMenu.html#aa72d520d277a63815b56a1f938072946", null ],

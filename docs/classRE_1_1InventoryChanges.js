@@ -10,7 +10,7 @@ var classRE_1_1InventoryChanges =
     [ "~InventoryChanges", "classRE_1_1InventoryChanges.html#ab5898ff1bc397acb4b918582f557c666", null ],
     [ "AddEntryData", "classRE_1_1InventoryChanges.html#a1c24f46a72a0206090126421a38b284c", null ],
     [ "GenerateLeveledListChanges", "classRE_1_1InventoryChanges.html#a844641ff305f07cdd7ecd2feb64a21d7", null ],
-    [ "GetArmorInSlot", "classRE_1_1InventoryChanges.html#a8036322c5cfe58d50a099d7d75be212a", null ],
+    [ "GetArmorInSlot", "classRE_1_1InventoryChanges.html#ab5aa9b824f79932a0d431cc73110340b", null ],
     [ "GetInventoryWeight", "classRE_1_1InventoryChanges.html#a4e9c58a8d3a170e3e10991ea93b1008b", null ],
     [ "GetItemCount", "classRE_1_1InventoryChanges.html#a2e0685ce7c95cb60f7ae31e4912b5894", null ],
     [ "GetNextUniqueID", "classRE_1_1InventoryChanges.html#a38542bf2e23430add5af5fd1c0f8278e", null ],

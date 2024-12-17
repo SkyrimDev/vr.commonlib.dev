@@ -11,7 +11,7 @@ var structRE_1_1TESHitEvent =
     [ "TESHitEvent", "structRE_1_1TESHitEvent.html#a1e54d3a81162044fa196352919cfd4d3", null ],
     [ "~TESHitEvent", "structRE_1_1TESHitEvent.html#a30a3db095cdbeaef13e4e9b8fbaa236f", null ],
     [ "cause", "structRE_1_1TESHitEvent.html#adb266b5948083b3f465bb9ae0e053a1f", null ],
-    [ "flags", "structRE_1_1TESHitEvent.html#ac947d0f8fb09d95a4a617b402bd513b3", null ],
+    [ "flags", "structRE_1_1TESHitEvent.html#a37e348803035034f887299869dd25963", null ],
     [ "pad19", "structRE_1_1TESHitEvent.html#a10235f98a604f299b93f4fc8e84eb458", null ],
     [ "pad1A", "structRE_1_1TESHitEvent.html#ac7e15e65a429903b73d6dd900945014e", null ],
     [ "pad1C", "structRE_1_1TESHitEvent.html#a7c96d4baef5f6757372aa10c4ca76ac0", null ],

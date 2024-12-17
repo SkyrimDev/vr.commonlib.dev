@@ -1,8 +1,8 @@
 var classRE_1_1ActionInput =
 [
     [ "~ActionInput", "classRE_1_1ActionInput.html#a754f167926d4f1585ad6a01b648b0027", null ],
-    [ "GetSourceActorState", "classRE_1_1ActionInput.html#af579be651f7ea16921316e201c592182", null ],
-    [ "GetSourceSequencer", "classRE_1_1ActionInput.html#aa205fa328cad14643c9b3e338bcf8094", null ],
+    [ "GetSourceActorState", "classRE_1_1ActionInput.html#a4214bb925631f5f8330458d69e2cefcd", null ],
+    [ "GetSourceSequencer", "classRE_1_1ActionInput.html#acc67e5fb331dca37ebe65cc31c4045fd", null ],
     [ "Unk_02", "classRE_1_1ActionInput.html#acf0a1c9cc0bf897b9c9781aff5242c17", null ],
     [ "action", "classRE_1_1ActionInput.html#a9693ceec9bcf7bf42323336d2745ee37", null ],
     [ "RTTI", "classRE_1_1ActionInput.html#a40a5225db20401c283f4821afd565e3d", null ],

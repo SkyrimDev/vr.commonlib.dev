@@ -33,7 +33,7 @@ var classRE_1_1BGSSceneAction =
     [ "Unk_13", "classRE_1_1BGSSceneAction.html#ada15c897ae7b6b93f5a41138f3df8d51", null ],
     [ "actorID", "classRE_1_1BGSSceneAction.html#a95a5a5f5756388962199f4e6f2b15c02", null ],
     [ "endPhase", "classRE_1_1BGSSceneAction.html#a6efac597c955d1ab8858f8b93fdb491a", null ],
-    [ "flags", "classRE_1_1BGSSceneAction.html#aef14197c7e798e2b21d34e2727400d1c", null ],
+    [ "flags", "classRE_1_1BGSSceneAction.html#a8d3fa0f9d191b6cea5d76fb7b8e4335c", null ],
     [ "index", "classRE_1_1BGSSceneAction.html#a6b56590706773f09b3d84f539f5b2c82", null ],
     [ "RTTI", "classRE_1_1BGSSceneAction.html#a94a2f51139dc6b999cda5ca9ff79ef22", null ],
     [ "startPhase", "classRE_1_1BGSSceneAction.html#a6ae8f10d0769b4e86dd9b6362a3e714a", null ],

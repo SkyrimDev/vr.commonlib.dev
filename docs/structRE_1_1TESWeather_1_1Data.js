@@ -1,7 +1,7 @@
 var structRE_1_1TESWeather_1_1Data =
 [
     [ "Color3", "structRE_1_1TESWeather_1_1Data_1_1Color3.html", "structRE_1_1TESWeather_1_1Data_1_1Color3" ],
-    [ "flags", "structRE_1_1TESWeather_1_1Data.html#a880788d7ad39bfd7990193ec0d0beae2", null ],
+    [ "flags", "structRE_1_1TESWeather_1_1Data.html#a2f658826307533475b448ef76c74260d", null ],
     [ "lightningColor", "structRE_1_1TESWeather_1_1Data.html#a3a9fd24532c47ba9761be76532324a50", null ],
     [ "precipitationBeginFadeIn", "structRE_1_1TESWeather_1_1Data.html#a7f2f34b6ef81d7af3bf5d8d2589251b4", null ],
     [ "precipitationEndFadeOut", "structRE_1_1TESWeather_1_1Data.html#aea500bf16403211a2b47cb21e13d6452", null ],

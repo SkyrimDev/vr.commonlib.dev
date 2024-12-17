@@ -10,7 +10,7 @@ var classRE_1_1BSResource_1_1Location =
     [ "DoGetInfo1", "classRE_1_1BSResource_1_1Location.html#ae9ad672d52cc20d54e2701d62209485e", null ],
     [ "DoGetInfo2", "classRE_1_1BSResource_1_1Location.html#a622eb7435c3ac8fd97a4a479d870acbb", null ],
     [ "DoGetMinimumAsyncPacketSize", "classRE_1_1BSResource_1_1Location.html#a6aaaff38a13d1bee78c729063615b2a2", null ],
-    [ "DoGetName", "classRE_1_1BSResource_1_1Location.html#a325c949820400435eb810fde582e1b09", null ],
+    [ "DoGetName", "classRE_1_1BSResource_1_1Location.html#a4931e1a872884b19f6e88d8a692e2808", null ],
     [ "DoMount", "classRE_1_1BSResource_1_1Location.html#a5ff0bd16630cb66c5a33bd23393cf00c", null ],
     [ "DoQBufferHint", "classRE_1_1BSResource_1_1Location.html#a228658fabf6b6029f676830807a0a321", null ],
     [ "DoTraversePrefix", "classRE_1_1BSResource_1_1Location.html#ab0b68da10813d05297df9e65a943d993", null ],

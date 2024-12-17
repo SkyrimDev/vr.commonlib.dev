@@ -23,7 +23,7 @@ var classRE_1_1TESTopicInfo =
     [ "SetAltered", "classRE_1_1TESTopicInfo.html#affc56b2526f9a5ded5e120b6dd75f042", null ],
     [ "data", "classRE_1_1TESTopicInfo.html#ab1550f591e34d5018fc76a84129550ac", null ],
     [ "dataInfo", "classRE_1_1TESTopicInfo.html#a4cabfb94998cf53b1c6332f059e9931e", null ],
-    [ "favorLevel", "classRE_1_1TESTopicInfo.html#a536c5c76dad4726167b3999567575d3b", null ],
+    [ "favorLevel", "classRE_1_1TESTopicInfo.html#a65c0cb79e5e1900dc17310c0d8e8f9d0", null ],
     [ "fileOffset", "classRE_1_1TESTopicInfo.html#a6b2c460c9859abf4b7aa4afb81c1d435", null ],
     [ "FORMTYPE", "classRE_1_1TESTopicInfo.html#a55d4a9c04b91a4200e5ed870b87ca74a", null ],
     [ "infoIndex", "classRE_1_1TESTopicInfo.html#a8951b9ac3c09f8116e5940c5b08edb20", null ],

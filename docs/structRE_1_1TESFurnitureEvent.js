@@ -6,5 +6,5 @@ var structRE_1_1TESFurnitureEvent =
     ] ],
     [ "actor", "structRE_1_1TESFurnitureEvent.html#acf20548079af788570cbcc007531f8b2", null ],
     [ "targetFurniture", "structRE_1_1TESFurnitureEvent.html#a6b199c0b8d9117f5300b5e932152f4d8", null ],
-    [ "type", "structRE_1_1TESFurnitureEvent.html#a5627ab9401d9652de713838d3cd1560f", null ]
+    [ "type", "structRE_1_1TESFurnitureEvent.html#a5876ce2c191043f3b70a9b5a61f1be37", null ]
 ];

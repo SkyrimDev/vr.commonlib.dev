@@ -1,10 +1,10 @@
 var TESObjectREFR_8h =
 [
-    [ "OBJ_REFR", "structRE_1_1OBJ__REFR.html", "structRE_1_1OBJ__REFR" ],
-    [ "LOADED_REF_DATA", "structRE_1_1LOADED__REF__DATA.html", "structRE_1_1LOADED__REF__DATA" ],
-    [ "TESObjectREFR", "classRE_1_1TESObjectREFR.html", "classRE_1_1TESObjectREFR" ],
-    [ "ChangeFlags", "structRE_1_1TESObjectREFR_1_1ChangeFlags.html", "structRE_1_1TESObjectREFR_1_1ChangeFlags" ],
-    [ "RecordFlags", "structRE_1_1TESObjectREFR_1_1RecordFlags.html", "structRE_1_1TESObjectREFR_1_1RecordFlags" ],
+    [ "RE::OBJ_REFR", "structRE_1_1OBJ__REFR.html", "structRE_1_1OBJ__REFR" ],
+    [ "RE::LOADED_REF_DATA", "structRE_1_1LOADED__REF__DATA.html", "structRE_1_1LOADED__REF__DATA" ],
+    [ "RE::TESObjectREFR", "classRE_1_1TESObjectREFR.html", "classRE_1_1TESObjectREFR" ],
+    [ "RE::TESObjectREFR::ChangeFlags", "structRE_1_1TESObjectREFR_1_1ChangeFlags.html", "structRE_1_1TESObjectREFR_1_1ChangeFlags" ],
+    [ "RE::TESObjectREFR::RecordFlags", "structRE_1_1TESObjectREFR_1_1RecordFlags.html", "structRE_1_1TESObjectREFR_1_1RecordFlags" ],
     [ "ITEM_REMOVE_REASON", "TESObjectREFR_8h.html#ad2f3ca0b6516dc6cc9737ed2726c4819", [
       [ "kRemove", "TESObjectREFR_8h.html#ad2f3ca0b6516dc6cc9737ed2726c4819a016a4c677dea4af4b6898d79b133c29f", null ],
       [ "kSteal", "TESObjectREFR_8h.html#ad2f3ca0b6516dc6cc9737ed2726c4819aa35ba0fac16499d0538bd7e86048a946", null ],

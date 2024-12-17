@@ -1,9 +1,9 @@
 var classRE_1_1NiFloatExtraData =
 [
     [ "~NiFloatExtraData", "classRE_1_1NiFloatExtraData.html#a42d9f9ac30e66f1acda42b098ea32cab", null ],
-    [ "Create", "classRE_1_1NiFloatExtraData.html#aa10a2c6b70ca41e5ccc89f7d22d5e697", null ],
-    [ "CreateClone", "classRE_1_1NiFloatExtraData.html#aa4422c427f83e21e99476a8aafbb88d3", null ],
-    [ "GetRTTI", "classRE_1_1NiFloatExtraData.html#a34a2481b3b7c9c6eda493b1a4928a01a", null ],
+    [ "Create", "classRE_1_1NiFloatExtraData.html#ad5a803f2ba9a55b156f225e38a9f5944", null ],
+    [ "CreateClone", "classRE_1_1NiFloatExtraData.html#a2ecc2121de9cab03077f41f5bb0144d9", null ],
+    [ "GetRTTI", "classRE_1_1NiFloatExtraData.html#a2692088e758f1bcf8e97b7a7f28b497c", null ],
     [ "IsEqual", "classRE_1_1NiFloatExtraData.html#a09d46406fd6211f33d10514a44c6ac05", null ],
     [ "LinkObject", "classRE_1_1NiFloatExtraData.html#a66c6e4593067e2ad56d4c40dec9079b9", null ],
     [ "LoadBinary", "classRE_1_1NiFloatExtraData.html#aa9d9b80340eb92c94aaa8844e34c0d29", null ],

@@ -10,7 +10,7 @@ var classRE_1_1hkReferencedObject =
     [ "AddReference", "classRE_1_1hkReferencedObject.html#a47d76a0d83a06a47406dabd1dc6ff70e", null ],
     [ "CalcContentStatistics", "classRE_1_1hkReferencedObject.html#af575679657319baab3decd3c21ccd290", null ],
     [ "GetAllocatedSize", "classRE_1_1hkReferencedObject.html#abf2a88060679d5257143f218c9345439", null ],
-    [ "GetClassType", "classRE_1_1hkReferencedObject.html#a8cf30915c966914cb78d1225ecbe09f1", null ],
+    [ "GetClassType", "classRE_1_1hkReferencedObject.html#a49b5b9a8bc699ef85637cb6aa0bc0bbe", null ],
     [ "GetReferenceCount", "classRE_1_1hkReferencedObject.html#ae87a63625d3b7b49ea44c9f2a8b0d84f", null ],
     [ "RemoveReference", "classRE_1_1hkReferencedObject.html#acc24f354468dfe6ff1d8aaa29eb3cf8e", null ],
     [ "memSizeAndFlags", "classRE_1_1hkReferencedObject.html#aee2a27b6a23b90c135cd2ae9dba7989f", null ],

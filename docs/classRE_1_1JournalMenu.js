@@ -8,7 +8,7 @@ var classRE_1_1JournalMenu =
     [ "ProcessEvent", "classRE_1_1JournalMenu.html#ac0417eb00fbde611fda6b3f517db3da9", null ],
     [ "ProcessMessage", "classRE_1_1JournalMenu.html#a168a5a15b4db0c03379cfa54dff9a9cc", null ],
     [ "ProcessThumbstick", "classRE_1_1JournalMenu.html#a6cc578712a23b9bb8719c6139ad1d846", null ],
-    [ "MENU_NAME", "classRE_1_1JournalMenu.html#a84b53e67be0f269c6d74a4dfcee169e8", null ],
+    [ "MENU_NAME", "classRE_1_1JournalMenu.html#a26d327ab7f252c521e103483db5a39fb", null ],
     [ "questsTab", "classRE_1_1JournalMenu.html#a90bcc4eb37f0e780e2cb9143ae272c62", null ],
     [ "RTTI", "classRE_1_1JournalMenu.html#aa606f9afc5948197e3c5033eed1e0210", null ],
     [ "statsTab", "classRE_1_1JournalMenu.html#a8bace02ce5d9bc24fbe416aeee8dd1af", null ],

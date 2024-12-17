@@ -2,8 +2,8 @@ var classRE_1_1BSDismemberSkinInstance =
 [
     [ "Data", "structRE_1_1BSDismemberSkinInstance_1_1Data.html", "structRE_1_1BSDismemberSkinInstance_1_1Data" ],
     [ "~BSDismemberSkinInstance", "classRE_1_1BSDismemberSkinInstance.html#a6a83566aeec1730eacf010bf2a6dba93", null ],
-    [ "CreateClone", "classRE_1_1BSDismemberSkinInstance.html#aa737702eff538e86591d1eafd2634a63", null ],
-    [ "GetRTTI", "classRE_1_1BSDismemberSkinInstance.html#ada71d490c1452d09a161f8df62b14da3", null ],
+    [ "CreateClone", "classRE_1_1BSDismemberSkinInstance.html#ae063c533f4d8b8c1652465d0c386ff04", null ],
+    [ "GetRTTI", "classRE_1_1BSDismemberSkinInstance.html#ac986ed822bff700445193d989f3dd8bb", null ],
     [ "IsEqual", "classRE_1_1BSDismemberSkinInstance.html#a8f735178ac4d87c5c54117e023200972", null ],
     [ "LinkObject", "classRE_1_1BSDismemberSkinInstance.html#aa7cbf1d4021dc6832932e0f88fdde56b", null ],
     [ "LoadBinary", "classRE_1_1BSDismemberSkinInstance.html#aa2c115ee91bffa999513c110070dde1c", null ],

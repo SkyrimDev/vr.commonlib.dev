@@ -1,8 +1,8 @@
 var TESEffectShader_8h =
 [
-    [ "EffectShaderData", "structRE_1_1EffectShaderData.html", "structRE_1_1EffectShaderData" ],
-    [ "TESEffectShader", "classRE_1_1TESEffectShader.html", "classRE_1_1TESEffectShader" ],
-    [ "RecordFlags", "structRE_1_1TESEffectShader_1_1RecordFlags.html", "structRE_1_1TESEffectShader_1_1RecordFlags" ],
+    [ "RE::EffectShaderData", "structRE_1_1EffectShaderData.html", "structRE_1_1EffectShaderData" ],
+    [ "RE::TESEffectShader", "classRE_1_1TESEffectShader.html", "classRE_1_1TESEffectShader" ],
+    [ "RE::TESEffectShader::RecordFlags", "structRE_1_1TESEffectShader_1_1RecordFlags.html", "structRE_1_1TESEffectShader_1_1RecordFlags" ],
     [ "D3DCMPFUNC", "TESEffectShader_8h.html#ac68c9def97b8a09a257958248c3ac312", [
       [ "kNever", "TESEffectShader_8h.html#ac68c9def97b8a09a257958248c3ac312ad06502a3bc7cfe7abb153de330dff930", null ],
       [ "kLess", "TESEffectShader_8h.html#ac68c9def97b8a09a257958248c3ac312a73610f87e9bee590a1d7fee029f94668", null ],

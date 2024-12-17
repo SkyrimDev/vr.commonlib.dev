@@ -2,7 +2,7 @@ var classRE_1_1ImageSpaceModifierInstance =
 [
     [ "~ImageSpaceModifierInstance", "classRE_1_1ImageSpaceModifierInstance.html#ac676b45acd6ac41c84a3048cb344a776", null ],
     [ "Apply", "classRE_1_1ImageSpaceModifierInstance.html#a830f2d30d1cd12da0f256c6528ffbec8", null ],
-    [ "IsForm", "classRE_1_1ImageSpaceModifierInstance.html#a4a481aa7c3c48f02bb2263588dbb3e2b", null ],
+    [ "IsForm", "classRE_1_1ImageSpaceModifierInstance.html#a3e248fa2d57754854e3e6520f5e230f1", null ],
     [ "PrintInfo", "classRE_1_1ImageSpaceModifierInstance.html#a2e81e1a1e9681044adb3e84b963a602c", null ],
     [ "Unk_25", "classRE_1_1ImageSpaceModifierInstance.html#a56dee1110abedd15a453a42b76941270", null ],
     [ "age", "classRE_1_1ImageSpaceModifierInstance.html#aa8e5d9d2271ba4a91bfc92cb9ca68dfc", null ],

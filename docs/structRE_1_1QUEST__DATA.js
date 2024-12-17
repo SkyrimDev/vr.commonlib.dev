@@ -14,8 +14,8 @@ var structRE_1_1QUEST__DATA =
       [ "kDLC01_Vampire", "structRE_1_1QUEST__DATA.html#a5e364610def2cb3d093c3e9f775fe9f2a71d826e4e9b206eeb73cbcae9e1da8ae", null ],
       [ "kDLC02_Dragonborn", "structRE_1_1QUEST__DATA.html#a5e364610def2cb3d093c3e9f775fe9f2afdc4f8d46dac274feed2c1141c2f3373", null ]
     ] ],
-    [ "flags", "structRE_1_1QUEST__DATA.html#a97d2df9d0d88e2f44f05305320d7cd2d", null ],
+    [ "flags", "structRE_1_1QUEST__DATA.html#a9653013e0609e09a03126a06e0a0c0a4", null ],
     [ "priority", "structRE_1_1QUEST__DATA.html#ab3c1cc9cb39d1dade9fe1cc451a55efe", null ],
     [ "questDelayTime", "structRE_1_1QUEST__DATA.html#a4e6940d43cb23f9787b965183624d76d", null ],
-    [ "questType", "structRE_1_1QUEST__DATA.html#a7405d20c723791433e681782f2204aa3", null ]
+    [ "questType", "structRE_1_1QUEST__DATA.html#a66c4cad0dc9c5feb5aee386a15239c3c", null ]
 ];

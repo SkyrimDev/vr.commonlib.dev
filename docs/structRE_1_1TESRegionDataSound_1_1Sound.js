@@ -8,6 +8,6 @@ var structRE_1_1TESRegionDataSound_1_1Sound =
       [ "kSnowy", "structRE_1_1TESRegionDataSound_1_1Sound.html#a94b1dc39b8539243af811f678388834cab35cf0a1616862f2eadf852a4e855998", null ]
     ] ],
     [ "chance", "structRE_1_1TESRegionDataSound_1_1Sound.html#ab2ba86912ddf741f16c6f73145580516", null ],
-    [ "flags", "structRE_1_1TESRegionDataSound_1_1Sound.html#a416c26f4663ce5388b9f5675e81b3b31", null ],
+    [ "flags", "structRE_1_1TESRegionDataSound_1_1Sound.html#acf8d5abfdc319579a87ef3f8fef1fc5a", null ],
     [ "sound", "structRE_1_1TESRegionDataSound_1_1Sound.html#a6c17f95f8ec3b6e2241869509f9d7350", null ]
 ];

@@ -1,8 +1,8 @@
 var classRE_1_1NiTriBasedGeometry =
 [
     [ "~NiTriBasedGeometry", "classRE_1_1NiTriBasedGeometry.html#a1512c2f1f30452f48f355679ae0a3d9f", null ],
-    [ "AsNiTriBasedGeom", "classRE_1_1NiTriBasedGeometry.html#a292e365a38abebfa7349a48b88fab54d", null ],
-    [ "GetRTTI", "classRE_1_1NiTriBasedGeometry.html#aa0b0044bbf870c10f9f8a9945b39a6ca", null ],
+    [ "AsNiTriBasedGeom", "classRE_1_1NiTriBasedGeometry.html#a10d8266b6cf4813ca79383e60ad2fa7e", null ],
+    [ "GetRTTI", "classRE_1_1NiTriBasedGeometry.html#a1dac76261f9d3cd094b88d354beb9691", null ],
     [ "IsEqual", "classRE_1_1NiTriBasedGeometry.html#a89085332d7d3cfcafd4c8c043cb66853", null ],
     [ "LinkObject", "classRE_1_1NiTriBasedGeometry.html#a7e0e6aa2fb7dcd072858494365f77b3b", null ],
     [ "LoadBinary", "classRE_1_1NiTriBasedGeometry.html#aa2b3b33aeee2ad0080459b344a099c63", null ],

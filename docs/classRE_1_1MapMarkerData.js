@@ -13,9 +13,9 @@ var classRE_1_1MapMarkerData =
     ] ],
     [ "SetHidden", "classRE_1_1MapMarkerData.html#a0d17f736dbb3b96006bf6a7e6feca1e3", null ],
     [ "SetVisible", "classRE_1_1MapMarkerData.html#a77eb0a53831b0e2a624dffb09977b6f6", null ],
-    [ "flags", "classRE_1_1MapMarkerData.html#adbe48dae5d10e91d8f96a1e71404a6af", null ],
+    [ "flags", "classRE_1_1MapMarkerData.html#ae66245f229cc682b3770882b866c3d67", null ],
     [ "locationName", "classRE_1_1MapMarkerData.html#a492f784eb7eb4c617d7b08a24b652bba", null ],
     [ "pad11", "classRE_1_1MapMarkerData.html#aa23fe0d0ee6571b7f8fccf4c70cb2f26", null ],
     [ "pad14", "classRE_1_1MapMarkerData.html#ae22919d0046da8f19018a15dc935656e", null ],
-    [ "type", "classRE_1_1MapMarkerData.html#a6a81e2c95862a50aea21499921ab069d", null ]
+    [ "type", "classRE_1_1MapMarkerData.html#ae0cc0c4bd7d9deeb0863398fb8113578", null ]
 ];

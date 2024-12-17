@@ -23,7 +23,7 @@ var classRE_1_1GFxPlaceObject3 =
     ] ],
     [ "~GFxPlaceObject3", "classRE_1_1GFxPlaceObject3.html#a9893c80b8e3f73762c377b54f02a896b", null ],
     [ "Execute1", "classRE_1_1GFxPlaceObject3.html#ad889a7f6b4fcd97f6d18f59294f133d1", null ],
-    [ "GetClipActions", "classRE_1_1GFxPlaceObject3.html#a30a404de939b68e8598b953f0a65e3a9", null ],
+    [ "GetClipActions", "classRE_1_1GFxPlaceObject3.html#a01ddcb41beb1c3d98d03a640bcb81e67", null ],
     [ "GetPlaceFlags", "classRE_1_1GFxPlaceObject3.html#a3f02a1926b6d9be8274b6283b3126970", null ],
     [ "GetPlaceObjectData", "classRE_1_1GFxPlaceObject3.html#a79d4db174e59937f4fb832930fcb9628", null ],
     [ "Unk_06", "classRE_1_1GFxPlaceObject3.html#ab039342ca264a5ee0a41356d5b5f706f", null ],

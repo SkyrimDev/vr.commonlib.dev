@@ -18,7 +18,7 @@ var classRE_1_1hkVector4 =
     [ "operator+", "classRE_1_1hkVector4.html#afae5937bea8f7085956428918024bd8b", null ],
     [ "operator-", "classRE_1_1hkVector4.html#a1afe39a4dd4a0a78e2fa0dc4bdfd7aad", null ],
     [ "operator/", "classRE_1_1hkVector4.html#a70a1d4946c1a49da15b004f0a96287f1", null ],
-    [ "operator=", "classRE_1_1hkVector4.html#ab1a2b4739ac6939d62b8127530115e42", null ],
+    [ "operator=", "classRE_1_1hkVector4.html#a554e467c6cb02ea680e0f2565b1af85e", null ],
     [ "SqrLength3", "classRE_1_1hkVector4.html#abfb1cbfc80caa982976dc403cc1ed213", null ],
     [ "SqrLength4", "classRE_1_1hkVector4.html#ad6673cc037494e3d05b933f29cd2a923", null ],
     [ "quad", "classRE_1_1hkVector4.html#a6562ed8ef321bfe0664c69e95d642e08", null ]

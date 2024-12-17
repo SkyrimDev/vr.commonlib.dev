@@ -1,8 +1,8 @@
 var classRE_1_1NiStringExtraData =
 [
     [ "~NiStringExtraData", "classRE_1_1NiStringExtraData.html#afc4ec10fcd182be73350730999419fa4", null ],
-    [ "CreateClone", "classRE_1_1NiStringExtraData.html#a46defe17941a70545230a8eadca070cc", null ],
-    [ "GetRTTI", "classRE_1_1NiStringExtraData.html#a7eddffb233538bfa628f4f44b6d4aa22", null ],
+    [ "CreateClone", "classRE_1_1NiStringExtraData.html#af27e763341e7afa17e235db7f675a540", null ],
+    [ "GetRTTI", "classRE_1_1NiStringExtraData.html#a549cdaf5f8987c599dbbd88f26ef1f47", null ],
     [ "IsEqual", "classRE_1_1NiStringExtraData.html#a9c4ca150f2cc67719a460053eeb0ad6f", null ],
     [ "LinkObject", "classRE_1_1NiStringExtraData.html#ae544906ccfa38b952a8223eb1036bbfa", null ],
     [ "LoadBinary", "classRE_1_1NiStringExtraData.html#a992b87c3897baab0a3a6696d26ff3c03", null ],

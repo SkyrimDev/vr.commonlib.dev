@@ -3,7 +3,7 @@ var classRE_1_1GImageInfo =
     [ "~GImageInfo", "classRE_1_1GImageInfo.html#adc40e7e4b748c96826e3a506fc739b04", null ],
     [ "GetHeight", "classRE_1_1GImageInfo.html#aeb4279ad5073bc5ea0dd90e223c3ba60", null ],
     [ "GetImageInfoType", "classRE_1_1GImageInfo.html#a1f00409b4c9214fe6ab9675bb1f7178e", null ],
-    [ "GetTexture", "classRE_1_1GImageInfo.html#aa0ba318e1330ed1a1979add404f7fdfe", null ],
+    [ "GetTexture", "classRE_1_1GImageInfo.html#a38f1b5c5233499eb83f6b0da7e1082db", null ],
     [ "GetWidth", "classRE_1_1GImageInfo.html#a5c414b208e980f65eb56ec0775535367", null ],
     [ "OnChange", "classRE_1_1GImageInfo.html#a7902f9dd0f3a9932ccdf4081d4467a0a", null ],
     [ "Recreate", "classRE_1_1GImageInfo.html#ab7b5d3854129b35c6b572eb55a4a8a30", null ],

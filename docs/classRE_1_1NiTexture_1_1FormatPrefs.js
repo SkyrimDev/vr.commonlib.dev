@@ -29,8 +29,8 @@ var classRE_1_1NiTexture_1_1FormatPrefs =
       [ "kFloatColor128", "classRE_1_1NiTexture_1_1FormatPrefs.html#acf97a2d905017ea8a9f84dec5a298bbfa24edf4f65cfa815a58f3f175a69ad88f", null ]
     ] ],
     [ "FormatPrefs", "classRE_1_1NiTexture_1_1FormatPrefs.html#a43a7ebac92137e3332c91ffee744841d", null ],
-    [ "alphaFormat", "classRE_1_1NiTexture_1_1FormatPrefs.html#a206e2e9306274e887a870538dd25e5e3", null ],
-    [ "mipMapped", "classRE_1_1NiTexture_1_1FormatPrefs.html#aa819a70895d2188296969b98492d09e6", null ],
+    [ "alphaFormat", "classRE_1_1NiTexture_1_1FormatPrefs.html#a118ff562ff7f3bc26b69eb9270ccae46", null ],
+    [ "mipMapped", "classRE_1_1NiTexture_1_1FormatPrefs.html#ada11e68656d71a1183830ec79dd5ae00", null ],
     [ "pad0C", "classRE_1_1NiTexture_1_1FormatPrefs.html#ab27f70aedbdbf1eb56e53538044ca072", null ],
-    [ "pixelLayout", "classRE_1_1NiTexture_1_1FormatPrefs.html#a00b4025ad04adb96560fa76b5d22ef82", null ]
+    [ "pixelLayout", "classRE_1_1NiTexture_1_1FormatPrefs.html#aed60fc3f43e4ff8f90b5bc8fc979ba55", null ]
 ];

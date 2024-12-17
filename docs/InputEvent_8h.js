@@ -1,6 +1,6 @@
 var InputEvent_8h =
 [
-    [ "InputEvent", "classRE_1_1InputEvent.html", "classRE_1_1InputEvent" ],
+    [ "RE::InputEvent", "classRE_1_1InputEvent.html", "classRE_1_1InputEvent" ],
     [ "INPUT_EVENT_TYPE", "InputEvent_8h.html#abe33a95e77426c7a1d60597228dfb915", [
       [ "kButton", "InputEvent_8h.html#abe33a95e77426c7a1d60597228dfb915a2973b376fddab10ff52d558664132bef", null ],
       [ "kMouseMove", "InputEvent_8h.html#abe33a95e77426c7a1d60597228dfb915a3fb089d1c58b873bc49b20354b36ffc8", null ],

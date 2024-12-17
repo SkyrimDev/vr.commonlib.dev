@@ -8,7 +8,7 @@ var classRE_1_1ProcessLists =
     [ "ForEachMagicTempEffect", "classRE_1_1ProcessLists.html#a028df944272e5eb35a958614f5befeef", null ],
     [ "ForEachModelEffect", "classRE_1_1ProcessLists.html#ad4568e58d4289b7e6bfa6953fad64fde", null ],
     [ "ForEachShaderEffect", "classRE_1_1ProcessLists.html#aee80e7cf616ec3880242e3621ba786f5", null ],
-    [ "GetSingleton", "classRE_1_1ProcessLists.html#a2d30f502e3dce8afca336146557525d7", null ],
+    [ "GetSingleton", "classRE_1_1ProcessLists.html#aad862a1ac9203980a0252a5ea5750dbe", null ],
     [ "GetSystemTimeClock", "classRE_1_1ProcessLists.html#a5fcc617787c14e691be216e9e9f97250", null ],
     [ "RequestHighestDetectionLevelAgainstActor", "classRE_1_1ProcessLists.html#a39054475fcfa97eed1445800cc342320", null ],
     [ "StopAllMagicEffects", "classRE_1_1ProcessLists.html#a5c1830ed60aa1218cc4e60a36c460730", null ],

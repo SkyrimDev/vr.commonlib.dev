@@ -9,6 +9,6 @@ var classRE_1_1BSScript_1_1NativeFunction =
     [ "NativeFunction", "classRE_1_1BSScript_1_1NativeFunction.html#afb60e187106d58e874b55c095fd23fa5", null ],
     [ "~NativeFunction", "classRE_1_1BSScript_1_1NativeFunction.html#a96035d51834bcd95eafb9d064395d2d4", null ],
     [ "HasStub", "classRE_1_1BSScript_1_1NativeFunction.html#aee03ff3dd39908f5713de32b6bc9ece6", null ],
-    [ "MarshallAndDispatch", "classRE_1_1BSScript_1_1NativeFunction.html#af2295e7c605df645e6b6f8d9ab6dd6a3", null ],
+    [ "MarshallAndDispatch", "classRE_1_1BSScript_1_1NativeFunction.html#aa1c8c4a4148471ed54f78a2aadb08757", null ],
     [ "_stub", "classRE_1_1BSScript_1_1NativeFunction.html#a2825e60c58b43ade663cec7287bef670", null ]
 ];

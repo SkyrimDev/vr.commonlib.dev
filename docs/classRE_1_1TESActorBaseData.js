@@ -9,7 +9,7 @@ var classRE_1_1TESActorBaseData =
     [ "GetInvulnerable", "classRE_1_1TESActorBaseData.html#a9ea95949d684dd5228f574d6e2930fce", null ],
     [ "GetIsGhost", "classRE_1_1TESActorBaseData.html#a8816c65f296a0108b81aaf9a1aab5ee7", null ],
     [ "GetLevel", "classRE_1_1TESActorBaseData.html#a496ef84358239332877919483227eee0", null ],
-    [ "GetVoiceType", "classRE_1_1TESActorBaseData.html#a6c99ca8d556f6b3d75e2d29eded8b44f", null ],
+    [ "GetVoiceType", "classRE_1_1TESActorBaseData.html#a69e1a4bb7ba64aae9e44420aa2c9b75c", null ],
     [ "HasAutoCalcStats", "classRE_1_1TESActorBaseData.html#a1dab6e47bad5a7d2b51df9d773d9d5a9", null ],
     [ "HasBleedoutOverride", "classRE_1_1TESActorBaseData.html#a3b63f9874caced643bd4dad9ef9e0e0f", null ],
     [ "HasPCLevelMult", "classRE_1_1TESActorBaseData.html#adc3de60023bc6e93ebe4b1ca4aadc0d9", null ],

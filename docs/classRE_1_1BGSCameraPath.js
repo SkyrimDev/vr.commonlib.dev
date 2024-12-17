@@ -4,7 +4,7 @@ var classRE_1_1BGSCameraPath =
     [ "Relatives", "structRE_1_1BGSCameraPath_1_1Relatives.html", "structRE_1_1BGSCameraPath_1_1Relatives" ],
     [ "~BGSCameraPath", "classRE_1_1BGSCameraPath.html#a741c2851b3887a6869548c8f9d995e55", null ],
     [ "ClearData", "classRE_1_1BGSCameraPath.html#a3dcb6a0b8021d7fdc5c050d4e393ebc0", null ],
-    [ "CreateDuplicateForm", "classRE_1_1BGSCameraPath.html#a140deaf9dc5c8e1313dd16e9a9b21a64", null ],
+    [ "CreateDuplicateForm", "classRE_1_1BGSCameraPath.html#af294b1a806e124606e02439cd9e00975", null ],
     [ "InitializeData", "classRE_1_1BGSCameraPath.html#ae89e5f597b58f30dd5decb16faebf039", null ],
     [ "InitItemImpl", "classRE_1_1BGSCameraPath.html#ac7d8c2794050e48b0c14abcd5e13f99a", null ],
     [ "Load", "classRE_1_1BGSCameraPath.html#addc6e06ea0d95bd3abc6f6ea3618b247", null ],

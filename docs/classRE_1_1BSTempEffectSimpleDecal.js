@@ -2,8 +2,8 @@ var classRE_1_1BSTempEffectSimpleDecal =
 [
     [ "~BSTempEffectSimpleDecal", "classRE_1_1BSTempEffectSimpleDecal.html#ad402654cb2b45933666a06b57502912f", null ],
     [ "Attach", "classRE_1_1BSTempEffectSimpleDecal.html#ac2418d81cae9ad1127acda6a532e4478", null ],
-    [ "Get3D", "classRE_1_1BSTempEffectSimpleDecal.html#a8589295d799e015eb365cccd96402895", null ],
-    [ "GetRTTI", "classRE_1_1BSTempEffectSimpleDecal.html#a483df831a475fdd4a9dc0836cb0ca86a", null ],
+    [ "Get3D", "classRE_1_1BSTempEffectSimpleDecal.html#aa6029306717deacfb8b9447a7a7e0dc0", null ],
+    [ "GetRTTI", "classRE_1_1BSTempEffectSimpleDecal.html#ad6348495be0a089db9e1eec2068429c2", null ],
     [ "Initialize", "classRE_1_1BSTempEffectSimpleDecal.html#ad855b7341d3eee741b99dba80b2f42b6", null ],
     [ "Update", "classRE_1_1BSTempEffectSimpleDecal.html#a9be18b38f501e33870a9d7ebbb27cb96", null ],
     [ "alphaBlending", "classRE_1_1BSTempEffectSimpleDecal.html#a9bee6f5582aefb84ab937de573a6348b", null ],

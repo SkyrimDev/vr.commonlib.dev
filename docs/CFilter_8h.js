@@ -1,6 +1,6 @@
 var CFilter_8h =
 [
-    [ "CFilter", "classRE_1_1CFilter.html", "classRE_1_1CFilter" ],
+    [ "RE::CFilter", "classRE_1_1CFilter.html", "classRE_1_1CFilter" ],
     [ "BIPED_PART", "CFilter_8h.html#aca75caa5e6d0310b1f595b8ca39f4997", [
       [ "kOther", "CFilter_8h.html#aca75caa5e6d0310b1f595b8ca39f4997a341b8a8f03cf33821c46aa5c3aad4b7a", null ],
       [ "kHead", "CFilter_8h.html#aca75caa5e6d0310b1f595b8ca39f4997af13d21a798857b5c0955da60e79969fd", null ],

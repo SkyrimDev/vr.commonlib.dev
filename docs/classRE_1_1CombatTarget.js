@@ -8,7 +8,7 @@ var classRE_1_1CombatTarget =
     [ "attackedMember", "classRE_1_1CombatTarget.html#a0cbfcb6af8b4c0278ffff3dec038e48e", null ],
     [ "attackerCount", "classRE_1_1CombatTarget.html#afb7ef65ef3e9221be9d3f51f3b4aed3a", null ],
     [ "detectLevel", "classRE_1_1CombatTarget.html#aaa75447f4743d6c453f95eeccaa4cd21", null ],
-    [ "flags", "classRE_1_1CombatTarget.html#a2541988dfc0fde16f5cbcadab99b62e3", null ],
+    [ "flags", "classRE_1_1CombatTarget.html#a08479f824408ff59fe3a0e9eb0a417ee", null ],
     [ "lastKnownLoc", "classRE_1_1CombatTarget.html#a4efe4ae685343d268853d8970a9be9cc", null ],
     [ "lastKnownTimeStamp", "classRE_1_1CombatTarget.html#a5ad55e9841feacb90ddd1e5f0cf61975", null ],
     [ "searchLoc", "classRE_1_1CombatTarget.html#a61257ca3e533cf96facafeb08600f462", null ],

@@ -9,12 +9,12 @@ var classRE_1_1BSWaterShaderProperty =
       [ "kBlendNormals", "classRE_1_1BSWaterShaderProperty.html#a899c8847861f21d1374f865f4e90fa57a9daed2b79bbb098452a98555dee65c58", null ]
     ] ],
     [ "~BSWaterShaderProperty", "classRE_1_1BSWaterShaderProperty.html#a1748cda0671af2655b7b397cbe3d26a7", null ],
-    [ "CreateClone", "classRE_1_1BSWaterShaderProperty.html#a8dfdc62bc366bc8b9640438051c78fda", null ],
+    [ "CreateClone", "classRE_1_1BSWaterShaderProperty.html#a248cda9ab254c2619ade2df5142cd2d6", null ],
     [ "DoClearRenderPasses", "classRE_1_1BSWaterShaderProperty.html#a2358ca3f0d49e265d1dbd62bb850d01b", null ],
     [ "ForEachTexture", "classRE_1_1BSWaterShaderProperty.html#afa9330b2b8e64c6577443a912104ce6b", null ],
     [ "GetMaterialType", "classRE_1_1BSWaterShaderProperty.html#a1bd0d94f5c894640d0e920b1faee932c", null ],
-    [ "GetRenderPasses", "classRE_1_1BSWaterShaderProperty.html#a756a02833367e2aa42899a2667202bf5", null ],
-    [ "GetRTTI", "classRE_1_1BSWaterShaderProperty.html#af3e1aa47dc90363fc297956bc07841d7", null ],
+    [ "GetRenderPasses", "classRE_1_1BSWaterShaderProperty.html#ae82009d7dc83154c925baed7dfd34def", null ],
+    [ "GetRTTI", "classRE_1_1BSWaterShaderProperty.html#a556f7e03a93f1edcfa8eb954a94b6ace", null ],
     [ "IsEqual", "classRE_1_1BSWaterShaderProperty.html#ab725ab3295f0edee8b96cf1229e69120", null ],
     [ "LinkObject", "classRE_1_1BSWaterShaderProperty.html#ad149ee6eb33e7ad5e24482122031a42f", null ],
     [ "LoadBinary", "classRE_1_1BSWaterShaderProperty.html#af2a6b0d8d741c13a093d0a76e740636a", null ],
@@ -47,5 +47,5 @@ var classRE_1_1BSWaterShaderProperty =
     [ "unkF4", "classRE_1_1BSWaterShaderProperty.html#a1b13f3328f1f74d815924db7bab46791", null ],
     [ "unkF8", "classRE_1_1BSWaterShaderProperty.html#a08ac95bf5aef1033f3b1edc607c1dae2", null ],
     [ "VTABLE", "classRE_1_1BSWaterShaderProperty.html#a239102f6cbffb9a33dd693d3b547610a", null ],
-    [ "waterFlags", "classRE_1_1BSWaterShaderProperty.html#a622df594ae5ed520ead68bc07729cae1", null ]
+    [ "waterFlags", "classRE_1_1BSWaterShaderProperty.html#ac70e9190bed758a7baf3fab45a5752d9", null ]
 ];

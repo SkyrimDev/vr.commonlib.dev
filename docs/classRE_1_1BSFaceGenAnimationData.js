@@ -2,7 +2,7 @@ var classRE_1_1BSFaceGenAnimationData =
 [
     [ "~BSFaceGenAnimationData", "classRE_1_1BSFaceGenAnimationData.html#aa2dce3a810332f36c76c6fde4a3e6dc4", null ],
     [ "ClearExpressionOverride", "classRE_1_1BSFaceGenAnimationData.html#a01e943741a33567ae1b671bcc366c025", null ],
-    [ "GetRTTI", "classRE_1_1BSFaceGenAnimationData.html#acacf17bf0a27f3aee76411db5414672f", null ],
+    [ "GetRTTI", "classRE_1_1BSFaceGenAnimationData.html#af17d503e792b992366b31c09474c68ac", null ],
     [ "Reset", "classRE_1_1BSFaceGenAnimationData.html#afe42273304f6504eea94d4ee1cc9943b", null ],
     [ "SetExpressionOverride", "classRE_1_1BSFaceGenAnimationData.html#afdf5eae96286c1bbd07706e53025d353", null ],
     [ "blinkDelay", "classRE_1_1BSFaceGenAnimationData.html#a93b81b5e2f5a8b9788e2f4831d7e2856", null ],

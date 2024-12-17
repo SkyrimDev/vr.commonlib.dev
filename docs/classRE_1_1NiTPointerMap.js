@@ -7,5 +7,5 @@ var classRE_1_1NiTPointerMap =
     [ "NiTPointerMap", "classRE_1_1NiTPointerMap.html#aa1c450ff5f397c8255f4944fabbe07c3", null ],
     [ "~NiTPointerMap", "classRE_1_1NiTPointerMap.html#afb9b0fa43e7a8e0e36f6e465aa5dfdb2", null ],
     [ "free_value", "classRE_1_1NiTPointerMap.html#a98df60c5bab12fc2f9f7185fbf658117", null ],
-    [ "malloc_value", "classRE_1_1NiTPointerMap.html#a803176d4bea85c17fb1eedb5da9e47bc", null ]
+    [ "malloc_value", "classRE_1_1NiTPointerMap.html#a6d6dedb9544e8e5b26f380b3c1ba8bc7", null ]
 ];

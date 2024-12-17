@@ -1,11 +1,11 @@
 var GFxPlaceObjectBase_8h =
 [
-    [ "GFxPlaceObjectUnpackedData", "structRE_1_1GFxPlaceObjectUnpackedData.html", "structRE_1_1GFxPlaceObjectUnpackedData" ],
-    [ "Filter", "structRE_1_1GFxPlaceObjectUnpackedData_1_1Filter.html", "structRE_1_1GFxPlaceObjectUnpackedData_1_1Filter" ],
-    [ "GFxPlaceObjectData", "structRE_1_1GFxPlaceObjectData.html", "structRE_1_1GFxPlaceObjectData" ],
-    [ "GFxPlaceObjectBase", "classRE_1_1GFxPlaceObjectBase.html", "classRE_1_1GFxPlaceObjectBase" ],
+    [ "RE::GFxPlaceObjectUnpackedData", "structRE_1_1GFxPlaceObjectUnpackedData.html", "structRE_1_1GFxPlaceObjectUnpackedData" ],
+    [ "RE::GFxPlaceObjectUnpackedData::Filter", "structRE_1_1GFxPlaceObjectUnpackedData_1_1Filter.html", "structRE_1_1GFxPlaceObjectUnpackedData_1_1Filter" ],
+    [ "RE::GFxPlaceObjectData", "structRE_1_1GFxPlaceObjectData.html", "structRE_1_1GFxPlaceObjectData" ],
+    [ "RE::GFxPlaceObjectBase", "classRE_1_1GFxPlaceObjectBase.html", "classRE_1_1GFxPlaceObjectBase" ],
     [ "GFxPlaceFlags", "GFxPlaceObjectBase_8h.html#a9fba42d27563a8919af1f15478e478a6", [
-      [ "kNone", "GFxPlaceObjectBase_8h.html#acb188ad7ca48bb8b3528d814ca060efea35c3ace1970663a16e5c65baa5941b13", null ],
+      [ "kNone", "GFxPlaceObjectBase_8h.html#a9fba42d27563a8919af1f15478e478a6a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kMove", "GFxPlaceObjectBase_8h.html#a9fba42d27563a8919af1f15478e478a6ae54c7412401b5e36c1c254e6fb17a3dd", null ],
       [ "kHasCharacter", "GFxPlaceObjectBase_8h.html#a9fba42d27563a8919af1f15478e478a6af710cf15b9e40110c0dcde4c59cc488b", null ],
       [ "kHasMatrix", "GFxPlaceObjectBase_8h.html#a9fba42d27563a8919af1f15478e478a6a82c5b59a33357f97b41a5e14642b30f0", null ],

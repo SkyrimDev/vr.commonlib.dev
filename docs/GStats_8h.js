@@ -1,7 +1,7 @@
 var GStats_8h =
 [
-    [ "GStatGroups", "structRE_1_1GStatGroups.html", "structRE_1_1GStatGroups" ],
-    [ "GStatRenderers", "structRE_1_1GStatRenderers.html", "structRE_1_1GStatRenderers" ],
+    [ "RE::GStatGroups", "structRE_1_1GStatGroups.html", "structRE_1_1GStatGroups" ],
+    [ "RE::GStatRenderers", "structRE_1_1GStatRenderers.html", "structRE_1_1GStatRenderers" ],
     [ "GStatGroup", "GStats_8h.html#a44b581a05cb72a18277e15b7ac6890da", null ],
     [ "GStatRenderer", "GStats_8h.html#aa706c5865508af416dfe9e630c7a400e", null ],
     [ "GHeapID", "GStats_8h.html#a70b7c50d615c9a7b6ca9e2097adbbfa2", [

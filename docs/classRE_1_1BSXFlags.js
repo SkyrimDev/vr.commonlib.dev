@@ -18,9 +18,9 @@ var classRE_1_1BSXFlags =
       [ "kSearchedBreakable", "classRE_1_1BSXFlags.html#af92ca783cd268696f421cbd8f1dab4f1a2ce549d1e6d7d84da9843bddf6ea25b2", null ]
     ] ],
     [ "~BSXFlags", "classRE_1_1BSXFlags.html#ad9decfcd2b9a714def000024be272964", null ],
-    [ "CreateClone", "classRE_1_1BSXFlags.html#afa41e17bec41a8ada90c91c01e19b7a6", null ],
+    [ "CreateClone", "classRE_1_1BSXFlags.html#a234ff2104cc93c4d42a94b1854b1cb0e", null ],
     [ "GetFlags", "classRE_1_1BSXFlags.html#a1b1123c1774e48b14436688e10fb853f", null ],
-    [ "GetRTTI", "classRE_1_1BSXFlags.html#a6ae61e0b143bda98c346b27a9a29ac61", null ],
+    [ "GetRTTI", "classRE_1_1BSXFlags.html#a1f9e9c0972a0b88f1171894f5f37db2b", null ],
     [ "IsEqual", "classRE_1_1BSXFlags.html#adee17c4f82f51416474f51df94ddda5e", null ],
     [ "LinkObject", "classRE_1_1BSXFlags.html#a50d661eb019cc7307b2227cf344bd64c", null ],
     [ "LoadBinary", "classRE_1_1BSXFlags.html#a081a6558c8aa5ff95f643f2a929abca1", null ],

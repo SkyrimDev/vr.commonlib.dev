@@ -15,7 +15,7 @@ var classREL_1_1Segment =
     [ "Segment", "classREL_1_1Segment.html#ae1ec8621d65e48c67e7f960c04cc999e", null ],
     [ "address", "classREL_1_1Segment.html#aa4961752d32c692e1442b84db65b05c8", null ],
     [ "offset", "classREL_1_1Segment.html#af4c9f34c57440520aead69aaca369d71", null ],
-    [ "pointer", "classREL_1_1Segment.html#a295c4fbc557f918442cbf3d7d8f4fda5", null ],
-    [ "pointer", "classREL_1_1Segment.html#a89e08a0d26ebc70fb65076dd83f207dc", null ],
+    [ "pointer", "classREL_1_1Segment.html#a955b0be91bbfe829da157609505f8851", null ],
+    [ "pointer", "classREL_1_1Segment.html#af5b7a0e1bb616de4ce27214ffd3a3335", null ],
     [ "size", "classREL_1_1Segment.html#a02325571dae0ea742fb6b64d44dc4e84", null ]
 ];

@@ -1,9 +1,9 @@
 var classRE_1_1NiSkinInstance =
 [
     [ "~NiSkinInstance", "classRE_1_1NiSkinInstance.html#a2847f339c5cef14e3e9c7ba20f50680c", null ],
-    [ "Create", "classRE_1_1NiSkinInstance.html#ae33230c93271b62fea46a9c1cc62846a", null ],
-    [ "CreateClone", "classRE_1_1NiSkinInstance.html#a71c63300f2df6287510fb135130d4db7", null ],
-    [ "GetRTTI", "classRE_1_1NiSkinInstance.html#a08e881f2e2965b448d05e6fa4dc1be93", null ],
+    [ "Create", "classRE_1_1NiSkinInstance.html#a2a20f5bbc06277351730735a31ca342c", null ],
+    [ "CreateClone", "classRE_1_1NiSkinInstance.html#a17fe132789299415702be6f9c2f8c899", null ],
+    [ "GetRTTI", "classRE_1_1NiSkinInstance.html#a0c4ab7bdfa4804356b16b29360616de7", null ],
     [ "IsEqual", "classRE_1_1NiSkinInstance.html#a53c89062510fc769827b091d1d91b2f4", null ],
     [ "LinkObject", "classRE_1_1NiSkinInstance.html#ab9cd6fa0c3209904cc33517b5d4b8a7e", null ],
     [ "LoadBinary", "classRE_1_1NiSkinInstance.html#aefa2ac2e59f24057b9f722b3ec45cffe", null ],

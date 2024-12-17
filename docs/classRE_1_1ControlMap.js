@@ -11,7 +11,7 @@ var classRE_1_1ControlMap =
     [ "GetGamePadType", "classRE_1_1ControlMap.html#a05ff8173523e437b8b4593a42b756c01", null ],
     [ "GetMappedKey", "classRE_1_1ControlMap.html#a56777b697c394a6d3d5904134c9b6dcd", null ],
     [ "GetMappingFromEventName", "classRE_1_1ControlMap.html#a4a7487889955c524582b9184a8344256", null ],
-    [ "GetSingleton", "classRE_1_1ControlMap.html#a9574b390f469bb88810a9d19caf1476d", null ],
+    [ "GetSingleton", "classRE_1_1ControlMap.html#afbbe9130084abe3320d88cc02cffc097", null ],
     [ "GetUserEventName", "classRE_1_1ControlMap.html#a51ce85c2df2526f9c444fe223febbf62", null ],
     [ "IsActivateControlsEnabled", "classRE_1_1ControlMap.html#a6a8c8ef34ed897a876618d92daa7e936", null ],
     [ "IsConsoleControlsEnabled", "classRE_1_1ControlMap.html#a443bb6f74708cd190e9256385b0c27f3", null ],
@@ -29,12 +29,12 @@ var classRE_1_1ControlMap =
     [ "ToggleControls", "classRE_1_1ControlMap.html#a2b0799b2eaf8d592a394f1a37f98df25", null ],
     [ "contextPriorityStack", "classRE_1_1ControlMap.html#ae81255658ae8b9a7a9e095d0095a5b3e", null ],
     [ "controlMap", "classRE_1_1ControlMap.html#a805dda711b283f301eb3a0e2ed3f192c", null ],
-    [ "enabledControls", "classRE_1_1ControlMap.html#a9fbde9a6cf5297776538f8ccf7380d05", null ],
-    [ "gamePadMapType", "classRE_1_1ControlMap.html#a4cd5f5c8f40128e9fa0d478fee1a22c8", null ],
+    [ "enabledControls", "classRE_1_1ControlMap.html#ad54ecc4133ed9870b02c79de6713bb05", null ],
+    [ "gamePadMapType", "classRE_1_1ControlMap.html#a14bd9a02f893dd395190ef13f170b9a3", null ],
     [ "ignoreActivateDisabledEvents", "classRE_1_1ControlMap.html#a476c7522a415e6810dd352d13c2f6229", null ],
     [ "ignoreKeyboardMouse", "classRE_1_1ControlMap.html#ace9387d837da4f4aa60ec518e81e0bdc", null ],
     [ "linkedMappings", "classRE_1_1ControlMap.html#addce4e252f8c2d7f8d5f3daf179a38d2", null ],
     [ "pad123", "classRE_1_1ControlMap.html#a0c4d75731a588265769c131333abd1ee", null ],
     [ "textEntryCount", "classRE_1_1ControlMap.html#a31c7b3c7118e6d1a576e82c07290789e", null ],
-    [ "unk11C", "classRE_1_1ControlMap.html#aeda254f4728157f2e3b53c065c9ff612", null ]
+    [ "unk11C", "classRE_1_1ControlMap.html#adb6ae673fd69b50145c899982c10a084", null ]
 ];

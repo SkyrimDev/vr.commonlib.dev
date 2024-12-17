@@ -8,7 +8,7 @@ var classRE_1_1BarterMenu =
     [ "bottomBar", "classRE_1_1BarterMenu.html#adc400aa047cc1abba614279156362ae6", null ],
     [ "itemCard", "classRE_1_1BarterMenu.html#a23a1e96558b4553fc389a35e4ced6e29", null ],
     [ "itemList", "classRE_1_1BarterMenu.html#a98637c0a40706588a70c0642ed654a2b", null ],
-    [ "MENU_NAME", "classRE_1_1BarterMenu.html#a346f0ad4c3546b7f156b0819dd80cf28", null ],
+    [ "MENU_NAME", "classRE_1_1BarterMenu.html#addca8be49c82e13e0deb467c57413500", null ],
     [ "pad79", "classRE_1_1BarterMenu.html#a047c592f25a91c8d6b373658e2c4131a", null ],
     [ "pad7A", "classRE_1_1BarterMenu.html#a1d1d0b09b015e056035f7de1fd341778", null ],
     [ "pad7C", "classRE_1_1BarterMenu.html#a0f1586b5532ea9e290bbbc5eb7bb558d", null ],

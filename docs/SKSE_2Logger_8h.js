@@ -3,7 +3,7 @@ var SKSE_2Logger_8h =
     [ "SKSE_MAKE_SOURCE_LOGGER", "SKSE_2Logger_8h.html#a0757a9e2651634b53996feaa8fe5281d", null ],
     [ "add_papyrus_sink", "SKSE_2Logger_8h.html#ab971e448a9aecdfe3ae12e6a6b1fe175", null ],
     [ "init", "SKSE_2Logger_8h.html#aef90f6965575993e1db7511939285252", null ],
-    [ "log_directory", "SKSE_2Logger_8h.html#a06872bce4927ff906d0b546d76e4c10e", null ],
+    [ "log_directory", "SKSE_2Logger_8h.html#ac52aacfd9ce3369d9d2cb2e2baa446b3", null ],
     [ "remove_papyrus_sink", "SKSE_2Logger_8h.html#a1fa078c4fc855439159ce5a5801e003d", null ],
     [ "SKSE_MAKE_SOURCE_LOGGER", "SKSE_2Logger_8h.html#a6e729e24689db567c9ebedac1c3f05db", null ],
     [ "SKSE_MAKE_SOURCE_LOGGER", "SKSE_2Logger_8h.html#ab1da7ce3986987940fca4e0bf6942450", null ],

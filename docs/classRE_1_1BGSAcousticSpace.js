@@ -2,7 +2,7 @@ var classRE_1_1BGSAcousticSpace =
 [
     [ "RecordFlags", "structRE_1_1BGSAcousticSpace_1_1RecordFlags.html", "structRE_1_1BGSAcousticSpace_1_1RecordFlags" ],
     [ "~BGSAcousticSpace", "classRE_1_1BGSAcousticSpace.html#add095e85e7ab5bc4b2110c4d48dee1d6", null ],
-    [ "Clone3D", "classRE_1_1BGSAcousticSpace.html#a9e858f0b5bc93724bfbd763ae30bf679", null ],
+    [ "Clone3D", "classRE_1_1BGSAcousticSpace.html#a9acdc192cf83f754fecf65c0a4cd1c7c", null ],
     [ "InitializeData", "classRE_1_1BGSAcousticSpace.html#a19f589bb1aa0125814ad42f025e59679", null ],
     [ "InitItemImpl", "classRE_1_1BGSAcousticSpace.html#aeefebdd1e382f9cd23a343f6d7130b40", null ],
     [ "Load", "classRE_1_1BGSAcousticSpace.html#ae104051c8fab886d0076bbddb9cebeb9", null ],

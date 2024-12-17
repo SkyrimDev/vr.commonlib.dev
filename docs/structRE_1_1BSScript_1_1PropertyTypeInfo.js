@@ -6,7 +6,7 @@ var structRE_1_1BSScript_1_1PropertyTypeInfo =
     [ "getFunction", "structRE_1_1BSScript_1_1PropertyTypeInfo.html#ada1426307092cb240e79f1e02f4f482e", null ],
     [ "pad1C", "structRE_1_1BSScript_1_1PropertyTypeInfo.html#ab34f3d3c46565406ae7a57d657146c67", null ],
     [ "parentObjName", "structRE_1_1BSScript_1_1PropertyTypeInfo.html#a1862122fefe7829a3a33d5e277ca176a", null ],
-    [ "permissions", "structRE_1_1BSScript_1_1PropertyTypeInfo.html#a99d1e9063aa4130b7322aaab470b051c", null ],
+    [ "permissions", "structRE_1_1BSScript_1_1PropertyTypeInfo.html#a3e94c800d20f301e1bb67239cfb60628", null ],
     [ "propertyName", "structRE_1_1BSScript_1_1PropertyTypeInfo.html#af08392b548370558e6db6d5b34838bf8", null ],
     [ "setFunction", "structRE_1_1BSScript_1_1PropertyTypeInfo.html#a6d9166aa5166b1f177900e2f80f54476", null ],
     [ "type", "structRE_1_1BSScript_1_1PropertyTypeInfo.html#abc4271edf980ed714d0ac969d17a551b", null ],

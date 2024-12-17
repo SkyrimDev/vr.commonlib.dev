@@ -1,5 +1,5 @@
 var classRE_1_1MessageDataFactoryManager =
 [
-    [ "GetCreator", "classRE_1_1MessageDataFactoryManager.html#a5c4e23726d36107370d881d1c0164738", null ],
-    [ "GetSingleton", "classRE_1_1MessageDataFactoryManager.html#aa5011b93d5c62c0c7d77cedd58d1411b", null ]
+    [ "GetCreator", "classRE_1_1MessageDataFactoryManager.html#aaf3fe09856dd006e3e8ea764ec14945c", null ],
+    [ "GetSingleton", "classRE_1_1MessageDataFactoryManager.html#a9c37b08ae3380bd1f29315b38684ed17", null ]
 ];

@@ -8,5 +8,5 @@ var structRE_1_1TESTopicInfoEvent =
     [ "speakerRef", "structRE_1_1TESTopicInfoEvent.html#a1b581255bc200729bdb58b29fb515434", null ],
     [ "stage", "structRE_1_1TESTopicInfoEvent.html#a873fc633aac093e6a97dba58ff664577", null ],
     [ "topicInfoFormID", "structRE_1_1TESTopicInfoEvent.html#a27e095efa80022eddd4adc78031194dd", null ],
-    [ "type", "structRE_1_1TESTopicInfoEvent.html#a3dfe292215a9d91bb63d3b1258874b04", null ]
+    [ "type", "structRE_1_1TESTopicInfoEvent.html#a42229ee7be98f5729f4ac427d4b4f0c3", null ]
 ];

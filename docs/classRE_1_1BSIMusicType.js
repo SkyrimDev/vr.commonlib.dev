@@ -28,13 +28,13 @@ var classRE_1_1BSIMusicType =
     [ "currentTrackIndex", "classRE_1_1BSIMusicType.html#a735b94923a4cd85899ba639f8cc6cf20", null ],
     [ "ducksOtherMusicBy", "classRE_1_1BSIMusicType.html#a560e857431da45169746a2b8c0f8a343", null ],
     [ "fadeTime", "classRE_1_1BSIMusicType.html#a14306be2e62ea71c10e08d19b55c5bbc", null ],
-    [ "flags", "classRE_1_1BSIMusicType.html#a0ef1a06ac0e6bfac5b50235d1a6962fd", null ],
+    [ "flags", "classRE_1_1BSIMusicType.html#aaac34d50ead0522ae84dd57ae546b34a", null ],
     [ "pad4C", "classRE_1_1BSIMusicType.html#a03337da4e4229684dfb4f1f197816d23", null ],
     [ "padding", "classRE_1_1BSIMusicType.html#a5c6d6cc704772254b831ade70119f4f0", null ],
     [ "priority", "classRE_1_1BSIMusicType.html#a8a242ee8fb6fb2a2fcc9c2019a38ce09", null ],
     [ "RTTI", "classRE_1_1BSIMusicType.html#a1b31cebb7a0caab7191bbf3c2746a216", null ],
     [ "trackHistory", "classRE_1_1BSIMusicType.html#a0f2d3a25ec32f8c2ec2cfa8e2e23f9f0", null ],
     [ "tracks", "classRE_1_1BSIMusicType.html#a15cae78914a1e96e4474f226495cfda1", null ],
-    [ "typeStatus", "classRE_1_1BSIMusicType.html#a24e58fb0e982993bb863834090038ddf", null ],
+    [ "typeStatus", "classRE_1_1BSIMusicType.html#a31fc29bbcb3ae12df1066ea22a5df6d3", null ],
     [ "VTABLE", "classRE_1_1BSIMusicType.html#a163ce691f10db6bf22fc9283c46c1aa0", null ]
 ];

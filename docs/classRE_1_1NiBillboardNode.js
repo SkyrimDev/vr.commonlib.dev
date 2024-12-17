@@ -9,9 +9,9 @@ var classRE_1_1NiBillboardNode =
       [ "kBSRotateAboutUp", "classRE_1_1NiBillboardNode.html#a9585ae9b9099517ab9fc34950e29b912ad855e05ff66f81ac2014c95ffcbde140", null ]
     ] ],
     [ "~NiBillboardNode", "classRE_1_1NiBillboardNode.html#ad3b99a59b24afa631f5c80edaf6f18c0", null ],
-    [ "CreateClone", "classRE_1_1NiBillboardNode.html#ae3815a5094e3669dcbcf54b09ab1de67", null ],
+    [ "CreateClone", "classRE_1_1NiBillboardNode.html#a48b41e0a6b0694d886fccba7e77648c3", null ],
     [ "GetMode", "classRE_1_1NiBillboardNode.html#aff5d7a610d8ca97a79292fee4452e547", null ],
-    [ "GetRTTI", "classRE_1_1NiBillboardNode.html#a96d30b1e12f201ed5191d161c5ff5a5b", null ],
+    [ "GetRTTI", "classRE_1_1NiBillboardNode.html#a28e6fcc40cef2e866c8f60e6707f4e9a", null ],
     [ "IsEqual", "classRE_1_1NiBillboardNode.html#a4f12d1a167ace22447c8924a3d79a73b", null ],
     [ "LinkObject", "classRE_1_1NiBillboardNode.html#ab149581f95c9522b0df41cfce2914e7c", null ],
     [ "LoadBinary", "classRE_1_1NiBillboardNode.html#a0fb9d2626c8892fbffc3736f20685e75", null ],

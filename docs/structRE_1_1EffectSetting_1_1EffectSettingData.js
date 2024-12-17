@@ -39,7 +39,7 @@ var structRE_1_1EffectSetting_1_1EffectSettingData =
     [ "enchantVisuals", "structRE_1_1EffectSetting_1_1EffectSettingData.html#ac13122a6288a37ed137b90694e0e2097", null ],
     [ "equipAbility", "structRE_1_1EffectSetting_1_1EffectSettingData.html#a8715d043478373859a436d16e8441d82", null ],
     [ "explosion", "structRE_1_1EffectSetting_1_1EffectSettingData.html#a262c35d94ebab2169ade029d78362a7a", null ],
-    [ "flags", "structRE_1_1EffectSetting_1_1EffectSettingData.html#abcefd859776cdba4dc6f4abdf0dc8712", null ],
+    [ "flags", "structRE_1_1EffectSetting_1_1EffectSettingData.html#ace5c05ed40f453d19b8b5f80580a27da", null ],
     [ "hitEffectArt", "structRE_1_1EffectSetting_1_1EffectSettingData.html#a7237e86cc67466e386a90af5a85283f3", null ],
     [ "hitVisuals", "structRE_1_1EffectSetting_1_1EffectSettingData.html#aec485633d3ac2c8429129325061ab136", null ],
     [ "imageSpaceMod", "structRE_1_1EffectSetting_1_1EffectSettingData.html#a888ba21e46499bb8be28091236778f2b", null ],

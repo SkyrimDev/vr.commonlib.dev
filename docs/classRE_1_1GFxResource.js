@@ -31,7 +31,7 @@ var classRE_1_1GFxResource =
     [ "AddRef_NotZero", "classRE_1_1GFxResource.html#adad3cde7e6c121a1097743c8f04c107f", null ],
     [ "GetKey", "classRE_1_1GFxResource.html#af89e216c0ec1c749323d85ae4abc5ba9", null ],
     [ "GetRefCount", "classRE_1_1GFxResource.html#ab6f12996a8ccbc693bb9d966ca0e2fe2", null ],
-    [ "GetResourceReport", "classRE_1_1GFxResource.html#a1a9078542f913159d4852139707e50c5", null ],
+    [ "GetResourceReport", "classRE_1_1GFxResource.html#a05bf226e13c739c27c5f88ba59703893", null ],
     [ "GetResourceType", "classRE_1_1GFxResource.html#a90b87611d99a6de85400b2b3fc31a6aa", null ],
     [ "GetResourceTypeCode", "classRE_1_1GFxResource.html#a2c2a4744327cf1713d68e0d229041ac5", null ],
     [ "GetResourceUse", "classRE_1_1GFxResource.html#a8d57912198933b11aca956ee1add1837", null ],

@@ -5,7 +5,7 @@ var classRE_1_1hkpShapeContainer =
       [ "kIncrement", "classRE_1_1hkpShapeContainer.html#adcd695ff806a2a09e74e8a6f63513e5dacdf4a78f1bfcdf9ab5e3aa4f695ed84e", null ]
     ] ],
     [ "~hkpShapeContainer", "classRE_1_1hkpShapeContainer.html#a0a32935558c4bf136bcc1f2cc6794e10", null ],
-    [ "GetChildShape", "classRE_1_1hkpShapeContainer.html#ab40d8acf3731cb6ed3baf09e28bc0221", null ],
+    [ "GetChildShape", "classRE_1_1hkpShapeContainer.html#aef02cad1e4078344fc6ce42e30b68b64", null ],
     [ "GetCollisionFilterInfo", "classRE_1_1hkpShapeContainer.html#aa83f37211baeea241eccf301b712a149", null ],
     [ "GetFirstKey", "classRE_1_1hkpShapeContainer.html#a17390144028b5b64d890895db1dca521", null ],
     [ "GetNextKey", "classRE_1_1hkpShapeContainer.html#add8f5b79f98c025e86795c187afddcb5", null ],

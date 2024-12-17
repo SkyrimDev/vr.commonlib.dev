@@ -8,7 +8,7 @@ var classRE_1_1MainMenu =
     [ "ProcessEvent", "classRE_1_1MainMenu.html#a54d31763b6dc5b42db5c45264befc184", null ],
     [ "ProcessMessage", "classRE_1_1MainMenu.html#afff9588de423729f38830dad18140fe0", null ],
     [ "gamerIconTexture", "classRE_1_1MainMenu.html#a1cdd7ab9a767668fcb65154a95bc89d2", null ],
-    [ "MENU_NAME", "classRE_1_1MainMenu.html#ace9b58cad0d60d67f3a6cecdeec379b3", null ],
+    [ "MENU_NAME", "classRE_1_1MainMenu.html#ad9bd1a5185080a8400116992bce8856b", null ],
     [ "pad6F", "classRE_1_1MainMenu.html#a0ac5af3c9927de919a53d42f18825ae9", null ],
     [ "RTTI", "classRE_1_1MainMenu.html#a108198ffa700737eb5da8e58f0b840b4", null ],
     [ "unk68", "classRE_1_1MainMenu.html#ad55bc6c0561b113ba40ea0c8dc1780c6", null ],

@@ -1,9 +1,9 @@
 var classRE_1_1BGSCreatedObjectManager =
 [
     [ "CreatedMagicItemData", "structRE_1_1BGSCreatedObjectManager_1_1CreatedMagicItemData.html", "structRE_1_1BGSCreatedObjectManager_1_1CreatedMagicItemData" ],
-    [ "AddArmorEnchantment", "classRE_1_1BGSCreatedObjectManager.html#a6c872a69425665b2699d070ed9da8b8b", null ],
-    [ "AddWeaponEnchantment", "classRE_1_1BGSCreatedObjectManager.html#a31d50f4ea8b5c74910f0162cc7472c51", null ],
-    [ "GetSingleton", "classRE_1_1BGSCreatedObjectManager.html#a2f6fcf057ebdb20b260dd398ed770a25", null ],
+    [ "AddArmorEnchantment", "classRE_1_1BGSCreatedObjectManager.html#ac906b38b85d0e4b9207b4846852b398f", null ],
+    [ "AddWeaponEnchantment", "classRE_1_1BGSCreatedObjectManager.html#a095295150c2f1aeeb5f6f4c5a1903cdb", null ],
+    [ "GetSingleton", "classRE_1_1BGSCreatedObjectManager.html#abea57d69fb30b8c34b55e6620b85849a", null ],
     [ "armorEnchantments", "classRE_1_1BGSCreatedObjectManager.html#a99b1bc5d0ce4e4c7c8ce12fdd99b471c", null ],
     [ "lock", "classRE_1_1BGSCreatedObjectManager.html#a53208bc77829778eb869028e48080f32", null ],
     [ "pad01", "classRE_1_1BGSCreatedObjectManager.html#aaa8add870dd24cf629ef627a89a1ac87", null ],

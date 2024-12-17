@@ -1,9 +1,9 @@
 var classRE_1_1BSParticleShaderProperty =
 [
     [ "~BSParticleShaderProperty", "classRE_1_1BSParticleShaderProperty.html#a34874fc55bd4501ee8202b9bf5c25ab4", null ],
-    [ "GetBaseTexture", "classRE_1_1BSParticleShaderProperty.html#af7cc4ecb257706af31d54a62eef0e61a", null ],
-    [ "GetRenderPasses", "classRE_1_1BSParticleShaderProperty.html#aba8365f9369e1d95bed8b8c9f02601a5", null ],
-    [ "GetRTTI", "classRE_1_1BSParticleShaderProperty.html#a17a4d742f652b6cc3986d0f6b9a08e76", null ],
+    [ "GetBaseTexture", "classRE_1_1BSParticleShaderProperty.html#afc47d21654c80f42cc0ca01dc8ac2751", null ],
+    [ "GetRenderPasses", "classRE_1_1BSParticleShaderProperty.html#a3f88f3356fe6c4984aeae4d61db4720f", null ],
+    [ "GetRTTI", "classRE_1_1BSParticleShaderProperty.html#aea3d89b8ad64c959f7a7480421ccbeff", null ],
     [ "QShader", "classRE_1_1BSParticleShaderProperty.html#af4cc401630f4404675a013fe685f7904", null ],
     [ "SetupGeometry", "classRE_1_1BSParticleShaderProperty.html#a13bd9253ca34acc76ffe2bb5273cddfd", null ],
     [ "acceleration1", "classRE_1_1BSParticleShaderProperty.html#af03366839f56004778424c76e1124530", null ],

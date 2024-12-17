@@ -34,7 +34,7 @@ var classRE_1_1BSUtilityShader =
       [ "OpaqueEffect", "classRE_1_1BSUtilityShader.html#a29775b309f64ca90bfc670348b3f47cfadae55f4b3d4db33dd04c8f06298c1024", null ]
     ] ],
     [ "~BSUtilityShader", "classRE_1_1BSUtilityShader.html#aa2e7a36da70e4933c9dce7d5aeaab086", null ],
-    [ "GetSingleton", "classRE_1_1BSUtilityShader.html#af816c1e8eef8227618be97fa8900cbfc", null ],
+    [ "GetSingleton", "classRE_1_1BSUtilityShader.html#ad5d7b7e373cee87de657d3de1bab722c", null ],
     [ "RestoreGeometry", "classRE_1_1BSUtilityShader.html#a418002a9458ac3576a8c4a8ca49d3664", null ],
     [ "RestoreTechnique", "classRE_1_1BSUtilityShader.html#a7194688f41c8415f8fbd70484cf2b5da", null ],
     [ "SetupGeometry", "classRE_1_1BSUtilityShader.html#afebb072f6530f78ee2786769c1ab06a0", null ],

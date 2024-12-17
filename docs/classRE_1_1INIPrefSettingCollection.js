@@ -1,7 +1,7 @@
 var classRE_1_1INIPrefSettingCollection =
 [
     [ "~INIPrefSettingCollection", "classRE_1_1INIPrefSettingCollection.html#a97bdfa5d5f09aede3cb1a326a1b2e709", null ],
-    [ "GetSingleton", "classRE_1_1INIPrefSettingCollection.html#ab3b07f37c1cd70df6d0a82f90c8c2552", null ],
+    [ "GetSingleton", "classRE_1_1INIPrefSettingCollection.html#ad065002c3014a9003b8c3c4599f12d11", null ],
     [ "ReadAllSettings", "classRE_1_1INIPrefSettingCollection.html#a4aa49a7925726a687f35e2eef9b12eb7", null ],
     [ "Unk_07", "classRE_1_1INIPrefSettingCollection.html#a8c60380c06c512c379b37e8c200a6597", null ],
     [ "WriteAllSettings", "classRE_1_1INIPrefSettingCollection.html#ace01d5ac854f7161e2ff5bc85d09530a", null ],

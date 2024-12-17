@@ -1,7 +1,7 @@
 var classRE_1_1NiCollisionObject =
 [
     [ "~NiCollisionObject", "classRE_1_1NiCollisionObject.html#a8d4f1aea5f6fb8aaf182cddb54fbbb35", null ],
-    [ "GetRTTI", "classRE_1_1NiCollisionObject.html#afee4c9d2403cc6f8c9433924005b15ed", null ],
+    [ "GetRTTI", "classRE_1_1NiCollisionObject.html#a7eba7e75c5136a289f15917cb84a032b", null ],
     [ "IsEqual", "classRE_1_1NiCollisionObject.html#a619c0bec620850e59f93f5ad9f59dbc3", null ],
     [ "LinkObject", "classRE_1_1NiCollisionObject.html#af9ba9f7439a700fc589b6a3ecbc3b804", null ],
     [ "LoadBinary", "classRE_1_1NiCollisionObject.html#aad594d889587c288fc4987b52838621a", null ],

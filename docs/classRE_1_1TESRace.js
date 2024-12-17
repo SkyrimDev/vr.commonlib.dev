@@ -24,8 +24,8 @@ var classRE_1_1TESRace =
     [ "AllowsPCDialogue", "classRE_1_1TESRace.html#a5072892dc2d43284930aa1523b620d88", null ],
     [ "AllowsPickpocket", "classRE_1_1TESRace.html#a39c27ed9823731b1c7cfb3fdf703c410", null ],
     [ "ClearData", "classRE_1_1TESRace.html#a85ec1b49e7e3f80fbe538548f52a513e", null ],
-    [ "GetFormEditorID", "classRE_1_1TESRace.html#af70d5a0c19775afa17c0e0e09676c76d", null ],
-    [ "GetHeadPartByType", "classRE_1_1TESRace.html#ad4aa968ac42770337bea92bbb6f0d0b7", null ],
+    [ "GetFormEditorID", "classRE_1_1TESRace.html#a6c646eafb033477f34bf7f7b31cb70cf", null ],
+    [ "GetHeadPartByType", "classRE_1_1TESRace.html#aa57d8e259a58780bcdff4c87ff5d90fe", null ],
     [ "GetPlayable", "classRE_1_1TESRace.html#a32dbbfd9ce9828af9b9079958894854d", null ],
     [ "InitializeData", "classRE_1_1TESRace.html#a8d85333b9a4a9f710b21f0163dec9f2e", null ],
     [ "InitItemImpl", "classRE_1_1TESRace.html#ad99fdde2db6f3e46ca3b95593e93eee3", null ],
@@ -69,6 +69,6 @@ var classRE_1_1TESRace =
     [ "unk2C8", "classRE_1_1TESRace.html#a39181f1b1a8ddbe038201c4c2c821cf8", null ],
     [ "unk42C", "classRE_1_1TESRace.html#a31322f93ea8e293584225da93a9bb2c4", null ],
     [ "unk448", "classRE_1_1TESRace.html#a71d74d37f19a9303155b1efe8c4a4f42", null ],
-    [ "validEquipTypes", "classRE_1_1TESRace.html#aab699b15584685fe85bb4df2ad71462c", null ],
+    [ "validEquipTypes", "classRE_1_1TESRace.html#af2a62962ab67b543c33a4979de184cc7", null ],
     [ "VTABLE", "classRE_1_1TESRace.html#aaae9bce0bd2768f71db0db959f41e78a", null ]
 ];

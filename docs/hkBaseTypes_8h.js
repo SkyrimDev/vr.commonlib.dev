@@ -1,7 +1,7 @@
 var hkBaseTypes_8h =
 [
-    [ "hkHalf", "classRE_1_1hkHalf.html", "classRE_1_1hkHalf" ],
-    [ "hkUFloat8", "classRE_1_1hkUFloat8.html", "classRE_1_1hkUFloat8" ],
+    [ "RE::hkHalf", "classRE_1_1hkHalf.html", "classRE_1_1hkHalf" ],
+    [ "RE::hkUFloat8", "classRE_1_1hkUFloat8.html", "classRE_1_1hkUFloat8" ],
     [ "hkObjectIndex", "hkBaseTypes_8h.html#a122a9eb6ff8a6363e9210ca9573b8582", null ],
     [ "hkTime", "hkBaseTypes_8h.html#ad6ade7540e56cd83efe8972d0cbfabde", null ],
     [ "hkResult", "hkBaseTypes_8h.html#ac6e9d553c3523f7f3c14e1d1f98356fc", [

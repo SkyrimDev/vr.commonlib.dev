@@ -20,7 +20,7 @@ var classRE_1_1CombatInventoryItem =
     [ "CalculateScore", "classRE_1_1CombatInventoryItem.html#abca9daaecae85e4ecbcc66379fc98d44", null ],
     [ "CheckBusy", "classRE_1_1CombatInventoryItem.html#ace3e51215441d95e93b68415d8206752", null ],
     [ "CheckShouldEquip", "classRE_1_1CombatInventoryItem.html#a1b1d3c9a6858603ec5e0ab04ac74436f", null ],
-    [ "Clone", "classRE_1_1CombatInventoryItem.html#a06811d9007ff85d0e098dc66d3260367", null ],
+    [ "Clone", "classRE_1_1CombatInventoryItem.html#a7d9c025c15677abc061ee7b457695e63", null ],
     [ "Equip", "classRE_1_1CombatInventoryItem.html#a23f9d5f55dcc12c159ff1e082ac1b484", null ],
     [ "GetCategory", "classRE_1_1CombatInventoryItem.html#a85e3d5184e10fd6eb08a1fd39e19d7fb", null ],
     [ "GetDescription", "classRE_1_1CombatInventoryItem.html#a58a84c6db12ab1aad3c21c5bca49181e", null ],

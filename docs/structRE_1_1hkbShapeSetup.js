@@ -7,5 +7,5 @@ var structRE_1_1hkbShapeSetup =
     [ "capsuleHeight", "structRE_1_1hkbShapeSetup.html#ab0d92f449addc51811b2dd3ed7cfb21d", null ],
     [ "capsuleRadius", "structRE_1_1hkbShapeSetup.html#a704e20adfeca55d885384e6fd0af94d5", null ],
     [ "fileName", "structRE_1_1hkbShapeSetup.html#aeab14c221a8051abfdc4d963bee52242", null ],
-    [ "type", "structRE_1_1hkbShapeSetup.html#a5b1dd284e520302863c6352b937fecb9", null ]
+    [ "type", "structRE_1_1hkbShapeSetup.html#a6c3fcf9420eafe65d97f0e1b6fe4d68f", null ]
 ];

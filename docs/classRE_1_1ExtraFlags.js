@@ -12,7 +12,7 @@ var classRE_1_1ExtraFlags =
     [ "GetType", "classRE_1_1ExtraFlags.html#a96604eb2c9ebbc965eefdb04a4148d51", null ],
     [ "IsActivationBlocked", "classRE_1_1ExtraFlags.html#accf57895aca3473755e76f7457f7e5f1", null ],
     [ "EXTRADATATYPE", "classRE_1_1ExtraFlags.html#a2778dbe2ac938201081f9f1b5d9e0b68", null ],
-    [ "flags", "classRE_1_1ExtraFlags.html#abd7f251129a408deaea1399f5b8f373b", null ],
+    [ "flags", "classRE_1_1ExtraFlags.html#a68c23e0fad93eef27a6f57ea87a5c450", null ],
     [ "pad14", "classRE_1_1ExtraFlags.html#a84606bbf14eb9bf369b034d87645eb61", null ],
     [ "RTTI", "classRE_1_1ExtraFlags.html#a42f8f2feb9d7a55bf2b7ed88142987a3", null ],
     [ "VTABLE", "classRE_1_1ExtraFlags.html#a01d011250e6d3faaa0e7dd42fc9c4e14", null ]

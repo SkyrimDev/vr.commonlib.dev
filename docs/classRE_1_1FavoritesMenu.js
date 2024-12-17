@@ -9,7 +9,7 @@ var classRE_1_1FavoritesMenu =
     [ "ProcessMessage", "classRE_1_1FavoritesMenu.html#a41269dad2b1eb371d05d25dd0a4c853f", null ],
     [ "favorites", "classRE_1_1FavoritesMenu.html#ad3b27cfa2a55e95497f8c004cd6a2768", null ],
     [ "isVampire", "classRE_1_1FavoritesMenu.html#a54ed559b09b3636e54eb63d852842162", null ],
-    [ "MENU_NAME", "classRE_1_1FavoritesMenu.html#a1626c7bea7fb7391c7c1d60b41f39987", null ],
+    [ "MENU_NAME", "classRE_1_1FavoritesMenu.html#a000235047d3fa0be318ab4e1a54a1c6c", null ],
     [ "pad74", "classRE_1_1FavoritesMenu.html#a902ae5e7bd35c34ad02a746db07170d3", null ],
     [ "pcControlsReady", "classRE_1_1FavoritesMenu.html#ab342687c49394bdfc44baaa957948ddb", null ],
     [ "root", "classRE_1_1FavoritesMenu.html#a448f0752533ef55ef9af3b8d5a531e6f", null ],
