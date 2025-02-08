@@ -18,7 +18,7 @@ var PCH_8h =
     [ "emplace_vtable", "PCH_8h.html#a9d812cbf19b23c223fc2f4fc97f307a5", null ],
     [ "enumeration", "PCH_8h.html#aee3cfcf97f91976c75dc4cf9bb665110", null ],
     [ "memzero", "PCH_8h.html#a430184a422a0010d6a4291c1de80ea9a", null ],
-    [ "pun_bits", "PCH_8h.html#a9c1686f99beb3e6b65555be48b853fbd", null ],
+    [ "pun_bits", "PCH_8h.html#ad239d9c7d5f6691b0fecf789110d8d1b", null ],
     [ "report_and_fail", "PCH_8h.html#a4a6b15497bec38a5a12985f403ac069d", null ],
     [ "scope_exit", "PCH_8h.html#a67ed0234704d6647b14bbcdf6851e0e9", null ],
     [ "string", "PCH_8h.html#a7a641951eb7e20731f51fa1d007bc5e0", null ],

@@ -156,10 +156,10 @@ Functions</h2></td></tr>
 <tr class="memitem:a430184a422a0010d6a4291c1de80ea9a" id="r_a430184a422a0010d6a4291c1de80ea9a"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
 <tr class="memitem:a430184a422a0010d6a4291c1de80ea9a"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceSKSE_1_1stl.html#a430184a422a0010d6a4291c1de80ea9a">memzero</a> (volatile T *a_ptr, std::size_t a_size=sizeof(T))</td></tr>
 <tr class="separator:a430184a422a0010d6a4291c1de80ea9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c1686f99beb3e6b65555be48b853fbd" id="r_a9c1686f99beb3e6b65555be48b853fbd"><td class="memTemplParams" colspan="2">template&lt;class... Args&gt; <br />
-requires (std::same_as&lt;std::remove_cv_t&lt;Args&gt;, bool&gt;&amp;&amp;...)</td></tr>
-<tr class="memitem:a9c1686f99beb3e6b65555be48b853fbd"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceSKSE_1_1stl.html#a9c1686f99beb3e6b65555be48b853fbd">pun_bits</a> (Args... a_args)</td></tr>
-<tr class="separator:a9c1686f99beb3e6b65555be48b853fbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad239d9c7d5f6691b0fecf789110d8d1b" id="r_ad239d9c7d5f6691b0fecf789110d8d1b"><td class="memTemplParams" colspan="2">template&lt;class... Args&gt; <br />
+requires (std::same_as&lt;std::remove_cv_t&lt;Args&gt;, bool&gt; &amp;&amp; ...)</td></tr>
+<tr class="memitem:ad239d9c7d5f6691b0fecf789110d8d1b"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceSKSE_1_1stl.html#ad239d9c7d5f6691b0fecf789110d8d1b">pun_bits</a> (Args... a_args)</td></tr>
+<tr class="separator:ad239d9c7d5f6691b0fecf789110d8d1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab7aa0f105d485548adc32cce7bde2eaa" id="r_ab7aa0f105d485548adc32cce7bde2eaa"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSKSE_1_1stl.html#ab7aa0f105d485548adc32cce7bde2eaa">utf8_to_utf16</a> (std::string_view a_in) noexcept -&gt; std::optional&lt; std::wstring &gt;</td></tr>
 <tr class="separator:ab7aa0f105d485548adc32cce7bde2eaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a87fafa6e5b0b25fa3dfd596ae6769b86" id="r_a87fafa6e5b0b25fa3dfd596ae6769b86"><td class="memItemLeft" align="right" valign="top">auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceSKSE_1_1stl.html#a87fafa6e5b0b25fa3dfd596ae6769b86">utf16_to_utf8</a> (std::wstring_view a_in) noexcept -&gt; std::optional&lt; std::string &gt;</td></tr>
@@ -398,14 +398,14 @@ template&lt;class T &gt; </div>
 
 </div>
 </div>
-<a id="a9c1686f99beb3e6b65555be48b853fbd" name="a9c1686f99beb3e6b65555be48b853fbd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9c1686f99beb3e6b65555be48b853fbd">&#9670;&#160;</a></span>pun_bits()</h2>
+<a id="ad239d9c7d5f6691b0fecf789110d8d1b" name="ad239d9c7d5f6691b0fecf789110d8d1b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad239d9c7d5f6691b0fecf789110d8d1b">&#9670;&#160;</a></span>pun_bits()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
 template&lt;class... Args&gt; <br />
-requires (std::same_as&lt;std::remove_cv_t&lt;Args&gt;, bool&gt;&amp;&amp;...)</div>
+requires (std::same_as&lt;std::remove_cv_t&lt;Args&gt;, bool&gt; &amp;&amp; ...)</div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">

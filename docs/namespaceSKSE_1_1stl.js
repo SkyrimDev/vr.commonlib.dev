@@ -16,7 +16,7 @@ var namespaceSKSE_1_1stl =
     [ "emplace_vtable", "namespaceSKSE_1_1stl.html#a9d812cbf19b23c223fc2f4fc97f307a5", null ],
     [ "enumeration", "namespaceSKSE_1_1stl.html#aee3cfcf97f91976c75dc4cf9bb665110", null ],
     [ "memzero", "namespaceSKSE_1_1stl.html#a430184a422a0010d6a4291c1de80ea9a", null ],
-    [ "pun_bits", "namespaceSKSE_1_1stl.html#a9c1686f99beb3e6b65555be48b853fbd", null ],
+    [ "pun_bits", "namespaceSKSE_1_1stl.html#ad239d9c7d5f6691b0fecf789110d8d1b", null ],
     [ "report_and_fail", "namespaceSKSE_1_1stl.html#a4a6b15497bec38a5a12985f403ac069d", null ],
     [ "scope_exit", "namespaceSKSE_1_1stl.html#a67ed0234704d6647b14bbcdf6851e0e9", null ],
     [ "unrestricted_cast", "namespaceSKSE_1_1stl.html#a3949a34de63c36059723e610b8aee2fc", null ],
