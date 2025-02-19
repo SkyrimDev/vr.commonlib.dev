@@ -1,8 +1,10 @@
 var namespaceRE_1_1BSResource =
 [
+    [ "ArchiveStream", "classRE_1_1BSResource_1_1ArchiveStream.html", "classRE_1_1BSResource_1_1ArchiveStream" ],
     [ "AsyncStream", "classRE_1_1BSResource_1_1AsyncStream.html", "classRE_1_1BSResource_1_1AsyncStream" ],
     [ "BSSystemDir", "structRE_1_1BSResource_1_1BSSystemDir.html", "structRE_1_1BSResource_1_1BSSystemDir" ],
     [ "BSSystemFile", "classRE_1_1BSResource_1_1BSSystemFile.html", "classRE_1_1BSResource_1_1BSSystemFile" ],
+    [ "CompressedArchiveStream", "classRE_1_1BSResource_1_1CompressedArchiveStream.html", "classRE_1_1BSResource_1_1CompressedArchiveStream" ],
     [ "DAP", "structRE_1_1BSResource_1_1DAP.html", null ],
     [ "DevNull", "classRE_1_1BSResource_1_1DevNull.html", "classRE_1_1BSResource_1_1DevNull" ],
     [ "Entry", "classRE_1_1BSResource_1_1Entry.html", "classRE_1_1BSResource_1_1Entry" ],

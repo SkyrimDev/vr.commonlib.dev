@@ -409,8 +409,8 @@ $(document).ready(function(){initNavTree('FormTypes_8h_source.html',''); initRes
 <div class="line"><a id="l00304" name="l00304"></a><span class="lineno">  304</span>        }</div>
 <div class="line"><a id="l00305" name="l00305"></a><span class="lineno">  305</span> </div>
 <div class="line"><a id="l00306" name="l00306"></a><span class="lineno">  306</span>        <span class="keyword">template</span> &lt;<span class="keyword">class</span> FormatContext&gt;</div>
-<div class="line"><a id="l00307" name="l00307"></a><span class="lineno">  307</span>        <span class="keyword">auto</span> format(<span class="keyword">const</span> <a class="code hl_enumeration" href="namespaceRE.html#a5910781a8c2570b85386c4111dcfe4ee">RE::FormType</a>&amp; a_formType, FormatContext&amp; a_ctx)</div>
-<div class="line"><a id="l00308" name="l00308"></a><span class="lineno">  308</span>        {</div>
+<div class="line"><a id="l00307" name="l00307"></a><span class="lineno">  307</span>        <span class="keyword">auto</span> format(<span class="keyword">const</span> <a class="code hl_enumeration" href="namespaceRE.html#a5910781a8c2570b85386c4111dcfe4ee">RE::FormType</a>&amp; a_formType, FormatContext&amp; a_ctx)<span class="keyword"> const</span></div>
+<div class="line"><a id="l00308" name="l00308"></a><span class="lineno">  308</span><span class="keyword">        </span>{</div>
 <div class="line"><a id="l00309" name="l00309"></a><span class="lineno">  309</span>            <span class="keywordflow">return</span> fmt::format_to(a_ctx.out(), <span class="stringliteral">&quot;{}&quot;</span>, <a class="code hl_function" href="namespaceRE.html#a58fbb7fb72fa1fff7836bfc64873b9cd">RE::FormTypeToString</a>(a_formType));</div>
 <div class="line"><a id="l00310" name="l00310"></a><span class="lineno">  310</span>        }</div>
 <div class="line"><a id="l00311" name="l00311"></a><span class="lineno">  311</span>    };</div>

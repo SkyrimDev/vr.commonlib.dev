@@ -143,9 +143,13 @@ $(document).ready(function(){initNavTree('Stream_8h_source.html',''); initResiza
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno"><a class="line" href="classRE_1_1BSResource_1_1Stream.html#a1665b12630fc88b3112044847d4e92de">   39</a></span>            <span class="keyword">virtual</span> <a class="code hl_enumeration" href="namespaceRE_1_1BSResource.html#ac5488a3c3b5b8819ac5c724ab8943aea">ErrorCode</a> <a class="code hl_function" href="classRE_1_1BSResource_1_1Stream.html#a1665b12630fc88b3112044847d4e92de">DoCreateAsync</a>(<a class="code hl_class" href="classRE_1_1BSTSmartPointer.html">BSTSmartPointer&lt;AsyncStream&gt;</a>&amp; a_streamOut) <span class="keyword">const</span>;                              <span class="comment">// 0B - { return ErrorCode::kUnsupported; }</span></div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span>        };</div>
 </div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>        <span class="keyword">static_assert</span>(<span class="keyword">sizeof</span>(<a class="code hl_class" href="classRE_1_1BSResource_1_1Stream.html">Stream</a>) == 0x10);</div>
-<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>    }</div>
-<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>}</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span><span class="preprocessor">#ifdef SKYRIM_SUPPORT_AE</span></div>
+<div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span>        <span class="keyword">static_assert</span>(<span class="keyword">sizeof</span>(<a class="code hl_class" href="classRE_1_1BSResource_1_1Stream.html">Stream</a>) == 0x18);</div>
+<div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span><span class="preprocessor">#else</span></div>
+<div class="line"><a id="l00044" name="l00044"></a><span class="lineno">   44</span>        <span class="keyword">static_assert</span>(<span class="keyword">sizeof</span>(<a class="code hl_class" href="classRE_1_1BSResource_1_1Stream.html">Stream</a>) == 0x10);</div>
+<div class="line"><a id="l00045" name="l00045"></a><span class="lineno">   45</span><span class="preprocessor">#endif</span></div>
+<div class="line"><a id="l00046" name="l00046"></a><span class="lineno">   46</span>    }</div>
+<div class="line"><a id="l00047" name="l00047"></a><span class="lineno">   47</span>}</div>
 <div class="ttc" id="aBSFixedString_8h_html"><div class="ttname"><a href="BSFixedString_8h.html">BSFixedString.h</a></div></div>
 <div class="ttc" id="aBSTSmartPointer_8h_html"><div class="ttname"><a href="BSTSmartPointer_8h.html">BSTSmartPointer.h</a></div></div>
 <div class="ttc" id="aStreamBase_8h_html"><div class="ttname"><a href="StreamBase_8h.html">StreamBase.h</a></div></div>

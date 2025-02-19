@@ -5,6 +5,8 @@ var classRE_1_1BSTEventSource =
     [ "AddEventSink", "classRE_1_1BSTEventSource.html#afbe267497b45abb1d35e52ffbc8c2f73", null ],
     [ "AddEventSink", "classRE_1_1BSTEventSource.html#a6680c24bbc7ed63c7dbcc67ee0019780", null ],
     [ "operator()", "classRE_1_1BSTEventSource.html#add4dd8e501f03c39ded6febfbe72d1aa", null ],
+    [ "PrependEventSink", "classRE_1_1BSTEventSource.html#a2370f1d6f93a1480d099878124ac4ad4", null ],
+    [ "PrependEventSink", "classRE_1_1BSTEventSource.html#a3d1cef271c23e5d37f5a2793eb2a21c2", null ],
     [ "RemoveEventSink", "classRE_1_1BSTEventSource.html#a61d0ef3499b74b5cb3393782e19bb7f0", null ],
     [ "SendEvent", "classRE_1_1BSTEventSource.html#a3da0359933a3cbbd94c5e240db88716d", null ],
     [ "lock", "classRE_1_1BSTEventSource.html#a1defbde5c6bc9b2e8df2795d54476c0e", null ],

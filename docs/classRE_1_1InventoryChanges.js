@@ -21,6 +21,7 @@ var classRE_1_1InventoryChanges =
     [ "InitScripts", "classRE_1_1InventoryChanges.html#a009550d7166da1abf7bc19a91d750d91", null ],
     [ "RemoveAllItems", "classRE_1_1InventoryChanges.html#adf4eb61472cf02662de45978d25413ca", null ],
     [ "RemoveFavorite", "classRE_1_1InventoryChanges.html#a9e9d6cd2dd02983f7139d911c3b39d68", null ],
+    [ "RemoveItem", "classRE_1_1InventoryChanges.html#a07734c28002094317282aa37e05842cd", null ],
     [ "SendContainerChangedEvent", "classRE_1_1InventoryChanges.html#ad24a08b63ae74863a336233dd76487dd", null ],
     [ "SetFavorite", "classRE_1_1InventoryChanges.html#ae140d48b9364c2eb5adb283ace8134a1", null ],
     [ "SetUniqueID", "classRE_1_1InventoryChanges.html#a10f353ce32216ec14d54b0217320646c", null ],

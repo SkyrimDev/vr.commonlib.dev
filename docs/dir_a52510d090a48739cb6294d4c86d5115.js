@@ -76,6 +76,7 @@ var dir_a52510d090a48739cb6294d4c86d5115 =
     [ "ItemCrafted.h", "ItemCrafted_8h.html", "ItemCrafted_8h" ],
     [ "ItemHarvested.h", "ItemHarvested_8h.html", "ItemHarvested_8h" ],
     [ "ItemList.h", "ItemList_8h.html", "ItemList_8h" ],
+    [ "ItemRemoveReason.h", "ItemRemoveReason_8h.html", "ItemRemoveReason_8h" ],
     [ "ItemsPickpocketed.h", "ItemsPickpocketed_8h.html", "ItemsPickpocketed_8h" ],
     [ "IUIMessageData.h", "IUIMessageData_8h.html", "IUIMessageData_8h" ],
     [ "IVirtualMachine.h", "IVirtualMachine_8h.html", "IVirtualMachine_8h" ],

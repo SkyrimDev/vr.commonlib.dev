@@ -45,7 +45,7 @@ var searchData=
   ['messageboxw_42',['MessageBoxW',['../namespaceREX_1_1W32.html#a436478dd7cb2fe0c5092b4c88d10b881',1,'REX::W32']]],
   ['min_43',['min',['../namespaceRE_1_1ColorUtil_1_1detail.html#a35bc5424f5e4daf4ee516b177f915b8b',1,'RE::ColorUtil::detail']]],
   ['min_5fsize_44',['min_size',['../structRE_1_1BSTScatterTableHeapAllocator.html#af65d1511e344ed3592dc618386cadcde',1,'RE::BSTScatterTableHeapAllocator::min_size()'],['../classRE_1_1BSTScatterTableScrapAllocator.html#a66011dece8338be78c04e6994183eb27',1,'RE::BSTScatterTableScrapAllocator::min_size()'],['../structRE_1_1BSTStaticHashMapBase_1_1Allocator.html#a434b7ddb055c67219eac535ab24b0954',1,'RE::BSTStaticHashMapBase::Allocator::min_size()']]],
-  ['mix_45',['mix',['../namespaceRE_1_1ColorUtil.html#af58bcbf381b39e0033fe822441ca4e22',1,'RE::ColorUtil::Mix()'],['../namespaceRE_1_1ColorUtil_1_1detail.html#a7af7ebccc9be4730ebb92e1335df2a66',1,'RE::ColorUtil::detail::mix()']]],
+  ['mix_45',['mix',['../namespaceRE_1_1ColorUtil_1_1detail.html#a7af7ebccc9be4730ebb92e1335df2a66',1,'RE::ColorUtil::detail::mix()'],['../namespaceRE_1_1ColorUtil.html#af58bcbf381b39e0033fe822441ca4e22',1,'RE::ColorUtil::Mix()']]],
   ['modactorvalue_46',['modactorvalue',['../classRE_1_1TESActorBase.html#a5c4d559ead2c062821765682da36cf13',1,'RE::TESActorBase::ModActorValue()'],['../classRE_1_1ActorValueOwner.html#a1826e6e27f0f00179b90e07f76b4518a',1,'RE::ActorValueOwner::ModActorValue()']]],
   ['modal_47',['Modal',['../classRE_1_1IMenu.html#a260d5ef509eaff0fee1a7e24d79fabe9',1,'RE::IMenu']]],
   ['modcrimegold_48',['ModCrimeGold',['../classRE_1_1TESFaction.html#a885cfec8ec1b6ce9c35e9b8927a9d66c',1,'RE::TESFaction']]],

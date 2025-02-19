@@ -105,8 +105,7 @@ $(document).ready(function(){initNavTree('AsyncStream_8h_source.html',''); initR
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span> </div>
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="keyword">namespace </span><a class="code hl_namespace" href="namespaceRE.html">RE</a></div>
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>{</div>
-<div class="foldopen" id="foldopen00007" data-start="{" data-end="}">
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno"><a class="line" href="namespaceRE_1_1BSResource.html">    7</a></span>    <span class="keyword">namespace </span>BSResource</div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>    <span class="keyword">namespace </span>BSResource</div>
 <div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>    {</div>
 <div class="foldopen" id="foldopen00009" data-start="{" data-end="};">
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno"><a class="line" href="classRE_1_1BSResource_1_1AsyncStream.html">    9</a></span>        <span class="keyword">class </span><a class="code hl_class" href="classRE_1_1BSResource_1_1AsyncStream.html">AsyncStream</a> : <span class="keyword">public</span> <a class="code hl_class" href="classRE_1_1BSResource_1_1StreamBase.html">StreamBase</a></div>
@@ -130,10 +129,13 @@ $(document).ready(function(){initNavTree('AsyncStream_8h_source.html',''); initR
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno"><a class="line" href="classRE_1_1BSResource_1_1AsyncStream.html#ac9c53eafb94085d1f8ad2e2c2bb23f3f">   27</a></span>            std::uint32_t <a class="code hl_variable" href="classRE_1_1BSResource_1_1AsyncStream.html#ac9c53eafb94085d1f8ad2e2c2bb23f3f">pad14</a>;          <span class="comment">// 14</span></div>
 <div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>        };</div>
 </div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>        <span class="keyword">static_assert</span>(<span class="keyword">sizeof</span>(<a class="code hl_class" href="classRE_1_1BSResource_1_1AsyncStream.html">AsyncStream</a>) == 0x18);</div>
-<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>    }</div>
-</div>
-<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>}</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span><span class="preprocessor">#ifdef SKYRIM_SUPPORT_AE</span></div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>        <span class="keyword">static_assert</span>(<span class="keyword">sizeof</span>(<a class="code hl_class" href="classRE_1_1BSResource_1_1AsyncStream.html">AsyncStream</a>) == 0x20);</div>
+<div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span><span class="preprocessor">#else</span></div>
+<div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>        <span class="keyword">static_assert</span>(<span class="keyword">sizeof</span>(<a class="code hl_class" href="classRE_1_1BSResource_1_1AsyncStream.html">AsyncStream</a>) == 0x18);</div>
+<div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span><span class="preprocessor">#endif</span></div>
+<div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span>    }</div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span>}</div>
 <div class="ttc" id="aStreamBase_8h_html"><div class="ttname"><a href="StreamBase_8h.html">StreamBase.h</a></div></div>
 <div class="ttc" id="aclassRE_1_1BSResource_1_1AsyncStream_html"><div class="ttname"><a href="classRE_1_1BSResource_1_1AsyncStream.html">RE::BSResource::AsyncStream</a></div><div class="ttdef"><b>Definition</b> AsyncStream.h:10</div></div>
 <div class="ttc" id="aclassRE_1_1BSResource_1_1AsyncStream_html_a0811b9d61e9050989cfa4b73e39cc708"><div class="ttname"><a href="classRE_1_1BSResource_1_1AsyncStream.html#a0811b9d61e9050989cfa4b73e39cc708">RE::BSResource::AsyncStream::RTTI</a></div><div class="ttdeci">static constexpr auto RTTI</div><div class="ttdef"><b>Definition</b> AsyncStream.h:12</div></div>

@@ -5,13 +5,14 @@ var searchData=
   ['x2_2',['x2',['../structREX_1_1W32_1_1RECT.html#a2f00039248d81d7fa1a94fb8541fc598',1,'REX::W32::RECT::x2'],['../structREX_1_1W32_1_1D3DRECT.html#acc76b5283705da8277c0c1a65c48641c',1,'REX::W32::D3DRECT::x2']]],
   ['xbutton_3',['xButton',['../classRE_1_1UserEvents.html#a69caa398e14962fd6a1a2c53b93346ba',1,'RE::UserEvents']]],
   ['xcountchars_4',['xcountchars',['../structREX_1_1W32_1_1STARTUPINFOA.html#ad5d76f201d03af0282600de50a91723a',1,'REX::W32::STARTUPINFOA::xCountChars'],['../structREX_1_1W32_1_1STARTUPINFOW.html#a8fd093b0dbb0bb93bb0356e13b5d0645',1,'REX::W32::STARTUPINFOW::xCountChars']]],
-  ['xinput_5fgamepad_5fleft_5fthumb_5fdeadzone_5',['XINPUT_GAMEPAD_LEFT_THUMB_DEADZONE',['../namespaceREX_1_1W32.html#aded734593db17fef5b1a127f778f314e',1,'REX::W32']]],
-  ['xinput_5fgamepad_5fright_5fthumb_5fdeadzone_6',['XINPUT_GAMEPAD_RIGHT_THUMB_DEADZONE',['../namespaceREX_1_1W32.html#ac0ad83fd95b7294642bd20362a016b02',1,'REX::W32']]],
-  ['xinput_5fgamepad_5ftrigger_5fthreshold_7',['XINPUT_GAMEPAD_TRIGGER_THRESHOLD',['../namespaceREX_1_1W32.html#a2abb4d6b1c84c6223c25d0625fa853de',1,'REX::W32']]],
-  ['xp_8',['xp',['../structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1SkillData.html#ab78c9903aae3ef865b3628fdef7d6e1d',1,'RE::PlayerCharacter::PlayerSkills::Data::SkillData::xp'],['../structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data.html#a883c52a56e2aa8b28602a6ebc0ffb547',1,'RE::PlayerCharacter::PlayerSkills::Data::xp']]],
-  ['xpos_9',['XPos',['../structRE_1_1BSParticleShaderEmitter_1_1ParticleData.html#ad59b0df740d6c01fac872d854b08e891',1,'RE::BSParticleShaderEmitter::ParticleData']]],
-  ['xsize_10',['xsize',['../structREX_1_1W32_1_1STARTUPINFOA.html#ace5c607f72ab942050a29a15873cb42c',1,'REX::W32::STARTUPINFOA::xSize'],['../structREX_1_1W32_1_1STARTUPINFOW.html#aba0d88e11bee6c0246b50fbc28563f74',1,'REX::W32::STARTUPINFOW::xSize']]],
-  ['xvalue_11',['xValue',['../classRE_1_1ThumbstickEvent.html#a77b9c14978a3424b991630ce72c28d16',1,'RE::ThumbstickEvent']]],
-  ['xvel_12',['XVel',['../structRE_1_1BSParticleShaderEmitter_1_1ParticleData.html#ac85505542857074f3f3e637e78a21d5b',1,'RE::BSParticleShaderEmitter::ParticleData']]],
-  ['xy_13',['xy',['../unionRE_1_1UnloadedRefData_1_1CellKey.html#a03ca67822bc3e50bf4f841d345c49716',1,'RE::UnloadedRefData::CellKey']]]
+  ['xfov_5',['xFOV',['../classRE_1_1BSShadowFrustumLight.html#a479169a5e93e1576cb4cac48b67a2879',1,'RE::BSShadowFrustumLight']]],
+  ['xinput_5fgamepad_5fleft_5fthumb_5fdeadzone_6',['XINPUT_GAMEPAD_LEFT_THUMB_DEADZONE',['../namespaceREX_1_1W32.html#aded734593db17fef5b1a127f778f314e',1,'REX::W32']]],
+  ['xinput_5fgamepad_5fright_5fthumb_5fdeadzone_7',['XINPUT_GAMEPAD_RIGHT_THUMB_DEADZONE',['../namespaceREX_1_1W32.html#ac0ad83fd95b7294642bd20362a016b02',1,'REX::W32']]],
+  ['xinput_5fgamepad_5ftrigger_5fthreshold_8',['XINPUT_GAMEPAD_TRIGGER_THRESHOLD',['../namespaceREX_1_1W32.html#a2abb4d6b1c84c6223c25d0625fa853de',1,'REX::W32']]],
+  ['xp_9',['xp',['../structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1SkillData.html#ab78c9903aae3ef865b3628fdef7d6e1d',1,'RE::PlayerCharacter::PlayerSkills::Data::SkillData::xp'],['../structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data.html#a883c52a56e2aa8b28602a6ebc0ffb547',1,'RE::PlayerCharacter::PlayerSkills::Data::xp']]],
+  ['xpos_10',['XPos',['../structRE_1_1BSParticleShaderEmitter_1_1ParticleData.html#ad59b0df740d6c01fac872d854b08e891',1,'RE::BSParticleShaderEmitter::ParticleData']]],
+  ['xsize_11',['xsize',['../structREX_1_1W32_1_1STARTUPINFOA.html#ace5c607f72ab942050a29a15873cb42c',1,'REX::W32::STARTUPINFOA::xSize'],['../structREX_1_1W32_1_1STARTUPINFOW.html#aba0d88e11bee6c0246b50fbc28563f74',1,'REX::W32::STARTUPINFOW::xSize']]],
+  ['xvalue_12',['xValue',['../classRE_1_1ThumbstickEvent.html#a77b9c14978a3424b991630ce72c28d16',1,'RE::ThumbstickEvent']]],
+  ['xvel_13',['XVel',['../structRE_1_1BSParticleShaderEmitter_1_1ParticleData.html#ac85505542857074f3f3e637e78a21d5b',1,'RE::BSParticleShaderEmitter::ParticleData']]],
+  ['xy_14',['xy',['../unionRE_1_1UnloadedRefData_1_1CellKey.html#a03ca67822bc3e50bf4f841d345c49716',1,'RE::UnloadedRefData::CellKey']]]
 ];

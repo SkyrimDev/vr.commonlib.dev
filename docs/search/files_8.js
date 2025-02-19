@@ -80,11 +80,12 @@ var searchData=
   ['itemcrafted_2eh_77',['ItemCrafted.h',['../ItemCrafted_8h.html',1,'']]],
   ['itemharvested_2eh_78',['ItemHarvested.h',['../ItemHarvested_8h.html',1,'']]],
   ['itemlist_2eh_79',['ItemList.h',['../ItemList_8h.html',1,'']]],
-  ['itemspickpocketed_2eh_80',['ItemsPickpocketed.h',['../ItemsPickpocketed_8h.html',1,'']]],
-  ['iuimessagedata_2eh_81',['IUIMessageData.h',['../IUIMessageData_8h.html',1,'']]],
-  ['ivirtualmachine_2eh_82',['IVirtualMachine.h',['../IVirtualMachine_8h.html',1,'']]],
-  ['ivmdebuginterface_2eh_83',['IVMDebugInterface.h',['../IVMDebugInterface_8h.html',1,'']]],
-  ['ivmobjectbindinterface_2eh_84',['IVMObjectBindInterface.h',['../IVMObjectBindInterface_8h.html',1,'']]],
-  ['ivmsaveloadinterface_2eh_85',['IVMSaveLoadInterface.h',['../IVMSaveLoadInterface_8h.html',1,'']]],
-  ['ixaudio2voicecallback_2eh_86',['IXAudio2VoiceCallback.h',['../IXAudio2VoiceCallback_8h.html',1,'']]]
+  ['itemremovereason_2eh_80',['ItemRemoveReason.h',['../ItemRemoveReason_8h.html',1,'']]],
+  ['itemspickpocketed_2eh_81',['ItemsPickpocketed.h',['../ItemsPickpocketed_8h.html',1,'']]],
+  ['iuimessagedata_2eh_82',['IUIMessageData.h',['../IUIMessageData_8h.html',1,'']]],
+  ['ivirtualmachine_2eh_83',['IVirtualMachine.h',['../IVirtualMachine_8h.html',1,'']]],
+  ['ivmdebuginterface_2eh_84',['IVMDebugInterface.h',['../IVMDebugInterface_8h.html',1,'']]],
+  ['ivmobjectbindinterface_2eh_85',['IVMObjectBindInterface.h',['../IVMObjectBindInterface_8h.html',1,'']]],
+  ['ivmsaveloadinterface_2eh_86',['IVMSaveLoadInterface.h',['../IVMSaveLoadInterface_8h.html',1,'']]],
+  ['ixaudio2voicecallback_2eh_87',['IXAudio2VoiceCallback.h',['../IXAudio2VoiceCallback_8h.html',1,'']]]
 ];

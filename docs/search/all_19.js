@@ -9,9 +9,10 @@ var searchData=
   ['ycbcr_5fmatrix_6',['yCbCr_Matrix',['../structREX_1_1W32_1_1D3D11__VIDEO__PROCESSOR__COLOR__SPACE.html#a639c3074a7bcffd0bccda187c4156d19',1,'REX::W32::D3D11_VIDEO_PROCESSOR_COLOR_SPACE']]],
   ['ycbcr_5fxvycc_7',['yCbCr_xvYCC',['../structREX_1_1W32_1_1D3D11__VIDEO__PROCESSOR__COLOR__SPACE.html#a9aa9d966b4615786b1e10fd3eb367205',1,'REX::W32::D3D11_VIDEO_PROCESSOR_COLOR_SPACE']]],
   ['ycountchars_8',['ycountchars',['../structREX_1_1W32_1_1STARTUPINFOA.html#afde4b9acf1580d57dffce769fc21a3d6',1,'REX::W32::STARTUPINFOA::yCountChars'],['../structREX_1_1W32_1_1STARTUPINFOW.html#a997013a8ba433e4714caf40804b49a48',1,'REX::W32::STARTUPINFOW::yCountChars']]],
-  ['yieldtimer_9',['yieldTimer',['../classRE_1_1PlayerCharacter.html#a81f5b1d5a98b41644bda9da4b72348bb',1,'RE::PlayerCharacter']]],
-  ['ypos_10',['YPos',['../structRE_1_1BSParticleShaderEmitter_1_1ParticleData.html#a0c9b0c8ee77bfe735e4d6f1326834a0a',1,'RE::BSParticleShaderEmitter::ParticleData']]],
-  ['ysize_11',['ysize',['../structREX_1_1W32_1_1STARTUPINFOA.html#a197f5455cb0e64c921bdf5dcb1f032ed',1,'REX::W32::STARTUPINFOA::ySize'],['../structREX_1_1W32_1_1STARTUPINFOW.html#a938e6d51c4ef925e47083c6c5878eaa5',1,'REX::W32::STARTUPINFOW::ySize']]],
-  ['yvalue_12',['yValue',['../classRE_1_1ThumbstickEvent.html#a08723b6451a98502869a815a85a7599e',1,'RE::ThumbstickEvent']]],
-  ['yvel_13',['YVel',['../structRE_1_1BSParticleShaderEmitter_1_1ParticleData.html#a588d7d538746ad24379b94af8e6dcb26',1,'RE::BSParticleShaderEmitter::ParticleData']]]
+  ['yfov_9',['yFOV',['../classRE_1_1BSShadowFrustumLight.html#a746b952c304baa763b6bf0f430b7a9ee',1,'RE::BSShadowFrustumLight']]],
+  ['yieldtimer_10',['yieldTimer',['../classRE_1_1PlayerCharacter.html#a81f5b1d5a98b41644bda9da4b72348bb',1,'RE::PlayerCharacter']]],
+  ['ypos_11',['YPos',['../structRE_1_1BSParticleShaderEmitter_1_1ParticleData.html#a0c9b0c8ee77bfe735e4d6f1326834a0a',1,'RE::BSParticleShaderEmitter::ParticleData']]],
+  ['ysize_12',['ysize',['../structREX_1_1W32_1_1STARTUPINFOA.html#a197f5455cb0e64c921bdf5dcb1f032ed',1,'REX::W32::STARTUPINFOA::ySize'],['../structREX_1_1W32_1_1STARTUPINFOW.html#a938e6d51c4ef925e47083c6c5878eaa5',1,'REX::W32::STARTUPINFOW::ySize']]],
+  ['yvalue_13',['yValue',['../classRE_1_1ThumbstickEvent.html#a08723b6451a98502869a815a85a7599e',1,'RE::ThumbstickEvent']]],
+  ['yvel_14',['YVel',['../structRE_1_1BSParticleShaderEmitter_1_1ParticleData.html#a588d7d538746ad24379b94af8e6dcb26',1,'RE::BSParticleShaderEmitter::ParticleData']]]
 ];

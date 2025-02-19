@@ -1,5 +1,15 @@
 var NAVTREEINDEX16 =
 {
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a011d584e0d6ea4777064305cbb32c414":[6,0,0,0,0,4,48,0,156],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a018e2d8d45e6a588462291ea58082416":[6,0,0,0,0,4,48,0,67],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a02e8df08eee66599c38d29fa47ca5fce":[6,0,0,0,0,4,48,0,172],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a031091a5909dbce8aef8a8425abebb1f":[6,0,0,0,0,4,48,0,62],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a0568b3d1340ba502ec21529bdaefe676":[6,0,0,0,0,4,48,0,112],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a071fd18b31159f1cf2316aded8073095":[6,0,0,0,0,4,48,0,113],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a075f5678463650acbbe67cd8a859cee4":[6,0,0,0,0,4,48,0,135],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a07cce30aba206ea40eb7630a37a216a6":[6,0,0,0,0,4,48,0,58],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a08b46c3a6514e82a88bb5e4f54aeb705":[6,0,0,0,0,4,48,0,139],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a0a619e07b7c49897c940677681f0b1fb":[6,0,0,0,0,4,48,0,78],
 "ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a0b7de9978fc7b56cb478783efb3aefb4":[6,0,0,0,0,4,48,0,19],
 "ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a0b7f37b4d172deb11d467114305e7270":[6,0,0,0,0,4,48,0,164],
 "ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a0c8f3a85fb4de39dc29d54facd3366a8":[6,0,0,0,0,4,48,0,130],
@@ -239,15 +249,5 @@ var NAVTREEINDEX16 =
 "ExtraGroupConstraint_8h.html":[6,0,0,0,0,4,74],
 "ExtraGroupConstraint_8h_source.html":[6,0,0,0,0,4,74],
 "ExtraGuardedRefData_8h.html":[6,0,0,0,0,4,75],
-"ExtraGuardedRefData_8h_source.html":[6,0,0,0,0,4,75],
-"ExtraHasNoRumors_8h.html":[6,0,0,0,0,4,76],
-"ExtraHasNoRumors_8h_source.html":[6,0,0,0,0,4,76],
-"ExtraHavok_8h.html":[6,0,0,0,0,4,77],
-"ExtraHavok_8h_source.html":[6,0,0,0,0,4,77],
-"ExtraHeadTrackingWeight_8h.html":[6,0,0,0,0,4,79],
-"ExtraHeadTrackingWeight_8h_source.html":[6,0,0,0,0,4,79],
-"ExtraHeadingTarget_8h.html":[6,0,0,0,0,4,78],
-"ExtraHeadingTarget_8h_source.html":[6,0,0,0,0,4,78],
-"ExtraHealthPerc_8h.html":[6,0,0,0,0,4,81],
-"ExtraHealthPerc_8h_source.html":[6,0,0,0,0,4,81]
+"ExtraGuardedRefData_8h_source.html":[6,0,0,0,0,4,75]
 };

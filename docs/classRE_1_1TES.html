@@ -130,6 +130,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a903576d39c1eff0694eefcb50409d015"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa0aa4bbe1a8e80bc4634d961df2d2e2b" id="r_aa0aa4bbe1a8e80bc4634d961df2d2e2b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespaceRE.html#afac395ace98ab9d789334300c69c6648">BSEventNotifyControl</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#aa0aa4bbe1a8e80bc4634d961df2d2e2b">ProcessEvent</a> (const <a class="el" href="structRE_1_1PositionPlayerEvent.html">PositionPlayerEvent</a> *a_event, <a class="el" href="classRE_1_1BSTEventSource.html">BSTEventSource</a>&lt; <a class="el" href="structRE_1_1PositionPlayerEvent.html">PositionPlayerEvent</a> &gt; *a_eventSource) override</td></tr>
 <tr class="separator:aa0aa4bbe1a8e80bc4634d961df2d2e2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72fa5d067a3fa5d37a852f710404a0da" id="r_a72fa5d067a3fa5d37a852f710404a0da"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a72fa5d067a3fa5d37a852f710404a0da">ForEachCell</a> (std::function&lt; void(<a class="el" href="classRE_1_1TESObjectCELL.html">TESObjectCELL</a> *)&gt; a_callback)</td></tr>
+<tr class="separator:a72fa5d067a3fa5d37a852f710404a0da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54a5112ee80d495e627927e67918bdb4" id="r_a54a5112ee80d495e627927e67918bdb4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a54a5112ee80d495e627927e67918bdb4">ForEachCellInRange</a> (<a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *a_origin, float a_radius, std::function&lt; void(<a class="el" href="classRE_1_1TESObjectCELL.html">TESObjectCELL</a> *)&gt; a_callback)</td></tr>
+<tr class="separator:a54a5112ee80d495e627927e67918bdb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a61be03533127c2a577d3cffae538ad2e" id="r_a61be03533127c2a577d3cffae538ad2e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a61be03533127c2a577d3cffae538ad2e">ForEachReference</a> (std::function&lt; <a class="el" href="namespaceRE_1_1BSContainer.html#adb9053c4af76c714dd2de7dfe517fd4a">BSContainer::ForEachResult</a>(<a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *)&gt; a_callback)</td></tr>
 <tr class="separator:a61be03533127c2a577d3cffae538ad2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aef0ee743a41f32f03c8907d35a7c3341" id="r_aef0ee743a41f32f03c8907d35a7c3341"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#aef0ee743a41f32f03c8907d35a7c3341">ForEachReferenceInRange</a> (<a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *a_origin, float a_radius, std::function&lt; <a class="el" href="namespaceRE_1_1BSContainer.html#adb9053c4af76c714dd2de7dfe517fd4a">BSContainer::ForEachResult</a>(<a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *)&gt; a_callback)</td></tr>
@@ -158,6 +162,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a6680c24bbc7ed63c7dbcc67ee0019780 inherit pub_methods_classRE_1_1BSTEventSource"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afbe267497b45abb1d35e52ffbc8c2f73 inherit pub_methods_classRE_1_1BSTEventSource" id="r_afbe267497b45abb1d35e52ffbc8c2f73"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1BSTEventSource.html#afbe267497b45abb1d35e52ffbc8c2f73">AddEventSink</a> (<a class="el" href="classRE_1_1BSTEventSink.html">BSTEventSink</a>&lt; SinkEvent &gt; *a_sink)</td></tr>
 <tr class="separator:afbe267497b45abb1d35e52ffbc8c2f73 inherit pub_methods_classRE_1_1BSTEventSource"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d1cef271c23e5d37f5a2793eb2a21c2 inherit pub_methods_classRE_1_1BSTEventSource" id="r_a3d1cef271c23e5d37f5a2793eb2a21c2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1BSTEventSource.html#a3d1cef271c23e5d37f5a2793eb2a21c2">PrependEventSink</a> (<a class="el" href="classRE_1_1BSTEventSource.html#a41e6c162dc840770540604447909030a">Sink</a> *a_eventSink)</td></tr>
+<tr class="separator:a3d1cef271c23e5d37f5a2793eb2a21c2 inherit pub_methods_classRE_1_1BSTEventSource"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2370f1d6f93a1480d099878124ac4ad4 inherit pub_methods_classRE_1_1BSTEventSource" id="r_a2370f1d6f93a1480d099878124ac4ad4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1BSTEventSource.html#a2370f1d6f93a1480d099878124ac4ad4">PrependEventSink</a> (<a class="el" href="classRE_1_1BSTEventSink.html">BSTEventSink</a>&lt; SinkEvent &gt; *a_sink)</td></tr>
+<tr class="separator:a2370f1d6f93a1480d099878124ac4ad4 inherit pub_methods_classRE_1_1BSTEventSource"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a61d0ef3499b74b5cb3393782e19bb7f0 inherit pub_methods_classRE_1_1BSTEventSource" id="r_a61d0ef3499b74b5cb3393782e19bb7f0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1BSTEventSource.html#a61d0ef3499b74b5cb3393782e19bb7f0">RemoveEventSink</a> (<a class="el" href="classRE_1_1BSTEventSource.html#a41e6c162dc840770540604447909030a">Sink</a> *a_eventSink)</td></tr>
 <tr class="separator:a61d0ef3499b74b5cb3393782e19bb7f0 inherit pub_methods_classRE_1_1BSTEventSource"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3da0359933a3cbbd94c5e240db88716d inherit pub_methods_classRE_1_1BSTEventSource" id="r_a3da0359933a3cbbd94c5e240db88716d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1BSTEventSource.html#a3da0359933a3cbbd94c5e240db88716d">SendEvent</a> (const CellAttachDetachEvent *a_event)</td></tr>
@@ -190,16 +198,18 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a86acf4f269b3fd96df64976950e9b467"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7ebe0533511ce98b31fecf98e2f0ec2d" id="r_a7ebe0533511ce98b31fecf98e2f0ec2d"><td class="memItemLeft" align="right" valign="top">BSTempNodeManager *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a7ebe0533511ce98b31fecf98e2f0ec2d">tempNodeManager</a></td></tr>
 <tr class="separator:a7ebe0533511ce98b31fecf98e2f0ec2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0a953565a7300bd9cb915dc1fb74b012" id="r_a0a953565a7300bd9cb915dc1fb74b012"><td class="memItemLeft" align="right" valign="top">std::uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a0a953565a7300bd9cb915dc1fb74b012">unk0A0</a></td></tr>
-<tr class="separator:a0a953565a7300bd9cb915dc1fb74b012"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae6b6c3a97ea0922c5276051b34f16720" id="r_ae6b6c3a97ea0922c5276051b34f16720"><td class="memItemLeft" align="right" valign="top">std::uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#ae6b6c3a97ea0922c5276051b34f16720">unk0A8</a></td></tr>
-<tr class="separator:ae6b6c3a97ea0922c5276051b34f16720"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acb9268820283bfa482d658c3d3a26d21" id="r_acb9268820283bfa482d658c3d3a26d21"><td class="memItemLeft" align="right" valign="top">std::uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#acb9268820283bfa482d658c3d3a26d21">unk0B0</a></td></tr>
-<tr class="separator:acb9268820283bfa482d658c3d3a26d21"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a199926c7df9487632532d43b5f9ed940" id="r_a199926c7df9487632532d43b5f9ed940"><td class="memItemLeft" align="right" valign="top">std::uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a199926c7df9487632532d43b5f9ed940">unk0B4</a></td></tr>
-<tr class="separator:a199926c7df9487632532d43b5f9ed940"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aebe36294915fe64754357d1bfca6bf2a" id="r_aebe36294915fe64754357d1bfca6bf2a"><td class="memItemLeft" align="right" valign="top">std::uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#aebe36294915fe64754357d1bfca6bf2a">unk0B8</a></td></tr>
-<tr class="separator:aebe36294915fe64754357d1bfca6bf2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4efcaa4c6f3a1ddec963922fe6c83ba" id="r_af4efcaa4c6f3a1ddec963922fe6c83ba"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiDirectionalLight.html">NiDirectionalLight</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#af4efcaa4c6f3a1ddec963922fe6c83ba">objLight</a></td></tr>
+<tr class="separator:af4efcaa4c6f3a1ddec963922fe6c83ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3918f7cf952ce1c4d392eefe03901121" id="r_a3918f7cf952ce1c4d392eefe03901121"><td class="memItemLeft" align="right" valign="top">NiFogProperty *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a3918f7cf952ce1c4d392eefe03901121">objFog</a></td></tr>
+<tr class="separator:a3918f7cf952ce1c4d392eefe03901121"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afaea2f8675d0abb6e6e514cd94021186" id="r_afaea2f8675d0abb6e6e514cd94021186"><td class="memItemLeft" align="right" valign="top">std::int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#afaea2f8675d0abb6e6e514cd94021186">currentGridX</a></td></tr>
+<tr class="separator:afaea2f8675d0abb6e6e514cd94021186"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d1bf22c25ead186d6f2b89ec0dd37fc" id="r_a2d1bf22c25ead186d6f2b89ec0dd37fc"><td class="memItemLeft" align="right" valign="top">std::int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a2d1bf22c25ead186d6f2b89ec0dd37fc">currentGridY</a></td></tr>
+<tr class="separator:a2d1bf22c25ead186d6f2b89ec0dd37fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13ca248c059e2c3d388d69b71252d2ec" id="r_a13ca248c059e2c3d388d69b71252d2ec"><td class="memItemLeft" align="right" valign="top">std::int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a13ca248c059e2c3d388d69b71252d2ec">currentQueuedX</a></td></tr>
+<tr class="separator:a13ca248c059e2c3d388d69b71252d2ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a00368e7ae222296dafc738a9a9744e73" id="r_a00368e7ae222296dafc738a9a9744e73"><td class="memItemLeft" align="right" valign="top">std::int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a00368e7ae222296dafc738a9a9744e73">currentQueuedY</a></td></tr>
+<tr class="separator:a00368e7ae222296dafc738a9a9744e73"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac3aad1cd3df50ed1f0b0b05579863b18" id="r_ac3aad1cd3df50ed1f0b0b05579863b18"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1TESObjectCELL.html">TESObjectCELL</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#ac3aad1cd3df50ed1f0b0b05579863b18">interiorCell</a></td></tr>
 <tr class="separator:ac3aad1cd3df50ed1f0b0b05579863b18"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad2a83bd7bc9ed30cc27d3ad751f5d476" id="r_ad2a83bd7bc9ed30cc27d3ad751f5d476"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1TESObjectCELL.html">TESObjectCELL</a> **&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#ad2a83bd7bc9ed30cc27d3ad751f5d476">interiorBuffer</a></td></tr>
@@ -208,8 +218,10 @@ Public Attributes</h2></td></tr>
 <tr class="separator:af59b036f6ac35e3bb547567fd420b8ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a748344c156ff4c0e25ffc4b0599f0c34" id="r_a748344c156ff4c0e25ffc4b0599f0c34"><td class="memItemLeft" align="right" valign="top">std::uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a748344c156ff4c0e25ffc4b0599f0c34">unk0D8</a></td></tr>
 <tr class="separator:a748344c156ff4c0e25ffc4b0599f0c34"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6888f9cc4269be2160ad54978115d253" id="r_a6888f9cc4269be2160ad54978115d253"><td class="memItemLeft" align="right" valign="top">std::uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a6888f9cc4269be2160ad54978115d253">unk0E0</a></td></tr>
-<tr class="separator:a6888f9cc4269be2160ad54978115d253"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76d4262d7a532cf28fc327bed6831fe3" id="r_a76d4262d7a532cf28fc327bed6831fe3"><td class="memItemLeft" align="right" valign="top">std::int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a76d4262d7a532cf28fc327bed6831fe3">saveGridX</a></td></tr>
+<tr class="separator:a76d4262d7a532cf28fc327bed6831fe3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61865b3b913ca36055f1c212ae781384" id="r_a61865b3b913ca36055f1c212ae781384"><td class="memItemLeft" align="right" valign="top">std::int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a61865b3b913ca36055f1c212ae781384">saveGridY</a></td></tr>
+<tr class="separator:a61865b3b913ca36055f1c212ae781384"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac6f0f770c596e06b08e64f8cd50e0009" id="r_ac6f0f770c596e06b08e64f8cd50e0009"><td class="memItemLeft" align="right" valign="top">std::uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#ac6f0f770c596e06b08e64f8cd50e0009">unk0E8</a></td></tr>
 <tr class="separator:ac6f0f770c596e06b08e64f8cd50e0009"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8052b5e144e37427234ec68d8aec0b8b" id="r_a8052b5e144e37427234ec68d8aec0b8b"><td class="memItemLeft" align="right" valign="top">std::uint64_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1TES.html#a8052b5e144e37427234ec68d8aec0b8b">unk0F0</a></td></tr>
@@ -403,6 +415,58 @@ Additional Inherited Members</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="a72fa5d067a3fa5d37a852f710404a0da" name="a72fa5d067a3fa5d37a852f710404a0da"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a72fa5d067a3fa5d37a852f710404a0da">&#9670;&#160;</a></span>ForEachCell()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void RE::TES::ForEachCell </td>
+          <td>(</td>
+          <td class="paramtype">std::function&lt; void(<a class="el" href="classRE_1_1TESObjectCELL.html">TESObjectCELL</a> *)&gt;&#160;</td>
+          <td class="paramname"><em>a_callback</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a54a5112ee80d495e627927e67918bdb4" name="a54a5112ee80d495e627927e67918bdb4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54a5112ee80d495e627927e67918bdb4">&#9670;&#160;</a></span>ForEachCellInRange()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void RE::TES::ForEachCellInRange </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *&#160;</td>
+          <td class="paramname"><em>a_origin</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>a_radius</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::function&lt; void(<a class="el" href="classRE_1_1TESObjectCELL.html">TESObjectCELL</a> *)&gt;&#160;</td>
+          <td class="paramname"><em>a_callback</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a61be03533127c2a577d3cffae538ad2e" name="a61be03533127c2a577d3cffae538ad2e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a61be03533127c2a577d3cffae538ad2e">&#9670;&#160;</a></span>ForEachReference()</h2>
 
@@ -716,6 +780,62 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="afaea2f8675d0abb6e6e514cd94021186" name="afaea2f8675d0abb6e6e514cd94021186"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afaea2f8675d0abb6e6e514cd94021186">&#9670;&#160;</a></span>currentGridX</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::int32_t RE::TES::currentGridX</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2d1bf22c25ead186d6f2b89ec0dd37fc" name="a2d1bf22c25ead186d6f2b89ec0dd37fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2d1bf22c25ead186d6f2b89ec0dd37fc">&#9670;&#160;</a></span>currentGridY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::int32_t RE::TES::currentGridY</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a13ca248c059e2c3d388d69b71252d2ec" name="a13ca248c059e2c3d388d69b71252d2ec"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a13ca248c059e2c3d388d69b71252d2ec">&#9670;&#160;</a></span>currentQueuedX</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::int32_t RE::TES::currentQueuedX</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a00368e7ae222296dafc738a9a9744e73" name="a00368e7ae222296dafc738a9a9744e73"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a00368e7ae222296dafc738a9a9744e73">&#9670;&#160;</a></span>currentQueuedY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::int32_t RE::TES::currentQueuedY</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a2178dcd3cdc83c42f2942df7fb1292fe" name="a2178dcd3cdc83c42f2942df7fb1292fe"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a2178dcd3cdc83c42f2942df7fb1292fe">&#9670;&#160;</a></span>deadCount</h2>
 
@@ -800,6 +920,34 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
+<a id="a3918f7cf952ce1c4d392eefe03901121" name="a3918f7cf952ce1c4d392eefe03901121"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3918f7cf952ce1c4d392eefe03901121">&#9670;&#160;</a></span>objFog</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">NiFogProperty* RE::TES::objFog</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af4efcaa4c6f3a1ddec963922fe6c83ba" name="af4efcaa4c6f3a1ddec963922fe6c83ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af4efcaa4c6f3a1ddec963922fe6c83ba">&#9670;&#160;</a></span>objLight</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiDirectionalLight.html">NiDirectionalLight</a>* RE::TES::objLight</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a86acf4f269b3fd96df64976950e9b467" name="a86acf4f269b3fd96df64976950e9b467"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a86acf4f269b3fd96df64976950e9b467">&#9670;&#160;</a></span>objLODWaterRoot</h2>
 
@@ -846,6 +994,34 @@ Additional Inherited Members</h2></td></tr>
 <span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
   </tr>
 </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a76d4262d7a532cf28fc327bed6831fe3" name="a76d4262d7a532cf28fc327bed6831fe3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76d4262d7a532cf28fc327bed6831fe3">&#9670;&#160;</a></span>saveGridX</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::int32_t RE::TES::saveGridX</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a61865b3b913ca36055f1c212ae781384" name="a61865b3b913ca36055f1c212ae781384"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61865b3b913ca36055f1c212ae781384">&#9670;&#160;</a></span>saveGridY</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::int32_t RE::TES::saveGridY</td>
+        </tr>
+      </table>
 </div><div class="memdoc">
 
 </div>
@@ -906,76 +1082,6 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a id="a0a953565a7300bd9cb915dc1fb74b012" name="a0a953565a7300bd9cb915dc1fb74b012"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0a953565a7300bd9cb915dc1fb74b012">&#9670;&#160;</a></span>unk0A0</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::uint64_t RE::TES::unk0A0</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae6b6c3a97ea0922c5276051b34f16720" name="ae6b6c3a97ea0922c5276051b34f16720"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae6b6c3a97ea0922c5276051b34f16720">&#9670;&#160;</a></span>unk0A8</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::uint64_t RE::TES::unk0A8</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="acb9268820283bfa482d658c3d3a26d21" name="acb9268820283bfa482d658c3d3a26d21"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb9268820283bfa482d658c3d3a26d21">&#9670;&#160;</a></span>unk0B0</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::uint32_t RE::TES::unk0B0</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a199926c7df9487632532d43b5f9ed940" name="a199926c7df9487632532d43b5f9ed940"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a199926c7df9487632532d43b5f9ed940">&#9670;&#160;</a></span>unk0B4</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::uint32_t RE::TES::unk0B4</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aebe36294915fe64754357d1bfca6bf2a" name="aebe36294915fe64754357d1bfca6bf2a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aebe36294915fe64754357d1bfca6bf2a">&#9670;&#160;</a></span>unk0B8</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::uint64_t RE::TES::unk0B8</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a748344c156ff4c0e25ffc4b0599f0c34" name="a748344c156ff4c0e25ffc4b0599f0c34"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a748344c156ff4c0e25ffc4b0599f0c34">&#9670;&#160;</a></span>unk0D8</h2>
 
@@ -984,20 +1090,6 @@ Additional Inherited Members</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">std::uint64_t RE::TES::unk0D8</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a6888f9cc4269be2160ad54978115d253" name="a6888f9cc4269be2160ad54978115d253"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6888f9cc4269be2160ad54978115d253">&#9670;&#160;</a></span>unk0E0</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::uint64_t RE::TES::unk0E0</td>
         </tr>
       </table>
 </div><div class="memdoc">

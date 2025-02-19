@@ -93,7 +93,9 @@ $(document).ready(function(){initNavTree('classRE_1_1NiTListBase.html',''); init
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="classRE_1_1NiTListBase-members.html">List of all members</a>  </div>
   <div class="headertitle"><div class="title">RE::NiTListBase&lt; Allocator, T &gt; Class Template Reference</div></div>
 </div><!--header-->
@@ -106,15 +108,14 @@ Inheritance diagram for RE::NiTListBase&lt; Allocator, T &gt;:</div>
  <div class="center">
   <img src="classRE_1_1NiTListBase.png" usemap="#RE::NiTListBase_3C_20Allocator_2C_20T_20_3E_map" alt=""/>
   <map id="RE::NiTListBase_3C_20Allocator_2C_20T_20_3E_map" name="RE::NiTListBase_3C_20Allocator_2C_20T_20_3E_map">
-<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; NiTDefaultAllocator&lt; T &gt;, T &gt;" shape="rect" coords="0,56,582,80"/>
-<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; NiTPointerAllocator&lt; std::uintptr_t &gt;, T &gt;" shape="rect" coords="592,56,1174,80"/>
-<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; NiTPointerAllocator&lt; std::uintptr_t &gt;, RE::NiPointer&lt; RE::NiPSysModifier &gt; &gt;" shape="rect" coords="1184,56,1766,80"/>
-<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; NiTDefaultAllocator&lt; RE::TESForm * &gt;, RE::TESForm * &gt;" shape="rect" coords="1776,56,2358,80"/>
-<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; Allocator, T &gt;" shape="rect" coords="2368,56,2950,80"/>
-<area href="classRE_1_1NiTList.html" alt="RE::NiTList&lt; T &gt;" shape="rect" coords="0,112,582,136"/>
-<area href="classRE_1_1NiTPointerList.html" alt="RE::NiTPointerList&lt; T &gt;" shape="rect" coords="592,112,1174,136"/>
-<area href="classRE_1_1NiTList.html" alt="RE::NiTList&lt; RE::TESForm * &gt;" shape="rect" coords="2072,112,2654,136"/>
-<area href="classRE_1_1NiTPointerList.html" alt="RE::NiTPointerList&lt; RE::NiPointer&lt; RE::NiPSysModifier &gt; &gt;" shape="rect" coords="2664,112,3246,136"/>
+<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; NiTDefaultAllocator&lt; T &gt;, T &gt;" shape="rect" coords="592,56,1174,80"/>
+<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; NiTPointerAllocator&lt; std::uintptr_t &gt;, T &gt;" shape="rect" coords="592,112,1174,136"/>
+<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; NiTPointerAllocator&lt; std::uintptr_t &gt;, RE::NiPointer&lt; RE::BSTriShape &gt; &gt;" shape="rect" coords="592,168,1174,192"/>
+<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; NiTPointerAllocator&lt; std::uintptr_t &gt;, RE::BSOcclusionShape &gt;" shape="rect" coords="592,224,1174,248"/>
+<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; NiTPointerAllocator&lt; std::uintptr_t &gt;, RE::BSPortal &gt;" shape="rect" coords="592,280,1174,304"/>
+<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; NiTPointerAllocator&lt; std::uintptr_t &gt;, RE::NiPointer&lt; RE::NiPSysModifier &gt; &gt;" shape="rect" coords="592,336,1174,360"/>
+<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; NiTDefaultAllocator&lt; RE::TESForm * &gt;, RE::TESForm * &gt;" shape="rect" coords="592,392,1174,416"/>
+<area href="classRE_1_1NiTPointerListBase.html" alt="RE::NiTPointerListBase&lt; Allocator, T &gt;" shape="rect" coords="592,448,1174,472"/>
   </map>
 </div></div>
 <table class="memberdecls">
@@ -122,9 +123,77 @@ Inheritance diagram for RE::NiTListBase&lt; Allocator, T &gt;:</div>
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structRE_1_1NiTListBase_1_1AntiBloatAllocator.html">AntiBloatAllocator</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase_1_1backward__iterator.html">backward_iterator</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase_1_1forward__iterator.html">forward_iterator</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase_1_1iterator__base.html">iterator_base</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:ae63e90b2b41bcbc50e68b196bd19b400" id="r_ae63e90b2b41bcbc50e68b196bd19b400"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a> = T</td></tr>
+<tr class="separator:ae63e90b2b41bcbc50e68b196bd19b400"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64e5717310c2dc04a35188cdc6214f86" id="r_a64e5717310c2dc04a35188cdc6214f86"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a64e5717310c2dc04a35188cdc6214f86">size_type</a> = std::uint32_t</td></tr>
+<tr class="separator:a64e5717310c2dc04a35188cdc6214f86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff08fa9e46814ff8de80a7e399f10d79" id="r_aff08fa9e46814ff8de80a7e399f10d79"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#aff08fa9e46814ff8de80a7e399f10d79">difference_type</a> = std::ptrdiff_t</td></tr>
+<tr class="separator:aff08fa9e46814ff8de80a7e399f10d79"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a700af69fd829eeb2bb8c8a8e050ad1b8" id="r_a700af69fd829eeb2bb8c8a8e050ad1b8"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a700af69fd829eeb2bb8c8a8e050ad1b8">reference</a> = <a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a> &amp;</td></tr>
+<tr class="separator:a700af69fd829eeb2bb8c8a8e050ad1b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5343a0cc56ca43b01f987f13efb37a26" id="r_a5343a0cc56ca43b01f987f13efb37a26"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a5343a0cc56ca43b01f987f13efb37a26">const_reference</a> = const <a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a> &amp;</td></tr>
+<tr class="separator:a5343a0cc56ca43b01f987f13efb37a26"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1dbbb1b55d09ed673e9f39abc91f8149" id="r_a1dbbb1b55d09ed673e9f39abc91f8149"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a1dbbb1b55d09ed673e9f39abc91f8149">iterator</a> = <a class="el" href="classRE_1_1NiTListBase_1_1forward__iterator.html">forward_iterator</a>&lt; <a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a> &gt;</td></tr>
+<tr class="separator:a1dbbb1b55d09ed673e9f39abc91f8149"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfd08b2b104d70e16107834bd442ee6a" id="r_adfd08b2b104d70e16107834bd442ee6a"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#adfd08b2b104d70e16107834bd442ee6a">const_iterator</a> = <a class="el" href="classRE_1_1NiTListBase_1_1forward__iterator.html">forward_iterator</a>&lt; const <a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a> &gt;</td></tr>
+<tr class="separator:adfd08b2b104d70e16107834bd442ee6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a374365fae434f151939790a0295be367" id="r_a374365fae434f151939790a0295be367"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a374365fae434f151939790a0295be367">reverse_iterator</a> = <a class="el" href="classRE_1_1NiTListBase_1_1backward__iterator.html">backward_iterator</a>&lt; <a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a> &gt;</td></tr>
+<tr class="separator:a374365fae434f151939790a0295be367"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aada7347b0b1001d2aafb52cb7d4ace1a" id="r_aada7347b0b1001d2aafb52cb7d4ace1a"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#aada7347b0b1001d2aafb52cb7d4ace1a">const_reverse_iterator</a> = <a class="el" href="classRE_1_1NiTListBase_1_1backward__iterator.html">backward_iterator</a>&lt; const <a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a> &gt;</td></tr>
+<tr class="separator:aada7347b0b1001d2aafb52cb7d4ace1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a700b44c1bb4e9b5930f69e6aab6ffdca" id="r_a700b44c1bb4e9b5930f69e6aab6ffdca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a700b44c1bb4e9b5930f69e6aab6ffdca">NiTListBase</a> ()</td></tr>
+<tr class="separator:a700b44c1bb4e9b5930f69e6aab6ffdca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a379617444ebe31f2cbfc9853b505ffd0" id="r_a379617444ebe31f2cbfc9853b505ffd0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListBase.html#a700af69fd829eeb2bb8c8a8e050ad1b8">reference</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a379617444ebe31f2cbfc9853b505ffd0">front</a> ()</td></tr>
+<tr class="separator:a379617444ebe31f2cbfc9853b505ffd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeaeb128d07c1accca29f6fc3e4347009" id="r_aeaeb128d07c1accca29f6fc3e4347009"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListBase.html#a5343a0cc56ca43b01f987f13efb37a26">const_reference</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#aeaeb128d07c1accca29f6fc3e4347009">front</a> () const</td></tr>
+<tr class="separator:aeaeb128d07c1accca29f6fc3e4347009"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a86b6fdf5388657afa65d27a5eafc9b4a" id="r_a86b6fdf5388657afa65d27a5eafc9b4a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListBase.html#a700af69fd829eeb2bb8c8a8e050ad1b8">reference</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a86b6fdf5388657afa65d27a5eafc9b4a">back</a> ()</td></tr>
+<tr class="separator:a86b6fdf5388657afa65d27a5eafc9b4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf7db95491ded3ffd5a674696bef996b" id="r_aaf7db95491ded3ffd5a674696bef996b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListBase.html#a5343a0cc56ca43b01f987f13efb37a26">const_reference</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#aaf7db95491ded3ffd5a674696bef996b">back</a> () const</td></tr>
+<tr class="separator:aaf7db95491ded3ffd5a674696bef996b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d8d4e354895636586dd16241c39a682" id="r_a3d8d4e354895636586dd16241c39a682"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListBase.html#a1dbbb1b55d09ed673e9f39abc91f8149">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a3d8d4e354895636586dd16241c39a682">begin</a> ()</td></tr>
+<tr class="separator:a3d8d4e354895636586dd16241c39a682"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd8ef987290936a7cdaaf4096c42b342" id="r_abd8ef987290936a7cdaaf4096c42b342"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListBase.html#adfd08b2b104d70e16107834bd442ee6a">const_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#abd8ef987290936a7cdaaf4096c42b342">begin</a> () const</td></tr>
+<tr class="separator:abd8ef987290936a7cdaaf4096c42b342"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d84f41839c95af6e9eb7e61ecef4b65" id="r_a5d84f41839c95af6e9eb7e61ecef4b65"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListBase.html#adfd08b2b104d70e16107834bd442ee6a">const_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a5d84f41839c95af6e9eb7e61ecef4b65">cbegin</a> () const</td></tr>
+<tr class="separator:a5d84f41839c95af6e9eb7e61ecef4b65"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a10a2d4b512986c03e78209623990830a" id="r_a10a2d4b512986c03e78209623990830a"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="classRE_1_1NiTListBase.html#a1dbbb1b55d09ed673e9f39abc91f8149">iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a10a2d4b512986c03e78209623990830a">end</a> () noexcept</td></tr>
+<tr class="separator:a10a2d4b512986c03e78209623990830a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34d52ab29bb765beee3999c81a0eddcd" id="r_a34d52ab29bb765beee3999c81a0eddcd"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="classRE_1_1NiTListBase.html#adfd08b2b104d70e16107834bd442ee6a">const_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a34d52ab29bb765beee3999c81a0eddcd">end</a> () const noexcept</td></tr>
+<tr class="separator:a34d52ab29bb765beee3999c81a0eddcd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6692ab125ab232a80324627cb597dd95" id="r_a6692ab125ab232a80324627cb597dd95"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="classRE_1_1NiTListBase.html#adfd08b2b104d70e16107834bd442ee6a">const_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a6692ab125ab232a80324627cb597dd95">cend</a> () const noexcept</td></tr>
+<tr class="separator:a6692ab125ab232a80324627cb597dd95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a336519a27606158079f78b846998a22a" id="r_a336519a27606158079f78b846998a22a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListBase.html#a374365fae434f151939790a0295be367">reverse_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a336519a27606158079f78b846998a22a">rbegin</a> ()</td></tr>
+<tr class="separator:a336519a27606158079f78b846998a22a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94957b878e3d33af71fa5bea4a72f132" id="r_a94957b878e3d33af71fa5bea4a72f132"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListBase.html#aada7347b0b1001d2aafb52cb7d4ace1a">const_reverse_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a94957b878e3d33af71fa5bea4a72f132">rbegin</a> () const</td></tr>
+<tr class="separator:a94957b878e3d33af71fa5bea4a72f132"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d08f2931d4632229be589e6a672ee26" id="r_a6d08f2931d4632229be589e6a672ee26"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListBase.html#aada7347b0b1001d2aafb52cb7d4ace1a">const_reverse_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a6d08f2931d4632229be589e6a672ee26">crbegin</a> () const</td></tr>
+<tr class="separator:a6d08f2931d4632229be589e6a672ee26"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e686f9b46561d9cee34841e19962cce" id="r_a9e686f9b46561d9cee34841e19962cce"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="classRE_1_1NiTListBase.html#a374365fae434f151939790a0295be367">reverse_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a9e686f9b46561d9cee34841e19962cce">rend</a> () noexcept</td></tr>
+<tr class="separator:a9e686f9b46561d9cee34841e19962cce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae778e85ed2139e8324615e753436b6bd" id="r_ae778e85ed2139e8324615e753436b6bd"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="classRE_1_1NiTListBase.html#aada7347b0b1001d2aafb52cb7d4ace1a">const_reverse_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#ae778e85ed2139e8324615e753436b6bd">rend</a> () const noexcept</td></tr>
+<tr class="separator:ae778e85ed2139e8324615e753436b6bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a476095cf6a30a45bd8782c74ea437b36" id="r_a476095cf6a30a45bd8782c74ea437b36"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="classRE_1_1NiTListBase.html#aada7347b0b1001d2aafb52cb7d4ace1a">const_reverse_iterator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a476095cf6a30a45bd8782c74ea437b36">crend</a> () const noexcept</td></tr>
+<tr class="separator:a476095cf6a30a45bd8782c74ea437b36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf211a449a140e353cf1ef484edbf61f" id="r_adf211a449a140e353cf1ef484edbf61f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#adf211a449a140e353cf1ef484edbf61f">empty</a> () const</td></tr>
+<tr class="separator:adf211a449a140e353cf1ef484edbf61f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5139eb26963ffe81451d5b72fa0eff46" id="r_a5139eb26963ffe81451d5b72fa0eff46"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListBase.html#a64e5717310c2dc04a35188cdc6214f86">size_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a5139eb26963ffe81451d5b72fa0eff46">size</a> () const noexcept</td></tr>
+<tr class="separator:a5139eb26963ffe81451d5b72fa0eff46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
 <tr class="memitem:a9cfddc5224d93ba8f86470c6dd0438bb" id="r_a9cfddc5224d93ba8f86470c6dd0438bb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListItem.html">NiTListItem</a>&lt; T &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a9cfddc5224d93ba8f86470c6dd0438bb">head</a></td></tr>
 <tr class="separator:a9cfddc5224d93ba8f86470c6dd0438bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe539e393f46c225e7166a6091161cb5" id="r_afe539e393f46c225e7166a6091161cb5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRE_1_1NiTListItem.html">NiTListItem</a>&lt; T &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#afe539e393f46c225e7166a6091161cb5">tail</a></td></tr>
@@ -132,6 +201,666 @@ Public Attributes</h2></td></tr>
 <tr class="memitem:a20edf74e5521cf7a2a5fc61682eed61a" id="r_a20edf74e5521cf7a2a5fc61682eed61a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structRE_1_1NiTListBase_1_1AntiBloatAllocator.html">AntiBloatAllocator</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1NiTListBase.html#a20edf74e5521cf7a2a5fc61682eed61a">allocator</a></td></tr>
 <tr class="separator:a20edf74e5521cf7a2a5fc61682eed61a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="adfd08b2b104d70e16107834bd442ee6a" name="adfd08b2b104d70e16107834bd442ee6a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfd08b2b104d70e16107834bd442ee6a">&#9670;&#160;</a></span>const_iterator</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::const_iterator =  <a class="el" href="classRE_1_1NiTListBase_1_1forward__iterator.html">forward_iterator</a>&lt;const <a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a>&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5343a0cc56ca43b01f987f13efb37a26" name="a5343a0cc56ca43b01f987f13efb37a26"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5343a0cc56ca43b01f987f13efb37a26">&#9670;&#160;</a></span>const_reference</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::const_reference =  const <a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a>&amp;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aada7347b0b1001d2aafb52cb7d4ace1a" name="aada7347b0b1001d2aafb52cb7d4ace1a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aada7347b0b1001d2aafb52cb7d4ace1a">&#9670;&#160;</a></span>const_reverse_iterator</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::const_reverse_iterator =  <a class="el" href="classRE_1_1NiTListBase_1_1backward__iterator.html">backward_iterator</a>&lt;const <a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a>&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aff08fa9e46814ff8de80a7e399f10d79" name="aff08fa9e46814ff8de80a7e399f10d79"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff08fa9e46814ff8de80a7e399f10d79">&#9670;&#160;</a></span>difference_type</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::difference_type =  std::ptrdiff_t</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a1dbbb1b55d09ed673e9f39abc91f8149" name="a1dbbb1b55d09ed673e9f39abc91f8149"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1dbbb1b55d09ed673e9f39abc91f8149">&#9670;&#160;</a></span>iterator</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::iterator =  <a class="el" href="classRE_1_1NiTListBase_1_1forward__iterator.html">forward_iterator</a>&lt;<a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a>&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a700af69fd829eeb2bb8c8a8e050ad1b8" name="a700af69fd829eeb2bb8c8a8e050ad1b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a700af69fd829eeb2bb8c8a8e050ad1b8">&#9670;&#160;</a></span>reference</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::reference =  <a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a>&amp;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a374365fae434f151939790a0295be367" name="a374365fae434f151939790a0295be367"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a374365fae434f151939790a0295be367">&#9670;&#160;</a></span>reverse_iterator</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::reverse_iterator =  <a class="el" href="classRE_1_1NiTListBase_1_1backward__iterator.html">backward_iterator</a>&lt;<a class="el" href="classRE_1_1NiTListBase.html#ae63e90b2b41bcbc50e68b196bd19b400">value_type</a>&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a64e5717310c2dc04a35188cdc6214f86" name="a64e5717310c2dc04a35188cdc6214f86"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a64e5717310c2dc04a35188cdc6214f86">&#9670;&#160;</a></span>size_type</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::size_type =  std::uint32_t</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae63e90b2b41bcbc50e68b196bd19b400" name="ae63e90b2b41bcbc50e68b196bd19b400"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae63e90b2b41bcbc50e68b196bd19b400">&#9670;&#160;</a></span>value_type</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::value_type =  T</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a700b44c1bb4e9b5930f69e6aab6ffdca" name="a700b44c1bb4e9b5930f69e6aab6ffdca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a700b44c1bb4e9b5930f69e6aab6ffdca">&#9670;&#160;</a></span>NiTListBase()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::NiTListBase </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a86b6fdf5388657afa65d27a5eafc9b4a" name="a86b6fdf5388657afa65d27a5eafc9b4a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a86b6fdf5388657afa65d27a5eafc9b4a">&#9670;&#160;</a></span>back() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiTListBase.html#a700af69fd829eeb2bb8c8a8e050ad1b8">reference</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::back </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aaf7db95491ded3ffd5a674696bef996b" name="aaf7db95491ded3ffd5a674696bef996b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaf7db95491ded3ffd5a674696bef996b">&#9670;&#160;</a></span>back() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiTListBase.html#a5343a0cc56ca43b01f987f13efb37a26">const_reference</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::back </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3d8d4e354895636586dd16241c39a682" name="a3d8d4e354895636586dd16241c39a682"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3d8d4e354895636586dd16241c39a682">&#9670;&#160;</a></span>begin() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiTListBase.html#a1dbbb1b55d09ed673e9f39abc91f8149">iterator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::begin </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abd8ef987290936a7cdaaf4096c42b342" name="abd8ef987290936a7cdaaf4096c42b342"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abd8ef987290936a7cdaaf4096c42b342">&#9670;&#160;</a></span>begin() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiTListBase.html#adfd08b2b104d70e16107834bd442ee6a">const_iterator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::begin </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5d84f41839c95af6e9eb7e61ecef4b65" name="a5d84f41839c95af6e9eb7e61ecef4b65"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d84f41839c95af6e9eb7e61ecef4b65">&#9670;&#160;</a></span>cbegin()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiTListBase.html#adfd08b2b104d70e16107834bd442ee6a">const_iterator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::cbegin </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6692ab125ab232a80324627cb597dd95" name="a6692ab125ab232a80324627cb597dd95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6692ab125ab232a80324627cb597dd95">&#9670;&#160;</a></span>cend()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="classRE_1_1NiTListBase.html#adfd08b2b104d70e16107834bd442ee6a">const_iterator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::cend </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6d08f2931d4632229be589e6a672ee26" name="a6d08f2931d4632229be589e6a672ee26"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d08f2931d4632229be589e6a672ee26">&#9670;&#160;</a></span>crbegin()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiTListBase.html#aada7347b0b1001d2aafb52cb7d4ace1a">const_reverse_iterator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::crbegin </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a476095cf6a30a45bd8782c74ea437b36" name="a476095cf6a30a45bd8782c74ea437b36"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a476095cf6a30a45bd8782c74ea437b36">&#9670;&#160;</a></span>crend()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="classRE_1_1NiTListBase.html#aada7347b0b1001d2aafb52cb7d4ace1a">const_reverse_iterator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::crend </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="adf211a449a140e353cf1ef484edbf61f" name="adf211a449a140e353cf1ef484edbf61f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf211a449a140e353cf1ef484edbf61f">&#9670;&#160;</a></span>empty()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::empty </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a34d52ab29bb765beee3999c81a0eddcd" name="a34d52ab29bb765beee3999c81a0eddcd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34d52ab29bb765beee3999c81a0eddcd">&#9670;&#160;</a></span>end() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="classRE_1_1NiTListBase.html#adfd08b2b104d70e16107834bd442ee6a">const_iterator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::end </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a10a2d4b512986c03e78209623990830a" name="a10a2d4b512986c03e78209623990830a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a10a2d4b512986c03e78209623990830a">&#9670;&#160;</a></span>end() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="classRE_1_1NiTListBase.html#a1dbbb1b55d09ed673e9f39abc91f8149">iterator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::end </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a379617444ebe31f2cbfc9853b505ffd0" name="a379617444ebe31f2cbfc9853b505ffd0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a379617444ebe31f2cbfc9853b505ffd0">&#9670;&#160;</a></span>front() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiTListBase.html#a700af69fd829eeb2bb8c8a8e050ad1b8">reference</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::front </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aeaeb128d07c1accca29f6fc3e4347009" name="aeaeb128d07c1accca29f6fc3e4347009"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeaeb128d07c1accca29f6fc3e4347009">&#9670;&#160;</a></span>front() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiTListBase.html#a5343a0cc56ca43b01f987f13efb37a26">const_reference</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::front </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a336519a27606158079f78b846998a22a" name="a336519a27606158079f78b846998a22a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a336519a27606158079f78b846998a22a">&#9670;&#160;</a></span>rbegin() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiTListBase.html#a374365fae434f151939790a0295be367">reverse_iterator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::rbegin </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a94957b878e3d33af71fa5bea4a72f132" name="a94957b878e3d33af71fa5bea4a72f132"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a94957b878e3d33af71fa5bea4a72f132">&#9670;&#160;</a></span>rbegin() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiTListBase.html#aada7347b0b1001d2aafb52cb7d4ace1a">const_reverse_iterator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::rbegin </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae778e85ed2139e8324615e753436b6bd" name="ae778e85ed2139e8324615e753436b6bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae778e85ed2139e8324615e753436b6bd">&#9670;&#160;</a></span>rend() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="classRE_1_1NiTListBase.html#aada7347b0b1001d2aafb52cb7d4ace1a">const_reverse_iterator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::rend </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9e686f9b46561d9cee34841e19962cce" name="a9e686f9b46561d9cee34841e19962cce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9e686f9b46561d9cee34841e19962cce">&#9670;&#160;</a></span>rend() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="classRE_1_1NiTListBase.html#a374365fae434f151939790a0295be367">reverse_iterator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::rend </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5139eb26963ffe81451d5b72fa0eff46" name="a5139eb26963ffe81451d5b72fa0eff46"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5139eb26963ffe81451d5b72fa0eff46">&#9670;&#160;</a></span>size()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRE_1_1NiTListBase.html#a64e5717310c2dc04a35188cdc6214f86">size_type</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::size </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
 <a id="a20edf74e5521cf7a2a5fc61682eed61a" name="a20edf74e5521cf7a2a5fc61682eed61a"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a20edf74e5521cf7a2a5fc61682eed61a">&#9670;&#160;</a></span>allocator</h2>
@@ -140,11 +869,19 @@ Public Attributes</h2></td></tr>
 <div class="memproto">
 <div class="memtemplate">
 template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname"><a class="el" href="structRE_1_1NiTListBase_1_1AntiBloatAllocator.html">AntiBloatAllocator</a> <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::allocator</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -156,11 +893,19 @@ template&lt;class Allocator , class T &gt; </div>
 <div class="memproto">
 <div class="memtemplate">
 template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname"><a class="el" href="classRE_1_1NiTListItem.html">NiTListItem</a>&lt;T&gt;* <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::head</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
@@ -172,11 +917,19 @@ template&lt;class Allocator , class T &gt; </div>
 <div class="memproto">
 <div class="memtemplate">
 template&lt;class Allocator , class T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname"><a class="el" href="classRE_1_1NiTListItem.html">NiTListItem</a>&lt;T&gt;* <a class="el" href="classRE_1_1NiTListBase.html">RE::NiTListBase</a>&lt; Allocator, T &gt;::tail</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>

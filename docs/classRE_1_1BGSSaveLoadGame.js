@@ -11,6 +11,7 @@ var classRE_1_1BGSSaveLoadGame =
     ] ],
     [ "GetChange", "classRE_1_1BGSSaveLoadGame.html#a18b88e1dfe790e5718ff6f98ced34020", null ],
     [ "GetSingleton", "classRE_1_1BGSSaveLoadGame.html#acc8080f9c9df6afb08030d882cc59712", null ],
+    [ "IsFormIDInUse", "classRE_1_1BGSSaveLoadGame.html#a26439b6d6113d81df110691966a8e886", null ],
     [ "currentMinorVersion", "classRE_1_1BGSSaveLoadGame.html#af70273d971eb61cbcf641d9ff8ae86c1", null ],
     [ "flags", "classRE_1_1BGSSaveLoadGame.html#a583592c19cae13a9fdf0e085470e088e", null ],
     [ "formIDMap", "classRE_1_1BGSSaveLoadGame.html#af3e4e82632bc5460c936913014c5f89f", null ],

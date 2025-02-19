@@ -1,5 +1,15 @@
 var NAVTREEINDEX17 =
 {
+"ExtraHasNoRumors_8h.html":[6,0,0,0,0,4,76],
+"ExtraHasNoRumors_8h_source.html":[6,0,0,0,0,4,76],
+"ExtraHavok_8h.html":[6,0,0,0,0,4,77],
+"ExtraHavok_8h_source.html":[6,0,0,0,0,4,77],
+"ExtraHeadTrackingWeight_8h.html":[6,0,0,0,0,4,79],
+"ExtraHeadTrackingWeight_8h_source.html":[6,0,0,0,0,4,79],
+"ExtraHeadingTarget_8h.html":[6,0,0,0,0,4,78],
+"ExtraHeadingTarget_8h_source.html":[6,0,0,0,0,4,78],
+"ExtraHealthPerc_8h.html":[6,0,0,0,0,4,81],
+"ExtraHealthPerc_8h_source.html":[6,0,0,0,0,4,81],
 "ExtraHealth_8h.html":[6,0,0,0,0,4,80],
 "ExtraHealth_8h_source.html":[6,0,0,0,0,4,80],
 "ExtraHorse_8h.html":[6,0,0,0,0,4,82],
@@ -239,15 +249,5 @@ var NAVTREEINDEX17 =
 "ExtraStartingPosition_8h_source.html":[6,0,0,0,0,4,161],
 "ExtraStartingWorldOrCell_8h.html":[6,0,0,0,0,4,162],
 "ExtraStartingWorldOrCell_8h_source.html":[6,0,0,0,0,4,162],
-"ExtraTeleportName_8h.html":[6,0,0,0,0,4,164],
-"ExtraTeleportName_8h_source.html":[6,0,0,0,0,4,164],
-"ExtraTeleport_8h.html":[6,0,0,0,0,4,163],
-"ExtraTeleport_8h_source.html":[6,0,0,0,0,4,163],
-"ExtraTerminalState_8h.html":[6,0,0,0,0,4,165],
-"ExtraTerminalState_8h_source.html":[6,0,0,0,0,4,165],
-"ExtraTextDisplayData_8h.html":[6,0,0,0,0,4,166],
-"ExtraTextDisplayData_8h_source.html":[6,0,0,0,0,4,166],
-"ExtraTimeLeft_8h.html":[6,0,0,0,0,4,167],
-"ExtraTimeLeft_8h_source.html":[6,0,0,0,0,4,167],
-"ExtraTresPassPackage_8h.html":[6,0,0,0,0,4,168]
+"ExtraTeleportName_8h.html":[6,0,0,0,0,4,164]
 };

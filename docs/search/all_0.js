@@ -19,7 +19,7 @@ var searchData=
   ['_5fcolor_16',['_color',['../classRE_1_1NiColorKey.html#a90f9e599318fa5b4c618c451a3e4d22f',1,'RE::NiColorKey']]],
   ['_5fcopy_17',['_copy',['../classRE_1_1NiTStringTemplateMap.html#ad199437ce79f751ce047e98268fa9a9b',1,'RE::NiTStringTemplateMap']]],
   ['_5fcrc_18',['_crc',['../classRE_1_1BSStringPool_1_1Entry.html#a88906d3de79cba49659315b3150c48e9',1,'RE::BSStringPool::Entry']]],
-  ['_5fcur_19',['_cur',['../classRE_1_1GList_1_1iterator__base.html#a782a25bb1e9f1912955f0f283e03677e',1,'RE::GList::iterator_base']]],
+  ['_5fcur_19',['_cur',['../classRE_1_1NiTListBase_1_1iterator__base.html#a3a2adc512167b903e18d2058f5221d3a',1,'RE::NiTListBase::iterator_base::_cur'],['../classRE_1_1GList_1_1iterator__base.html#a782a25bb1e9f1912955f0f283e03677e',1,'RE::GList::iterator_base::_cur']]],
   ['_5fdata_20',['_data',['../structRE_1_1ExtraMissingLinkedRefIDs_1_1Array.html#ab45900dad30c6a7d9af30ccdbcde8b62',1,'RE::ExtraMissingLinkedRefIDs::Array::_data'],['../classRE_1_1hkArrayBase.html#aaee0bf6451bf17310ac4616d8e79b5b0',1,'RE::hkArrayBase::_data'],['../classRE_1_1hkStringPtr.html#a4d831878c09e0a11221df16596566c6f',1,'RE::hkStringPtr::_data'],['../classRE_1_1SimpleArray.html#a767b6bb55266a44b43dc827a1439d6b8',1,'RE::SimpleArray::_data'],['../classRE_1_1NiTMapBase.html#a709f8701a4154b8399aecdd947a55644',1,'RE::NiTMapBase::_data']]],
   ['_5fdatadesc_21',['_dataDesc',['../classRE_1_1GString.html#aa5b329200b232a13df19bc70cc4b0c65',1,'RE::GString']]],
   ['_5fdesctable_22',['_descTable',['../classRE_1_1BSScript_1_1NF__util_1_1NativeFunctionBase.html#ac890c0bd2b4b5d9be53e5b43ce255918',1,'RE::BSScript::NF_util::NativeFunctionBase']]],

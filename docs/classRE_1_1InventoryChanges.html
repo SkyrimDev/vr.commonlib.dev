@@ -147,6 +147,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a009550d7166da1abf7bc19a91d750d91"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9e9d6cd2dd02983f7139d911c3b39d68" id="r_a9e9d6cd2dd02983f7139d911c3b39d68"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1InventoryChanges.html#a9e9d6cd2dd02983f7139d911c3b39d68">RemoveFavorite</a> (<a class="el" href="classRE_1_1InventoryEntryData.html">InventoryEntryData</a> *a_entry, <a class="el" href="classRE_1_1ExtraDataList.html">ExtraDataList</a> *a_itemList)</td></tr>
 <tr class="separator:a9e9d6cd2dd02983f7139d911c3b39d68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07734c28002094317282aa37e05842cd" id="r_a07734c28002094317282aa37e05842cd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespaceRE.html#a6401843e863f7fecb990cfd8d516a0b5">ObjectRefHandle</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1InventoryChanges.html#a07734c28002094317282aa37e05842cd">RemoveItem</a> (<a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *a_ref, <a class="el" href="classRE_1_1TESBoundObject.html">TESBoundObject</a> *a_item, std::int32_t a_count, <a class="el" href="namespaceRE.html#ad2f3ca0b6516dc6cc9737ed2726c4819">ITEM_REMOVE_REASON</a> a_reason, <a class="el" href="classRE_1_1ExtraDataList.html">ExtraDataList</a> *a_extraDataList, <a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *a_moveToRef, const <a class="el" href="classRE_1_1NiPoint3.html">NiPoint3</a> &amp;a_dropLoc, <a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *a_dropRef)</td></tr>
+<tr class="separator:a07734c28002094317282aa37e05842cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:adf4eb61472cf02662de45978d25413ca" id="r_adf4eb61472cf02662de45978d25413ca"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1InventoryChanges.html#adf4eb61472cf02662de45978d25413ca">RemoveAllItems</a> (<a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *a_ref, <a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *a_moveToRef, bool a_arg4, bool a_keepOwnership, bool a_arg6)</td></tr>
 <tr class="separator:adf4eb61472cf02662de45978d25413ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad24a08b63ae74863a336233dd76487dd" id="r_ad24a08b63ae74863a336233dd76487dd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1InventoryChanges.html#ad24a08b63ae74863a336233dd76487dd">SendContainerChangedEvent</a> (<a class="el" href="classRE_1_1ExtraDataList.html">ExtraDataList</a> *a_itemExtraList, <a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *a_fromRefr, <a class="el" href="classRE_1_1TESForm.html">TESForm</a> *a_item, std::int32_t a_count)</td></tr>
@@ -536,6 +538,70 @@ Public Attributes</h2></td></tr>
           <td></td>
           <td class="paramtype"><a class="el" href="classRE_1_1ExtraDataList.html">ExtraDataList</a> *&#160;</td>
           <td class="paramname"><em>a_itemList</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a07734c28002094317282aa37e05842cd" name="a07734c28002094317282aa37e05842cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a07734c28002094317282aa37e05842cd">&#9670;&#160;</a></span>RemoveItem()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="namespaceRE.html#a6401843e863f7fecb990cfd8d516a0b5">ObjectRefHandle</a> RE::InventoryChanges::RemoveItem </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *&#160;</td>
+          <td class="paramname"><em>a_ref</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classRE_1_1TESBoundObject.html">TESBoundObject</a> *&#160;</td>
+          <td class="paramname"><em>a_item</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::int32_t&#160;</td>
+          <td class="paramname"><em>a_count</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="namespaceRE.html#ad2f3ca0b6516dc6cc9737ed2726c4819">ITEM_REMOVE_REASON</a>&#160;</td>
+          <td class="paramname"><em>a_reason</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classRE_1_1ExtraDataList.html">ExtraDataList</a> *&#160;</td>
+          <td class="paramname"><em>a_extraDataList</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *&#160;</td>
+          <td class="paramname"><em>a_moveToRef</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classRE_1_1NiPoint3.html">NiPoint3</a> &amp;&#160;</td>
+          <td class="paramname"><em>a_dropLoc</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classRE_1_1TESObjectREFR.html">TESObjectREFR</a> *&#160;</td>
+          <td class="paramname"><em>a_dropRef</em>&#160;</td>
         </tr>
         <tr>
           <td></td>

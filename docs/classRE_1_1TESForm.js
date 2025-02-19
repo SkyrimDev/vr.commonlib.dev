@@ -114,6 +114,7 @@ var classRE_1_1TESForm =
     [ "SaveObjectBound", "classRE_1_1TESForm.html#ac241f56a0f9cd3a6e0dc4c3cf3bba45d", null ],
     [ "SetAltered", "classRE_1_1TESForm.html#a1a7719ded9e423502006d2c326f84c33", null ],
     [ "SetDelete", "classRE_1_1TESForm.html#a9435aeb4bfdb335f8b2f0cfcdf067d9c", null ],
+    [ "SetFile", "classRE_1_1TESForm.html#a443e94601cd701171909607f605e5244", null ],
     [ "SetFormEditorID", "classRE_1_1TESForm.html#a2e88bfeed130a6661c68d0d50620cb5b", null ],
     [ "SetFormID", "classRE_1_1TESForm.html#a1cc13cbb78b320f4e580a766f2b0758a", null ],
     [ "SetOnLocalMap", "classRE_1_1TESForm.html#a3de209c7516e5e130fa3394aec44bb21", null ],

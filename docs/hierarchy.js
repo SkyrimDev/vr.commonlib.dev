@@ -1480,6 +1480,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::NiPointer< RE::BGSDecalNode > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSDistantTreeBlock::TreeGroup * >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSDistantTreeBlock::InstanceData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< QueuedPromoteReferencesTask > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSEquipSlot * >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::detail::BSFixedString >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSFootstep * >", "classRE_1_1BSTArray.html", null ],
@@ -1549,6 +1550,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::BSScript::Stack::MemoryPageData, 3 >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< std::uint16_t >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BSScript::UnlinkedTypes::FunctionDebugInfo * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSShadowLight::ShadowMapData >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BSTerrainEffect::BoneAdjustment >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::NiPointer< BSTreeNode > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< BSTreeNode * >", "classRE_1_1BSTArray.html", null ],
@@ -1708,6 +1710,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::NiPointer< RE::BGSDecalNode > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSDistantTreeBlock::TreeGroup * >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSDistantTreeBlock::InstanceData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< QueuedPromoteReferencesTask > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSEquipSlot * >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::detail::BSFixedString >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSFootstep * >", "classRE_1_1BSTArray.html", null ],
@@ -1776,6 +1779,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::BSScript::ReadableStringTable::StringEntry >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< std::uint16_t >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BSScript::UnlinkedTypes::FunctionDebugInfo * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSShadowLight::ShadowMapData >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BSTerrainEffect::BoneAdjustment >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::NiPointer< BSTreeNode > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< BSTreeNode * >", "classRE_1_1BSTArray.html", null ],
@@ -2717,6 +2721,9 @@ var hierarchy =
     ] ],
     [ "RE::BSTSetTraits< Key >", "classRE_1_1BSTSetTraits.html", null ],
     [ "RE::BSTSingletonExplicit< T >", "structRE_1_1BSTSingletonExplicit.html", null ],
+    [ "RE::BSTSingletonExplicit< BGSDynamicPersistenceManager >", "structRE_1_1BSTSingletonExplicit.html", [
+      [ "RE::BGSDynamicPersistenceManager", "classRE_1_1BGSDynamicPersistenceManager.html", null ]
+    ] ],
     [ "RE::BSTSingletonExplicit< BSModelProcessor >", "structRE_1_1BSTSingletonExplicit.html", [
       [ "RE::BSModelDB::BSModelProcessor", "classRE_1_1BSModelDB_1_1BSModelProcessor.html", [
         [ "RE::TESModelDB::TESProcessor", "classRE_1_1TESModelDB_1_1TESProcessor.html", null ]
@@ -3131,9 +3138,8 @@ var hierarchy =
     [ "RE::BGSSoundOutput::Data", "structRE_1_1BGSSoundOutput_1_1Data.html", null ],
     [ "RE::BSCullingProcess::Data", "structRE_1_1BSCullingProcess_1_1Data.html", null ],
     [ "RE::BSDismemberSkinInstance::Data", "structRE_1_1BSDismemberSkinInstance_1_1Data.html", null ],
-    [ "RE::BSLight::Data", "structRE_1_1BSLight_1_1Data.html", null ],
     [ "RE::BSLightingShaderProperty::Data", "structRE_1_1BSLightingShaderProperty_1_1Data.html", null ],
-    [ "RE::BSShadowLight::Data", "structRE_1_1BSShadowLight_1_1Data.html", null ],
+    [ "RE::BSResource::CompressedArchiveStream::Data", "structRE_1_1BSResource_1_1CompressedArchiveStream_1_1Data.html", null ],
     [ "RE::BSUIMessageData::Data", "unionRE_1_1BSUIMessageData_1_1Data.html", null ],
     [ "RE::DialogueMenu::Data", "structRE_1_1DialogueMenu_1_1Data.html", null ],
     [ "RE::EnchantmentItem::Data", "classRE_1_1EnchantmentItem_1_1Data.html", null ],
@@ -4997,6 +5003,10 @@ var hierarchy =
     [ "RE::GArrayBase< T >::iterator", "structRE_1_1GArrayBase_1_1iterator.html", null ],
     [ "RE::BSSimpleList< T >::iterator_base< U >", "classRE_1_1BSSimpleList_1_1iterator__base.html", null ],
     [ "RE::ExtraDataList::iterator_base< T >", "classRE_1_1ExtraDataList_1_1iterator__base.html", null ],
+    [ "RE::NiTListBase< Allocator, T >::iterator_base< U >", "classRE_1_1NiTListBase_1_1iterator__base.html", [
+      [ "RE::NiTListBase< Allocator, T >::backward_iterator< U >", "classRE_1_1NiTListBase_1_1backward__iterator.html", null ],
+      [ "RE::NiTListBase< Allocator, T >::forward_iterator< U >", "classRE_1_1NiTListBase_1_1forward__iterator.html", null ]
+    ] ],
     [ "RE::NiTMapBase< Allocator, Key, T >::iterator_base< U >", "structRE_1_1NiTMapBase_1_1iterator__base.html", null ],
     [ "RE::GList< T >::iterator_traits< U >", "structRE_1_1GList_1_1iterator__traits.html", [
       [ "RE::GList< T >::iterator_base< U >", "classRE_1_1GList_1_1iterator__base.html", null ]
@@ -5049,13 +5059,7 @@ var hierarchy =
     [ "RE::ControlMap::LinkedMapping", "structRE_1_1ControlMap_1_1LinkedMapping.html", null ],
     [ "RE::ExtraLinkedRef::LinkedRef", "structRE_1_1ExtraLinkedRef_1_1LinkedRef.html", null ],
     [ "RE::ExtraLinkedRefChildren::LinkedRefChild", "structRE_1_1ExtraLinkedRefChildren_1_1LinkedRefChild.html", null ],
-    [ "RE::BSPortalGraph::List< T >", "structRE_1_1BSPortalGraph_1_1List.html", null ],
-    [ "RE::BSPortalGraph::List< RE::BSOcclusionShape >", "structRE_1_1BSPortalGraph_1_1List.html", null ],
-    [ "RE::BSPortalGraph::List< RE::BSPortal >", "structRE_1_1BSPortalGraph_1_1List.html", null ],
     [ "REX::W32::LIST_ENTRY", "structREX_1_1W32_1_1LIST__ENTRY.html", null ],
-    [ "RE::BSPortalGraph::ListEntry< T >", "structRE_1_1BSPortalGraph_1_1ListEntry.html", null ],
-    [ "RE::BSPortalGraph::ListEntry< RE::BSOcclusionShape >", "structRE_1_1BSPortalGraph_1_1ListEntry.html", null ],
-    [ "RE::BSPortalGraph::ListEntry< RE::BSPortal >", "structRE_1_1BSPortalGraph_1_1ListEntry.html", null ],
     [ "RE::LOADED_CELL_DATA", "structRE_1_1LOADED__CELL__DATA.html", null ],
     [ "RE::LOADED_REF_DATA", "structRE_1_1LOADED__REF__DATA.html", null ],
     [ "RE::AnimationFileManagerSingleton::LoadedAnimation", "structRE_1_1AnimationFileManagerSingleton_1_1LoadedAnimation.html", null ],
@@ -5234,7 +5238,6 @@ var hierarchy =
     [ "RE::NiPointer< CombatProjectileAimController >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiAdditionalGeometryData >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiAVObjectPalette >", "classRE_1_1NiPointer.html", null ],
-    [ "RE::NiPointer< NiDirectionalLight >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiNode >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiStringPalette >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiTextKeyExtraData >", "classRE_1_1NiPointer.html", null ],
@@ -5289,6 +5292,7 @@ var hierarchy =
     [ "RE::NiPointer< RE::NiColorInterpolator >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiControllerManager >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiControllerSequence >", "classRE_1_1NiPointer.html", null ],
+    [ "RE::NiPointer< RE::NiDirectionalLight >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiFloatData >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiFloatInterpolator >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiGeometryData >", "classRE_1_1NiPointer.html", null ],
@@ -5322,6 +5326,7 @@ var hierarchy =
     [ "RE::NiQuaternion", "classRE_1_1NiQuaternion.html", null ],
     [ "RE::NiRect< T >", "classRE_1_1NiRect.html", null ],
     [ "RE::NiRect< float >", "classRE_1_1NiRect.html", null ],
+    [ "RE::NiRect< std::uint32_t >", "classRE_1_1NiRect.html", null ],
     [ "RE::NiRefObject", "classRE_1_1NiRefObject.html", [
       [ "RE::ActorKnowledge", "classRE_1_1ActorKnowledge.html", null ],
       [ "RE::Archive", "classRE_1_1Archive.html", null ],
@@ -5335,7 +5340,10 @@ var hierarchy =
         [ "RE::TESObjectREFR", "classRE_1_1TESObjectREFR.html", null ]
       ] ],
       [ "RE::BSLight", "classRE_1_1BSLight.html", [
-        [ "RE::BSShadowLight", "classRE_1_1BSShadowLight.html", null ]
+        [ "RE::BSShadowLight", "classRE_1_1BSShadowLight.html", [
+          [ "RE::BSShadowFrustumLight", "classRE_1_1BSShadowFrustumLight.html", null ],
+          [ "RE::BSShadowParabolicLight", "classRE_1_1BSShadowParabolicLight.html", null ]
+        ] ]
       ] ],
       [ "RE::BSParticleShaderEmitter", "classRE_1_1BSParticleShaderEmitter.html", [
         [ "RE::BSParticleShaderCubeEmitter", "classRE_1_1BSParticleShaderCubeEmitter.html", [
@@ -5472,6 +5480,7 @@ var hierarchy =
               ] ]
             ] ],
             [ "RE::NiLight", "classRE_1_1NiLight.html", [
+              [ "RE::NiDirectionalLight", "classRE_1_1NiDirectionalLight.html", null ],
               [ "RE::NiPointLight", "classRE_1_1NiPointLight.html", null ]
             ] ],
             [ "RE::NiNode", "classRE_1_1NiNode.html", [
@@ -5489,6 +5498,7 @@ var hierarchy =
                 [ "RE::SceneGraph", "classRE_1_1SceneGraph.html", null ]
               ] ],
               [ "RE::NiBillboardNode", "classRE_1_1NiBillboardNode.html", null ],
+              [ "RE::NiSwitchNode", "classRE_1_1NiSwitchNode.html", null ],
               [ "RE::ShadowSceneNode", "classRE_1_1ShadowSceneNode.html", null ]
             ] ]
           ] ],
@@ -5583,6 +5593,7 @@ var hierarchy =
       [ "RE::NiTPrimitiveArray< std::int32_t >", "classRE_1_1NiTPrimitiveArray.html", null ],
       [ "RE::NiTPrimitiveArray< bool >", "classRE_1_1NiTPrimitiveArray.html", null ],
       [ "RE::NiTPrimitiveArray< BSGraphics::TextureFilterMode >", "classRE_1_1NiTPrimitiveArray.html", null ],
+      [ "RE::NiTPrimitiveArray< std::uint32_t >", "classRE_1_1NiTPrimitiveArray.html", null ],
       [ "RE::NiTPrimitiveArray< RE::TESObjectCELL * >", "classRE_1_1NiTPrimitiveArray.html", null ],
       [ "RE::NiTPrimitiveArray< RE::BGSAddonNode * >", "classRE_1_1NiTPrimitiveArray.html", null ]
     ] ],
@@ -5600,6 +5611,7 @@ var hierarchy =
     [ "RE::NiTArray< RE::NiPointer< RE::NiTexture >, NiTNewInterface< RE::NiPointer< RE::NiTexture > > >", "classRE_1_1NiTArray.html", null ],
     [ "RE::NiTArray< RE::TESObjectCELL *, NiTMallocInterface< RE::TESObjectCELL * > >", "classRE_1_1NiTArray.html", null ],
     [ "RE::NiTArray< std::int32_t, NiTMallocInterface< std::int32_t > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< std::uint32_t, NiTMallocInterface< std::uint32_t > >", "classRE_1_1NiTArray.html", null ],
     [ "RE::NiTArray< T, NiTMallocInterface< T > >", "classRE_1_1NiTArray.html", [
       [ "RE::NiTPrimitiveArray< T >", "classRE_1_1NiTPrimitiveArray.html", null ]
     ] ],
@@ -5630,20 +5642,35 @@ var hierarchy =
         [ "RE::NiTList< T >", "classRE_1_1NiTList.html", null ]
       ] ],
       [ "RE::NiTPointerListBase< NiTPointerAllocator< std::uintptr_t >, T >", "classRE_1_1NiTPointerListBase.html", [
-        [ "RE::NiTPointerList< T >", "classRE_1_1NiTPointerList.html", null ]
+        [ "RE::NiTPointerList< T >", "classRE_1_1NiTPointerList.html", [
+          [ "RE::BSLight::NodeListT< RE::NiPointer< RE::BSTriShape > >", "classRE_1_1BSLight_1_1NodeListT.html", null ],
+          [ "RE::BSLight::NodeListT< T >", "classRE_1_1BSLight_1_1NodeListT.html", null ]
+        ] ]
       ] ],
+      [ "RE::NiTPointerListBase< NiTPointerAllocator< std::uintptr_t >, RE::NiPointer< RE::BSTriShape > >", "classRE_1_1NiTPointerListBase.html", null ],
+      [ "RE::NiTPointerListBase< NiTPointerAllocator< std::uintptr_t >, RE::BSOcclusionShape >", "classRE_1_1NiTPointerListBase.html", null ],
+      [ "RE::NiTPointerListBase< NiTPointerAllocator< std::uintptr_t >, RE::BSPortal >", "classRE_1_1NiTPointerListBase.html", null ],
       [ "RE::NiTPointerListBase< NiTPointerAllocator< std::uintptr_t >, RE::NiPointer< RE::NiPSysModifier > >", "classRE_1_1NiTPointerListBase.html", null ],
       [ "RE::NiTPointerListBase< NiTDefaultAllocator< RE::TESForm * >, RE::TESForm * >", "classRE_1_1NiTPointerListBase.html", null ],
       [ "RE::NiTPointerListBase< Allocator, T >", "classRE_1_1NiTPointerListBase.html", [
         [ "RE::NiTList< RE::TESForm * >", "classRE_1_1NiTList.html", null ],
+        [ "RE::NiTPointerList< RE::NiPointer< RE::BSTriShape > >", "classRE_1_1NiTPointerList.html", null ],
+        [ "RE::NiTPointerList< RE::BSOcclusionShape >", "classRE_1_1NiTPointerList.html", null ],
+        [ "RE::NiTPointerList< RE::BSPortal >", "classRE_1_1NiTPointerList.html", null ],
         [ "RE::NiTPointerList< RE::NiPointer< RE::NiPSysModifier > >", "classRE_1_1NiTPointerList.html", null ]
       ] ]
     ] ],
     [ "RE::NiTListBase< NiTDefaultAllocator< RE::TESForm * >, RE::TESForm * >", "classRE_1_1NiTListBase.html", null ],
     [ "RE::NiTListBase< NiTDefaultAllocator< T >, T >", "classRE_1_1NiTListBase.html", null ],
+    [ "RE::NiTListBase< NiTPointerAllocator< std::uintptr_t >, RE::BSOcclusionShape >", "classRE_1_1NiTListBase.html", null ],
+    [ "RE::NiTListBase< NiTPointerAllocator< std::uintptr_t >, RE::BSPortal >", "classRE_1_1NiTListBase.html", null ],
+    [ "RE::NiTListBase< NiTPointerAllocator< std::uintptr_t >, RE::NiPointer< RE::BSTriShape > >", "classRE_1_1NiTListBase.html", null ],
     [ "RE::NiTListBase< NiTPointerAllocator< std::uintptr_t >, RE::NiPointer< RE::NiPSysModifier > >", "classRE_1_1NiTListBase.html", null ],
     [ "RE::NiTListBase< NiTPointerAllocator< std::uintptr_t >, T >", "classRE_1_1NiTListBase.html", null ],
     [ "RE::NiTListItem< T >", "classRE_1_1NiTListItem.html", null ],
+    [ "RE::NiTListItem< RE::BSOcclusionShape >", "classRE_1_1NiTListItem.html", null ],
+    [ "RE::NiTListItem< RE::BSPortal >", "classRE_1_1NiTListItem.html", null ],
+    [ "RE::NiTListItem< RE::NiPointer< RE::BSTriShape > >", "classRE_1_1NiTListItem.html", null ],
     [ "RE::NiTListItem< RE::NiPointer< RE::NiPSysModifier > >", "classRE_1_1NiTListItem.html", null ],
     [ "RE::NiTListItem< RE::TESForm * >", "classRE_1_1NiTListItem.html", null ],
     [ "RE::NiTMallocInterface< T >", "classRE_1_1NiTMallocInterface.html", null ],
@@ -6136,7 +6163,7 @@ var hierarchy =
     [ "RE::SEXES", "structRE_1_1SEXES.html", null ],
     [ "RE::TESBipedModelForm::Sexes", "structRE_1_1TESBipedModelForm_1_1Sexes.html", null ],
     [ "RE::BSImagespaceShader::ShaderMacro", "structRE_1_1BSImagespaceShader_1_1ShaderMacro.html", null ],
-    [ "RE::BSLight::ShapeData", "structRE_1_1BSLight_1_1ShapeData.html", null ],
+    [ "RE::BSShadowLight::ShadowMapData", "structRE_1_1BSShadowLight_1_1ShadowMapData.html", null ],
     [ "RE::hkpShape::ShapeFuncs", "structRE_1_1hkpShape_1_1ShapeFuncs.html", null ],
     [ "RE::hkpShape::ShapeFuncs2", "structRE_1_1hkpShape_1_1ShapeFuncs2.html", null ],
     [ "RE::TESWorldSpace::ShortPoint", "structRE_1_1TESWorldSpace_1_1ShortPoint.html", null ],
@@ -6221,6 +6248,9 @@ var hierarchy =
     [ "RE::BSResource::StreamBase", "classRE_1_1BSResource_1_1StreamBase.html", [
       [ "RE::BSResource::AsyncStream", "classRE_1_1BSResource_1_1AsyncStream.html", null ],
       [ "RE::BSResource::Stream", "classRE_1_1BSResource_1_1Stream.html", [
+        [ "RE::BSResource::ArchiveStream", "classRE_1_1BSResource_1_1ArchiveStream.html", [
+          [ "RE::BSResource::CompressedArchiveStream", "classRE_1_1BSResource_1_1CompressedArchiveStream.html", null ]
+        ] ],
         [ "RE::BSResource::DevNull::NullStream", "structRE_1_1BSResource_1_1DevNull_1_1NullStream.html", null ],
         [ "RE::BSResource::LooseFileStream", "classRE_1_1BSResource_1_1LooseFileStream.html", null ]
       ] ]

@@ -38,6 +38,7 @@ var dir_1654db177780a74a81f8211f4e03321b =
     [ "AnimationFileManagerSingleton.h", "AnimationFileManagerSingleton_8h.html", "AnimationFileManagerSingleton_8h" ],
     [ "AnimationObjects.h", "AnimationObjects_8h.html", "AnimationObjects_8h" ],
     [ "Archive.h", "Archive_8h.html", "Archive_8h" ],
+    [ "ArchiveStream.h", "ArchiveStream_8h.html", "ArchiveStream_8h" ],
     [ "ArmorRatingVisitor.h", "ArmorRatingVisitor_8h.html", "ArmorRatingVisitor_8h" ],
     [ "ArmorRatingVisitorBase.h", "ArmorRatingVisitorBase_8h.html", "ArmorRatingVisitorBase_8h" ],
     [ "Array.h", "Array_8h.html", "Array_8h" ],

@@ -116,6 +116,11 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:afbe267497b45abb1d35e52ffbc8c2f73" id="r_afbe267497b45abb1d35e52ffbc8c2f73"><td class="memTemplParams" colspan="2">template&lt;class SinkEvent &gt; </td></tr>
 <tr class="memitem:afbe267497b45abb1d35e52ffbc8c2f73"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classRE_1_1BSTEventSource.html#afbe267497b45abb1d35e52ffbc8c2f73">AddEventSink</a> (<a class="el" href="classRE_1_1BSTEventSink.html">BSTEventSink</a>&lt; SinkEvent &gt; *a_sink)</td></tr>
 <tr class="separator:afbe267497b45abb1d35e52ffbc8c2f73"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d1cef271c23e5d37f5a2793eb2a21c2" id="r_a3d1cef271c23e5d37f5a2793eb2a21c2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1BSTEventSource.html#a3d1cef271c23e5d37f5a2793eb2a21c2">PrependEventSink</a> (<a class="el" href="classRE_1_1BSTEventSource.html#a41e6c162dc840770540604447909030a">Sink</a> *a_eventSink)</td></tr>
+<tr class="separator:a3d1cef271c23e5d37f5a2793eb2a21c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2370f1d6f93a1480d099878124ac4ad4" id="r_a2370f1d6f93a1480d099878124ac4ad4"><td class="memTemplParams" colspan="2">template&lt;class SinkEvent &gt; </td></tr>
+<tr class="memitem:a2370f1d6f93a1480d099878124ac4ad4"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classRE_1_1BSTEventSource.html#a2370f1d6f93a1480d099878124ac4ad4">PrependEventSink</a> (<a class="el" href="classRE_1_1BSTEventSink.html">BSTEventSink</a>&lt; SinkEvent &gt; *a_sink)</td></tr>
+<tr class="separator:a2370f1d6f93a1480d099878124ac4ad4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a61d0ef3499b74b5cb3393782e19bb7f0" id="r_a61d0ef3499b74b5cb3393782e19bb7f0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1BSTEventSource.html#a61d0ef3499b74b5cb3393782e19bb7f0">RemoveEventSink</a> (<a class="el" href="classRE_1_1BSTEventSource.html#a41e6c162dc840770540604447909030a">Sink</a> *a_eventSink)</td></tr>
 <tr class="separator:a61d0ef3499b74b5cb3393782e19bb7f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3da0359933a3cbbd94c5e240db88716d" id="r_a3da0359933a3cbbd94c5e240db88716d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classRE_1_1BSTEventSource.html#a3da0359933a3cbbd94c5e240db88716d">SendEvent</a> (const Event *a_event)</td></tr>
@@ -271,6 +276,68 @@ template&lt;class Event &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2370f1d6f93a1480d099878124ac4ad4" name="a2370f1d6f93a1480d099878124ac4ad4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2370f1d6f93a1480d099878124ac4ad4">&#9670;&#160;</a></span>PrependEventSink() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Event &gt; </div>
+<div class="memtemplate">
+template&lt;class SinkEvent &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="classRE_1_1BSTEventSource.html">RE::BSTEventSource</a>&lt; Event &gt;::PrependEventSink </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classRE_1_1BSTEventSink.html">BSTEventSink</a>&lt; SinkEvent &gt; *&#160;</td>
+          <td class="paramname"><em>a_sink</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3d1cef271c23e5d37f5a2793eb2a21c2" name="a3d1cef271c23e5d37f5a2793eb2a21c2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3d1cef271c23e5d37f5a2793eb2a21c2">&#9670;&#160;</a></span>PrependEventSink() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class Event &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="classRE_1_1BSTEventSource.html">RE::BSTEventSource</a>&lt; Event &gt;::PrependEventSink </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classRE_1_1BSTEventSource.html#a41e6c162dc840770540604447909030a">Sink</a> *&#160;</td>
+          <td class="paramname"><em>a_eventSink</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Adds an event sink to the front of sinks list.</p>
+<p>When there is an ongoing notification, sinks are prepended to a pending list. Consider the following case: Add(A), Add(B), notifying=true, Add(C), Prepend(D), Prepend(E), notifying = false Sinks: A, B Pending: E, D, C Result: A, B, E, D, C</p>
+<p>However without notifying the same chain of calls will look like this: Sinks: E, D, A, B, C</p>
+<p>The relative order of C, D, and E is guaranteed in both cases, but, previous sinks may appear both before and after the new sinks. </p>
 
 </div>
 </div>

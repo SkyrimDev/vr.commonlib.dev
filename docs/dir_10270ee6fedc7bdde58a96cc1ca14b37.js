@@ -49,6 +49,7 @@ var dir_10270ee6fedc7bdde58a96cc1ca14b37 =
     [ "CommonTypeTraits.h", "CommonTypeTraits_8h.html", "CommonTypeTraits_8h" ],
     [ "CompactingStore.h", "CompactingStore_8h.html", "CompactingStore_8h" ],
     [ "CompiledScriptLoader.h", "CompiledScriptLoader_8h.html", "CompiledScriptLoader_8h" ],
+    [ "CompressedArchiveStream.h", "CompressedArchiveStream_8h.html", "CompressedArchiveStream_8h" ],
     [ "ConcreteFormFactory.h", "ConcreteFormFactory_8h.html", "ConcreteFormFactory_8h" ],
     [ "ConcreteObjectFormFactory.h", "ConcreteObjectFormFactory_8h.html", "ConcreteObjectFormFactory_8h" ],
     [ "ConcussionEffect.h", "ConcussionEffect_8h.html", "ConcussionEffect_8h" ],

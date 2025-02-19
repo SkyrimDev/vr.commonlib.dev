@@ -2,11 +2,13 @@ var classRE_1_1TESDataHandler =
 [
     [ "AddFormToDataHandler", "classRE_1_1TESDataHandler.html#a49e0c1b55ac0875f4aaf6382a87be5e2", null ],
     [ "CreateReferenceAtLocation", "classRE_1_1TESDataHandler.html#aebe7d1fff297412cdeb32e88543fdb73", null ],
+    [ "GetExtCellDataFromFileByEditorID", "classRE_1_1TESDataHandler.html#a396e01a455951ad4a0ec7c3ac9a5023b", null ],
     [ "GetFormArray", "classRE_1_1TESDataHandler.html#a84684523dedf7457e00a5df5b828f6e6", null ],
     [ "GetFormArray", "classRE_1_1TESDataHandler.html#ab610ba966e0c271e617e6e426d655ea3", null ],
     [ "GetLoadedLightModIndex", "classRE_1_1TESDataHandler.html#a9a9ef882737f11e33461d7b62ab3fd10", null ],
     [ "GetLoadedModIndex", "classRE_1_1TESDataHandler.html#ab971424ef69f2d2ce8c92a38156fb75f", null ],
     [ "GetModIndex", "classRE_1_1TESDataHandler.html#a49c0f02496b575d2659bbf5606a0d2b6", null ],
+    [ "GetNextID", "classRE_1_1TESDataHandler.html#a57def91afd86ff6224e0ee6f1ee48e04", null ],
     [ "GetSingleton", "classRE_1_1TESDataHandler.html#a17b615b098f98de567ce805a4672750e", null ],
     [ "IsGeneratedID", "classRE_1_1TESDataHandler.html#af434a3acba4891dd4c397b19fc0d921e", null ],
     [ "LoadScripts", "classRE_1_1TESDataHandler.html#aa7ea3c6c236a50756077fa03d96d0369", null ],
