@@ -393,7 +393,7 @@ var classRE_1_1Actor =
     [ "UnequipItem", "classRE_1_1Actor.html#a46624e0fcca2265c9d56550fd7e507e6", null ],
     [ "Unk_105", "classRE_1_1Actor.html#a764194e82f565fc17c0965612d1db591", null ],
     [ "Unk_106", "classRE_1_1Actor.html#a1911257575d800ddab5808a6894a842a", null ],
-    [ "Unk_117", "classRE_1_1Actor.html#a497cee0b3d1b26bf935f3b823ad1f2ec", null ],
+    [ "Unk_117", "classRE_1_1Actor.html#ac2af32093c77fc88ff668bcc0b3e955c", null ],
     [ "Unk_123", "classRE_1_1Actor.html#a4cbdab8af2474f9fbfda01005927cbf3", null ],
     [ "Unk_67", "classRE_1_1Actor.html#a4fc7050e2eeaf1217c63e606d0d0c452", null ],
     [ "Unk_68", "classRE_1_1Actor.html#a700c1f9f7a441ae0e8bbe0b6ce3464ff", null ],
